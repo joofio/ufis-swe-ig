@@ -1,4 +1,4 @@
-Instance: DiklofenakApofri232mgggel-SE-PLC-AdminProductDef
+Instance: DiklofenakApofri232mgggel-SE-PLC-APD
 InstanceOf: PPLAdministrableProductDefinition
 * status = #active
 * formOf = Reference(DiklofenakApofri232mgggel-SE-PLC-MedicinalProductDef)

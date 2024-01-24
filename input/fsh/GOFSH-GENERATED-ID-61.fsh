@@ -8,7 +8,7 @@ Usage: #example
 * entry[+].resource = DiklofenakApofri232mgggel-SE-PLC-RegAutho
 
 
-* entry[+].resource = DiklofenakApofri232mgggel-SE-PLC-AdminProductDef
+* entry[+].resource = DiklofenakApofri232mgggel-SE-PLC-APD
 
 
 * entry[+].resource = DiklofenakApofri232mgggel-SE-PLC-PackageProductDef01

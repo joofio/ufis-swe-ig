@@ -1,4 +1,4 @@
-Instance: Rectogesic4mggrektalsalva-SE-PLC-AdminProductDef
+Instance: Rectogesic4mggrektalsalva-SE-PLC-APD
 InstanceOf: PPLAdministrableProductDefinition
 * status = #active
 * formOf = Reference(Rectogesic4mggrektalsalva-SE-PLC-MedicinalProductDef)

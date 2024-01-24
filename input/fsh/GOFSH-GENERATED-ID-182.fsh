@@ -8,7 +8,7 @@ Usage: #example
 * entry[+].resource = Rectogesic4mggrektalsalva-SE-PLC-RegAutho
 
 
-* entry[+].resource = Rectogesic4mggrektalsalva-SE-PLC-AdminProductDef
+* entry[+].resource = Rectogesic4mggrektalsalva-SE-PLC-APD
 
 
 * entry[+].resource = Rectogesic4mggrektalsalva-SE-PLC-PackageProductDef

@@ -8,7 +8,7 @@ Usage: #example
 * entry[+].resource = Sandimmun50mgmlkoncentrat-SE-PLC-RegAutho
 
 
-* entry[+].resource = Sandimmun50mgmlkoncentrat-SE-PLC-AdminProductDef
+* entry[+].resource = Sandimmun50mgmlkoncentrat-SE-PLC-APD
 
 
 * entry[+].resource = Sandimmun50mgmlkoncentrat-SE-PLC-PackageProductDef

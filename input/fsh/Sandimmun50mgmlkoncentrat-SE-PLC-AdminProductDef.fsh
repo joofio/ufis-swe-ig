@@ -1,4 +1,4 @@
-Instance: Sandimmun50mgmlkoncentrat-SE-PLC-AdminProductDef
+Instance: Sandimmun50mgmlkoncentrat-SE-PLC-APD
 InstanceOf: PPLAdministrableProductDefinition
 * status = #active
 * formOf = Reference(Sandimmun50mgmlkoncentrat-SE-PLC-MedicinalProductDef)

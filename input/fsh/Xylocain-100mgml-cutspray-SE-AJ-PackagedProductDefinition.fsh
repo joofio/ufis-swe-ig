@@ -4,7 +4,7 @@ InstanceOf: PPLPackagedProductDefinition
 * containedItemQuantity = 1 http://spor.ema.europa.eu/v1/lists/200000000014#200000002158 "vial"
 * packageFor = Reference(Xylocain-100mgml-cutspray-SE-AJ-MPD)
 * description = "Flaska med pumpspray, 50 ml"
-* marketingStatus.country = $100000000002#100000000535 "'Kingdom of Sweden"
+* marketingStatus.country = $100000000002#100000000535 "Kingdom of Sweden"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 //DUMMY
 * packaging.type.coding.system = "https://spor.ema.europa.eu/v1/lists/100000073346"

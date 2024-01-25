@@ -4,7 +4,7 @@ InstanceOf: PPLPackagedProductDefinition
 * containedItemQuantity = 12 http://spor.ema.europa.eu/v1/lists/200000000014#200000002143 "Sachet"
 * packageFor = Reference(Panodil500mgoralsolutionsachet-SE-PLC-MPD)
 * description = "Dospåsar, 12 st"
-* marketingStatus.country = $100000000002#100000000535 "'Kingdom of Sweden"
+* marketingStatus.country = $100000000002#100000000535 "Kingdom of Sweden"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 //DUMMY
 * packaging.type.coding.system = "https://spor.ema.europa.eu/v1/lists/100000073346"

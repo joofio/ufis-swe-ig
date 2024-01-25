@@ -4,7 +4,7 @@ InstanceOf: PPLRegulatedAuthorization
 * identifier.value = "52810"
 * subject = Reference(BuprenorSTADA-10perh-Transderm-SE-BS-MPD)
 * type = $220000000060#220000000061 "Marketing Authorisation"
-* region = $100000000002#100000000535 "'Kingdom of Sweden"
+* region = $100000000002#100000000535 "Kingdom of Sweden"
 * status = $100000072049#100000072099 "Valid"
 * statusDate = "2016-06-30"
 * case.type = $authorisationDateType#dateOfFirstAuthorisation "First Authorisation"

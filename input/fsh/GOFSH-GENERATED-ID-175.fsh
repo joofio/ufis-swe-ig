@@ -2,30 +2,30 @@ Instance: GOFSH-GENERATED-ID-175
 InstanceOf: Bundle
 Usage: #example
 * type = #transaction
-* entry[0].resource = Oxascand-5mg-Tablet-SE-IS-MedicinalProductDefinition
+* entry[0].resource = Oxascand-5mg-Tablet-SE-IS-MPD
 
-* entry[=].fullUrl = "MedicinalProductDefinition/Oxascand-5mg-Tablet-SE-IS-MedicinalProductDefinition"
-* entry[+].resource = Oxascand-5mg-Tablet-SE-IS-RegulatedAuthorization
+* entry[=].fullUrl = "MedicinalProductDefinition/Oxascand-5mg-Tablet-SE-IS-MPD"
+* entry[+].resource = Oxascand-5mg-Tablet-SE-IS-RA
 
-* entry[=].fullUrl = "RegulatedAuthorization/Oxascand-5mg-Tablet-SE-IS-RegulatedAuthorization"
-* entry[+].resource = Oxascand-5mg-Tablet-SE-IS-AdministrableProductDefinition
+* entry[=].fullUrl = "RegulatedAuthorization/Oxascand-5mg-Tablet-SE-IS-RA"
+* entry[+].resource = Oxascand-5mg-Tablet-SE-IS-APD
 
-* entry[=].fullUrl = "AdministrableProductDefinition/Oxascand-5mg-Tablet-SE-IS-AdministrableProductDefinition"
-* entry[+].resource = Oxascand-5mg-Tablet-SE-IS-PackagedProductDefinition01
+* entry[=].fullUrl = "AdministrableProductDefinition/Oxascand-5mg-Tablet-SE-IS-APD"
+* entry[+].resource = Oxascand-5mg-Tablet-SE-IS-PPD01
 
-* entry[=].fullUrl = "PackagedProductDefinition/Oxascand-5mg-Tablet-SE-IS-PackagedProductDefinition01"
-* entry[+].resource = Oxascand-5mg-Tablet-SE-IS-PackagedProductDefinition02
+* entry[=].fullUrl = "PackagedProductDefinition/Oxascand-5mg-Tablet-SE-IS-PPD01"
+* entry[+].resource = Oxascand-5mg-Tablet-SE-IS-PPD02
 
-* entry[=].fullUrl = "PackagedProductDefinition/Oxascand-5mg-Tablet-SE-IS-PackagedProductDefinition02"
-* entry[+].resource = Oxascand-5mg-Tablet-SE-IS-PackagedProductDefinition03
+* entry[=].fullUrl = "PackagedProductDefinition/Oxascand-5mg-Tablet-SE-IS-PPD02"
+* entry[+].resource = Oxascand-5mg-Tablet-SE-IS-PPD03
 
-* entry[=].fullUrl = "PackagedProductDefinition/Oxascand-5mg-Tablet-SE-IS-PackagedProductDefinition03"
-* entry[+].resource = Oxascand-5mg-Tablet-SE-IS-PackagedProductDefinition04
+* entry[=].fullUrl = "PackagedProductDefinition/Oxascand-5mg-Tablet-SE-IS-PPD03"
+* entry[+].resource = Oxascand-5mg-Tablet-SE-IS-PPD04
 
-* entry[=].fullUrl = "PackagedProductDefinition/Oxascand-5mg-Tablet-SE-IS-PackagedProductDefinition04"
-* entry[+].resource = Oxascand-5mg-Tablet-SE-IS-ManufacturedItemDefinition
+* entry[=].fullUrl = "PackagedProductDefinition/Oxascand-5mg-Tablet-SE-IS-PPD04"
+* entry[+].resource = Oxascand-5mg-Tablet-SE-IS-MID
 
-* entry[=].fullUrl = "ManufacturedItemDefinition/Oxascand-5mg-Tablet-SE-IS-ManufacturedItemDefinition"
+* entry[=].fullUrl = "ManufacturedItemDefinition/Oxascand-5mg-Tablet-SE-IS-MID"
 * entry[+].resource = Oxascand-5mg-Tablet-SE-IS-Ingredient01
 
 * entry[=].fullUrl = "Ingredient/Oxascand-5mg-Tablet-SE-IS-Ingredient01"

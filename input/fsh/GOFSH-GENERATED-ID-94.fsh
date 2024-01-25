@@ -2,9 +2,9 @@ Instance: GOFSH-GENERATED-ID-94
 InstanceOf: Bundle
 Usage: #example
 * type = #transaction
-* entry[0].resource = HydrokortisonOrifarm20mgTablett-SE-PLC-MedicinalProductDef
+* entry[0].resource = HydrokortisonOrifarm20mgTablett-SE-PLC-MPD
 
-* entry[=].fullUrl = "MedicinalProductDefinition/HydrokortisonOrifarm20mgTablett-SE-PLC-MedicinalProductDef"
+* entry[=].fullUrl = "MedicinalProductDefinition/HydrokortisonOrifarm20mgTablett-SE-PLC-MPD"
 * entry[+].resource = HydrokortisonOrifarm20mgTablett-SE-PLC-RegAutho
 
 * entry[=].fullUrl = "RegulatedAuthorization/HydrokortisonOrifarm20mgTablett-SE-PLC-RegAutho"
@@ -14,9 +14,9 @@ Usage: #example
 * entry[+].resource = HydrokortisonOrifarm20mgTablett-SE-PLC-PackageProductDef
 
 * entry[=].fullUrl = "PackagedProductDefinition/HydrokortisonOrifarm20mgTablett-SE-PLC-PackageProductDef"
-* entry[+].resource = HydrokortisonOrifarm20mgTablett-SE-PLC-ManufacturedItemDef
+* entry[+].resource = HydrokortisonOrifarm20mgTablett-SE-PLC-MID
 
-* entry[=].fullUrl = "ManufacturedItemDefinition/HydrokortisonOrifarm20mgTablett-SE-PLC-ManufacturedItemDef"
+* entry[=].fullUrl = "ManufacturedItemDefinition/HydrokortisonOrifarm20mgTablett-SE-PLC-MID"
 * entry[+].resource = HydrokortisonOrifarm20mgTablett-SE-PLC-Ingredient01
 
 * entry[=].fullUrl = "Ingredient/HydrokortisonOrifarm20mgTablett-SE-PLC-Ingredient01"

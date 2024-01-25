@@ -2,9 +2,9 @@ Instance: GOFSH-GENERATED-ID-63
 InstanceOf: Bundle
 Usage: #example
 * type = #transaction
-* entry[0].resource = DiklofenakTApofri50mgFilmtablet-SE-PLC-MedicinalProductDef
+* entry[0].resource = DiklofenakTApofri50mgFilmtablet-SE-PLC-MPD
 
-* entry[=].fullUrl = "MedicinalProductDefinition/DiklofenakTApofri50mgFilmtablet-SE-PLC-MedicinalProductDef"
+* entry[=].fullUrl = "MedicinalProductDefinition/DiklofenakTApofri50mgFilmtablet-SE-PLC-MPD"
 * entry[+].resource = DiklofenakTApofri50mgFilmtablet-SE-PLC-RegAutho
 
 * entry[=].fullUrl = "RegulatedAuthorization/DiklofenakTApofri50mgFilmtablet-SE-PLC-RegAutho"
@@ -17,9 +17,9 @@ Usage: #example
 * entry[+].resource = DiklofenakTApofri50mgFilmtablet-SE-PLC-PackageProductDef02
 
 * entry[=].fullUrl = "PackagedProductDefinition/DiklofenakTApofri50mgFilmtablet-SE-PLC-PackageProductDef02"
-* entry[+].resource = DiklofenakTApofri50mgFilmtablet-SE-PLC-ManufacturedItemDef
+* entry[+].resource = DiklofenakTApofri50mgFilmtablet-SE-PLC-MID
 
-* entry[=].fullUrl = "ManufacturedItemDefinition/DiklofenakTApofri50mgFilmtablet-SE-PLC-ManufacturedItemDef"
+* entry[=].fullUrl = "ManufacturedItemDefinition/DiklofenakTApofri50mgFilmtablet-SE-PLC-MID"
 * entry[+].resource = DiklofenakTApofri50mgFilmtablet-SE-PLC-Ingredient
 
 * entry[=].fullUrl = "Ingredient/DiklofenakTApofri50mgFilmtablet-SE-PLC-Ingredient"

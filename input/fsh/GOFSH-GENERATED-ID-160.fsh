@@ -2,9 +2,9 @@ Instance: GOFSH-GENERATED-ID-160
 InstanceOf: Bundle
 Usage: #example
 * type = #transaction
-* entry[0].resource = NitroglycerinAbicurinfu-SE-PLC-MedicinalProductDef
+* entry[0].resource = NitroglycerinAbicurinfu-SE-PLC-MPD
 
-* entry[=].fullUrl = "MedicinalProductDefinition/NitroglycerinAbicurinfu-SE-PLC-MedicinalProductDef"
+* entry[=].fullUrl = "MedicinalProductDefinition/NitroglycerinAbicurinfu-SE-PLC-MPD"
 * entry[+].resource = NitroglycerinAbicurinfu-SE-PLC-RegAutho
 
 * entry[=].fullUrl = "RegulatedAuthorization/NitroglycerinAbicurinfu-SE-PLC-RegAutho"
@@ -14,9 +14,9 @@ Usage: #example
 * entry[+].resource = NitroglycerinAbicurinfu-SE-PLC-PackageProductDef
 
 * entry[=].fullUrl = "PackagedProductDefinition/NitroglycerinAbicurinfu-SE-PLC-PackageProductDef"
-* entry[+].resource = NitroglycerinAbicurinfu-SE-PLC-ManufacturedItemDef
+* entry[+].resource = NitroglycerinAbicurinfu-SE-PLC-MID
 
-* entry[=].fullUrl = "ManufacturedItemDefinition/NitroglycerinAbicurinfu-SE-PLC-ManufacturedItemDef"
+* entry[=].fullUrl = "ManufacturedItemDefinition/NitroglycerinAbicurinfu-SE-PLC-MID"
 * entry[+].resource = NitroglycerinAbicurinfu-SE-PLC-Ingredient
 
 * entry[=].fullUrl = "Ingredient/NitroglycerinAbicurinfu-SE-PLC-Ingredient"

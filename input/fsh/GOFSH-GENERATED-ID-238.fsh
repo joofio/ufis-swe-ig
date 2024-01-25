@@ -2,24 +2,24 @@ Instance: GOFSH-GENERATED-ID-238
 InstanceOf: Bundle
 Usage: #example
 * type = #transaction
-* entry[0].resource = Xylocain-Dental-Adrenalin-SE-AJ-MedicinalProductDefinition
+* entry[0].resource = Xylocain-Dental-Adrenalin-SE-AJ-MPD
 
-* entry[=].fullUrl = "MedicinalProductDefinition/Xylocain-Dental-Adrenalin-SE-AJ-MedicinalProductDefinition"
-* entry[+].resource = Xylocain-Dental-Adrenalin-SE-AJ-RegulatedAuthorization
+* entry[=].fullUrl = "MedicinalProductDefinition/Xylocain-Dental-Adrenalin-SE-AJ-MPD"
+* entry[+].resource = Xylocain-Dental-Adrenalin-SE-AJ-RA
 
-* entry[=].fullUrl = "RegulatedAuthorization/Xylocain-Dental-Adrenalin-SE-AJ-RegulatedAuthorization"
-* entry[+].resource = Xylocain-Dental-Adrenalin-SE-AJ-AdministrableProductDefinition
+* entry[=].fullUrl = "RegulatedAuthorization/Xylocain-Dental-Adrenalin-SE-AJ-RA"
+* entry[+].resource = Xylocain-Dental-Adrenalin-SE-AJ-APD
 
-* entry[=].fullUrl = "AdministrableProductDefinition/Xylocain-Dental-Adrenalin-SE-AJ-AdministrableProductDefinition"
-* entry[+].resource = Xylocain-Dental-Adrenalin-SE-AJ-PackagedProductDefinition01
+* entry[=].fullUrl = "AdministrableProductDefinition/Xylocain-Dental-Adrenalin-SE-AJ-APD"
+* entry[+].resource = Xylocain-Dental-Adrenalin-SE-AJ-PPD01
 
-* entry[=].fullUrl = "PackagedProductDefinition/Xylocain-Dental-Adrenalin-SE-AJ-PackagedProductDefinition01"
-* entry[+].resource = Xylocain-Dental-Adrenalin-SE-AJ-PackagedProductDefinition02
+* entry[=].fullUrl = "PackagedProductDefinition/Xylocain-Dental-Adrenalin-SE-AJ-PPD01"
+* entry[+].resource = Xylocain-Dental-Adrenalin-SE-AJ-PPD02
 
-* entry[=].fullUrl = "PackagedProductDefinition/Xylocain-Dental-Adrenalin-SE-AJ-PackagedProductDefinition02"
-* entry[+].resource = Xylocain-Dental-Adrenalin-SE-AJ-ManufacturedItemDefinition
+* entry[=].fullUrl = "PackagedProductDefinition/Xylocain-Dental-Adrenalin-SE-AJ-PPD02"
+* entry[+].resource = Xylocain-Dental-Adrenalin-SE-AJ-MID
 
-* entry[=].fullUrl = "ManufacturedItemDefinition/Xylocain-Dental-Adrenalin-SE-AJ-ManufacturedItemDefinition"
+* entry[=].fullUrl = "ManufacturedItemDefinition/Xylocain-Dental-Adrenalin-SE-AJ-MID"
 * entry[+].resource = Xylocain-Dental-Adrenalin-SE-AJ-Ingredient01
 
 * entry[=].fullUrl = "Ingredient/Xylocain-Dental-Adrenalin-SE-AJ-Ingredient01"

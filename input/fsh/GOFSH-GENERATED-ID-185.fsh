@@ -2,9 +2,9 @@ Instance: GOFSH-GENERATED-ID-185
 InstanceOf: Bundle
 Usage: #example
 * type = #transaction
-* entry[0].resource = SandimmunNeoral100mgmlorallos-SE-PLC-MedicinalProductDef
+* entry[0].resource = SandimmunNeoral100mgmlorallos-SE-PLC-MPD
 
-* entry[=].fullUrl = "MedicinalProductDefinition/SandimmunNeoral100mgmlorallos-SE-PLC-MedicinalProductDef"
+* entry[=].fullUrl = "MedicinalProductDefinition/SandimmunNeoral100mgmlorallos-SE-PLC-MPD"
 * entry[+].resource = SandimmunNeoral100mgmlorallos-SE-PLC-RegAutho
 
 * entry[=].fullUrl = "RegulatedAuthorization/SandimmunNeoral100mgmlorallos-SE-PLC-RegAutho"
@@ -14,9 +14,9 @@ Usage: #example
 * entry[+].resource = SandimmunNeoral100mgmlorallos-SE-PLC-PackageProductDef
 
 * entry[=].fullUrl = "PackagedProductDefinition/SandimmunNeoral100mgmlorallos-SE-PLC-PackageProductDef"
-* entry[+].resource = SandimmunNeoral100mgmlorallos-SE-PLC-ManufacturedItemDef
+* entry[+].resource = SandimmunNeoral100mgmlorallos-SE-PLC-MID
 
-* entry[=].fullUrl = "ManufacturedItemDefinition/SandimmunNeoral100mgmlorallos-SE-PLC-ManufacturedItemDef"
+* entry[=].fullUrl = "ManufacturedItemDefinition/SandimmunNeoral100mgmlorallos-SE-PLC-MID"
 * entry[+].resource = SandimmunNeoral100mgmlorallos-SE-PLC-Ingredient01
 
 * entry[=].fullUrl = "Ingredient/SandimmunNeoral100mgmlorallos-SE-PLC-Ingredient01"

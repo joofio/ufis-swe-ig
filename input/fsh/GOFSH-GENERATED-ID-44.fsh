@@ -2,27 +2,27 @@ Instance: GOFSH-GENERATED-ID-44
 InstanceOf: Bundle
 Usage: #example
 * type = #transaction
-* entry[0].resource = Citodon-500mg30mg-EffTablet-SE-IS-MedicinalProductDefinition
+* entry[0].resource = Citodon-500mg30mg-EffTablet-SE-IS-MPD
 
-* entry[=].fullUrl = "MedicinalProductDefinition/Citodon-500mg30mg-EffTablet-SE-IS-MedicinalProductDefinition"
-* entry[+].resource = Citodon-500mg30mg-EffTablet-SE-IS-RegulatedAuthorization
+* entry[=].fullUrl = "MedicinalProductDefinition/Citodon-500mg30mg-EffTablet-SE-IS-MPD"
+* entry[+].resource = Citodon-500mg30mg-EffTablet-SE-IS-RA
 
-* entry[=].fullUrl = "RegulatedAuthorization/Citodon-500mg30mg-EffTablet-SE-IS-RegulatedAuthorization"
-* entry[+].resource = Citodon-500mg30mg-EffTablet-SE-IS-AdministrableProductDefinition
+* entry[=].fullUrl = "RegulatedAuthorization/Citodon-500mg30mg-EffTablet-SE-IS-RA"
+* entry[+].resource = Citodon-500mg30mg-EffTablet-SE-IS-APD
 
-* entry[=].fullUrl = "AdministrableProductDefinition/Citodon-500mg30mg-EffTablet-SE-IS-AdministrableProductDefinition"
-* entry[+].resource = Citodon-500mg30mg-EffTablet-SE-IS-PackagedProductDefinition01
+* entry[=].fullUrl = "AdministrableProductDefinition/Citodon-500mg30mg-EffTablet-SE-IS-APD"
+* entry[+].resource = Citodon-500mg30mg-EffTablet-SE-IS-PPD01
 
-* entry[=].fullUrl = "PackagedProductDefinition/Citodon-500mg30mg-EffTablet-SE-IS-PackagedProductDefinition01"
-* entry[+].resource = Citodon-500mg30mg-EffTablet-SE-IS-PackagedProductDefinition02
+* entry[=].fullUrl = "PackagedProductDefinition/Citodon-500mg30mg-EffTablet-SE-IS-PPD01"
+* entry[+].resource = Citodon-500mg30mg-EffTablet-SE-IS-PPD02
 
-* entry[=].fullUrl = "PackagedProductDefinition/Citodon-500mg30mg-EffTablet-SE-IS-PackagedProductDefinition02"
-* entry[+].resource = Citodon-500mg30mg-EffTablet-SE-IS-PackagedProductDefinition03
+* entry[=].fullUrl = "PackagedProductDefinition/Citodon-500mg30mg-EffTablet-SE-IS-PPD02"
+* entry[+].resource = Citodon-500mg30mg-EffTablet-SE-IS-PPD03
 
-* entry[=].fullUrl = "PackagedProductDefinition/Citodon-500mg30mg-EffTablet-SE-IS-PackagedProductDefinition03"
-* entry[+].resource = Citodon-500mg30mg-EffTablet-SE-IS-ManufacturedItemDefinition
+* entry[=].fullUrl = "PackagedProductDefinition/Citodon-500mg30mg-EffTablet-SE-IS-PPD03"
+* entry[+].resource = Citodon-500mg30mg-EffTablet-SE-IS-MID
 
-* entry[=].fullUrl = "ManufacturedItemDefinition/Citodon-500mg30mg-EffTablet-SE-IS-ManufacturedItemDefinition"
+* entry[=].fullUrl = "ManufacturedItemDefinition/Citodon-500mg30mg-EffTablet-SE-IS-MID"
 * entry[+].resource = Citodon-500mg30mg-EffTablet-SE-IS-Ingredient01
 
 * entry[=].fullUrl = "Ingredient/Citodon-500mg30mg-EffTablet-SE-IS-Ingredient01"

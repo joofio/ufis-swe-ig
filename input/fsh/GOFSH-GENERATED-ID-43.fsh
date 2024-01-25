@@ -2,9 +2,9 @@ Instance: GOFSH-GENERATED-ID-43
 InstanceOf: Bundle
 Usage: #example
 * type = #transaction
-* entry[0].resource = CiklosporinIVAX25mgkapselmjuk-SE-PLC-MedicinalProductDef
+* entry[0].resource = CiklosporinIVAX25mgkapselmjuk-SE-PLC-MPD
 
-* entry[=].fullUrl = "MedicinalProductDefinition/CiklosporinIVAX25mgkapselmjuk-SE-PLC-MedicinalProductDef"
+* entry[=].fullUrl = "MedicinalProductDefinition/CiklosporinIVAX25mgkapselmjuk-SE-PLC-MPD"
 * entry[+].resource = CiklosporinIVAX25mgkapselmjuk-SE-PLC-RegAutho
 
 * entry[=].fullUrl = "RegulatedAuthorization/CiklosporinIVAX25mgkapselmjuk-SE-PLC-RegAutho"
@@ -14,9 +14,9 @@ Usage: #example
 * entry[+].resource = CiklosporinIVAX25mgkapselmjuk-SE-PLC-PackageProductDef
 
 * entry[=].fullUrl = "PackagedProductDefinition/CiklosporinIVAX25mgkapselmjuk-SE-PLC-PackageProductDef"
-* entry[+].resource = CiklosporinIVAX25mgkapselmjuk-SE-PLC-ManufacturedItemDef
+* entry[+].resource = CiklosporinIVAX25mgkapselmjuk-SE-PLC-MID
 
-* entry[=].fullUrl = "ManufacturedItemDefinition/CiklosporinIVAX25mgkapselmjuk-SE-PLC-ManufacturedItemDef"
+* entry[=].fullUrl = "ManufacturedItemDefinition/CiklosporinIVAX25mgkapselmjuk-SE-PLC-MID"
 * entry[+].resource = CiklosporinIVAX25mgkapselmjuk-SE-PLC-Ingredient
 
 * entry[=].fullUrl = "Ingredient/CiklosporinIVAX25mgkapselmjuk-SE-PLC-Ingredient"

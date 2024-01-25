@@ -2,9 +2,9 @@ Instance: GOFSH-GENERATED-ID-219
 InstanceOf: Bundle
 Usage: #example
 * type = #transaction
-* entry[0].resource = Tradolan50mgmlinjektionlosning-SE-PLC-MedicinalProductDef
+* entry[0].resource = Tradolan50mgmlinjektionlosning-SE-PLC-MPD
 
-* entry[=].fullUrl = "MedicinalProductDefinition/Tradolan50mgmlinjektionlosning-SE-PLC-MedicinalProductDef"
+* entry[=].fullUrl = "MedicinalProductDefinition/Tradolan50mgmlinjektionlosning-SE-PLC-MPD"
 * entry[+].resource = Tradolan50mgmlinjektionlosning-SE-PLC-RegAutho
 
 * entry[=].fullUrl = "RegulatedAuthorization/Tradolan50mgmlinjektionlosning-SE-PLC-RegAutho"
@@ -14,9 +14,9 @@ Usage: #example
 * entry[+].resource = Tradolan50mgmlinjektionlosning-SE-PLC-PackageProductDef
 
 * entry[=].fullUrl = "PackagedProductDefinition/Tradolan50mgmlinjektionlosning-SE-PLC-PackageProductDef"
-* entry[+].resource = Tradolan50mgmlinjektionlosning-SE-PLC-ManufacturedItemDef
+* entry[+].resource = Tradolan50mgmlinjektionlosning-SE-PLC-MID
 
-* entry[=].fullUrl = "ManufacturedItemDefinition/Tradolan50mgmlinjektionlosning-SE-PLC-ManufacturedItemDef"
+* entry[=].fullUrl = "ManufacturedItemDefinition/Tradolan50mgmlinjektionlosning-SE-PLC-MID"
 * entry[+].resource = Tradolan50mgmlinjektionlosning-SE-PLC-Ingredient01
 
 * entry[=].fullUrl = "Ingredient/Tradolan50mgmlinjektionlosning-SE-PLC-Ingredient01"

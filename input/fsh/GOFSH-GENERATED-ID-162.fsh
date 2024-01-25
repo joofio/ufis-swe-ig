@@ -2,9 +2,9 @@ Instance: GOFSH-GENERATED-ID-162
 InstanceOf: Bundle
 Usage: #example
 * type = #transaction
-* entry[0].resource = Nobligan100mgmloraladropparlos-SE-PLC-MedicinalProductDef
+* entry[0].resource = Nobligan100mgmloraladropparlos-SE-PLC-MPD
 
-* entry[=].fullUrl = "MedicinalProductDefinition/Nobligan100mgmloraladropparlos-SE-PLC-MedicinalProductDef"
+* entry[=].fullUrl = "MedicinalProductDefinition/Nobligan100mgmloraladropparlos-SE-PLC-MPD"
 * entry[+].resource = Nobligan100mgmloraladropparlos-SE-PLC-RegAutho
 
 * entry[=].fullUrl = "RegulatedAuthorization/Nobligan100mgmloraladropparlos-SE-PLC-RegAutho"
@@ -14,9 +14,9 @@ Usage: #example
 * entry[+].resource = Nobligan100mgmloraladropparlos-SE-PLC-PackageProductDef
 
 * entry[=].fullUrl = "PackagedProductDefinition/Nobligan100mgmloraladropparlos-SE-PLC-PackageProductDef"
-* entry[+].resource = Nobligan100mgmloraladropparlos-SE-PLC-ManufacturedItemDef
+* entry[+].resource = Nobligan100mgmloraladropparlos-SE-PLC-MID
 
-* entry[=].fullUrl = "ManufacturedItemDefinition/Nobligan100mgmloraladropparlos-SE-PLC-ManufacturedItemDef"
+* entry[=].fullUrl = "ManufacturedItemDefinition/Nobligan100mgmloraladropparlos-SE-PLC-MID"
 * entry[+].resource = Nobligan100mgmloraladropparlos-SE-PLC-Ingredient
 
 * entry[=].fullUrl = "Ingredient/Nobligan100mgmloraladropparlos-SE-PLC-Ingredient"

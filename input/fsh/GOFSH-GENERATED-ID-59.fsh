@@ -2,9 +2,9 @@ Instance: GOFSH-GENERATED-ID-59
 InstanceOf: Bundle
 Usage: #example
 * type = #transaction
-* entry[0].resource = Dicuno50mgFilmtablet-SE-PLC-MedicinalProductDef
+* entry[0].resource = Dicuno50mgFilmtablet-SE-PLC-MPD
 
-* entry[=].fullUrl = "MedicinalProductDefinition/Dicuno50mgFilmtablet-SE-PLC-MedicinalProductDef"
+* entry[=].fullUrl = "MedicinalProductDefinition/Dicuno50mgFilmtablet-SE-PLC-MPD"
 * entry[+].resource = Dicuno50mgFilmtablet-SE-PLC-RegAutho
 
 * entry[=].fullUrl = "RegulatedAuthorization/Dicuno50mgFilmtablet-SE-PLC-RegAutho"
@@ -17,9 +17,9 @@ Usage: #example
 * entry[+].resource = Dicuno50mgFilmtablet-SE-PLC-PackageProductDef02
 
 * entry[=].fullUrl = "PackagedProductDefinition/Dicuno50mgFilmtablet-SE-PLC-PackageProductDef02"
-* entry[+].resource = Dicuno50mgFilmtablet-SE-PLC-ManufacturedItemDef
+* entry[+].resource = Dicuno50mgFilmtablet-SE-PLC-MID
 
-* entry[=].fullUrl = "ManufacturedItemDefinition/Dicuno50mgFilmtablet-SE-PLC-ManufacturedItemDef"
+* entry[=].fullUrl = "ManufacturedItemDefinition/Dicuno50mgFilmtablet-SE-PLC-MID"
 * entry[+].resource = Dicuno50mgFilmtablet-SE-PLC-Ingredient
 
 * entry[=].fullUrl = "Ingredient/Dicuno50mgFilmtablet-SE-PLC-Ingredient"

@@ -2,21 +2,21 @@ Instance: GOFSH-GENERATED-ID-90
 InstanceOf: Bundle
 Usage: #example
 * type = #transaction
-* entry[0].resource = HermolepsinR-100mg-PRTablet-SE-AJ-MedicinalProductDefinition
+* entry[0].resource = HermolepsinR-100mg-PRTablet-SE-AJ-MPD
 
-* entry[=].fullUrl = "MedicinalProductDefinition/HermolepsinR-100mg-PRTablet-SE-AJ-MedicinalProductDefinition"
-* entry[+].resource = HermolepsinR-100mg-PRTablet-SE-AJ-RegulatedAuthorization
+* entry[=].fullUrl = "MedicinalProductDefinition/HermolepsinR-100mg-PRTablet-SE-AJ-MPD"
+* entry[+].resource = HermolepsinR-100mg-PRTablet-SE-AJ-RA
 
-* entry[=].fullUrl = "RegulatedAuthorization/HermolepsinR-100mg-PRTablet-SE-AJ-RegulatedAuthorization"
-* entry[+].resource = HermolepsinR-100mg-PRTablet-SE-AJ-AdministrableProductDefinition
+* entry[=].fullUrl = "RegulatedAuthorization/HermolepsinR-100mg-PRTablet-SE-AJ-RA"
+* entry[+].resource = HermolepsinR-100mg-PRTablet-SE-AJ-APD
 
-* entry[=].fullUrl = "AdministrableProductDefinition/HermolepsinR-100mg-PRTablet-SE-AJ-AdministrableProductDefinition"
-* entry[+].resource = HermolepsinR-100mg-PRTablet-SE-AJ-PackagedProductDefinition
+* entry[=].fullUrl = "AdministrableProductDefinition/HermolepsinR-100mg-PRTablet-SE-AJ-APD"
+* entry[+].resource = HermolepsinR-100mg-PRTablet-SE-AJ-PPD
 
-* entry[=].fullUrl = "PackagedProductDefinition/HermolepsinR-100mg-PRTablet-SE-AJ-PackagedProductDefinition"
-* entry[+].resource = HermolepsinR-100mg-PRTablet-SE-AJ-ManufacturedItemDefinition
+* entry[=].fullUrl = "PackagedProductDefinition/HermolepsinR-100mg-PRTablet-SE-AJ-PPD"
+* entry[+].resource = HermolepsinR-100mg-PRTablet-SE-AJ-MID
 
-* entry[=].fullUrl = "ManufacturedItemDefinition/HermolepsinR-100mg-PRTablet-SE-AJ-ManufacturedItemDefinition"
+* entry[=].fullUrl = "ManufacturedItemDefinition/HermolepsinR-100mg-PRTablet-SE-AJ-MID"
 * entry[+].resource = HermolepsinR-100mg-PRTablet-SE-AJ-Ingredient
 
 * entry[=].fullUrl = "Ingredient/HermolepsinR-100mg-PRTablet-SE-AJ-Ingredient"

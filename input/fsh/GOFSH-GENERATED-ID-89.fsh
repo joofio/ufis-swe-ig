@@ -2,21 +2,21 @@ Instance: GOFSH-GENERATED-ID-89
 InstanceOf: Bundle
 Usage: #example
 * type = #transaction
-* entry[0].resource = Herceptin-150mg-Powder-SE-IS-MedicinalProductDefinition
+* entry[0].resource = Herceptin-150mg-Powder-SE-IS-MPD
 
-* entry[=].fullUrl = "MedicinalProductDefinition/Herceptin-150mg-Powder-SE-IS-MedicinalProductDefinition"
-* entry[+].resource = Herceptin-150mg-Powder-SE-IS-RegulatedAuthorization
+* entry[=].fullUrl = "MedicinalProductDefinition/Herceptin-150mg-Powder-SE-IS-MPD"
+* entry[+].resource = Herceptin-150mg-Powder-SE-IS-RA
 
-* entry[=].fullUrl = "RegulatedAuthorization/Herceptin-150mg-Powder-SE-IS-RegulatedAuthorization"
-* entry[+].resource = Herceptin-150mg-Powder-SE-IS-AdministrableProductDefinition
+* entry[=].fullUrl = "RegulatedAuthorization/Herceptin-150mg-Powder-SE-IS-RA"
+* entry[+].resource = Herceptin-150mg-Powder-SE-IS-APD
 
-* entry[=].fullUrl = "AdministrableProductDefinition/Herceptin-150mg-Powder-SE-IS-AdministrableProductDefinition"
-* entry[+].resource = Herceptin-150mg-Powder-SE-IS-PackagedProductDefinition
+* entry[=].fullUrl = "AdministrableProductDefinition/Herceptin-150mg-Powder-SE-IS-APD"
+* entry[+].resource = Herceptin-150mg-Powder-SE-IS-PPD
 
-* entry[=].fullUrl = "PackagedProductDefinition/Herceptin-150mg-Powder-SE-IS-PackagedProductDefinition"
-* entry[+].resource = Herceptin-150mg-Powder-SE-IS-ManufacturedItemDefinition
+* entry[=].fullUrl = "PackagedProductDefinition/Herceptin-150mg-Powder-SE-IS-PPD"
+* entry[+].resource = Herceptin-150mg-Powder-SE-IS-MID
 
-* entry[=].fullUrl = "ManufacturedItemDefinition/Herceptin-150mg-Powder-SE-IS-ManufacturedItemDefinition"
+* entry[=].fullUrl = "ManufacturedItemDefinition/Herceptin-150mg-Powder-SE-IS-MID"
 * entry[+].resource = Herceptin-150mg-Powder-SE-IS-Ingredient-01
 
 * entry[=].fullUrl = "Ingredient/Herceptin-150mg-Powder-SE-IS-Ingredient-01"

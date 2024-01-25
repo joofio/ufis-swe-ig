@@ -2,9 +2,9 @@ Instance: GOFSH-GENERATED-ID-181
 InstanceOf: Bundle
 Usage: #example
 * type = #transaction
-* entry[0].resource = PinexJordgubb250mggranulat-SE-PLC-MedicinalProductDef
+* entry[0].resource = PinexJordgubb250mggranulat-SE-PLC-MPD
 
-* entry[=].fullUrl = "MedicinalProductDefinition/PinexJordgubb250mggranulat-SE-PLC-MedicinalProductDef"
+* entry[=].fullUrl = "MedicinalProductDefinition/PinexJordgubb250mggranulat-SE-PLC-MPD"
 * entry[+].resource = PinexJordgubb250mggranulat-SE-PLC-RegAutho
 
 * entry[=].fullUrl = "RegulatedAuthorization/PinexJordgubb250mggranulat-SE-PLC-RegAutho"
@@ -14,9 +14,9 @@ Usage: #example
 * entry[+].resource = PinexJordgubb250mggranulat-SE-PLC-PackageProductDef
 
 * entry[=].fullUrl = "PackagedProductDefinition/PinexJordgubb250mggranulat-SE-PLC-PackageProductDef"
-* entry[+].resource = PinexJordgubb250mggranulat-SE-PLC-ManufacturedItemDef
+* entry[+].resource = PinexJordgubb250mggranulat-SE-PLC-MID
 
-* entry[=].fullUrl = "ManufacturedItemDefinition/PinexJordgubb250mggranulat-SE-PLC-ManufacturedItemDef"
+* entry[=].fullUrl = "ManufacturedItemDefinition/PinexJordgubb250mggranulat-SE-PLC-MID"
 * entry[+].resource = PinexJordgubb250mggranulat-SE-PLC-Ingredient
 
 * entry[=].fullUrl = "Ingredient/PinexJordgubb250mggranulat-SE-PLC-Ingredient"

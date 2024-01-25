@@ -2,9 +2,9 @@ Instance: GOFSH-GENERATED-ID-48
 InstanceOf: Bundle
 Usage: #example
 * type = #transaction
-* entry[0].resource = Cortimyk20mgml10mgmlkram-SE-PLC-MedicinalProductDef
+* entry[0].resource = Cortimyk20mgml10mgmlkram-SE-PLC-MPD
 
-* entry[=].fullUrl = "MedicinalProductDefinition/Cortimyk20mgml10mgmlkram-SE-PLC-MedicinalProductDef"
+* entry[=].fullUrl = "MedicinalProductDefinition/Cortimyk20mgml10mgmlkram-SE-PLC-MPD"
 * entry[+].resource = Cortimyk20mgml10mgmlkram-SE-PLC-RegAutho
 
 * entry[=].fullUrl = "RegulatedAuthorization/Cortimyk20mgml10mgmlkram-SE-PLC-RegAutho"
@@ -17,9 +17,9 @@ Usage: #example
 * entry[+].resource = Cortimyk20mgml10mgmlkram-SE-PLC-PackageProductDef02
 
 * entry[=].fullUrl = "PackagedProductDefinition/Cortimyk20mgml10mgmlkram-SE-PLC-PackageProductDef02"
-* entry[+].resource = Cortimyk20mgml10mgmlkram-SE-PLC-ManufacturedItemDef
+* entry[+].resource = Cortimyk20mgml10mgmlkram-SE-PLC-MID
 
-* entry[=].fullUrl = "ManufacturedItemDefinition/Cortimyk20mgml10mgmlkram-SE-PLC-ManufacturedItemDef"
+* entry[=].fullUrl = "ManufacturedItemDefinition/Cortimyk20mgml10mgmlkram-SE-PLC-MID"
 * entry[+].resource = Cortimyk20mgml10mgmlkram-SE-PLC-Ingredient01
 
 * entry[=].fullUrl = "Ingredient/Cortimyk20mgml10mgmlkram-SE-PLC-Ingredient01"

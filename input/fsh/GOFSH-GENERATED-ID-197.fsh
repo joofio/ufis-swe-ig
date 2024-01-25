@@ -2,9 +2,9 @@ Instance: GOFSH-GENERATED-ID-197
 InstanceOf: Bundle
 Usage: #example
 * type = #transaction
-* entry[0].resource = SoluCortef100mgpulvervatskainj-SE-PLC-MedicinalProductDef
+* entry[0].resource = SoluCortef100mgpulvervatskainj-SE-PLC-MPD
 
-* entry[=].fullUrl = "MedicinalProductDefinition/SoluCortef100mgpulvervatskainj-SE-PLC-MedicinalProductDef"
+* entry[=].fullUrl = "MedicinalProductDefinition/SoluCortef100mgpulvervatskainj-SE-PLC-MPD"
 * entry[+].resource = SoluCortef100mgpulvervatskainj-SE-PLC-RegAutho
 
 * entry[=].fullUrl = "RegulatedAuthorization/SoluCortef100mgpulvervatskainj-SE-PLC-RegAutho"
@@ -17,9 +17,9 @@ Usage: #example
 * entry[+].resource = SoluCortef100mgpulvervatskainj-SE-PLC-PackageProductDef02
 
 * entry[=].fullUrl = "PackagedProductDefinition/SoluCortef100mgpulvervatskainj-SE-PLC-PackageProductDef02"
-* entry[+].resource = SoluCortef100mgpulvervatskainj-SE-PLC-ManufacturedItemDef
+* entry[+].resource = SoluCortef100mgpulvervatskainj-SE-PLC-MID
 
-* entry[=].fullUrl = "ManufacturedItemDefinition/SoluCortef100mgpulvervatskainj-SE-PLC-ManufacturedItemDef"
+* entry[=].fullUrl = "ManufacturedItemDefinition/SoluCortef100mgpulvervatskainj-SE-PLC-MID"
 * entry[+].resource = SoluCortef100mgpulvervatskainj-SE-PLC-Ingredient
 
 * entry[=].fullUrl = "Ingredient/SoluCortef100mgpulvervatskainj-SE-PLC-Ingredient"

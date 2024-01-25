@@ -2,9 +2,9 @@ Instance: GOFSH-GENERATED-ID-206
 InstanceOf: Bundle
 Usage: #example
 * type = #transaction
-* entry[0].resource = Suscard25mgbuckaltablett-SE-PLC-MedicinalProductDef
+* entry[0].resource = Suscard25mgbuckaltablett-SE-PLC-MPD
 
-* entry[=].fullUrl = "MedicinalProductDefinition/Suscard25mgbuckaltablett-SE-PLC-MedicinalProductDef"
+* entry[=].fullUrl = "MedicinalProductDefinition/Suscard25mgbuckaltablett-SE-PLC-MPD"
 * entry[+].resource = Suscard25mgbuckaltablett-SE-PLC-RegAutho
 
 * entry[=].fullUrl = "RegulatedAuthorization/Suscard25mgbuckaltablett-SE-PLC-RegAutho"
@@ -17,9 +17,9 @@ Usage: #example
 * entry[+].resource = Suscard25mgbuckaltablett-SE-PLC-PackageProductDef02
 
 * entry[=].fullUrl = "PackagedProductDefinition/Suscard25mgbuckaltablett-SE-PLC-PackageProductDef02"
-* entry[+].resource = Suscard25mgbuckaltablett-SE-PLC-ManufacturedItemDef
+* entry[+].resource = Suscard25mgbuckaltablett-SE-PLC-MID
 
-* entry[=].fullUrl = "ManufacturedItemDefinition/Suscard25mgbuckaltablett-SE-PLC-ManufacturedItemDef"
+* entry[=].fullUrl = "ManufacturedItemDefinition/Suscard25mgbuckaltablett-SE-PLC-MID"
 * entry[+].resource = Suscard25mgbuckaltablett-SE-PLC-Ingredient
 
 * entry[=].fullUrl = "Ingredient/Suscard25mgbuckaltablett-SE-PLC-Ingredient"

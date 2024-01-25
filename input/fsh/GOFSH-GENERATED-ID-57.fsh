@@ -2,9 +2,9 @@ Instance: GOFSH-GENERATED-ID-57
 InstanceOf: Bundle
 Usage: #example
 * type = #transaction
-* entry[0].resource = DicTratiopharma25mgFilmtablet-SE-PLC-MedicinalProductDef
+* entry[0].resource = DicTratiopharma25mgFilmtablet-SE-PLC-MPD
 
-* entry[=].fullUrl = "MedicinalProductDefinition/DicTratiopharma25mgFilmtablet-SE-PLC-MedicinalProductDef"
+* entry[=].fullUrl = "MedicinalProductDefinition/DicTratiopharma25mgFilmtablet-SE-PLC-MPD"
 * entry[+].resource = DicTratiopharma25mgFilmtablet-SE-PLC-RegAutho
 
 * entry[=].fullUrl = "RegulatedAuthorization/DicTratiopharma25mgFilmtablet-SE-PLC-RegAutho"
@@ -17,9 +17,9 @@ Usage: #example
 * entry[+].resource = DicTratiopharma25mgFilmtablet-SE-PLC-PackageProductDef02
 
 * entry[=].fullUrl = "PackagedProductDefinition/DicTratiopharma25mgFilmtablet-SE-PLC-PackageProductDef02"
-* entry[+].resource = DicTratiopharma25mgFilmtablet-SE-PLC-ManufacturedItemDef
+* entry[+].resource = DicTratiopharma25mgFilmtablet-SE-PLC-MID
 
-* entry[=].fullUrl = "ManufacturedItemDefinition/DicTratiopharma25mgFilmtablet-SE-PLC-ManufacturedItemDef"
+* entry[=].fullUrl = "ManufacturedItemDefinition/DicTratiopharma25mgFilmtablet-SE-PLC-MID"
 * entry[+].resource = DicTratiopharma25mgFilmtablet-SE-PLC-Ingredient
 
 * entry[=].fullUrl = "Ingredient/DicTratiopharma25mgFilmtablet-SE-PLC-Ingredient"

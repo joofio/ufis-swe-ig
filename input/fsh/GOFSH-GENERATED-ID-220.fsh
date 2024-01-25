@@ -2,9 +2,9 @@ Instance: GOFSH-GENERATED-ID-220
 InstanceOf: Bundle
 Usage: #example
 * type = #transaction
-* entry[0].resource = TramadolRetardActavis100mgdepot-SE-PLC-MedicinalProductDef
+* entry[0].resource = TramadolRetardActavis100mgdepot-SE-PLC-MPD
 
-* entry[=].fullUrl = "MedicinalProductDefinition/TramadolRetardActavis100mgdepot-SE-PLC-MedicinalProductDef"
+* entry[=].fullUrl = "MedicinalProductDefinition/TramadolRetardActavis100mgdepot-SE-PLC-MPD"
 * entry[+].resource = TramadolRetardActavis100mgdepot-SE-PLC-RegAutho
 
 * entry[=].fullUrl = "RegulatedAuthorization/TramadolRetardActavis100mgdepot-SE-PLC-RegAutho"
@@ -17,9 +17,9 @@ Usage: #example
 * entry[+].resource = TramadolRetardActavis100mgdepot-SE-PLC-PackageProductDef02
 
 * entry[=].fullUrl = "PackagedProductDefinition/TramadolRetardActavis100mgdepot-SE-PLC-PackageProductDef02"
-* entry[+].resource = TramadolRetardActavis100mgdepot-SE-PLC-ManufacturedItemDef
+* entry[+].resource = TramadolRetardActavis100mgdepot-SE-PLC-MID
 
-* entry[=].fullUrl = "ManufacturedItemDefinition/TramadolRetardActavis100mgdepot-SE-PLC-ManufacturedItemDef"
+* entry[=].fullUrl = "ManufacturedItemDefinition/TramadolRetardActavis100mgdepot-SE-PLC-MID"
 * entry[+].resource = TramadolRetardActavis100mgdepot-SE-PLC-Ingredient01
 
 * entry[=].fullUrl = "Ingredient/TramadolRetardActavis100mgdepot-SE-PLC-Ingredient01"

@@ -1,4 +1,4 @@
-Instance: BuprenorSTADA-10perh-Transderm-SE-BS-PackagedProductDef-02
+Instance: BuprenorSTADA-10perh-Transderm-SE-BS-PPD-02
 InstanceOf: PPLPackagedProductDefinition
 
 * containedItemQuantity = 4 http://spor.ema.europa.eu/v1/lists/200000000014#200000002134 "Patch"

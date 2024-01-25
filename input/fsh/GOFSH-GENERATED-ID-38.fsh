@@ -2,21 +2,21 @@ Instance: GOFSH-GENERATED-ID-38
 InstanceOf: Bundle
 Usage: #example
 * type = #transaction
-* entry[0].resource = CBZEssPharm-125mg-Supp-SE-AJ-MedicinalProductDefinition
+* entry[0].resource = CBZEssPharm-125mg-Supp-SE-AJ-MPD
 
-* entry[=].fullUrl = "MedicinalProductDefinition/CBZEssPharm-125mg-Supp-SE-AJ-MedicinalProductDefinition"
-* entry[+].resource = CBZEssPharm-125mg-Supp-SE-AJ-RegulatedAuthorization
+* entry[=].fullUrl = "MedicinalProductDefinition/CBZEssPharm-125mg-Supp-SE-AJ-MPD"
+* entry[+].resource = CBZEssPharm-125mg-Supp-SE-AJ-RA
 
-* entry[=].fullUrl = "RegulatedAuthorization/CBZEssPharm-125mg-Supp-SE-AJ-RegulatedAuthorization"
-* entry[+].resource = CBZEssPharm-125mg-Supp-SE-AJ-AdministrableProductDefinition
+* entry[=].fullUrl = "RegulatedAuthorization/CBZEssPharm-125mg-Supp-SE-AJ-RA"
+* entry[+].resource = CBZEssPharm-125mg-Supp-SE-AJ-APD
 
-* entry[=].fullUrl = "AdministrableProductDefinition/CBZEssPharm-125mg-Supp-SE-AJ-AdministrableProductDefinition"
-* entry[+].resource = CBZEssPharm-125mg-Supp-SE-AJ-PackagedProductDefinition
+* entry[=].fullUrl = "AdministrableProductDefinition/CBZEssPharm-125mg-Supp-SE-AJ-APD"
+* entry[+].resource = CBZEssPharm-125mg-Supp-SE-AJ-PPD
 
-* entry[=].fullUrl = "PackagedProductDefinition/CBZEssPharm-125mg-Supp-SE-AJ-PackagedProductDefinition"
-* entry[+].resource = CBZEssPharm-125mg-Supp-SE-AJ-ManufacturedItemDefinition
+* entry[=].fullUrl = "PackagedProductDefinition/CBZEssPharm-125mg-Supp-SE-AJ-PPD"
+* entry[+].resource = CBZEssPharm-125mg-Supp-SE-AJ-MID
 
-* entry[=].fullUrl = "ManufacturedItemDefinition/CBZEssPharm-125mg-Supp-SE-AJ-ManufacturedItemDefinition"
+* entry[=].fullUrl = "ManufacturedItemDefinition/CBZEssPharm-125mg-Supp-SE-AJ-MID"
 * entry[+].resource = CBZEssPharm-125mg-Supp-SE-AJ-Ingredient
 
 * entry[=].fullUrl = "Ingredient/CBZEssPharm-125mg-Supp-SE-AJ-Ingredient"

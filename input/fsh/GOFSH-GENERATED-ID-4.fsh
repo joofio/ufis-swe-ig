@@ -2,30 +2,30 @@ Instance: GOFSH-GENERATED-ID-4
 InstanceOf: Bundle
 Usage: #example
 * type = #transaction
-* entry[0].resource = Altermol-500mg30mg-Tablet-SE-IS-MedicinalProductDefinition
+* entry[0].resource = Altermol-500mg30mg-Tablet-SE-IS-MPD
 
-* entry[=].fullUrl = "MedicinalProductDefinition/Altermol-500mg30mg-Tablet-SE-IS-MedicinalProductDefinition"
-* entry[+].resource = Altermol-500mg30mg-Tablet-SE-IS-RegulatedAuthorization
+* entry[=].fullUrl = "MedicinalProductDefinition/Altermol-500mg30mg-Tablet-SE-IS-MPD"
+* entry[+].resource = Altermol-500mg30mg-Tablet-SE-IS-RA
 
-* entry[=].fullUrl = "RegulatedAuthorization/Altermol-500mg30mg-Tablet-SE-IS-RegulatedAuthorization"
-* entry[+].resource = Altermol-500mg30mg-Tablet-SE-IS-AdministrableProductDefinition
+* entry[=].fullUrl = "RegulatedAuthorization/Altermol-500mg30mg-Tablet-SE-IS-RA"
+* entry[+].resource = Altermol-500mg30mg-Tablet-SE-IS-APD
 
-* entry[=].fullUrl = "AdministrableProductDefinition/Altermol-500mg30mg-Tablet-SE-IS-AdministrableProductDefinition"
-* entry[+].resource = Altermol-500mg30mg-Tablet-SE-IS-PackagedProductDefinition01
+* entry[=].fullUrl = "AdministrableProductDefinition/Altermol-500mg30mg-Tablet-SE-IS-APD"
+* entry[+].resource = Altermol-500mg30mg-Tablet-SE-IS-PPD01
 
-* entry[=].fullUrl = "PackagedProductDefinition/Altermol-500mg30mg-Tablet-SE-IS-PackagedProductDefinition01"
-* entry[+].resource = Altermol-500mg30mg-Tablet-SE-IS-PackagedProductDefinition02
+* entry[=].fullUrl = "PackagedProductDefinition/Altermol-500mg30mg-Tablet-SE-IS-PPD01"
+* entry[+].resource = Altermol-500mg30mg-Tablet-SE-IS-PPD02
 
-* entry[=].fullUrl = "PackagedProductDefinition/Altermol-500mg30mg-Tablet-SE-IS-PackagedProductDefinition02"
-* entry[+].resource = Altermol-500mg30mg-Tablet-SE-IS-PackagedProductDefinition03
+* entry[=].fullUrl = "PackagedProductDefinition/Altermol-500mg30mg-Tablet-SE-IS-PPD02"
+* entry[+].resource = Altermol-500mg30mg-Tablet-SE-IS-PPD03
 
-* entry[=].fullUrl = "PackagedProductDefinition/Altermol-500mg30mg-Tablet-SE-IS-PackagedProductDefinition03"
-* entry[+].resource = Altermol-500mg30mg-Tablet-SE-IS-PackagedProductDefinition04
+* entry[=].fullUrl = "PackagedProductDefinition/Altermol-500mg30mg-Tablet-SE-IS-PPD03"
+* entry[+].resource = Altermol-500mg30mg-Tablet-SE-IS-PPD04
 
-* entry[=].fullUrl = "PackagedProductDefinition/Altermol-500mg30mg-Tablet-SE-IS-PackagedProductDefinition04"
-* entry[+].resource = Altermol-500mg30mg-Tablet-SE-IS-ManufacturedItemDefinition
+* entry[=].fullUrl = "PackagedProductDefinition/Altermol-500mg30mg-Tablet-SE-IS-PPD04"
+* entry[+].resource = Altermol-500mg30mg-Tablet-SE-IS-MID
 
-* entry[=].fullUrl = "ManufacturedItemDefinition/Altermol-500mg30mg-Tablet-SE-IS-ManufacturedItemDefinition"
+* entry[=].fullUrl = "ManufacturedItemDefinition/Altermol-500mg30mg-Tablet-SE-IS-MID"
 * entry[+].resource = Altermol-500mg30mg-Tablet-SE-IS-Ingredient01
 
 * entry[=].fullUrl = "Ingredient/Altermol-500mg30mg-Tablet-SE-IS-Ingredient01"

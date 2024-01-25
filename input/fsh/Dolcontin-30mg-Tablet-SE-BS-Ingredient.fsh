@@ -1,9 +1,9 @@
 Instance: Dolcontin-30mg-Tablet-SE-BS-Ingredient
 InstanceOf: PPLIngredient
 * status = #active
-* for[0] = Reference(Dolcontin-30mg-Tablet-SE-BS-MedicinalProductDefinition)
-* for[+] = Reference(Dolcontin-30mg-Tablet-SE-BS-ManufacturedItemDefinition)
-* for[+] = Reference(Dolcontin-30mg-Tablet-SE-BS-AdministrableProductDefinition)
+* for[0] = Reference(Dolcontin-30mg-Tablet-SE-BS-MPD)
+* for[+] = Reference(Dolcontin-30mg-Tablet-SE-BS-MID)
+* for[+] = Reference(Dolcontin-30mg-Tablet-SE-BS-APD)
 * role = $100000072050#100000072072 "Active"
 * substance.code.concept = $SubstanceDefinition#100000090222 "Morphine sulfate pentahydrate"
 * substance.strength.presentationRatio.numerator = 30 http://spor.ema.europa.eu/v1/lists/100000110633#100000110655 "milligram(s)"

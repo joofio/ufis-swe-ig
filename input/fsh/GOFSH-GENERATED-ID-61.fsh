@@ -2,7 +2,7 @@ Instance: GOFSH-GENERATED-ID-61
 InstanceOf: Bundle
 Usage: #example
 * type = #collection
-* entry[+].resource = DiklofenakApofri232mgggel-SE-PLC-MedicinalProductDef
+* entry[+].resource = DiklofenakApofri232mgggel-SE-PLC-MPD
 
 
 * entry[+].resource = DiklofenakApofri232mgggel-SE-PLC-RegAutho
@@ -11,13 +11,13 @@ Usage: #example
 * entry[+].resource = DiklofenakApofri232mgggel-SE-PLC-APD
 
 
-* entry[+].resource = DiklofenakApofri232mgggel-SE-PLC-PackageProductDef01
+* entry[+].resource = DiklofenakApofri232mgggel-SE-PLC-PPD01
 
 
-* entry[+].resource = DiklofenakApofri232mgggel-SE-PLC-PackageProductDef02
+* entry[+].resource = DiklofenakApofri232mgggel-SE-PLC-PPD02
 
 
-* entry[+].resource = DiklofenakApofri232mgggel-SE-PLC-ManufacturedItemDef
+* entry[+].resource = DiklofenakApofri232mgggel-SE-PLC-MID
 
 
 * entry[+].resource = DiklofenakApofri232mgggel-SE-PLC-Ingredient

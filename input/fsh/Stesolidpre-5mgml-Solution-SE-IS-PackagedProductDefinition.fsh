@@ -1,8 +1,8 @@
-Instance: Stesolidpre-5mgml-Solution-SE-IS-PackagedProductDefinition
+Instance: Stesolidpre-5mgml-Solution-SE-IS-PPD
 InstanceOf: PPLPackagedProductDefinition
 
 * containedItemQuantity = 2 http://spor.ema.europa.eu/v1/lists/200000000014#100000110655 "milligram(s)"
-* packageFor = Reference(Stesolidpre-5mgml-Solution-SE-IS-MedicinalProductDefinition)
+* packageFor = Reference(Stesolidpre-5mgml-Solution-SE-IS-MPD)
 * description = "Rektalspruta, 5 x 2 ml"
 * marketingStatus.country = $100000000002#100000000535 "Sweden"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"

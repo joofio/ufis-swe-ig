@@ -1,4 +1,4 @@
-Instance: Sporanox-100mg-Cap-SE-IS-MedicinalProductDefinition
+Instance: Sporanox-100mg-Cap-SE-IS-MPD
 InstanceOf: PPLMedicinalProductDefinition
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"

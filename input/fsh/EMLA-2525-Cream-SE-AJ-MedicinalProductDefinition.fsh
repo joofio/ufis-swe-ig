@@ -1,4 +1,4 @@
-Instance: EMLA-2525-Cream-SE-AJ-MedicinalProductDefinition
+Instance: EMLA-2525-Cream-SE-AJ-MPD
 InstanceOf: PPLMedicinalProductDefinition
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Cream"

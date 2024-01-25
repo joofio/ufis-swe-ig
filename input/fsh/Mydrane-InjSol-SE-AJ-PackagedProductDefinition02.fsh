@@ -1,8 +1,8 @@
-Instance: Mydrane-InjSol-SE-AJ-PackagedProductDefinition02
+Instance: Mydrane-InjSol-SE-AJ-PPD02
 InstanceOf: PPLPackagedProductDefinition
 
 * containedItemQuantity = 20 http://spor.ema.europa.eu/v1/lists/200000000014#200000002164 "Ampoule"
-* packageFor = Reference(Mydrane-InjSol-SE-AJ-MedicinalProductDefinition)
+* packageFor = Reference(Mydrane-InjSol-SE-AJ-MPD)
 * description = "Ampull, 20 x 0,6 ml (Blister med en ampull. Filterkanyl i separat blister.)"
 * marketingStatus.country = $100000000002#100000000535 "Sweden"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"

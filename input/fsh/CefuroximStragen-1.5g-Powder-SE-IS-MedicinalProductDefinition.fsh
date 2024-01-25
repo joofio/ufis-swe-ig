@@ -1,4 +1,4 @@
-Instance: CefuroximStragen-1.5g-Powder-SE-IS-MedicinalProductDefinition
+Instance: CefuroximStragen-1.5g-Powder-SE-IS-MPD
 InstanceOf: PPLMedicinalProductDefinition
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000116186 "Powder for solution for injection/infusion"

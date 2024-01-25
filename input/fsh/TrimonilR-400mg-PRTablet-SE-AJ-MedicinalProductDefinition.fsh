@@ -1,4 +1,4 @@
-Instance: TrimonilR-400mg-PRTablet-SE-AJ-MedicinalProductDefinition
+Instance: TrimonilR-400mg-PRTablet-SE-AJ-MPD
 InstanceOf: PPLMedicinalProductDefinition
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Prolonged-release tablet"

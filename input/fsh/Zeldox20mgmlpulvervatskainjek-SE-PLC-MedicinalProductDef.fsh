@@ -1,4 +1,4 @@
-Instance: Zeldox20mgmlpulvervatskainjek-SE-PLC-MedicinalProductDef
+Instance: Zeldox20mgmlpulvervatskainjek-SE-PLC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 
 * combinedPharmaceuticalDoseForm = $200000000004~200000000006~200000000007~200000000008#100000073868 "Powder and solvent for solution for injection"

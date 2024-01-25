@@ -1,8 +1,8 @@
-Instance: Oxascand-5mg-Tablet-SE-IS-PackagedProductDefinition04
+Instance: Oxascand-5mg-Tablet-SE-IS-PPD04
 InstanceOf: PPLPackagedProductDefinition
 
 * containedItemQuantity = 500 http://spor.ema.europa.eu/v1/lists/200000000014#200000002152 "Tablet"
-* packageFor = Reference(Oxascand-5mg-Tablet-SE-IS-MedicinalProductDefinition)
+* packageFor = Reference(Oxascand-5mg-Tablet-SE-IS-MPD)
 * description = "Burk, 500 tabletter (dosdispensering)"
 * marketingStatus.country = $100000000002#100000000535 "Sweden"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"

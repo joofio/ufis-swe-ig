@@ -1,8 +1,8 @@
-Instance: Oxascand-10mg-Tablet-SE-IS-PackagedProductDefinition02
+Instance: Oxascand-10mg-Tablet-SE-IS-PPD02
 InstanceOf: PPLPackagedProductDefinition
 
 * containedItemQuantity = 5 http://spor.ema.europa.eu/v1/lists/200000000014#200000002152 "Tablet"
-* packageFor = Reference(Oxascand-10mg-Tablet-SE-IS-MedicinalProductDefinition)
+* packageFor = Reference(Oxascand-10mg-Tablet-SE-IS-MPD)
 * description = "Blister, 25 tabletter"
 * marketingStatus.country = $100000000002#100000000535 "Sweden"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"

@@ -1,4 +1,4 @@
-Instance: Alvedon500mgBrustablett-SE-PLC-ManufacturedItemDef
+Instance: Alvedon500mgBrustablett-SE-PLC-MID
 InstanceOf: PPLManufacturedItemDefinition
 * status = #active
 * manufacturedDoseForm = $200000000004#100000073681 "Effervescent tablet"

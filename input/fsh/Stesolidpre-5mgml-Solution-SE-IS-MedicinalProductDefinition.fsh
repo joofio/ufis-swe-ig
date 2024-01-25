@@ -1,4 +1,4 @@
-Instance: Stesolidpre-5mgml-Solution-SE-IS-MedicinalProductDefinition
+Instance: Stesolidpre-5mgml-Solution-SE-IS-MPD
 InstanceOf: PPLMedicinalProductDefinition
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073829 "Rectal solution"

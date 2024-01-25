@@ -1,4 +1,4 @@
-Instance: SandimmunNeoral100mgmlorallos-SE-PLC-ManufacturedItemDef
+Instance: SandimmunNeoral100mgmlorallos-SE-PLC-MID
 InstanceOf: PPLManufacturedItemDefinition
 * status = #active
 * manufacturedDoseForm = $200000000004#100000073646 "Oral solution"

@@ -1,8 +1,8 @@
-Instance: SoluCortef100mgpulvervatskainj-SE-PLC-PackageProductDef02
+Instance: SoluCortef100mgpulvervatskainj-SE-PLC-PPD02
 InstanceOf: PPLPackagedProductDefinition
 
 * containedItemQuantity = 25 http://spor.ema.europa.eu/v1/lists/200000000014#200000002114 "Cartridge"
-* packageFor = Reference(SoluCortef100mgpulvervatskainj-SE-PLC-MedicinalProductDef)
+* packageFor = Reference(SoluCortef100mgpulvervatskainj-SE-PLC-MPD)
 * description = "Flaska, 25 x (100 mg + 2 ml) (Act-O-Vial)"
 * marketingStatus.country = $100000000002#100000000535 "Sweden"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"

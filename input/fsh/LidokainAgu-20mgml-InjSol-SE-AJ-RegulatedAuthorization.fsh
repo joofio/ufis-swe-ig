@@ -1,8 +1,8 @@
-Instance: LidokainAgu-20mgml-InjSol-SE-AJ-RegulatedAuthorization
+Instance: LidokainAgu-20mgml-InjSol-SE-AJ-RA
 InstanceOf: PPLRegulatedAuthorization
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "56123"
-* subject = Reference(LidokainAgu-20mgml-InjSol-SE-AJ-MedicinalProductDefinition)
+* subject = Reference(LidokainAgu-20mgml-InjSol-SE-AJ-MPD)
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000535 "Sweden"
 * status = $100000072049#100000072099 "Valid"

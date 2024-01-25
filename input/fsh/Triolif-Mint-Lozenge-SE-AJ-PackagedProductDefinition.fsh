@@ -1,8 +1,8 @@
-Instance: Triolif-Mint-Lozenge-SE-AJ-PackagedProductDefinition
+Instance: Triolif-Mint-Lozenge-SE-AJ-PPD
 InstanceOf: PPLPackagedProductDefinition
 
 * containedItemQuantity = 24 http://spor.ema.europa.eu/v1/lists/200000000014#200000002128 "Lozenge"
-* packageFor = Reference(Triolif-Mint-Lozenge-SE-AJ-MedicinalProductDefinition)
+* packageFor = Reference(Triolif-Mint-Lozenge-SE-AJ-MPD)
 * description = "Blister, 24 tabletter"
 * marketingStatus.country = $100000000002#100000000535 "Sweden"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"

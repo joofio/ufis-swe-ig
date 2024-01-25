@@ -1,4 +1,4 @@
-Instance: Triolif-Mint-Lozenge-SE-AJ-ManufacturedItemDefinition
+Instance: Triolif-Mint-Lozenge-SE-AJ-MID
 InstanceOf: PPLManufacturedItemDefinition
 * status = #active
 * manufacturedDoseForm = $200000000004#100000073703 "Lozenge"

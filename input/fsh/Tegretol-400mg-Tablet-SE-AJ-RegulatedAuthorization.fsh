@@ -1,8 +1,8 @@
-Instance: Tegretol-400mg-Tablet-SE-AJ-RegulatedAuthorization
+Instance: Tegretol-400mg-Tablet-SE-AJ-RA
 InstanceOf: PPLRegulatedAuthorization
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "10028"
-* subject = Reference(Tegretol-400mg-Tablet-SE-AJ-MedicinalProductDefinition)
+* subject = Reference(Tegretol-400mg-Tablet-SE-AJ-MPD)
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000535 "Sweden"
 * status = $100000072049#100000072099 "Valid"

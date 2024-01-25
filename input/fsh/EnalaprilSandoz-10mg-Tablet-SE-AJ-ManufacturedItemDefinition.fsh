@@ -1,4 +1,4 @@
-Instance: EnalaprilSandoz-10mg-Tablet-SE-AJ-ManufacturedItemDefinition
+Instance: EnalaprilSandoz-10mg-Tablet-SE-AJ-MID
 InstanceOf: PPLManufacturedItemDefinition
 * status = #active
 * manufacturedDoseForm = $200000000004#100000073664 "tablet"

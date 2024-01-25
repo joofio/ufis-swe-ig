@@ -1,7 +1,7 @@
-Instance: Concerta-36mg-PRTablet-SE-AJ-AdministrableProductDefinition
+Instance: Concerta-36mg-PRTablet-SE-AJ-APD
 InstanceOf: PPLAdministrableProductDefinition
 * status = #active
-* formOf = Reference(Concerta-36mg-PRTablet-SE-AJ-MedicinalProductDefinition)
+* formOf = Reference(Concerta-36mg-PRTablet-SE-AJ-MPD)
 * administrableDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
-* producedFrom = Reference(Concerta-36mg-PRTablet-SE-AJ-ManufacturedItemDefinition)
+* producedFrom = Reference(Concerta-36mg-PRTablet-SE-AJ-MID)
 * routeOfAdministration.code = $100000073345#100000073619 "Oral use"

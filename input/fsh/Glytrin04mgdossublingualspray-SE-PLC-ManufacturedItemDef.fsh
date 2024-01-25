@@ -1,4 +1,4 @@
-Instance: Glytrin04mgdossublingualspray-SE-PLC-ManufacturedItemDef
+Instance: Glytrin04mgdossublingualspray-SE-PLC-MID
 InstanceOf: PPLManufacturedItemDefinition
 * status = #active
 * manufacturedDoseForm = $200000000004#100000143499 "Sublingual spray, solution"

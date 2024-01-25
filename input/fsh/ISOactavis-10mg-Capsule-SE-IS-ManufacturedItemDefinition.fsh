@@ -1,4 +1,4 @@
-Instance: ISOactavis-10mg-Capsule-SE-IS-ManufacturedItemDefinition
+Instance: ISOactavis-10mg-Capsule-SE-IS-MID
 InstanceOf: PPLManufacturedItemDefinition
 * status = #active
 * manufacturedDoseForm = $200000000004#100000073660 "Capsule, soft"

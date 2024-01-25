@@ -1,8 +1,8 @@
-Instance: SandimmunNeoral100mgmlorallos-SE-PLC-PackageProductDef
+Instance: SandimmunNeoral100mgmlorallos-SE-PLC-PPD
 InstanceOf: PPLPackagedProductDefinition
 
 * containedItemQuantity = 1 http://spor.ema.europa.eu/v1/lists/200000000014#200000002111 "Bottle"
-* packageFor = Reference(SandimmunNeoral100mgmlorallos-SE-PLC-MedicinalProductDef)
+* packageFor = Reference(SandimmunNeoral100mgmlorallos-SE-PLC-MPD)
 * description = "Flaska, 1 x 50 ml"
 * marketingStatus.country = $100000000002#100000000535 "Sweden"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"

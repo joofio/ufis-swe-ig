@@ -1,8 +1,8 @@
-Instance: LidokainAgu-20mgml-InjSol-SE-AJ-PackagedProductDefinition
+Instance: LidokainAgu-20mgml-InjSol-SE-AJ-PPD
 InstanceOf: PPLPackagedProductDefinition
 
 * containedItemQuantity = 10 http://spor.ema.europa.eu/v1/lists/200000000014#200000002150 "Syringe"
-* packageFor = Reference(LidokainAgu-20mgml-InjSol-SE-AJ-MedicinalProductDefinition)
+* packageFor = Reference(LidokainAgu-20mgml-InjSol-SE-AJ-MPD)
 * description = "Förfylld spruta, 10 x 10 ml"
 * marketingStatus.country = $100000000002#100000000535 "Sweden"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"

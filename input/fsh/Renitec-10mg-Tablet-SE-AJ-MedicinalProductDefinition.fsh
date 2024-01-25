@@ -1,4 +1,4 @@
-Instance: Renitec-10mg-Tablet-SE-AJ-MedicinalProductDefinition
+Instance: Renitec-10mg-Tablet-SE-AJ-MPD
 InstanceOf: PPLMedicinalProductDefinition
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "tablet"

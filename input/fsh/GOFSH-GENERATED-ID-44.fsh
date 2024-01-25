@@ -2,25 +2,25 @@ Instance: GOFSH-GENERATED-ID-44
 InstanceOf: Bundle
 Usage: #example
 * type = #collection
-* entry[+].resource = Citodon-500mg30mg-EffTablet-SE-IS-MedicinalProductDefinition
+* entry[+].resource = Citodon-500mg30mg-EffTablet-SE-IS-MPD
 
 
-* entry[+].resource = Citodon-500mg30mg-EffTablet-SE-IS-RegulatedAuthorization
+* entry[+].resource = Citodon-500mg30mg-EffTablet-SE-IS-RA
 
 
-* entry[+].resource = Citodon-500mg30mg-EffTablet-SE-IS-AdministrableProductDefinition
+* entry[+].resource = Citodon-500mg30mg-EffTablet-SE-IS-APD
 
 
-* entry[+].resource = Citodon-500mg30mg-EffTablet-SE-IS-PackagedProductDefinition01
+* entry[+].resource = Citodon-500mg30mg-EffTablet-SE-IS-PPD01
 
 
-* entry[+].resource = Citodon-500mg30mg-EffTablet-SE-IS-PackagedProductDefinition02
+* entry[+].resource = Citodon-500mg30mg-EffTablet-SE-IS-PPD02
 
 
-* entry[+].resource = Citodon-500mg30mg-EffTablet-SE-IS-PackagedProductDefinition03
+* entry[+].resource = Citodon-500mg30mg-EffTablet-SE-IS-PPD03
 
 
-* entry[+].resource = Citodon-500mg30mg-EffTablet-SE-IS-ManufacturedItemDefinition
+* entry[+].resource = Citodon-500mg30mg-EffTablet-SE-IS-MID
 
 
 * entry[+].resource = Citodon-500mg30mg-EffTablet-SE-IS-Ingredient01

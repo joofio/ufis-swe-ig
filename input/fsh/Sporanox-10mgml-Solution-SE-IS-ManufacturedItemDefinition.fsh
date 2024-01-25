@@ -1,4 +1,4 @@
-Instance: Sporanox-10mgml-Solution-SE-IS-ManufacturedItemDefinition
+Instance: Sporanox-10mgml-Solution-SE-IS-MID
 InstanceOf: PPLManufacturedItemDefinition
 * status = #active
 * manufacturedDoseForm = $200000000004#100000073646 "Oral solution"

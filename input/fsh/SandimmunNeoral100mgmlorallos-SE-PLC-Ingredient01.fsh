@@ -1,9 +1,9 @@
 Instance: SandimmunNeoral100mgmlorallos-SE-PLC-Ingredient01
 InstanceOf: PPLIngredient
 * status = #active
-* for[0] = Reference(SandimmunNeoral100mgmlorallos-SE-PLC-MedicinalProductDef)
-* for[+] = Reference(SandimmunNeoral100mgmlorallos-SE-PLC-ManufacturedItemDef)
-* for[+] = Reference(SandimmunNeoral100mgmlorallos-SE-PLC-AdminProductDef)
+* for[0] = Reference(SandimmunNeoral100mgmlorallos-SE-PLC-MPD)
+* for[+] = Reference(SandimmunNeoral100mgmlorallos-SE-PLC-MID)
+* for[+] = Reference(SandimmunNeoral100mgmlorallos-SE-PLC-APD)
 * role = $100000072050#100000072072 "Active"
 * substance.code.concept = $SubstanceDefinition#100000092121 "Ciclosporin"
 

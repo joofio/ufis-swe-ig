@@ -1,4 +1,4 @@
-Instance: Xyloproct-RectalOintment-SE-AJ-ManufacturedItemDefinition
+Instance: Xyloproct-RectalOintment-SE-AJ-MID
 InstanceOf: PPLManufacturedItemDefinition
 * status = #active
 * manufacturedDoseForm = $200000000004#100000073828 "Rectal Ointment"

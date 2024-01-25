@@ -1,8 +1,8 @@
-Instance: Alburex-200g-L-Solution-SE-AJ-PackagedProductDefinition
+Instance: Alburex-200g-L-Solution-SE-AJ-PPD
 InstanceOf: PPLPackagedProductDefinition
 
 * containedItemQuantity = 1 http://spor.ema.europa.eu/v1/lists/200000000014#200000002158 "vial"
-* packageFor = Reference(Alburex-200g-L-Solution-SE-AJ-MedicinalProductDefinition)
+* packageFor = Reference(Alburex-200g-L-Solution-SE-AJ-MPD)
 * description = "Injektionsflaska, 100 ml"
 * marketingStatus.country = $100000000002#100000000535 "Sweden"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"

@@ -1,8 +1,8 @@
-Instance: Losec-10mg-Tablet-SE-BS-PackagedProductDefinition
+Instance: Losec-10mg-Tablet-SE-BS-PPD
 InstanceOf: PPLPackagedProductDefinition
 
 * containedItemQuantity = 14 http://spor.ema.europa.eu/v1/lists/200000000014#200000002152 "Tablet"
-* packageFor = Reference(Losec-10mg-Tablet-SE-BS-MedicinalProductDefinition)
+* packageFor = Reference(Losec-10mg-Tablet-SE-BS-MPD)
 * description = "Blister, 14 tablet"
 * marketingStatus.country = $100000000002#100000000535 "Sweden"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"

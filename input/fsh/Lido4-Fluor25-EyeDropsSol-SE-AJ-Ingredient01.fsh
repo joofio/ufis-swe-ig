@@ -1,9 +1,9 @@
 Instance: Lido4-Fluor25-EyeDropsSol-SE-AJ-Ingredient01
 InstanceOf: PPLIngredient
 * status = #active
-* for[0] = Reference(Lido4-Fluor25-EyeDropsSol-SE-AJ-MedicinalProductDefinition)
-* for[+] = Reference(Lido4-Fluor25-EyeDropsSol-SE-AJ-ManufacturedItemDefinition)
-* for[+] = Reference(Lido4-Fluor25-EyeDropsSol-SE-AJ-AdministrableProductDefinition)
+* for[0] = Reference(Lido4-Fluor25-EyeDropsSol-SE-AJ-MPD)
+* for[+] = Reference(Lido4-Fluor25-EyeDropsSol-SE-AJ-MID)
+* for[+] = Reference(Lido4-Fluor25-EyeDropsSol-SE-AJ-APD)
 * role = $100000072050#100000072072 "Active"
 * substance.code.concept = $SubstanceDefinition#100000139489 "Lidocaine hydrochloride"
 

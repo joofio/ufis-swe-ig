@@ -1,8 +1,8 @@
-Instance: CiklosporinIVAX25mgkapselmjuk-SE-PLC-PackageProductDef
+Instance: CiklosporinIVAX25mgkapselmjuk-SE-PLC-PPD
 InstanceOf: PPLPackagedProductDefinition
 
 * containedItemQuantity = 50 http://spor.ema.europa.eu/v1/lists/200000000014#200000002113 "Capsule"
-* packageFor = Reference(CiklosporinIVAX25mgkapselmjuk-SE-PLC-MedicinalProductDef)
+* packageFor = Reference(CiklosporinIVAX25mgkapselmjuk-SE-PLC-MPD)
 * description = "Blister, 1 x 50 kapslar (endos)"
 * marketingStatus.country = $100000000002#100000000535 "Sweden"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"

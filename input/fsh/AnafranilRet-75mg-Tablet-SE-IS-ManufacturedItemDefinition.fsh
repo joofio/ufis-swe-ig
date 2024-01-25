@@ -1,4 +1,4 @@
-Instance: AnafranilRet-75mg-Tablet-SE-IS-ManufacturedItemDefinition
+Instance: AnafranilRet-75mg-Tablet-SE-IS-MID
 InstanceOf: PPLManufacturedItemDefinition
 * status = #active
 * manufacturedDoseForm = $200000000004#100000073683 "Prolonged-release tablet"

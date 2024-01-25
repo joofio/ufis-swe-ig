@@ -1,7 +1,7 @@
-Instance: MetforminActavis-500mg-Tablet-SE-BS-AdministrableProductDef
+Instance: MetforminActavis-500mg-Tablet-SE-BS-APD
 InstanceOf: PPLAdministrableProductDefinition
 * status = #active
-* formOf = Reference(MetforminActavis-500mg-Tablet-SE-BS-MedicinalProductDefinition)
+* formOf = Reference(MetforminActavis-500mg-Tablet-SE-BS-MPD)
 * administrableDoseForm = $200000000004#100000073665 "Film-coated tablet"
-* producedFrom = Reference(MetforminActavis-500mg-Tablet-SE-BS-ManufacturedItemDefinition)
+* producedFrom = Reference(MetforminActavis-500mg-Tablet-SE-BS-MID)
 * routeOfAdministration.code = $100000073345#100000073619 "Oral use"

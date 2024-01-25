@@ -1,8 +1,8 @@
-Instance: VaxigripTetra-0.5ml-Suspension-SE-AJ-PackagedProductDefinition02
+Instance: VaxigripTetra-0.5ml-Suspension-SE-AJ-PPD02
 InstanceOf: PPLPackagedProductDefinition
 
 * containedItemQuantity = 10 http://spor.ema.europa.eu/v1/lists/200000000014#200000002150 "syringe"
-* packageFor = Reference(VaxigripTetra-0.5ml-Suspension-SE-AJ-MedicinalProductDefinition)
+* packageFor = Reference(VaxigripTetra-0.5ml-Suspension-SE-AJ-MPD)
 * description = "Förfylld spruta, 10 x 0,5 ml (med injektionsnål)"
 * marketingStatus.country = $100000000002#100000000535 "Sweden"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"

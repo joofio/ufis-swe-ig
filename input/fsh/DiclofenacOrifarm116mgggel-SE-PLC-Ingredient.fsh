@@ -1,9 +1,9 @@
 Instance: DiclofenacOrifarm116mgggel-SE-PLC-Ingredient
 InstanceOf: PPLIngredient
 * status = #active
-* for[0] = Reference(DiclofenacOrifarm116mgggel-SE-PLC-MedicinalProductDef)
-* for[+] = Reference(DiclofenacOrifarm116mgggel-SE-PLC-ManufacturedItemDef)
-* for[+] = Reference(DiclofenacOrifarm116mgggel-SE-PLC-AdminProductDef)
+* for[0] = Reference(DiclofenacOrifarm116mgggel-SE-PLC-MPD)
+* for[+] = Reference(DiclofenacOrifarm116mgggel-SE-PLC-MID)
+* for[+] = Reference(DiclofenacOrifarm116mgggel-SE-PLC-APD)
 * role = $100000072050#100000072072 "Active"
 * substance.code.concept = $SubstanceDefinition#100000091074 "Diclofenac diethylamine"
 

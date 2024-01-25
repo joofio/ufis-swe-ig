@@ -1,9 +1,9 @@
 Instance: Isotracin-10mg-Capsule-SE-IS-Ingredient
 InstanceOf: PPLIngredient
 * status = #active
-* for[0] = Reference(Isotracin-10mg-Capsule-SE-IS-MedicinalProductDefinition)
-* for[+] = Reference(Isotracin-10mg-Capsule-SE-IS-ManufacturedItemDefinition)
-* for[+] = Reference(Isotracin-10mg-Capsule-SE-IS-AdministrableProductDefinition)
+* for[0] = Reference(Isotracin-10mg-Capsule-SE-IS-MPD)
+* for[+] = Reference(Isotracin-10mg-Capsule-SE-IS-MID)
+* for[+] = Reference(Isotracin-10mg-Capsule-SE-IS-APD)
 * role = $100000072050#100000072072 "Active"
 * substance.code.concept = $SubstanceDefinition#100000089811 "Isotretinoin"
 

@@ -1,4 +1,4 @@
-Instance: Norspan-30h-Transderm-SE-BS-ManufacturedItemDefinition
+Instance: Norspan-30h-Transderm-SE-BS-MID
 InstanceOf: PPLManufacturedItemDefinition
 * status = #active
 * manufacturedDoseForm = $200000000004#100000073741 "Transdermal patch"

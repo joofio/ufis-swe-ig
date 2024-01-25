@@ -1,4 +1,4 @@
-Instance: Zoladex-10.8mg-Solution-SE-IS-ManufacturedItemDefinition
+Instance: Zoladex-10.8mg-Solution-SE-IS-MID
 InstanceOf: PPLManufacturedItemDefinition
 * status = #active
 * manufacturedDoseForm = $200000000007#100000125753 "Implant in pre-filled syringe"

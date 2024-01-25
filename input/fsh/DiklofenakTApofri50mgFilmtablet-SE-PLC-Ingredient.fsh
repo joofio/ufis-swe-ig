@@ -1,9 +1,9 @@
 Instance: DiklofenakTApofri50mgFilmtablet-SE-PLC-Ingredient
 InstanceOf: PPLIngredient
 * status = #active
-* for[0] = Reference(DiklofenakTApofri50mgFilmtablet-SE-PLC-MedicinalProductDef)
-* for[+] = Reference(DiklofenakTApofri50mgFilmtablet-SE-PLC-ManufacturedItemDef)
-* for[+] = Reference(DiklofenakTApofri50mgFilmtablet-SE-PLC-AdminProductDef)
+* for[0] = Reference(DiklofenakTApofri50mgFilmtablet-SE-PLC-MPD)
+* for[+] = Reference(DiklofenakTApofri50mgFilmtablet-SE-PLC-MID)
+* for[+] = Reference(DiklofenakTApofri50mgFilmtablet-SE-PLC-APD)
 * role = $100000072050#100000072072 "Active"
 * substance.code.concept = $SubstanceDefinition#100000092368 "Diclofenac potassium"
 * substance.strength.presentationRatio.numerator = 50 https://spor.ema.europa.eu/v1/lists/100000110633#100000110655 "milligram(s)"

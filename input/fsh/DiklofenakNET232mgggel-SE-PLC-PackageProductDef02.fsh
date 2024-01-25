@@ -1,8 +1,8 @@
-Instance: DiklofenakNET232mgggel-SE-PLC-PackageProductDef02
+Instance: DiklofenakNET232mgggel-SE-PLC-PPD02
 InstanceOf: PPLPackagedProductDefinition
 
 * containedItemQuantity = 1 http://spor.ema.europa.eu/v1/lists/200000000014#200000002156 "Tube"
-* packageFor = Reference(DiklofenakNET232mgggel-SE-PLC-MedicinalProductDef)
+* packageFor = Reference(DiklofenakNET232mgggel-SE-PLC-MPD)
 * description = "Tub, 50 g"
 * marketingStatus.country = $100000000002#100000000535 "Sweden"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"

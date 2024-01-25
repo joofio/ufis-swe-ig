@@ -1,8 +1,8 @@
-Instance: IMAgrindeks-100mg-Capsule-SE-IS-PackagedProductDefinition02
+Instance: IMAgrindeks-100mg-Capsule-SE-IS-PPD02
 InstanceOf: PPLPackagedProductDefinition
 
 * containedItemQuantity = 10 http://spor.ema.europa.eu/v1/lists/200000000014#200000002113 "Capsule"
-* packageFor = Reference(IMAgrindeks-100mg-Capsule-SE-IS-MedicinalProductDefinition)
+* packageFor = Reference(IMAgrindeks-100mg-Capsule-SE-IS-MPD)
 * description = "Blister, 60 kapslar"
 * marketingStatus.country = $100000000002#100000000535 "Sweden"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"

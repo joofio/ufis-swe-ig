@@ -2,19 +2,19 @@ Instance: GOFSH-GENERATED-ID-218
 InstanceOf: Bundle
 Usage: #example
 * type = #collection
-* entry[+].resource = Tiparol50mgbrustablett-SE-PLC-MedicinalProductDef
+* entry[+].resource = Tiparol50mgbrustablett-SE-PLC-MPD
 
 
 * entry[+].resource = Tiparol50mgbrustablett-SE-PLC-RegAutho
 
 
-* entry[+].resource = Tiparol50mgbrustablett-SE-PLC-AdminProductDef
+* entry[+].resource = Tiparol50mgbrustablett-SE-PLC-APD
 
 
-* entry[+].resource = Tiparol50mgbrustablett-SE-PLC-PackageProductDef
+* entry[+].resource = Tiparol50mgbrustablett-SE-PLC-PPD
 
 
-* entry[+].resource = Tiparol50mgbrustablett-SE-PLC-ManufacturedItemDef
+* entry[+].resource = Tiparol50mgbrustablett-SE-PLC-MID
 
 
 * entry[+].resource = Tiparol50mgbrustablett-SE-PLC-Ingredient01

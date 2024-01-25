@@ -1,8 +1,8 @@
-Instance: DiklofenakOrifarm50Enterotablett-SE-PLC-PackageProductDef04
+Instance: DiklofenakOrifarm50Enterotablett-SE-PLC-PPD04
 InstanceOf: PPLPackagedProductDefinition
 
 * containedItemQuantity = 50 http://spor.ema.europa.eu/v1/lists/200000000014#200000002152 "Tablet"
-* packageFor = Reference(DiklofenakOrifarm50Enterotablett-SE-PLC-MedicinalProductDef)
+* packageFor = Reference(DiklofenakOrifarm50Enterotablett-SE-PLC-MPD)
 * description = "Blister, 50 tablett"
 * marketingStatus.country = $100000000002#100000000535 "Sweden"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"

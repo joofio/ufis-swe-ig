@@ -1,4 +1,4 @@
-Instance: MetforminActavis-1000mg-Tablet-SE-BS-MedicinalProductDefinition
+Instance: MetforminActavis-1000mg-Tablet-SE-BS-MPD
 InstanceOf: PPLMedicinalProductDefinition
 
 * combinedPharmaceuticalDoseForm = $200000000004~200000000006~200000000007~200000000008#100000073665 "Film-coated tablet"

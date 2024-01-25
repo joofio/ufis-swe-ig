@@ -1,8 +1,8 @@
-Instance: Zoloft50mgdepottablett-SE-PLC-PackageProductDef
+Instance: Zoloft50mgdepottablett-SE-PLC-PPD
 InstanceOf: PPLPackagedProductDefinition
 
 * containedItemQuantity = 98 http://spor.ema.europa.eu/v1/lists/200000000014#200000002152 "Tablet"
-* packageFor = Reference(Zoloft50mgdepottablett-SE-PLC-MedicinalProductDef)
+* packageFor = Reference(Zoloft50mgdepottablett-SE-PLC-MPD)
 * description = "Blister, 98 tabletter"
 * marketingStatus.country = $100000000002#100000000535 "Sweden"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"

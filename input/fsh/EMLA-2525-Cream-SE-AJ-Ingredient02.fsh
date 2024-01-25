@@ -1,9 +1,9 @@
 Instance: EMLA-2525-Cream-SE-AJ-Ingredient02
 InstanceOf: PPLIngredient
 * status = #active
-* for[0] = Reference(EMLA-2525-Cream-SE-AJ-MedicinalProductDefinition)
-* for[+] = Reference(EMLA-2525-Cream-SE-AJ-ManufacturedItemDefinition)
-* for[+] = Reference(EMLA-2525-Cream-SE-AJ-AdministrableProductDefinition)
+* for[0] = Reference(EMLA-2525-Cream-SE-AJ-MPD)
+* for[+] = Reference(EMLA-2525-Cream-SE-AJ-MID)
+* for[+] = Reference(EMLA-2525-Cream-SE-AJ-APD)
 * role = $100000072050#100000072072 "Active"
 * substance.code.concept = $SubstanceDefinition#100000092015 "Prilocaine"
 

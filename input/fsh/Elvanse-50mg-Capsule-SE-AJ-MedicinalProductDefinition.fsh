@@ -1,4 +1,4 @@
-Instance: Elvanse-50mg-Capsule-SE-AJ-MedicinalProductDefinition
+Instance: Elvanse-50mg-Capsule-SE-AJ-MPD
 InstanceOf: PPLMedicinalProductDefinition
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"

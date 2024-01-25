@@ -1,4 +1,4 @@
-Instance: Concerta-36mg-PRTablet-SE-AJ-MedicinalProductDefinition
+Instance: Concerta-36mg-PRTablet-SE-AJ-MPD
 InstanceOf: PPLMedicinalProductDefinition
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Prolonged-release tablet"

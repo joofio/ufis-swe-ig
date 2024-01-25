@@ -1,9 +1,9 @@
 Instance: Triolif-Orange-Lozenge-SE-AJ-Ingredient03
 InstanceOf: PPLIngredient
 * status = #active
-* for[0] = Reference(Triolif-Orange-Lozenge-SE-AJ-MedicinalProductDefinition)
-* for[+] = Reference(Triolif-Orange-Lozenge-SE-AJ-ManufacturedItemDefinition)
-* for[+] = Reference(Triolif-Orange-Lozenge-SE-AJ-AdministrableProductDefinition)
+* for[0] = Reference(Triolif-Orange-Lozenge-SE-AJ-MPD)
+* for[+] = Reference(Triolif-Orange-Lozenge-SE-AJ-MID)
+* for[+] = Reference(Triolif-Orange-Lozenge-SE-AJ-APD)
 * role = $100000072050#100000072072 "Active"
 * substance.code.concept = $SubstanceDefinition#100000092427 "2,4 dichlorobenzyl alcohol"
 * substance.strength.presentationRatio.numerator = 1.2 https://spor.ema.europa.eu/v1/lists/100000110633#100000110655 "milligram(s)"

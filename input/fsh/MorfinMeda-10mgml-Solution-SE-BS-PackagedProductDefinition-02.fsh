@@ -1,8 +1,8 @@
-Instance: MorfinMeda-10mgml-Solution-SE-BS-PackagedProductDefinition-02
+Instance: MorfinMeda-10mgml-Solution-SE-BS-PPD-02
 InstanceOf: PPLPackagedProductDefinition
 
 * containedItemQuantity = 10 http://spor.ema.europa.eu/v1/lists/200000000014#200000002164 "Ampoule"
-* packageFor = Reference(MorfinMeda-10mgml-Solution-SE-BS-MedicinalProductDefinition)
+* packageFor = Reference(MorfinMeda-10mgml-Solution-SE-BS-MPD)
 * description = "Ampull, 10 x 10 ml"
 * marketingStatus.country = $100000000002#100000000535 "Sweden"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"

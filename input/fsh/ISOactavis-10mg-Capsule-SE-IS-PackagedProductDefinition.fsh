@@ -1,8 +1,8 @@
-Instance: ISOactavis-10mg-Capsule-SE-IS-PackagedProductDefinition
+Instance: ISOactavis-10mg-Capsule-SE-IS-PPD
 InstanceOf: PPLPackagedProductDefinition
 
 * containedItemQuantity = 10 http://spor.ema.europa.eu/v1/lists/200000000014#200000002113 "Capsule"
-* packageFor = Reference(ISOactavis-10mg-Capsule-SE-IS-MedicinalProductDefinition)
+* packageFor = Reference(ISOactavis-10mg-Capsule-SE-IS-MPD)
 * description = "Blister, 100 kapslar"
 * marketingStatus.country = $100000000002#100000000535 "Sweden"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"

@@ -1,9 +1,9 @@
 Instance: Xylo10-Adr5-InjSol-SE-AJ-Ingredient02
 InstanceOf: PPLIngredient
 * status = #active
-* for[0] = Reference(Xylo10-Adr5-InjSol-SE-AJ-MedicinalProductDefinition)
-* for[+] = Reference(Xylo10-Adr5-InjSol-SE-AJ-ManufacturedItemDefinition)
-* for[+] = Reference(Xylo10-Adr5-InjSol-SE-AJ-AdministrableProductDefinition)
+* for[0] = Reference(Xylo10-Adr5-InjSol-SE-AJ-MPD)
+* for[+] = Reference(Xylo10-Adr5-InjSol-SE-AJ-MID)
+* for[+] = Reference(Xylo10-Adr5-InjSol-SE-AJ-APD)
 * role = $100000072050#100000072072 "Active"
 * substance.code.concept = $SubstanceDefinition#100000162648 "Adrenaline tartrate ph. eur."
 

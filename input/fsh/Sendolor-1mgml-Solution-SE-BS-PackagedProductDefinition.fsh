@@ -1,8 +1,8 @@
-Instance: Sendolor-1mgml-Solution-SE-BS-PackagedProductDefinition
+Instance: Sendolor-1mgml-Solution-SE-BS-PPD
 InstanceOf: PPLPackagedProductDefinition
 
 * containedItemQuantity = 10 http://spor.ema.europa.eu/v1/lists/200000000014#200000002164 "Ampoule"
-* packageFor = Reference(Sendolor-1mgml-Solution-SE-BS-MedicinalProductDefinition)
+* packageFor = Reference(Sendolor-1mgml-Solution-SE-BS-MPD)
 * description = "Ampull, 10 x 10 ml"
 * marketingStatus.country = $100000000002#100000000535 "Sweden"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"

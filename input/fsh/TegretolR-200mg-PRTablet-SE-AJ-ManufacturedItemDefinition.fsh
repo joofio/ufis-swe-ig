@@ -1,4 +1,4 @@
-Instance: TegretolR-200mg-PRTablet-SE-AJ-ManufacturedItemDefinition
+Instance: TegretolR-200mg-PRTablet-SE-AJ-MID
 InstanceOf: PPLManufacturedItemDefinition
 * status = #active
 * manufacturedDoseForm = $200000000004#100000073683 "Prolonged-release tablet"

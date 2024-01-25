@@ -2,19 +2,19 @@ Instance: GOFSH-GENERATED-ID-236
 InstanceOf: Bundle
 Usage: #example
 * type = #collection
-* entry[+].resource = Xylocain-2-Gel-SE-AJ-MedicinalProductDefinition
+* entry[+].resource = Xylocain-2-Gel-SE-AJ-MPD
 
 
-* entry[+].resource = Xylocain-2-Gel-SE-AJ-RegulatedAuthorization
+* entry[+].resource = Xylocain-2-Gel-SE-AJ-RA
 
 
-* entry[+].resource = Xylocain-2-Gel-SE-AJ-AdministrableProductDefinition
+* entry[+].resource = Xylocain-2-Gel-SE-AJ-APD
 
 
-* entry[+].resource = Xylocain-2-Gel-SE-AJ-PackagedProductDefinition
+* entry[+].resource = Xylocain-2-Gel-SE-AJ-PPD
 
 
-* entry[+].resource = Xylocain-2-Gel-SE-AJ-ManufacturedItemDefinition
+* entry[+].resource = Xylocain-2-Gel-SE-AJ-MID
 
 
 * entry[+].resource = Xylocain-2-Gel-SE-AJ-Ingredient

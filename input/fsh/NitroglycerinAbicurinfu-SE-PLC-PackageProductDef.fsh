@@ -1,8 +1,8 @@
-Instance: NitroglycerinAbicurinfu-SE-PLC-PackageProductDef
+Instance: NitroglycerinAbicurinfu-SE-PLC-PPD
 InstanceOf: PPLPackagedProductDefinition
 
 * containedItemQuantity = 10 http://spor.ema.europa.eu/v1/lists/200000000014#200000002111 "Bottle"
-* packageFor = Reference(NitroglycerinAbicurinfu-SE-PLC-MedicinalProductDef)
+* packageFor = Reference(NitroglycerinAbicurinfu-SE-PLC-MPD)
 * description = "Injektionsflaska, 10 x 50 ml"
 * marketingStatus.country = $100000000002#100000000535 "Sweden"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"

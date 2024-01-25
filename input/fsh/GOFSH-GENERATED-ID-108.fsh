@@ -2,13 +2,13 @@ Instance: GOFSH-GENERATED-ID-108
 InstanceOf: Bundle
 Usage: #example
 * type = #collection
-* entry[+].resource = InfluvacTetra-0.5ml-Suspension-SE-AJ-MedicinalProductDefinition
+* entry[+].resource = InfluvacTetra-0.5ml-Suspension-SE-AJ-MPD
 
 
-* entry[+].resource = InfluvacTetra-0.5ml-Suspension-SE-AJ-RegulatedAuthorization
+* entry[+].resource = InfluvacTetra-0.5ml-Suspension-SE-AJ-RA
 
 
-* entry[+].resource = InfluvacTetra-0.5ml-Suspension-SE-AJ-AdministrableProductDef
+* entry[+].resource = InfluvacTetra-0.5ml-Suspension-SE-AJ-APD
 
 
 * entry[+].resource = InfluvacTetra-0.5ml-Suspension-SE-AJ-PackagedProductDef01
@@ -17,7 +17,7 @@ Usage: #example
 * entry[+].resource = InfluvacTetra-0.5ml-Suspension-SE-AJ-PackagedProductDef02
 
 
-* entry[+].resource = InfluvacTetra-0.5ml-Suspension-SE-AJ-ManufacturedItemDefinition
+* entry[+].resource = InfluvacTetra-0.5ml-Suspension-SE-AJ-MID
 
 
 * entry[+].resource = InfluvacTetra-0.5ml-Suspension-SE-AJ-Ingredient01

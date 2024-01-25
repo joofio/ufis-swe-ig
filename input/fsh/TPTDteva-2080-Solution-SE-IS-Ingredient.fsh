@@ -1,9 +1,9 @@
 Instance: TPTDteva-2080-Solution-SE-IS-Ingredient
 InstanceOf: PPLIngredient
 * status = #active
-* for[0] = Reference(TPTDteva-2080-Solution-SE-IS-MedicinalProductDefinition)
-* for[+] = Reference(TPTDteva-2080-Solution-SE-IS-ManufacturedItemDefinition)
-* for[+] = Reference(TPTDteva-2080-Solution-SE-IS-AdministrableProductDefinition)
+* for[0] = Reference(TPTDteva-2080-Solution-SE-IS-MPD)
+* for[+] = Reference(TPTDteva-2080-Solution-SE-IS-MID)
+* for[+] = Reference(TPTDteva-2080-Solution-SE-IS-APD)
 * role = $100000072050#100000072072 "Active"
 * substance.code.concept = $SubstanceDefinition#100000089193 "Teriparatide"
 

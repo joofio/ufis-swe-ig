@@ -1,4 +1,4 @@
-Instance: Mydrane-InjSol-SE-AJ-MedicinalProductDefinition
+Instance: Mydrane-InjSol-SE-AJ-MPD
 InstanceOf: PPLMedicinalProductDefinition
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solution for injection"

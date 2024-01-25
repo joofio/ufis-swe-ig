@@ -1,4 +1,4 @@
-Instance: DiklofenakTApofri50mgFilmtablet-SE-PLC-ManufacturedItemDef
+Instance: DiklofenakTApofri50mgFilmtablet-SE-PLC-MID
 InstanceOf: PPLManufacturedItemDefinition
 * status = #active
 * manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"

@@ -1,8 +1,8 @@
-Instance: Rectogesic4mggrektalsalva-SE-PLC-PackageProductDef
+Instance: Rectogesic4mggrektalsalva-SE-PLC-PPD
 InstanceOf: PPLPackagedProductDefinition
 
 * containedItemQuantity = 1 http://spor.ema.europa.eu/v1/lists/200000000014#200000002156 "Tube"
-* packageFor = Reference(Rectogesic4mggrektalsalva-SE-PLC-MedicinalProductDef)
+* packageFor = Reference(Rectogesic4mggrektalsalva-SE-PLC-MPD)
 * description = "Tub, 30 g"
 * marketingStatus.country = $100000000002#100000000535 "Sweden"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"

@@ -1,7 +1,7 @@
-Instance: MFapofri-50mcg-Suspension-SE-IS-AdministrableProductDefinition
+Instance: MFapofri-50mcg-Suspension-SE-IS-APD
 InstanceOf: PPLAdministrableProductDefinition
 * status = #active
-* formOf = Reference(MFapofri-50mcg-Suspension-SE-IS-MedicinalProductDefinition)
+* formOf = Reference(MFapofri-50mcg-Suspension-SE-IS-MPD)
 * administrableDoseForm = $200000000004#100000174018 "Suspension for spray"
-* producedFrom = Reference(MFapofri-50mcg-Suspension-SE-IS-ManufacturedItemDefinition)
+* producedFrom = Reference(MFapofri-50mcg-Suspension-SE-IS-MID)
 * routeOfAdministration.code = $100000073345#100000073615 "Nasal use"

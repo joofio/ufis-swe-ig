@@ -1,4 +1,4 @@
-Instance: Tegretol-400mg-Tablet-SE-AJ-ManufacturedItemDefinition
+Instance: Tegretol-400mg-Tablet-SE-AJ-MID
 InstanceOf: PPLManufacturedItemDefinition
 * status = #active
 * manufacturedDoseForm = $200000000004#100000073664 "Tablet"

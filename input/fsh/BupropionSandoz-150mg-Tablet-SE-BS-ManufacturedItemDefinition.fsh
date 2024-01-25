@@ -1,4 +1,4 @@
-Instance: BupropionSandoz-150mg-Tablet-SE-BS-ManufacturedItemDefinition
+Instance: BupropionSandoz-150mg-Tablet-SE-BS-MID
 InstanceOf: PPLManufacturedItemDefinition
 * status = #active
 * manufacturedDoseForm = $200000000004#100000073668 "Modified-release tablet"

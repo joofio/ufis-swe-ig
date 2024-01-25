@@ -1,8 +1,8 @@
-Instance: PinexJordgubb250mggranulat-SE-PLC-PackageProductDef
+Instance: PinexJordgubb250mggranulat-SE-PLC-PPD
 InstanceOf: PPLPackagedProductDefinition
 
 * containedItemQuantity = 10 http://spor.ema.europa.eu/v1/lists/200000000014#200000002143 "Sachet"
-* packageFor = Reference(PinexJordgubb250mggranulat-SE-PLC-MedicinalProductDef)
+* packageFor = Reference(PinexJordgubb250mggranulat-SE-PLC-MPD)
 * description = "Dospåse, 10 st"
 * marketingStatus.country = $100000000002#100000000535 "Sweden"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"

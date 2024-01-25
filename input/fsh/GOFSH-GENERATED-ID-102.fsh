@@ -2,19 +2,19 @@ Instance: GOFSH-GENERATED-ID-102
 InstanceOf: Bundle
 Usage: #example
 * type = #collection
-* entry[+].resource = IMAmylan-400mg-Tablet-SE-IS-MedicinalProductDefinition
+* entry[+].resource = IMAmylan-400mg-Tablet-SE-IS-MPD
 
 
-* entry[+].resource = IMAmylan-400mg-Tablet-SE-IS-RegulatedAuthorization
+* entry[+].resource = IMAmylan-400mg-Tablet-SE-IS-RA
 
 
-* entry[+].resource = IMAmylan-400mg-Tablet-SE-IS-AdministrableProductDefinition
+* entry[+].resource = IMAmylan-400mg-Tablet-SE-IS-APD
 
 
-* entry[+].resource = IMAmylan-400mg-Tablet-SE-IS-PackagedProductDefinition
+* entry[+].resource = IMAmylan-400mg-Tablet-SE-IS-PPD
 
 
-* entry[+].resource = IMAmylan-400mg-Tablet-SE-IS-ManufacturedItemDefinition
+* entry[+].resource = IMAmylan-400mg-Tablet-SE-IS-MID
 
 
 * entry[+].resource = IMAmylan-400mg-Tablet-SE-IS-Ingredient

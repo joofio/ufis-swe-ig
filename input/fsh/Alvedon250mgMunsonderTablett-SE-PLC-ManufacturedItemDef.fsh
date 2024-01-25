@@ -1,4 +1,4 @@
-Instance: Alvedon250mgMunsonderTablett-SE-PLC-ManufacturedItemDef
+Instance: Alvedon250mgMunsonderTablett-SE-PLC-MID
 InstanceOf: PPLManufacturedItemDefinition
 * status = #active
 * manufacturedDoseForm = $200000000004#100000073666 "Orodispersible tablet"

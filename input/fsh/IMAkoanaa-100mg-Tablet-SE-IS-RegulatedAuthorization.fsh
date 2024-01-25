@@ -1,8 +1,8 @@
-Instance: IMAkoanaa-100mg-Tablet-SE-IS-RegulatedAuthorization
+Instance: IMAkoanaa-100mg-Tablet-SE-IS-RA
 InstanceOf: PPLRegulatedAuthorization
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "53084"
-* subject = Reference(IMAkoanaa-100mg-Tablet-SE-IS-MedicinalProductDefinition)
+* subject = Reference(IMAkoanaa-100mg-Tablet-SE-IS-MPD)
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000535 "Sweden"
 * status = $100000072049#100000072099 "Valid"

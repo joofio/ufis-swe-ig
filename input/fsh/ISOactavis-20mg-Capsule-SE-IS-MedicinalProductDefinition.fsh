@@ -1,4 +1,4 @@
-Instance: ISOactavis-20mg-Capsule-SE-IS-MedicinalProductDefinition
+Instance: ISOactavis-20mg-Capsule-SE-IS-MPD
 InstanceOf: PPLMedicinalProductDefinition
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Capsule, soft"

@@ -1,8 +1,8 @@
-Instance: Xylocain-100mgml-cutspray-SE-AJ-PackagedProductDefinition
+Instance: Xylocain-100mgml-cutspray-SE-AJ-PPD
 InstanceOf: PPLPackagedProductDefinition
 
 * containedItemQuantity = 1 http://spor.ema.europa.eu/v1/lists/200000000014#200000002158 "vial"
-* packageFor = Reference(Xylocain-100mgml-cutspray-SE-AJ-MedicinalProductDefinition)
+* packageFor = Reference(Xylocain-100mgml-cutspray-SE-AJ-MPD)
 * description = "Flaska med pumpspray, 50 ml"
 * marketingStatus.country = $100000000002#100000000535 "Sweden"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"

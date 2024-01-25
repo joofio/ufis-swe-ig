@@ -1,8 +1,8 @@
-Instance: Suscard25mgbuckaltablett-SE-PLC-PackageProductDef02
+Instance: Suscard25mgbuckaltablett-SE-PLC-PPD02
 InstanceOf: PPLPackagedProductDefinition
 
 * containedItemQuantity = 90 http://spor.ema.europa.eu/v1/lists/200000000014#200000002152 "Tablet"
-* packageFor = Reference(Suscard25mgbuckaltablett-SE-PLC-MedicinalProductDef)
+* packageFor = Reference(Suscard25mgbuckaltablett-SE-PLC-MPD)
 * description = "Blister, 90 buckaltabletter"
 * marketingStatus.country = $100000000002#100000000535 "Sweden"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"

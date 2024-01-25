@@ -1,8 +1,8 @@
-Instance: Xylocain-20mgml-InjSol-SE-AJ-PackagedProductDefinition
+Instance: Xylocain-20mgml-InjSol-SE-AJ-PPD
 InstanceOf: PPLPackagedProductDefinition
 
 * containedItemQuantity = 5 http://spor.ema.europa.eu/v1/lists/200000000014#200000002158 "Vial"
-* packageFor = Reference(Xylocain-20mgml-InjSol-SE-AJ-MedicinalProductDefinition)
+* packageFor = Reference(Xylocain-20mgml-InjSol-SE-AJ-MPD)
 * description = "Injektionsflaska, 5 x 20 ml"
 * marketingStatus.country = $100000000002#100000000535 "Sweden"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"

@@ -1,8 +1,8 @@
-Instance: Fragmin-10000IEml-Solution-SE-IS-PackagedProductDefinition
+Instance: Fragmin-10000IEml-Solution-SE-IS-PPD
 InstanceOf: PPLPackagedProductDefinition
 
 * containedItemQuantity = 10 http://spor.ema.europa.eu/v1/lists/200000000014#200000002164 "Ampoule"
-* packageFor = Reference(Fragmin-10000IEml-Solution-SE-IS-MedicinalProductDefinition)
+* packageFor = Reference(Fragmin-10000IEml-Solution-SE-IS-MPD)
 * description = "Ampull, 10 x 1 ml"
 * marketingStatus.country = $100000000002#100000000535 "Sweden"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"

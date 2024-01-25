@@ -1,4 +1,4 @@
-Instance: Triolif-Mint-Lozenge-SE-AJ-MedicinalProductDefinition
+Instance: Triolif-Mint-Lozenge-SE-AJ-MPD
 InstanceOf: PPLMedicinalProductDefinition
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073703 "Lozenge"

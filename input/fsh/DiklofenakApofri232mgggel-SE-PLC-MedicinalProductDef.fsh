@@ -1,4 +1,4 @@
-Instance: DiklofenakApofri232mgggel-SE-PLC-MedicinalProductDef
+Instance: DiklofenakApofri232mgggel-SE-PLC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 
 * combinedPharmaceuticalDoseForm = $200000000004~200000000006~200000000007~200000000008#100000073726 "Gel"

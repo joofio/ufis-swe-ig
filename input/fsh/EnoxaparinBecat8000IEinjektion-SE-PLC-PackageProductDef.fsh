@@ -1,8 +1,8 @@
-Instance: EnoxaparinBecat8000IEinjektion-SE-PLC-PackageProductDef
+Instance: EnoxaparinBecat8000IEinjektion-SE-PLC-PPD
 InstanceOf: PPLPackagedProductDefinition
 
 * containedItemQuantity = 10 http://spor.ema.europa.eu/v1/lists/200000000014#200000002150 "Syringe"
-* packageFor = Reference(EnoxaparinBecat8000IEinjektion-SE-PLC-MedicinalProductDef)
+* packageFor = Reference(EnoxaparinBecat8000IEinjektion-SE-PLC-MPD)
 * description = "Förfylld spruta, 10 st (med automatiskt nålskydd)"
 * marketingStatus.country = $100000000002#100000000535 "Sweden"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"

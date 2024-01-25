@@ -1,9 +1,9 @@
 Instance: CBZEssPharm-125mg-Supp-SE-AJ-Ingredient
 InstanceOf: PPLIngredient
 * status = #active
-* for[0] = Reference(CBZEssPharm-125mg-Supp-SE-AJ-MedicinalProductDefinition)
-* for[+] = Reference(CBZEssPharm-125mg-Supp-SE-AJ-ManufacturedItemDefinition)
-* for[+] = Reference(CBZEssPharm-125mg-Supp-SE-AJ-AdministrableProductDefinition)
+* for[0] = Reference(CBZEssPharm-125mg-Supp-SE-AJ-MPD)
+* for[+] = Reference(CBZEssPharm-125mg-Supp-SE-AJ-MID)
+* for[+] = Reference(CBZEssPharm-125mg-Supp-SE-AJ-APD)
 * role = $100000072050#100000072072 "Active"
 * substance.code.concept = $SubstanceDefinition#100000092127 "Carbamazepine"
 * substance.strength.presentationRatio.numerator = 125 https://spor.ema.europa.eu/v1/lists/100000110633#100000110655 "milligram(s)"

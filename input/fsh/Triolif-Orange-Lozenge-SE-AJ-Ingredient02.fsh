@@ -1,9 +1,9 @@
 Instance: Triolif-Orange-Lozenge-SE-AJ-Ingredient02
 InstanceOf: PPLIngredient
 * status = #active
-* for[0] = Reference(Triolif-Orange-Lozenge-SE-AJ-MedicinalProductDefinition)
-* for[+] = Reference(Triolif-Orange-Lozenge-SE-AJ-ManufacturedItemDefinition)
-* for[+] = Reference(Triolif-Orange-Lozenge-SE-AJ-AdministrableProductDefinition)
+* for[0] = Reference(Triolif-Orange-Lozenge-SE-AJ-MPD)
+* for[+] = Reference(Triolif-Orange-Lozenge-SE-AJ-MID)
+* for[+] = Reference(Triolif-Orange-Lozenge-SE-AJ-APD)
 * role = $100000072050#100000072072 "Active"
 * substance.code.concept = $SubstanceDefinition#100000086938 "Amylmetacresol"
 * substance.strength.presentationRatio.numerator = 0.6 https://spor.ema.europa.eu/v1/lists/100000110633#100000110655 "milligram(s)"

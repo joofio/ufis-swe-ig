@@ -1,4 +1,4 @@
-Instance: Dolcontin-30mg-Tablet-SE-BS-ManufacturedItemDefinition
+Instance: Dolcontin-30mg-Tablet-SE-BS-MID
 InstanceOf: PPLManufacturedItemDefinition
 * status = #active
 * manufacturedDoseForm = $200000000004#100000073683 "Prolonged-release tablet"

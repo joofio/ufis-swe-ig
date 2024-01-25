@@ -2,22 +2,22 @@ Instance: GOFSH-GENERATED-ID-238
 InstanceOf: Bundle
 Usage: #example
 * type = #collection
-* entry[+].resource = Xylocain-Dental-Adrenalin-SE-AJ-MedicinalProductDefinition
+* entry[+].resource = Xylocain-Dental-Adrenalin-SE-AJ-MPD
 
 
-* entry[+].resource = Xylocain-Dental-Adrenalin-SE-AJ-RegulatedAuthorization
+* entry[+].resource = Xylocain-Dental-Adrenalin-SE-AJ-RA
 
 
-* entry[+].resource = Xylocain-Dental-Adrenalin-SE-AJ-AdministrableProductDefinition
+* entry[+].resource = Xylocain-Dental-Adrenalin-SE-AJ-APD
 
 
-* entry[+].resource = Xylocain-Dental-Adrenalin-SE-AJ-PackagedProductDefinition01
+* entry[+].resource = Xylocain-Dental-Adrenalin-SE-AJ-PPD01
 
 
-* entry[+].resource = Xylocain-Dental-Adrenalin-SE-AJ-PackagedProductDefinition02
+* entry[+].resource = Xylocain-Dental-Adrenalin-SE-AJ-PPD02
 
 
-* entry[+].resource = Xylocain-Dental-Adrenalin-SE-AJ-ManufacturedItemDefinition
+* entry[+].resource = Xylocain-Dental-Adrenalin-SE-AJ-MID
 
 
 * entry[+].resource = Xylocain-Dental-Adrenalin-SE-AJ-Ingredient01

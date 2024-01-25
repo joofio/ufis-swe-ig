@@ -1,7 +1,7 @@
-Instance: BuprenorphineOri-2mg-Tablet-SE-BS-AdministrableProductDef
+Instance: BuprenorphineOri-2mg-Tablet-SE-BS-APD
 InstanceOf: PPLAdministrableProductDefinition
 * status = #active
-* formOf = Reference(BuprenorphineOri-2mg-Tablet-SE-BS-MedicinalProductDefinition)
+* formOf = Reference(BuprenorphineOri-2mg-Tablet-SE-BS-MPD)
 * administrableDoseForm = $200000000004#100000073698 "Sublingual tablet"
-* producedFrom = Reference(BuprenorphineOri-2mg-Tablet-SE-BS-ManufacturedItemDefinition)
+* producedFrom = Reference(BuprenorphineOri-2mg-Tablet-SE-BS-MID)
 * routeOfAdministration.code = $100000073345#100000073634 "Sublingual use"

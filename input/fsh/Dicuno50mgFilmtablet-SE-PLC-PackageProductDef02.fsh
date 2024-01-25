@@ -1,8 +1,8 @@
-Instance: Dicuno50mgFilmtablet-SE-PLC-PackageProductDef02
+Instance: Dicuno50mgFilmtablet-SE-PLC-PPD02
 InstanceOf: PPLPackagedProductDefinition
 
 * containedItemQuantity = 50 http://spor.ema.europa.eu/v1/lists/200000000014#200000002152 "Tablet"
-* packageFor = Reference(DicTratiopharma50mgFilmtablet-SE-PLC-MedicinalProductDef)
+* packageFor = Reference(DicTratiopharma50mgFilmtablet-SE-PLC-MPD)
 * description = "Blister, 50 tabletter"
 * marketingStatus.country = $100000000002#100000000535 "Sweden"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"

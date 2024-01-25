@@ -1,4 +1,4 @@
-Instance: CMImylan-25mg-Tablet-SE-IS-ManufacturedItemDefinition
+Instance: CMImylan-25mg-Tablet-SE-IS-MID
 InstanceOf: PPLManufacturedItemDefinition
 * status = #active
 * manufacturedDoseForm = $200000000004#100000073664 "Tablet"

@@ -1,9 +1,9 @@
 Instance: Zoladex-3.6mg-Solution-SE-IS-Ingredient
 InstanceOf: PPLIngredient
 * status = #active
-* for[0] = Reference(Zoladex-3.6mg-Solution-SE-IS-MedicinalProductDefinition)
-* for[+] = Reference(Zoladex-3.6mg-Solution-SE-IS-ManufacturedItemDefinition)
-* for[+] = Reference(Zoladex-3.6mg-Solution-SE-IS-AdministrableProductDefinition)
+* for[0] = Reference(Zoladex-3.6mg-Solution-SE-IS-MPD)
+* for[+] = Reference(Zoladex-3.6mg-Solution-SE-IS-MID)
+* for[+] = Reference(Zoladex-3.6mg-Solution-SE-IS-APD)
 * role = $100000072050#100000072072 "Active"
 * substance.code.concept = $SubstanceDefinition#100000086673 "Goserelin acetate"
 

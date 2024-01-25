@@ -1,8 +1,8 @@
-Instance: Maxilene-40mg-cream-SE-AJ-PackagedProductDefinition
+Instance: Maxilene-40mg-cream-SE-AJ-PPD
 InstanceOf: PPLPackagedProductDefinition
 
 * containedItemQuantity = 1 http://spor.ema.europa.eu/v1/lists/200000000014#200000002156 "tube"
-* packageFor = Reference(Maxilene-40mg-cream-SE-AJ-MedicinalProductDefinition)
+* packageFor = Reference(Maxilene-40mg-cream-SE-AJ-MPD)
 * description = "Tub, 1 x 30 g"
 * marketingStatus.country = $100000000002#100000000535 "Sweden"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"

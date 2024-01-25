@@ -1,8 +1,8 @@
-Instance: BupropionSandoz-150mg-Tablet-SE-BS-PackagedProductDefinition
+Instance: BupropionSandoz-150mg-Tablet-SE-BS-PPD
 InstanceOf: PPLPackagedProductDefinition
 
 * containedItemQuantity = 30 http://spor.ema.europa.eu/v1/lists/200000000014#200000002152 "Tablet"
-* packageFor = Reference(BupropionSandoz-150mg-Tablet-SE-BS-MedicinalProductDefinition)
+* packageFor = Reference(BupropionSandoz-150mg-Tablet-SE-BS-MPD)
 * description = "Burk, 30 tabletter"
 * marketingStatus.country = $100000000002#100000000535 "Sweden"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"

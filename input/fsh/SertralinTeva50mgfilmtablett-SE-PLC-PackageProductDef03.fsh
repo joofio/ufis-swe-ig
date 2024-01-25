@@ -1,8 +1,8 @@
-Instance: SertralinTeva50mgfilmtablett-SE-PLC-PackageProductDef03
+Instance: SertralinTeva50mgfilmtablett-SE-PLC-PPD03
 InstanceOf: PPLPackagedProductDefinition
 
 * containedItemQuantity = 250 http://spor.ema.europa.eu/v1/lists/200000000014#200000002152 "Tablet"
-* packageFor = Reference(SertralinTeva50mgfilmtablett-SE-PLC-MedicinalProductDef)
+* packageFor = Reference(SertralinTeva50mgfilmtablett-SE-PLC-MPD)
 * description = "Blister, 250 tabletter"
 * marketingStatus.country = $100000000002#100000000535 "Sweden"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"

@@ -1,9 +1,9 @@
 Instance: Zoloft20mgpermlkoncentrat-SE-PLC-Ingredient
 InstanceOf: PPLIngredient
 * status = #active
-* for[0] = Reference(Zoloft20mgpermlkoncentrat-SE-PLC-MedicinalProductDef)
-* for[+] = Reference(ManufacturedItemDefinition/Zoloft20mgpermlkoncentrat-SE-PLC-MedicinalProductDef)
-* for[+] = Reference(Zoloft20mgpermlkoncentrat-SE-PLC-AdminProductDef)
+* for[0] = Reference(Zoloft20mgpermlkoncentrat-SE-PLC-MPD)
+* for[+] = Reference(ManufacturedItemDefinition/Zoloft20mgpermlkoncentrat-SE-PLC-MPD)
+* for[+] = Reference(Zoloft20mgpermlkoncentrat-SE-PLC-APD)
 * role = $100000072050#100000072072 "Active"
 * substance.code.concept = $SubstanceDefinition#100000090582 "Sertraline hydrochloride"
 

@@ -1,8 +1,8 @@
-Instance: Xylo10-Adr5-InjSol-SE-AJ-PackagedProductDefinition
+Instance: Xylo10-Adr5-InjSol-SE-AJ-PPD
 InstanceOf: PPLPackagedProductDefinition
 
 * containedItemQuantity = 5 http://spor.ema.europa.eu/v1/lists/200000000014#200000002158 "Vial"
-* packageFor = Reference(Xylo10-Adr5-InjSol-SE-AJ-MedicinalProductDefinition)
+* packageFor = Reference(Xylo10-Adr5-InjSol-SE-AJ-MPD)
 * description = "Injektionsflaska, 5 x 20 ml"
 * marketingStatus.country = $100000000002#100000000535 "Sweden"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"

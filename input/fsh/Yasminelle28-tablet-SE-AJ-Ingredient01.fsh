@@ -1,9 +1,9 @@
 Instance: Yasminelle28-tablet-SE-AJ-Ingredient01
 InstanceOf: PPLIngredient
 * status = #active
-* for[0] = Reference(Yasminelle28-tablet-SE-AJ-MedicinalProductDefinition)
-* for[+] = Reference(Yasminelle28-tablet-SE-AJ-ManufacturedItemDefinition01)
-* for[+] = Reference(Yasminelle28-tablet-SE-AJ-AdministrableProductDefinition01)
+* for[0] = Reference(Yasminelle28-tablet-SE-AJ-MPD)
+* for[+] = Reference(Yasminelle28-tablet-SE-AJ-MID01)
+* for[+] = Reference(Yasminelle28-tablet-SE-AJ-APD01)
 * role = $100000072050#100000072072 "Active"
 * substance.code.concept = $SubstanceDefinition#100000091531 "Ethinylestradiol betadex clathrate"
 * substance.strength.presentationRatio.numerator = 173.17 https://spor.ema.europa.eu/v1/lists/100000110633#100000110656 "microgram(s)"

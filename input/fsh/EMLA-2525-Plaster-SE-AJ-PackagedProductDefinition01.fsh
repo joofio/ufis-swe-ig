@@ -1,8 +1,8 @@
-Instance: EMLA-2525-Plaster-SE-AJ-PackagedProductDefinition01
+Instance: EMLA-2525-Plaster-SE-AJ-PPD01
 InstanceOf: PPLPackagedProductDefinition
 
 * containedItemQuantity = 2 http://spor.ema.europa.eu/v1/lists/200000000014#200000002140 "Plaster"
-* packageFor = Reference(EMLA-2525-Plaster-SE-AJ-MedicinalProductDefinition)
+* packageFor = Reference(EMLA-2525-Plaster-SE-AJ-MPD)
 * description = "Påse, 2 x 1 plåster"
 * marketingStatus.country = $100000000002#100000000535 "Sweden"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"

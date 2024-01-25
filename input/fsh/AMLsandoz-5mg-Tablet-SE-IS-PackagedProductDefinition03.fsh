@@ -1,8 +1,8 @@
-Instance: AMLsandoz-5mg-Tablet-SE-IS-PackagedProductDefinition03
+Instance: AMLsandoz-5mg-Tablet-SE-IS-PPD03
 InstanceOf: PPLPackagedProductDefinition
 
 * containedItemQuantity = 250 http://spor.ema.europa.eu/v1/lists/200000000014#Tablet "200000002152"
-* packageFor = Reference(AMLsandoz-5mg-Tablet-SE-IS-MedicinalProductDefinition)
+* packageFor = Reference(AMLsandoz-5mg-Tablet-SE-IS-MPD)
 * description = "Burk, 250 tabletter (dosdispensering)"
 * marketingStatus.country = $100000000002#100000000535 "Sweden"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"

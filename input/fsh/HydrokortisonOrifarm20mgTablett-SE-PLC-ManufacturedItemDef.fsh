@@ -1,4 +1,4 @@
-Instance: HydrokortisonOrifarm20mgTablett-SE-PLC-ManufacturedItemDef
+Instance: HydrokortisonOrifarm20mgTablett-SE-PLC-MID
 InstanceOf: PPLManufacturedItemDefinition
 * status = #active
 * manufacturedDoseForm = $200000000004#100000073664 "Tablet"

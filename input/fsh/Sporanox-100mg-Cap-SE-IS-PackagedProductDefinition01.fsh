@@ -1,8 +1,8 @@
-Instance: Sporanox-100mg-Cap-SE-IS-PackagedProductDefinition01
+Instance: Sporanox-100mg-Cap-SE-IS-PPD01
 InstanceOf: PPLPackagedProductDefinition
 
 * containedItemQuantity = 15 http://spor.ema.europa.eu/v1/lists/200000000014#200000002113 "Capsule"
-* packageFor = Reference(Sporanox-100mg-Cap-SE-IS-MedicinalProductDefinition)
+* packageFor = Reference(Sporanox-100mg-Cap-SE-IS-MPD)
 * description = "Blister, 15 kapslar"
 * marketingStatus.country = $100000000002#100000000535 "Sweden"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"

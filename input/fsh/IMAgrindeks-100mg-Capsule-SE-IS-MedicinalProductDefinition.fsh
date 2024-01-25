@@ -1,4 +1,4 @@
-Instance: IMAgrindeks-100mg-Capsule-SE-IS-MedicinalProductDefinition
+Instance: IMAgrindeks-100mg-Capsule-SE-IS-MPD
 InstanceOf: PPLMedicinalProductDefinition
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"

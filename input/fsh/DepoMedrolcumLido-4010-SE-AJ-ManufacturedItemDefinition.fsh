@@ -1,4 +1,4 @@
-Instance: DepoMedrolcumLido-4010-SE-AJ-ManufacturedItemDefinition
+Instance: DepoMedrolcumLido-4010-SE-AJ-MID
 InstanceOf: PPLManufacturedItemDefinition
 * status = #active
 * manufacturedDoseForm = $200000000004#100000073864 "Suspension for injection"

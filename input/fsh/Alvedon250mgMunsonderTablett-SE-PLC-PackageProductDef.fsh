@@ -1,8 +1,8 @@
-Instance: Alvedon250mgMunsonderTablett-SE-PLC-PackageProductDef
+Instance: Alvedon250mgMunsonderTablett-SE-PLC-PPD
 InstanceOf: PPLPackagedProductDefinition
 
 * containedItemQuantity = 12 http://spor.ema.europa.eu/v1/lists/200000000014#200000002152 "Tablet"
-* packageFor = Reference(Alvedon250mgMunsonderTablett-SE-PLC-MedicinalProductDef)
+* packageFor = Reference(Alvedon250mgMunsonderTablett-SE-PLC-MPD)
 * description = "Blister, 12 tabletter"
 * marketingStatus.country = $100000000002#100000000535 "Sweden"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"

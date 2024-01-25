@@ -1,4 +1,4 @@
-Instance: AnafranilRet-75mg-Tablet-SE-IS-MedicinalProductDefinition
+Instance: AnafranilRet-75mg-Tablet-SE-IS-MPD
 InstanceOf: PPLMedicinalProductDefinition
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Prolonged-release tablet"

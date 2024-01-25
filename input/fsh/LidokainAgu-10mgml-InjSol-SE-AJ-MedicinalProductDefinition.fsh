@@ -1,4 +1,4 @@
-Instance: LidokainAgu-10mgml-InjSol-SE-AJ-MedicinalProductDefinition
+Instance: LidokainAgu-10mgml-InjSol-SE-AJ-MPD
 InstanceOf: PPLMedicinalProductDefinition
 
 * combinedPharmaceuticalDoseForm = $200000000007#100000074047 "Solution for injection in pre-filled syringe"

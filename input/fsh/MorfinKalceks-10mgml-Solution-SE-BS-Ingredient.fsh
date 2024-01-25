@@ -1,9 +1,9 @@
 Instance: MorfinKalceks-10mgml-Solution-SE-BS-Ingredient
 InstanceOf: PPLIngredient
 * status = #active
-* for[0] = Reference(MorfinKalceks-10mgml-Solution-SE-BS-MedicinalProductDefinition)
-* for[+] = Reference(MorfinKalceks-10mgml-Solution-SE-BS-ManufacturedItemDefinition)
-* for[+] = Reference(MorfinKalceks-10mgml-Solution-SE-BS-AdministrableProductDef)
+* for[0] = Reference(MorfinKalceks-10mgml-Solution-SE-BS-MPD)
+* for[+] = Reference(MorfinKalceks-10mgml-Solution-SE-BS-MID)
+* for[+] = Reference(MorfinKalceks-10mgml-Solution-SE-BS-APD)
 * role = $100000072050#100000072072 "Active"
 * substance.code.concept = $SubstanceDefinition#100000090494 "Morphine hydrochloride"
 

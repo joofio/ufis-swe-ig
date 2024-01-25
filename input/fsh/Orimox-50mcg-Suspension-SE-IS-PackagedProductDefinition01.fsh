@@ -1,8 +1,8 @@
-Instance: Orimox-50mcg-Suspension-SE-IS-PackagedProductDefinition01
+Instance: Orimox-50mcg-Suspension-SE-IS-PPD01
 InstanceOf: PPLPackagedProductDefinition
 
 * containedItemQuantity = 1 http://spor.ema.europa.eu/v1/lists/200000000014#200000002111 "Bottle"
-* packageFor = Reference(Orimox-50mcg-Suspension-SE-IS-MedicinalProductDefinition)
+* packageFor = Reference(Orimox-50mcg-Suspension-SE-IS-MPD)
 * description = "Flaska med dospump, 140 doser"
 * marketingStatus.country = $100000000002#100000000535 "Sweden"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"

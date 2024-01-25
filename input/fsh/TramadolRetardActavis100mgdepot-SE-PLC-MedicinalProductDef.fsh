@@ -1,4 +1,4 @@
-Instance: TramadolRetardActavis100mgdepot-SE-PLC-MedicinalProductDef
+Instance: TramadolRetardActavis100mgdepot-SE-PLC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 
 * combinedPharmaceuticalDoseForm = $200000000004~200000000006~200000000007~200000000008#100000073683 "Prolonged-release tablet"

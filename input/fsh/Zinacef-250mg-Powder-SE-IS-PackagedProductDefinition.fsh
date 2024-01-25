@@ -1,8 +1,8 @@
-Instance: Zinacef-250mg-Powder-SE-IS-PackagedProductDefinition
+Instance: Zinacef-250mg-Powder-SE-IS-PPD
 InstanceOf: PPLPackagedProductDefinition
 
 * containedItemQuantity = 1 http://spor.ema.europa.eu/v1/lists/200000000014#200000002158 "Vial"
-* packageFor = Reference(Zinacef-250mg-Powder-SE-IS-MedicinalProductDefinition)
+* packageFor = Reference(Zinacef-250mg-Powder-SE-IS-MPD)
 * description = "Injektionsflaska, 5 st (5 x 250 mg)"
 * marketingStatus.country = $100000000002#100000000535 "Sweden"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"

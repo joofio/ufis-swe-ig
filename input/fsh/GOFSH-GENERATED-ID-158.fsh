@@ -2,22 +2,22 @@ Instance: GOFSH-GENERATED-ID-158
 InstanceOf: Bundle
 Usage: #example
 * type = #collection
-* entry[+].resource = Mydrane-InjSol-SE-AJ-MedicinalProductDefinition
+* entry[+].resource = Mydrane-InjSol-SE-AJ-MPD
 
 
-* entry[+].resource = Mydrane-InjSol-SE-AJ-RegulatedAuthorization
+* entry[+].resource = Mydrane-InjSol-SE-AJ-RA
 
 
-* entry[+].resource = Mydrane-InjSol-SE-AJ-AdministrableProductDefinition
+* entry[+].resource = Mydrane-InjSol-SE-AJ-APD
 
 
-* entry[+].resource = Mydrane-InjSol-SE-AJ-PackagedProductDefinition01
+* entry[+].resource = Mydrane-InjSol-SE-AJ-PPD01
 
 
-* entry[+].resource = Mydrane-InjSol-SE-AJ-PackagedProductDefinition02
+* entry[+].resource = Mydrane-InjSol-SE-AJ-PPD02
 
 
-* entry[+].resource = Mydrane-InjSol-SE-AJ-ManufacturedItemDefinition
+* entry[+].resource = Mydrane-InjSol-SE-AJ-MID
 
 
 * entry[+].resource = Mydrane-InjSol-SE-AJ-Ingredient01

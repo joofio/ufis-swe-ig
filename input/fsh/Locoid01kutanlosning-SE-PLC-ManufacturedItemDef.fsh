@@ -1,4 +1,4 @@
-Instance: Locoid01kutanlosning-SE-PLC-ManufacturedItemDef
+Instance: Locoid01kutanlosning-SE-PLC-MID
 InstanceOf: PPLManufacturedItemDefinition
 * status = #active
 * manufacturedDoseForm = $200000000004#100000073731 "Cutaneous solution"

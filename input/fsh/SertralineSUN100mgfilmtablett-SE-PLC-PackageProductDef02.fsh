@@ -1,8 +1,8 @@
-Instance: SertralineSUN100mgfilmtablett-SE-PLC-PackageProductDef02
+Instance: SertralineSUN100mgfilmtablett-SE-PLC-PPD02
 InstanceOf: PPLPackagedProductDefinition
 
 * containedItemQuantity = 30 http://spor.ema.europa.eu/v1/lists/200000000014#200000002152 "Tablet"
-* packageFor = Reference(SertralineSUN100mgfilmtablett-SE-PLC-MedicinalProductDef)
+* packageFor = Reference(SertralineSUN100mgfilmtablett-SE-PLC-MPD)
 * description = "Blister, 30 tabletter"
 * marketingStatus.country = $100000000002#100000000535 "Sweden"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"

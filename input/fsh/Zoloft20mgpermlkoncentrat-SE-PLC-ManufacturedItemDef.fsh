@@ -1,4 +1,4 @@
-Instance: Zoloft20mgpermlkoncentrat-SE-PLC-ManufacturedItemDef
+Instance: Zoloft20mgpermlkoncentrat-SE-PLC-MID
 InstanceOf: PPLManufacturedItemDefinition
 * status = #active
 * manufacturedDoseForm = $200000000004#100000073991 "Concentrate for oral solution"

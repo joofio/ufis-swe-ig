@@ -1,9 +1,9 @@
 Instance: Xylocain-Dental-Adrenalin-SE-AJ-Ingredient02
 InstanceOf: PPLIngredient
 * status = #active
-* for[0] = Reference(Xylocain-Dental-Adrenalin-SE-AJ-MedicinalProductDefinition)
-* for[+] = Reference(Xylocain-Dental-Adrenalin-SE-AJ-ManufacturedItemDefinition)
-* for[+] = Reference(Xylocain-Dental-Adrenalin-SE-AJ-AdministrableProductDefinition)
+* for[0] = Reference(Xylocain-Dental-Adrenalin-SE-AJ-MPD)
+* for[+] = Reference(Xylocain-Dental-Adrenalin-SE-AJ-MID)
+* for[+] = Reference(Xylocain-Dental-Adrenalin-SE-AJ-APD)
 * role = $100000072050#100000072072 "Active"
 * substance.code.concept = $SubstanceDefinition#100000162648 "Adrenaline tartrate"
 

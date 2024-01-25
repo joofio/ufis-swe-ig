@@ -1,8 +1,8 @@
-Instance: Yaz-0023mg-tablet-SE-AJ-PackagedProductDefinition
+Instance: Yaz-0023mg-tablet-SE-AJ-PPD
 InstanceOf: PPLPackagedProductDefinition
 
 * containedItemQuantity = 84 http://spor.ema.europa.eu/v1/lists/200000000014#200000002152 "tablet"
-* packageFor = Reference(Yaz-0023mg-tablet-SE-AJ-MedicinalProductDefinition)
+* packageFor = Reference(Yaz-0023mg-tablet-SE-AJ-MPD)
 * description = "Blister, 3 x 28 tabletter"
 * marketingStatus.country = $100000000002#100000000535 "Sweden"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"

@@ -1,4 +1,4 @@
-Instance: Yaz-0023mg-tablet-SE-AJ-MedicinalProductDefinition
+Instance: Yaz-0023mg-tablet-SE-AJ-MPD
 InstanceOf: PPLMedicinalProductDefinition
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"

@@ -1,8 +1,8 @@
-Instance: TegretolR-200mg-PRTablet-SE-AJ-PackagedProductDefinition02
+Instance: TegretolR-200mg-PRTablet-SE-AJ-PPD02
 InstanceOf: PPLPackagedProductDefinition
 
 * containedItemQuantity = 200 http://spor.ema.europa.eu/v1/lists/200000000014#200000002152 "tablet"
-* packageFor = Reference(TegretolR-200mg-PRTablet-SE-AJ-MedicinalProductDefinition)
+* packageFor = Reference(TegretolR-200mg-PRTablet-SE-AJ-MPD)
 * description = "Burk, 200 tabletter"
 * marketingStatus.country = $100000000002#100000000535 "Sweden"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"

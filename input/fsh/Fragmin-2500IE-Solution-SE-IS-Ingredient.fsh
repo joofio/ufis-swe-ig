@@ -1,9 +1,9 @@
 Instance: Fragmin-2500IE-Solution-SE-IS-Ingredient
 InstanceOf: PPLIngredient
 * status = #active
-* for[0] = Reference(Fragmin-2500IE-Solution-SE-IS-MedicinalProductDefinition)
-* for[+] = Reference(Fragmin-2500IE-Solution-SE-IS-ManufacturedItemDefinition)
-* for[+] = Reference(Fragmin-2500IE-Solution-SE-IS-AdministrableProductDefinition)
+* for[0] = Reference(Fragmin-2500IE-Solution-SE-IS-MPD)
+* for[+] = Reference(Fragmin-2500IE-Solution-SE-IS-MID)
+* for[+] = Reference(Fragmin-2500IE-Solution-SE-IS-APD)
 * role = $100000072050#100000072072 "Active"
 * substance.code.concept = $SubstanceDefinition#100000091301 "dalteparin sodium"
 * substance.strength.concentrationRatio.numerator.extension.url = "http://terminology.hl7.org/CodeSystem/v3-NullFlavor"

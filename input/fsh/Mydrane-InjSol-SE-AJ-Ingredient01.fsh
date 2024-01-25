@@ -1,9 +1,9 @@
 Instance: Mydrane-InjSol-SE-AJ-Ingredient01
 InstanceOf: PPLIngredient
 * status = #active
-* for[0] = Reference(Mydrane-InjSol-SE-AJ-MedicinalProductDefinition)
-* for[+] = Reference(Mydrane-InjSol-SE-AJ-ManufacturedItemDefinition)
-* for[+] = Reference(Mydrane-InjSol-SE-AJ-AdministrableProductDefinition)
+* for[0] = Reference(Mydrane-InjSol-SE-AJ-MPD)
+* for[+] = Reference(Mydrane-InjSol-SE-AJ-MID)
+* for[+] = Reference(Mydrane-InjSol-SE-AJ-APD)
 * role = $100000072050#100000072072 "Active"
 * substance.code.concept = $SubstanceDefinition#100000139489 "Lidocaine hydrochloride"
 

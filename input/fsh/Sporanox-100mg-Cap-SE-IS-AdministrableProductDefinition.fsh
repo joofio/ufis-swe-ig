@@ -1,7 +1,7 @@
-Instance: Sporanox-100mg-Cap-SE-IS-AdministrableProductDefinition
+Instance: Sporanox-100mg-Cap-SE-IS-APD
 InstanceOf: PPLAdministrableProductDefinition
 * status = #active
-* formOf = Reference(Sporanox-100mg-Cap-SE-IS-MedicinalProductDefinition)
+* formOf = Reference(Sporanox-100mg-Cap-SE-IS-MPD)
 * administrableDoseForm = $200000000004#100000073375 "Capsule, hard"
-* producedFrom = Reference(Sporanox-100mg-Cap-SE-IS-ManufacturedItemDefinition)
+* producedFrom = Reference(Sporanox-100mg-Cap-SE-IS-MID)
 * routeOfAdministration.code = $100000073345#100000073619 "Oral use"

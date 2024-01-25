@@ -1,4 +1,4 @@
-Instance: Isotracin-10mg-Capsule-SE-IS-MedicinalProductDefinition
+Instance: Isotracin-10mg-Capsule-SE-IS-MPD
 InstanceOf: PPLMedicinalProductDefinition
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Capsule, soft"

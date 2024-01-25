@@ -2,28 +2,28 @@ Instance: GOFSH-GENERATED-ID-175
 InstanceOf: Bundle
 Usage: #example
 * type = #collection
-* entry[+].resource = Oxascand-5mg-Tablet-SE-IS-MedicinalProductDefinition
+* entry[+].resource = Oxascand-5mg-Tablet-SE-IS-MPD
 
 
-* entry[+].resource = Oxascand-5mg-Tablet-SE-IS-RegulatedAuthorization
+* entry[+].resource = Oxascand-5mg-Tablet-SE-IS-RA
 
 
-* entry[+].resource = Oxascand-5mg-Tablet-SE-IS-AdministrableProductDefinition
+* entry[+].resource = Oxascand-5mg-Tablet-SE-IS-APD
 
 
-* entry[+].resource = Oxascand-5mg-Tablet-SE-IS-PackagedProductDefinition01
+* entry[+].resource = Oxascand-5mg-Tablet-SE-IS-PPD01
 
 
-* entry[+].resource = Oxascand-5mg-Tablet-SE-IS-PackagedProductDefinition02
+* entry[+].resource = Oxascand-5mg-Tablet-SE-IS-PPD02
 
 
-* entry[+].resource = Oxascand-5mg-Tablet-SE-IS-PackagedProductDefinition03
+* entry[+].resource = Oxascand-5mg-Tablet-SE-IS-PPD03
 
 
-* entry[+].resource = Oxascand-5mg-Tablet-SE-IS-PackagedProductDefinition04
+* entry[+].resource = Oxascand-5mg-Tablet-SE-IS-PPD04
 
 
-* entry[+].resource = Oxascand-5mg-Tablet-SE-IS-ManufacturedItemDefinition
+* entry[+].resource = Oxascand-5mg-Tablet-SE-IS-MID
 
 
 * entry[+].resource = Oxascand-5mg-Tablet-SE-IS-Ingredient01

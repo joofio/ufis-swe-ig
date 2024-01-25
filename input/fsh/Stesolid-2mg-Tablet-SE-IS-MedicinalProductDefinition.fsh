@@ -1,4 +1,4 @@
-Instance: Stesolid-2mg-Tablet-SE-IS-MedicinalProductDefinition
+Instance: Stesolid-2mg-Tablet-SE-IS-MPD
 InstanceOf: PPLMedicinalProductDefinition
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablett"

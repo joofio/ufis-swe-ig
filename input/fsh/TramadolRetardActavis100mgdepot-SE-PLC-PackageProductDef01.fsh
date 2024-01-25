@@ -1,8 +1,8 @@
-Instance: TramadolRetardActavis100mgdepot-SE-PLC-PackageProductDef01
+Instance: TramadolRetardActavis100mgdepot-SE-PLC-PPD01
 InstanceOf: PPLPackagedProductDefinition
 
 * containedItemQuantity = 100 http://spor.ema.europa.eu/v1/lists/200000000014#200000002152 "Tablet"
-* packageFor = Reference(TramadolRetardActavis100mgdepot-SE-PLC-MedicinalProductDef)
+* packageFor = Reference(TramadolRetardActavis100mgdepot-SE-PLC-MPD)
 * description = "Blister, 100 tabletter (genomskinlig)"
 * marketingStatus.country = $100000000002#100000000535 "Sweden"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"

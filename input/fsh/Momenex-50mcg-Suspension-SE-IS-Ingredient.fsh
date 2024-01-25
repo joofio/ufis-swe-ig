@@ -1,9 +1,9 @@
 Instance: Momenex-50mcg-Suspension-SE-IS-Ingredient
 InstanceOf: PPLIngredient
 * status = #active
-* for[0] = Reference(Momenex-50mcg-Suspension-SE-IS-MedicinalProductDefinition)
-* for[+] = Reference(Momenex-50mcg-Suspension-SE-IS-ManufacturedItemDefinition)
-* for[+] = Reference(Momenex-50mcg-Suspension-SE-IS-AdministrableProductDefinition)
+* for[0] = Reference(Momenex-50mcg-Suspension-SE-IS-MPD)
+* for[+] = Reference(Momenex-50mcg-Suspension-SE-IS-MID)
+* for[+] = Reference(Momenex-50mcg-Suspension-SE-IS-APD)
 * role = $100000072050#100000072072 "Active"
 * substance.code.concept = $SubstanceDefinition#100000137366 "Mometasone furoate monohydrate"
 

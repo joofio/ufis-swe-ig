@@ -2,19 +2,19 @@ Instance: GOFSH-GENERATED-ID-103
 InstanceOf: Bundle
 Usage: #example
 * type = #collection
-* entry[+].resource = IMASTADA-100mg-Tablet-SE-IS-MedicinalProductDefinition
+* entry[+].resource = IMASTADA-100mg-Tablet-SE-IS-MPD
 
 
-* entry[+].resource = IMASTADA-100mg-Tablet-SE-IS-RegulatedAuthorization
+* entry[+].resource = IMASTADA-100mg-Tablet-SE-IS-RA
 
 
-* entry[+].resource = IMASTADA-100mg-Tablet-SE-IS-AdministrableProductDefinition
+* entry[+].resource = IMASTADA-100mg-Tablet-SE-IS-APD
 
 
-* entry[+].resource = IMASTADA-100mg-Tablet-SE-IS-PackagedProductDefinition
+* entry[+].resource = IMASTADA-100mg-Tablet-SE-IS-PPD
 
 
-* entry[+].resource = IMASTADA-100mg-Tablet-SE-IS-ManufacturedItemDefinition
+* entry[+].resource = IMASTADA-100mg-Tablet-SE-IS-MID
 
 
 * entry[+].resource = IMASTADA-100mg-Tablet-SE-IS-Ingredient

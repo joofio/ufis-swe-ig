@@ -1,8 +1,8 @@
-Instance: SandimmunNeoral25mgkapselmjuk-SE-PLC-PackageProductDef
+Instance: SandimmunNeoral25mgkapselmjuk-SE-PLC-PPD
 InstanceOf: PPLPackagedProductDefinition
 
 * containedItemQuantity = 50 http://spor.ema.europa.eu/v1/lists/200000000014#200000002113 "Capsule"
-* packageFor = Reference(SandimmunNeoral25mgkapselmjuk-SE-PLC-MedicinalProductDef)
+* packageFor = Reference(SandimmunNeoral25mgkapselmjuk-SE-PLC-MPD)
 * description = "Blister, 50 kapslar"
 * marketingStatus.country = $100000000002#100000000535 "Sweden"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"

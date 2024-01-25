@@ -1,8 +1,8 @@
-Instance: Triolif-HonLem-Lozenge-SE-AJ-RegulatedAuthorization
+Instance: Triolif-HonLem-Lozenge-SE-AJ-RA
 InstanceOf: PPLRegulatedAuthorization
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "49614"
-* subject = Reference(Triolif-HonLem-Lozenge-SE-AJ-MedicinalProductDefinition)
+* subject = Reference(Triolif-HonLem-Lozenge-SE-AJ-MPD)
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000535 "Sweden"
 * status = $100000072049#100000072099 "Valid"

@@ -1,8 +1,8 @@
-Instance: Sporanox-10mgml-Solution-SE-IS-PackagedProductDefinition
+Instance: Sporanox-10mgml-Solution-SE-IS-PPD
 InstanceOf: PPLPackagedProductDefinition
 
 * containedItemQuantity = 1 http://spor.ema.europa.eu/v1/lists/200000000014#200000002111 "Bottle"
-* packageFor = Reference(Sporanox-10mgml-Solution-SE-IS-MedicinalProductDefinition)
+* packageFor = Reference(Sporanox-10mgml-Solution-SE-IS-MPD)
 * description = "Flaska, 1 x 150 ml"
 * marketingStatus.country = $100000000002#100000000535 "Sweden"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"

@@ -1,9 +1,9 @@
 Instance: Maxilene-40mg-cream-SE-AJ-Ingredient
 InstanceOf: PPLIngredient
 * status = #active
-* for[0] = Reference(Maxilene-40mg-cream-SE-AJ-MedicinalProductDefinition)
-* for[+] = Reference(Maxilene-40mg-cream-SE-AJ-ManufacturedItemDefinition)
-* for[+] = Reference(Maxilene-40mg-cream-SE-AJ-AdministrableProductDefinition)
+* for[0] = Reference(Maxilene-40mg-cream-SE-AJ-MPD)
+* for[+] = Reference(Maxilene-40mg-cream-SE-AJ-MID)
+* for[+] = Reference(Maxilene-40mg-cream-SE-AJ-APD)
 * role = $100000072050#100000072072 "Active"
 * substance.code.concept = $SubstanceDefinition#100000091713 "Lidocaine"
 

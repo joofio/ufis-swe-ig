@@ -1,9 +1,9 @@
 Instance: DepoMedrolcumLido-4010-SE-AJ-Ingredient01
 InstanceOf: PPLIngredient
 * status = #active
-* for[0] = Reference(DepoMedrolcumLido-4010-SE-AJ-MedicinalProductDefinition)
-* for[+] = Reference(DepoMedrolcumLido-4010-SE-AJ-ManufacturedItemDefinition)
-* for[+] = Reference(DepoMedrolcumLido-4010-SE-AJ-AdministrableProductDefinition)
+* for[0] = Reference(DepoMedrolcumLido-4010-SE-AJ-MPD)
+* for[+] = Reference(DepoMedrolcumLido-4010-SE-AJ-MID)
+* for[+] = Reference(DepoMedrolcumLido-4010-SE-AJ-APD)
 * role = $100000072050#100000072072 "Active"
 * substance.code.concept = $SubstanceDefinition#100000139489 "lidocaine hydrochloride"
 

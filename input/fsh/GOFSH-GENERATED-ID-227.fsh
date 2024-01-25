@@ -2,19 +2,19 @@ Instance: GOFSH-GENERATED-ID-227
 InstanceOf: Bundle
 Usage: #example
 * type = #collection
-* entry[+].resource = Triolif-Mint-Lozenge-SE-AJ-MedicinalProductDefinition
+* entry[+].resource = Triolif-Mint-Lozenge-SE-AJ-MPD
 
 
-* entry[+].resource = Triolif-Mint-Lozenge-SE-AJ-RegulatedAuthorization
+* entry[+].resource = Triolif-Mint-Lozenge-SE-AJ-RA
 
 
-* entry[+].resource = Triolif-Mint-Lozenge-SE-AJ-AdministrableProductDefinition
+* entry[+].resource = Triolif-Mint-Lozenge-SE-AJ-APD
 
 
-* entry[+].resource = Triolif-Mint-Lozenge-SE-AJ-PackagedProductDefinition
+* entry[+].resource = Triolif-Mint-Lozenge-SE-AJ-PPD
 
 
-* entry[+].resource = Triolif-Mint-Lozenge-SE-AJ-ManufacturedItemDefinition
+* entry[+].resource = Triolif-Mint-Lozenge-SE-AJ-MID
 
 
 * entry[+].resource = Triolif-Mint-Lozenge-SE-AJ-Ingredient01

@@ -1,4 +1,4 @@
-Instance: LidoMylan-10mgml-InjSol-SE-AJ-ManufacturedItemDefinition
+Instance: LidoMylan-10mgml-InjSol-SE-AJ-MID
 InstanceOf: PPLManufacturedItemDefinition
 * status = #active
 * manufacturedDoseForm = $200000000004#100000073863 "Solution for injection"

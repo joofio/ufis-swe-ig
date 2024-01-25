@@ -1,9 +1,9 @@
 Instance: SandimmunNeoral100mgmlorallos-SE-PLC-Ingredient03
 InstanceOf: PPLIngredient
 * status = #active
-* for[0] = Reference(SandimmunNeoral100mgmlorallos-SE-PLC-MedicinalProductDef)
-* for[+] = Reference(SandimmunNeoral100mgmlorallos-SE-PLC-ManufacturedItemDef)
-* for[+] = Reference(SandimmunNeoral100mgmlorallos-SE-PLC-AdminProductDef)
+* for[0] = Reference(SandimmunNeoral100mgmlorallos-SE-PLC-MPD)
+* for[+] = Reference(SandimmunNeoral100mgmlorallos-SE-PLC-MID)
+* for[+] = Reference(SandimmunNeoral100mgmlorallos-SE-PLC-APD)
 * role = $100000072050#100000072082 "Excipient"
 * substance.code.concept = $SubstanceDefinition#100000079902 "Macrogolglycerol hydroxystearate"
 

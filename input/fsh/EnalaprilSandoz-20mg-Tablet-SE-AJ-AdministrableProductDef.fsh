@@ -1,7 +1,7 @@
-Instance: EnalaprilSandoz-20mg-Tablet-SE-AJ-AdministrableProductDef
+Instance: EnalaprilSandoz-20mg-Tablet-SE-AJ-APD
 InstanceOf: PPLAdministrableProductDefinition
 * status = #active
-* formOf = Reference(EnalaprilSandoz-20mg-Tablet-SE-AJ-MedicinalProductDefinition)
+* formOf = Reference(EnalaprilSandoz-20mg-Tablet-SE-AJ-MPD)
 * administrableDoseForm = $200000000004#100000073664 "tablet"
-* producedFrom = Reference(EnalaprilSandoz-20mg-Tablet-SE-AJ-ManufacturedItemDefinition)
+* producedFrom = Reference(EnalaprilSandoz-20mg-Tablet-SE-AJ-MID)
 * routeOfAdministration.code = $100000073345#100000073619 "Oral use"

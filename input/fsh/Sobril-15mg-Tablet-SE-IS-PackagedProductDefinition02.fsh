@@ -1,8 +1,8 @@
-Instance: Sobril-15mg-Tablet-SE-IS-PackagedProductDefinition02
+Instance: Sobril-15mg-Tablet-SE-IS-PPD02
 InstanceOf: PPLPackagedProductDefinition
 
 * containedItemQuantity = 1 http://spor.ema.europa.eu/v1/lists/200000000014#200000002152 "Tablet"
-* packageFor = Reference(Sobril-15mg-Tablet-SE-IS-MedicinalProductDefinition)
+* packageFor = Reference(Sobril-15mg-Tablet-SE-IS-MPD)
 * description = "Blister, 49 x 1 tablett (endos)"
 * marketingStatus.country = $100000000002#100000000535 "Sweden"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"

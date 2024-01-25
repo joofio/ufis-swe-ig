@@ -1,8 +1,8 @@
-Instance: Cortimyk20mgml10mgmlkram-SE-PLC-PackageProductDef01
+Instance: Cortimyk20mgml10mgmlkram-SE-PLC-PPD01
 InstanceOf: PPLPackagedProductDefinition
 
 * containedItemQuantity = 1 http://spor.ema.europa.eu/v1/lists/200000000014#200000002156 "Tube"
-* packageFor = Reference(Cortimyk20mgml10mgmlkram-SE-PLC-MedicinalProductDef)
+* packageFor = Reference(Cortimyk20mgml10mgmlkram-SE-PLC-MPD)
 * description = "Tub, 20 g"
 * marketingStatus.country = $100000000002#100000000535 "Sweden"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"

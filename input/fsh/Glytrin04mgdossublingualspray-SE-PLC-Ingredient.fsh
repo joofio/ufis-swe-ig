@@ -1,9 +1,9 @@
 Instance: Glytrin04mgdossublingualspray-SE-PLC-Ingredient
 InstanceOf: PPLIngredient
 * status = #active
-* for[0] = Reference(Glytrin04mgdossublingualspray-SE-PLC-MedicinalProductDef)
-* for[+] = Reference(Glytrin04mgdossublingualspray-SE-PLC-ManufacturedItemDef)
-* for[+] = Reference(Glytrin04mgdossublingualspray-SE-PLC-AdminProductDef)
+* for[0] = Reference(Glytrin04mgdossublingualspray-SE-PLC-MPD)
+* for[+] = Reference(Glytrin04mgdossublingualspray-SE-PLC-MID)
+* for[+] = Reference(Glytrin04mgdossublingualspray-SE-PLC-APD)
 * role = $100000072050#100000072072 "Active"
 * substance.code.concept = $SubstanceDefinition#100000087614 "Glyceryl trinitrate"
 * substance.strength.presentationRatio.numerator = 0.4 https://spor.ema.europa.eu/v1/lists/100000110633#100000110655 "milligram(s)"

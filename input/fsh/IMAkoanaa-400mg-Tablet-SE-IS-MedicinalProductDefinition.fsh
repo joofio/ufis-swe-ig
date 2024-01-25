@@ -1,4 +1,4 @@
-Instance: IMAkoanaa-400mg-Tablet-SE-IS-MedicinalProductDefinition
+Instance: IMAkoanaa-400mg-Tablet-SE-IS-MPD
 InstanceOf: PPLMedicinalProductDefinition
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"

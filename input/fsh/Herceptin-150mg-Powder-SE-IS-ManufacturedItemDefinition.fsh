@@ -1,4 +1,4 @@
-Instance: Herceptin-150mg-Powder-SE-IS-ManufacturedItemDefinition
+Instance: Herceptin-150mg-Powder-SE-IS-MID
 InstanceOf: PPLManufacturedItemDefinition
 * status = #active
 * manufacturedDoseForm = $200000000004#100000074029 "Powder for concentrate for solution for infusion"

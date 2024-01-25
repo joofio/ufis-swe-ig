@@ -1,9 +1,9 @@
 Instance: Airomir0.1Spray-SE-PLC-Ingredient
 InstanceOf: PPLIngredient
 * status = #active
-* for[0] = Reference(Airomir0.1Spray-SE-PLC-MedicinalProductDefinition)
-* for[+] = Reference(Airomir0.1Spray-SE-PLC-ManufacturedItemDefinition)
-* for[+] = Reference(Airomir0.1Spray-SE-PLC-AdministrableProductDefinition)
+* for[0] = Reference(Airomir0.1Spray-SE-PLC-MPD)
+* for[+] = Reference(Airomir0.1Spray-SE-PLC-MID)
+* for[+] = Reference(Airomir0.1Spray-SE-PLC-APD)
 * role = $100000072050#100000072072 "Active"
 * substance.code.concept = $SubstanceDefinition#100000090564 "Salbutamol sulfate"
 * substance.strength.presentationRatio.numerator = 0.12 https://spor.ema.europa.eu/v1/lists/100000110633#100000110655 "milligram(s)"

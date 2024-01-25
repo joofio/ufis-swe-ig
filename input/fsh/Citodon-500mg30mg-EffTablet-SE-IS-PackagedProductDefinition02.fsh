@@ -1,8 +1,8 @@
-Instance: Citodon-500mg30mg-EffTablet-SE-IS-PackagedProductDefinition02
+Instance: Citodon-500mg30mg-EffTablet-SE-IS-PPD02
 InstanceOf: PPLPackagedProductDefinition
 
 * containedItemQuantity = 25 http://spor.ema.europa.eu/v1/lists/200000000014#200000002152 "Tablet"
-* packageFor = Reference(Citodon-500mg30mg-EffTablet-SE-IS-MedicinalProductDefinition)
+* packageFor = Reference(Citodon-500mg30mg-EffTablet-SE-IS-MPD)
 * description = "Rör, 25 Brustabletter"
 * marketingStatus.country = $100000000002#100000000535 "Sweden"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"

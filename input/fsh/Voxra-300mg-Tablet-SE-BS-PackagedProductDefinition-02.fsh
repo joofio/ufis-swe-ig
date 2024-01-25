@@ -1,8 +1,8 @@
-Instance: Voxra-300mg-Tablet-SE-BS-PackagedProductDefinition-02
+Instance: Voxra-300mg-Tablet-SE-BS-PPD-02
 InstanceOf: PPLPackagedProductDefinition
 
 * containedItemQuantity = 90 http://spor.ema.europa.eu/v1/lists/200000000014#200000002152 "Tablet"
-* packageFor = Reference(Voxra-300mg-Tablet-SE-BS-MedicinalProductDefinition)
+* packageFor = Reference(Voxra-300mg-Tablet-SE-BS-MPD)
 * description = "Burk, 90 (3x30) tabletter"
 * marketingStatus.country = $100000000002#100000000535 "Sweden"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"

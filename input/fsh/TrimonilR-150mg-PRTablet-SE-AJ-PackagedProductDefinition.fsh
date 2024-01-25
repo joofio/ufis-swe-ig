@@ -1,8 +1,8 @@
-Instance: TrimonilR-150mg-PRTablet-SE-AJ-PackagedProductDefinition
+Instance: TrimonilR-150mg-PRTablet-SE-AJ-PPD
 InstanceOf: PPLPackagedProductDefinition
 
 * containedItemQuantity = 100 http://spor.ema.europa.eu/v1/lists/200000000014#200000002152 "tablet"
-* packageFor = Reference(TrimonilR-150mg-PRTablet-SE-AJ-MedicinalProductDefinition)
+* packageFor = Reference(TrimonilR-150mg-PRTablet-SE-AJ-MPD)
 * description = "Blister, 100 tabletter"
 * marketingStatus.country = $100000000002#100000000535 "Sweden"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"

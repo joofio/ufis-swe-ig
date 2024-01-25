@@ -1,4 +1,4 @@
-Instance: ITZSTADA-100mg-Cap-SE-IS-ManufacturedItemDefinition
+Instance: ITZSTADA-100mg-Cap-SE-IS-MID
 InstanceOf: PPLManufacturedItemDefinition
 * status = #active
 * manufacturedDoseForm = $200000000004#100000073375 "Capsule, hard"

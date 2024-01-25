@@ -1,8 +1,8 @@
-Instance: ABASAGLAR-100eml-Solution-SE-IS-PackagedProductDefinition
+Instance: ABASAGLAR-100eml-Solution-SE-IS-PPD
 InstanceOf: PPLPackagedProductDefinition
 
 * containedItemQuantity = 5 http://spor.ema.europa.eu/v1/lists/200000000014#200000002114 "Cartridge"
-* packageFor = Reference(ABASAGLAR-100eml-Solution-SE-IS-MedicinalProductDefinition)
+* packageFor = Reference(ABASAGLAR-100eml-Solution-SE-IS-MPD)
 * description = "Cylinderampull, 5 st (5 x 3 ml)"
 * marketingStatus.country = $100000000002#100000000535 "Sweden"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"

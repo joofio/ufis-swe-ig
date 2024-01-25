@@ -1,9 +1,9 @@
 Instance: MForion-50mcg-Suspension-SE-IS-Ingredient
 InstanceOf: PPLIngredient
 * status = #active
-* for[0] = Reference(MForion-50mcg-Suspension-SE-IS-MedicinalProductDefinition)
-* for[+] = Reference(MForion-50mcg-Suspension-SE-IS-ManufacturedItemDefinition)
-* for[+] = Reference(MForion-50mcg-Suspension-SE-IS-AdministrableProductDefinition)
+* for[0] = Reference(MForion-50mcg-Suspension-SE-IS-MPD)
+* for[+] = Reference(MForion-50mcg-Suspension-SE-IS-MID)
+* for[+] = Reference(MForion-50mcg-Suspension-SE-IS-APD)
 * role = $100000072050#100000072072 "Active"
 * substance.code.concept = $SubstanceDefinition#100000137366 "Mometasone furoate monohydrate"
 

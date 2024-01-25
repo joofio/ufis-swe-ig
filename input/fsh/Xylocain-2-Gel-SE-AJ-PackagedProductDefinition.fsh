@@ -1,8 +1,8 @@
-Instance: Xylocain-2-Gel-SE-AJ-PackagedProductDefinition
+Instance: Xylocain-2-Gel-SE-AJ-PPD
 InstanceOf: PPLPackagedProductDefinition
 
 * containedItemQuantity = 10 http://spor.ema.europa.eu/v1/lists/200000000014#200000002156 "tube"
-* packageFor = Reference(Xylocain-2-Gel-SE-AJ-MedicinalProductDefinition)
+* packageFor = Reference(Xylocain-2-Gel-SE-AJ-MPD)
 * description = "Tub, 10 x 30 g"
 * marketingStatus.country = $100000000002#100000000535 "Sweden"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"

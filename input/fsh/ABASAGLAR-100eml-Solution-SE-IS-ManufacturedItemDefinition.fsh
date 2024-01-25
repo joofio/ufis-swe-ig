@@ -1,4 +1,4 @@
-Instance: ABASAGLAR-100eml-Solution-SE-IS-ManufacturedItemDefinition
+Instance: ABASAGLAR-100eml-Solution-SE-IS-MID
 InstanceOf: PPLManufacturedItemDefinition
 * status = #active
 * manufacturedDoseForm = $200000000004#200000016493 "Solution for injection in cartridge"

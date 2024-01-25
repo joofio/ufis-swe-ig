@@ -1,4 +1,4 @@
-Instance: IMAsandoz-100mg-Tablet-SE-IS-MedicinalProductDefinition
+Instance: IMAsandoz-100mg-Tablet-SE-IS-MPD
 InstanceOf: PPLMedicinalProductDefinition
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"

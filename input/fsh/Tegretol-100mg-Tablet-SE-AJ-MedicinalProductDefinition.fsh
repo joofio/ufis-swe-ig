@@ -1,4 +1,4 @@
-Instance: Tegretol-100mg-Tablet-SE-AJ-MedicinalProductDefinition
+Instance: Tegretol-100mg-Tablet-SE-AJ-MPD
 InstanceOf: PPLMedicinalProductDefinition
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"

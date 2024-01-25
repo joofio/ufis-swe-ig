@@ -1,9 +1,9 @@
 Instance: Xyloproct-RectalOintment-SE-AJ-Ingredient01
 InstanceOf: PPLIngredient
 * status = #active
-* for[0] = Reference(Xyloproct-RectalOintment-SE-AJ-MedicinalProductDefinition)
-* for[+] = Reference(Xyloproct-RectalOintment-SE-AJ-ManufacturedItemDefinition)
-* for[+] = Reference(Xyloproct-RectalOintment-SE-AJ-AdministrableProductDefinition)
+* for[0] = Reference(Xyloproct-RectalOintment-SE-AJ-MPD)
+* for[+] = Reference(Xyloproct-RectalOintment-SE-AJ-MID)
+* for[+] = Reference(Xyloproct-RectalOintment-SE-AJ-APD)
 * role = $100000072050#100000072072 "Active"
 * substance.code.concept = $SubstanceDefinition#100000091713 "Lidocaine"
 

@@ -1,8 +1,8 @@
-Instance: Alvedon500mgBrustablett-SE-PLC-PackageProductDef02
+Instance: Alvedon500mgBrustablett-SE-PLC-PPD02
 InstanceOf: PPLPackagedProductDefinition
 
 * containedItemQuantity = 90 http://spor.ema.europa.eu/v1/lists/200000000014#200000002152 "Tablet"
-* packageFor = Reference(Alvedon500mgBrustablett-SE-PLC-MedicinalProductDef)
+* packageFor = Reference(Alvedon500mgBrustablett-SE-PLC-MPD)
 * description = "Rör, 90 (3 x 30) brustabletter"
 * marketingStatus.country = $100000000002#100000000535 "Sweden"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"

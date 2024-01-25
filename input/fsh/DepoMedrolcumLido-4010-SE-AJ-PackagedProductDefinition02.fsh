@@ -1,8 +1,8 @@
-Instance: DepoMedrolcumLido-4010-SE-AJ-PackagedProductDefinition02
+Instance: DepoMedrolcumLido-4010-SE-AJ-PPD02
 InstanceOf: PPLPackagedProductDefinition
 
 * containedItemQuantity = 25 http://spor.ema.europa.eu/v1/lists/200000000014#200000002158 "vial"
-* packageFor = Reference(DepoMedrolcumLido-4010-SE-AJ-MedicinalProductDefinition)
+* packageFor = Reference(DepoMedrolcumLido-4010-SE-AJ-MPD)
 * description = "Injektionsflaska, 25 x 1 ml"
 * marketingStatus.country = $100000000002#100000000535 "Sweden"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"

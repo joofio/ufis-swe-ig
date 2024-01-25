@@ -1,4 +1,4 @@
-Instance: Sendolor-1mgml-InfSolution-SE-BS-ManufacturedItemDefinition
+Instance: Sendolor-1mgml-InfSolution-SE-BS-MID
 InstanceOf: PPLManufacturedItemDefinition
 * status = #active
 * manufacturedDoseForm = $200000000004#100000073870 "Solution for infusion"

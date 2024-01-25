@@ -1,4 +1,4 @@
-Instance: SandimmunNeoral100mgmlorallos-SE-PLC-MedicinalProductDef
+Instance: SandimmunNeoral100mgmlorallos-SE-PLC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 
 * combinedPharmaceuticalDoseForm = $200000000004~200000000006~200000000007~200000000008#100000073646 "Oral solution"

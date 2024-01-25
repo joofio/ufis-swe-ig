@@ -1,9 +1,9 @@
 Instance: Stesolid-5mg-Solution-SE-IS-Ingredient
 InstanceOf: PPLIngredient
 * status = #active
-* for[0] = Reference(Stesolid-5mg-Solution-SE-IS-MedicinalProductDefinition)
-* for[+] = Reference(Stesolid-5mg-Solution-SE-IS-ManufacturedItemDefinition)
-* for[+] = Reference(Stesolid-5mg-Solution-SE-IS-AdministrableProductDefinition)
+* for[0] = Reference(Stesolid-5mg-Solution-SE-IS-MPD)
+* for[+] = Reference(Stesolid-5mg-Solution-SE-IS-MID)
+* for[+] = Reference(Stesolid-5mg-Solution-SE-IS-APD)
 * role = $100000072050#100000072072 "Active"
 * substance.code.concept = $SubstanceDefinition#100000092362 "Diazepam"
 

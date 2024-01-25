@@ -1,8 +1,8 @@
-Instance: Aprokam-50mg-Powder-SE-IS-PackagedProductDefinition01
+Instance: Aprokam-50mg-Powder-SE-IS-PPD01
 InstanceOf: PPLPackagedProductDefinition
 
 * containedItemQuantity = 10 http://spor.ema.europa.eu/v1/lists/200000000014#200000002158 "Vial"
-* packageFor = Reference(Aprokam-50mg-Powder-SE-IS-MedicinalProductDefinition)
+* packageFor = Reference(Aprokam-50mg-Powder-SE-IS-MPD)
 * description = "Injektionsflaska, 10 x 50 mg"
 * marketingStatus.country = $100000000002#100000000535 "Sweden"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"

@@ -1,7 +1,7 @@
-Instance: HermolepsinR-300mg-PRTablet-SE-AJ-AdministrableProductDefinition
+Instance: HermolepsinR-300mg-PRTablet-SE-AJ-APD
 InstanceOf: PPLAdministrableProductDefinition
 * status = #active
-* formOf = Reference(HermolepsinR-300mg-PRTablet-SE-AJ-MedicinalProductDefinition)
+* formOf = Reference(HermolepsinR-300mg-PRTablet-SE-AJ-MPD)
 * administrableDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
-* producedFrom = Reference(HermolepsinR-300mg-PRTablet-SE-AJ-ManufacturedItemDefinition)
+* producedFrom = Reference(HermolepsinR-300mg-PRTablet-SE-AJ-MID)
 * routeOfAdministration.code = $100000073345#100000073619 "Oral use"

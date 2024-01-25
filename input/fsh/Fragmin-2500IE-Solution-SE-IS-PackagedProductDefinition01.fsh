@@ -1,8 +1,8 @@
-Instance: Fragmin-2500IE-Solution-SE-IS-PackagedProductDefinition01
+Instance: Fragmin-2500IE-Solution-SE-IS-PPD01
 InstanceOf: PPLPackagedProductDefinition
 
 * containedItemQuantity = 1 http://spor.ema.europa.eu/v1/lists/200000000014#200000002150 "Syringe"
-* packageFor = Reference(Fragmin-2500IE-Solution-SE-IS-MedicinalProductDefinition)
+* packageFor = Reference(Fragmin-2500IE-Solution-SE-IS-MPD)
 * description = "Förfylld spruta, 10 st"
 * marketingStatus.country = $100000000002#100000000535 "Sweden"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"

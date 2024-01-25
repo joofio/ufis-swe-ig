@@ -1,8 +1,8 @@
-Instance: CBZEssPharm-125mg-Supp-SE-AJ-PackagedProductDefinition
+Instance: CBZEssPharm-125mg-Supp-SE-AJ-PPD
 InstanceOf: PPLPackagedProductDefinition
 
 * containedItemQuantity = 5 http://spor.ema.europa.eu/v1/lists/200000000014#200000002149 "Suppository"
-* packageFor = Reference(CBZEssPharm-125mg-Supp-SE-AJ-MedicinalProductDefinition)
+* packageFor = Reference(CBZEssPharm-125mg-Supp-SE-AJ-MPD)
 * description = "Strip, 5 suppositorier"
 * marketingStatus.country = $100000000002#100000000535 "Sweden"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"

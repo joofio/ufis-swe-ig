@@ -1,4 +1,4 @@
-Instance: DiklofenakOrifarm50Enterotablett-SE-PLC-ManufacturedItemDef
+Instance: DiklofenakOrifarm50Enterotablett-SE-PLC-MID
 InstanceOf: PPLManufacturedItemDefinition
 * status = #active
 * manufacturedDoseForm = $200000000004#100000073667 "Gastro-resistant tablet"

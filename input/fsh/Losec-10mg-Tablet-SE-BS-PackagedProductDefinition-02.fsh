@@ -1,9 +1,9 @@
-Instance: Losec-10mg-Tablet-SE-BS-PackagedProductDefinition-02
+Instance: Losec-10mg-Tablet-SE-BS-PPD-02
 InstanceOf: PPLPackagedProductDefinition
 
 * containedItemQuantity.value = 100
 * containedItemQuantity.unit = "Tablet"
-* packageFor = Reference(Losec-10mg-Tablet-SE-BS-MedicinalProductDefinition)
+* packageFor = Reference(Losec-10mg-Tablet-SE-BS-MPD)
 * description = "Burk, 100 (2x50) tabletter"
 * marketingStatus.country = $100000000002#100000000535 "Sweden"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"

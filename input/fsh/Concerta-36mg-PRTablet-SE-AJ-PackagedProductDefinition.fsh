@@ -1,8 +1,8 @@
-Instance: Concerta-36mg-PRTablet-SE-AJ-PackagedProductDefinition
+Instance: Concerta-36mg-PRTablet-SE-AJ-PPD
 InstanceOf: PPLPackagedProductDefinition
 
 * containedItemQuantity = 30 http://spor.ema.europa.eu/v1/lists/200000000014#200000002152 "Tablet"
-* packageFor = Reference(Concerta-36mg-PRTablet-SE-AJ-MedicinalProductDefinition)
+* packageFor = Reference(Concerta-36mg-PRTablet-SE-AJ-MPD)
 * description = "Burk, 30 tabletter"
 * marketingStatus.country = $100000000002#100000000535 "Sweden"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"

@@ -1,8 +1,8 @@
-Instance: Mommox-50mcg-Suspension-SE-IS-PackagedProductDefinition02
+Instance: Mommox-50mcg-Suspension-SE-IS-PPD02
 InstanceOf: PPLPackagedProductDefinition
 
 * containedItemQuantity = 3 http://spor.ema.europa.eu/v1/lists/200000000014#200000002111 "Bottle"
-* packageFor = Reference(Mommox-50mcg-Suspension-SE-IS-MedicinalProductDefinition)
+* packageFor = Reference(Mommox-50mcg-Suspension-SE-IS-MPD)
 * description = "Flaska med dospump, 3 x 140 doser"
 * marketingStatus.country = $100000000002#100000000535 "Sweden"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"

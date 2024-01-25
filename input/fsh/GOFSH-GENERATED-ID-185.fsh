@@ -2,19 +2,19 @@ Instance: GOFSH-GENERATED-ID-185
 InstanceOf: Bundle
 Usage: #example
 * type = #collection
-* entry[+].resource = SandimmunNeoral100mgmlorallos-SE-PLC-MedicinalProductDef
+* entry[+].resource = SandimmunNeoral100mgmlorallos-SE-PLC-MPD
 
 
 * entry[+].resource = SandimmunNeoral100mgmlorallos-SE-PLC-RegAutho
 
 
-* entry[+].resource = SandimmunNeoral100mgmlorallos-SE-PLC-AdminProductDef
+* entry[+].resource = SandimmunNeoral100mgmlorallos-SE-PLC-APD
 
 
-* entry[+].resource = SandimmunNeoral100mgmlorallos-SE-PLC-PackageProductDef
+* entry[+].resource = SandimmunNeoral100mgmlorallos-SE-PLC-PPD
 
 
-* entry[+].resource = SandimmunNeoral100mgmlorallos-SE-PLC-ManufacturedItemDef
+* entry[+].resource = SandimmunNeoral100mgmlorallos-SE-PLC-MID
 
 
 * entry[+].resource = SandimmunNeoral100mgmlorallos-SE-PLC-Ingredient01

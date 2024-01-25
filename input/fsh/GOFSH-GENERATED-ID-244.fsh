@@ -2,25 +2,25 @@ Instance: GOFSH-GENERATED-ID-244
 InstanceOf: Bundle
 Usage: #example
 * type = #collection
-* entry[+].resource = Yaz-0023mg-tablet-SE-AJ-MedicinalProductDefinition
+* entry[+].resource = Yaz-0023mg-tablet-SE-AJ-MPD
 
 
-* entry[+].resource = Yaz-0023mg-tablet-SE-AJ-RegulatedAuthorization
+* entry[+].resource = Yaz-0023mg-tablet-SE-AJ-RA
 
 
-* entry[+].resource = Yaz-0023mg-tablet-SE-AJ-AdministrableProductDefinition01
+* entry[+].resource = Yaz-0023mg-tablet-SE-AJ-APD01
 
 
-* entry[+].resource = Yaz-0023mg-tablet-SE-AJ-AdministrableProductDefinition02
+* entry[+].resource = Yaz-0023mg-tablet-SE-AJ-APD02
 
 
-* entry[+].resource = Yaz-0023mg-tablet-SE-AJ-PackagedProductDefinition
+* entry[+].resource = Yaz-0023mg-tablet-SE-AJ-PPD
 
 
-* entry[+].resource = Yaz-0023mg-tablet-SE-AJ-ManufacturedItemDefinition01
+* entry[+].resource = Yaz-0023mg-tablet-SE-AJ-MPD01
 
 
-* entry[+].resource = Yaz-0023mg-tablet-SE-AJ-ManufacturedItemDefinition02
+* entry[+].resource = Yaz-0023mg-tablet-SE-AJ-MID02
 
 
 * entry[+].resource = Yaz-0023mg-tablet-SE-AJ-Ingredient01

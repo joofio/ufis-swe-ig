@@ -1,8 +1,8 @@
-Instance: AMLbluefish-10mg-Tablet-SE-IS-PackagedProductDefinition
+Instance: AMLbluefish-10mg-Tablet-SE-IS-PPD
 InstanceOf: PPLPackagedProductDefinition
 
 * containedItemQuantity = 10 http://spor.ema.europa.eu/v1/lists/200000000014#Tablet "200000002152"
-* packageFor = Reference(AMLbluefish-10mg-Tablet-SE-IS-MedicinalProductDefinition)
+* packageFor = Reference(AMLbluefish-10mg-Tablet-SE-IS-MPD)
 * description = "Blister, 100 tabletter"
 * marketingStatus.country = $100000000002#100000000535 "Sweden"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"

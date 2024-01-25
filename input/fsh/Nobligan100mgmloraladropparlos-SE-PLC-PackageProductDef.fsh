@@ -1,8 +1,8 @@
-Instance: Nobligan100mgmloraladropparlos-SE-PLC-PackageProductDef
+Instance: Nobligan100mgmloraladropparlos-SE-PLC-PPD
 InstanceOf: PPLPackagedProductDefinition
 
 * containedItemQuantity = 1 http://spor.ema.europa.eu/v1/lists/200000000014#200000002111 "Bottle"
-* packageFor = Reference(Nobligan100mgmloraladropparlos-SE-PLC-MedicinalProductDef)
+* packageFor = Reference(Nobligan100mgmloraladropparlos-SE-PLC-MPD)
 * description = "Flaska, 96 ml (glas)"
 * marketingStatus.country = $100000000002#100000000535 "Sweden"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"

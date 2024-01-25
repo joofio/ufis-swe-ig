@@ -1,8 +1,8 @@
-Instance: Tapin-2525-Cream-SE-AJ-PackagedProductDefinition01
+Instance: Tapin-2525-Cream-SE-AJ-PPD01
 InstanceOf: PPLPackagedProductDefinition
 
 * containedItemQuantity = 1 http://spor.ema.europa.eu/v1/lists/200000000014#200000002156 "Tube"
-* packageFor = Reference(Tapin-2525-Cream-SE-AJ-MedicinalProductDefinition)
+* packageFor = Reference(Tapin-2525-Cream-SE-AJ-MPD)
 * description = "Tub, 5 g"
 * marketingStatus.country = $100000000002#100000000535 "Sweden"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"

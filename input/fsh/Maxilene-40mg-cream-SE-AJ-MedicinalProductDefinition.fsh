@@ -1,4 +1,4 @@
-Instance: Maxilene-40mg-cream-SE-AJ-MedicinalProductDefinition
+Instance: Maxilene-40mg-cream-SE-AJ-MPD
 InstanceOf: PPLMedicinalProductDefinition
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Cream"

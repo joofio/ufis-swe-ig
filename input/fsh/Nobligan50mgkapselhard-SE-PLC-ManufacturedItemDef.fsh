@@ -1,4 +1,4 @@
-Instance: Nobligan50mgkapselhard-SE-PLC-ManufacturedItemDef
+Instance: Nobligan50mgkapselhard-SE-PLC-MID
 InstanceOf: PPLManufacturedItemDefinition
 * status = #active
 * manufacturedDoseForm = $200000000004#100000073375 "Capsule, hard"

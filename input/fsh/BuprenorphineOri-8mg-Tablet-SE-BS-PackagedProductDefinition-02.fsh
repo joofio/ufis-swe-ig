@@ -1,8 +1,8 @@
-Instance: BuprenorphineOri-8mg-Tablet-SE-BS-PackagedProductDefinition-02
+Instance: BuprenorphineOri-8mg-Tablet-SE-BS-PPD-02
 InstanceOf: PPLPackagedProductDefinition
 
 * containedItemQuantity = 7 http://spor.ema.europa.eu/v1/lists/200000000014#200000002152 "Tablet"
-* packageFor = Reference(BuprenorphineOri-8mg-Tablet-SE-BS-MedicinalProductDefinition)
+* packageFor = Reference(BuprenorphineOri-8mg-Tablet-SE-BS-MPD)
 * description = "Blister, 7 tabletter"
 * marketingStatus.country = $100000000002#100000000535 "Sweden"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"

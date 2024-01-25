@@ -1,8 +1,8 @@
-Instance: DicTratiopharma50mgFilmtablet-SE-PLC-PackageProductDef01
+Instance: DicTratiopharma50mgFilmtablet-SE-PLC-PPD01
 InstanceOf: PPLPackagedProductDefinition
 
 * containedItemQuantity = 100 http://spor.ema.europa.eu/v1/lists/200000000014#200000002152 "Tablet"
-* packageFor = Reference(DicTratiopharma50mgFilmtablet-SE-PLC-MedicinalProductDef)
+* packageFor = Reference(DicTratiopharma50mgFilmtablet-SE-PLC-MPD)
 * description = "Blister, 100 x 1 tablett (endos)"
 * marketingStatus.country = $100000000002#100000000535 "Sweden"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"

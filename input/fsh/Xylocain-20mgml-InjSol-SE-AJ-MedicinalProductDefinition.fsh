@@ -1,4 +1,4 @@
-Instance: Xylocain-20mgml-InjSol-SE-AJ-MedicinalProductDefinition
+Instance: Xylocain-20mgml-InjSol-SE-AJ-MPD
 InstanceOf: PPLMedicinalProductDefinition
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solution for injection"

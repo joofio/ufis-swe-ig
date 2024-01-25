@@ -1,4 +1,4 @@
-Instance: AMLteva-5mg-Tablet-SE-IS-MedicinalProductDefinition
+Instance: AMLteva-5mg-Tablet-SE-IS-MPD
 InstanceOf: PPLMedicinalProductDefinition
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"

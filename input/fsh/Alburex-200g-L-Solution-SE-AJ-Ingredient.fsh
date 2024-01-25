@@ -1,9 +1,9 @@
 Instance: Alburex-200g-L-Solution-SE-AJ-Ingredient
 InstanceOf: PPLIngredient
 * status = #active
-* for[0] = Reference(Alburex-200g-L-Solution-SE-AJ-MedicinalProductDefinition)
-* for[+] = Reference(Alburex-200g-L-Solution-SE-AJ-ManufacturedItemDefinition)
-* for[+] = Reference(Alburex-200g-L-Solution-SE-AJ-AdministrableProductDefinition)
+* for[0] = Reference(Alburex-200g-L-Solution-SE-AJ-MPD)
+* for[+] = Reference(Alburex-200g-L-Solution-SE-AJ-MID)
+* for[+] = Reference(Alburex-200g-L-Solution-SE-AJ-APD)
 * role = $100000072050#100000072072 "Active"
 * substance.code.concept = $SubstanceDefinition#100000089024 "human serum albumin"
 

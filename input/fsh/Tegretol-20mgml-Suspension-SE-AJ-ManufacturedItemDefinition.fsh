@@ -1,4 +1,4 @@
-Instance: Tegretol-20mgml-Suspension-SE-AJ-ManufacturedItemDefinition
+Instance: Tegretol-20mgml-Suspension-SE-AJ-MID
 InstanceOf: PPLManufacturedItemDefinition
 * status = #active
 * manufacturedDoseForm = $200000000004#100000073362 "Oral suspension"

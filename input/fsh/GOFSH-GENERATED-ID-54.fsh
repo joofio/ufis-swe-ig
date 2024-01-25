@@ -2,19 +2,19 @@ Instance: GOFSH-GENERATED-ID-54
 InstanceOf: Bundle
 Usage: #example
 * type = #collection
-* entry[+].resource = DZPorifarm-10mg-Tablet-SE-IS-MedicinalProductDefinition
+* entry[+].resource = DZPorifarm-10mg-Tablet-SE-IS-MPD
 
 
-* entry[+].resource = DZPorifarm-10mg-Tablet-SE-IS-RegulatedAuthorization
+* entry[+].resource = DZPorifarm-10mg-Tablet-SE-IS-RA
 
 
-* entry[+].resource = DZPorifarm-10mg-Tablet-SE-IS-AdministrableProductDefinition
+* entry[+].resource = DZPorifarm-10mg-Tablet-SE-IS-APD
 
 
-* entry[+].resource = DZPorifarm-10mg-Tablet-SE-IS-PackagedProductDefinition
+* entry[+].resource = DZPorifarm-10mg-Tablet-SE-IS-PPD
 
 
-* entry[+].resource = DZPorifarm-10mg-Tablet-SE-IS-ManufacturedItemDefinition
+* entry[+].resource = DZPorifarm-10mg-Tablet-SE-IS-MID
 
 
 * entry[+].resource = DZPorifarm-10mg-Tablet-SE-IS-Ingredient

@@ -1,4 +1,4 @@
-Instance: Tegretol-20mgml-Suspension-SE-AJ-MedicinalProductDefinition
+Instance: Tegretol-20mgml-Suspension-SE-AJ-MPD
 InstanceOf: PPLMedicinalProductDefinition
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Oral suspension"

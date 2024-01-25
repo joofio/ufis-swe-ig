@@ -1,9 +1,9 @@
 Instance: LidPrilAlterNova-2525-Cream-SE-AJ-Ingredient01
 InstanceOf: PPLIngredient
 * status = #active
-* for[0] = Reference(LidPrilAlterNova-2525-Cream-SE-AJ-MedicinalProductDefinition)
-* for[+] = Reference(LidPrilAlterNova-2525-Cream-SE-AJ-ManufacturedItemDefinition)
-* for[+] = Reference(LidPrilAlterNova-2525-Cream-SE-AJ-AdministrableProductDefinition)
+* for[0] = Reference(LidPrilAlterNova-2525-Cream-SE-AJ-MPD)
+* for[+] = Reference(LidPrilAlterNova-2525-Cream-SE-AJ-MID)
+* for[+] = Reference(LidPrilAlterNova-2525-Cream-SE-AJ-APD)
 * role = $100000072050#100000072072 "Active"
 * substance.code.concept = $SubstanceDefinition#100000091713 "Lidocaine"
 

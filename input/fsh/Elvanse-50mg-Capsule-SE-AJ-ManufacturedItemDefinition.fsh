@@ -1,4 +1,4 @@
-Instance: Elvanse-50mg-Capsule-SE-AJ-ManufacturedItemDefinition
+Instance: Elvanse-50mg-Capsule-SE-AJ-MID
 InstanceOf: PPLManufacturedItemDefinition
 * status = #active
 * manufacturedDoseForm = $200000000004#100000073375 "Capsule, hard"

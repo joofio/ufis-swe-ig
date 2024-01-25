@@ -1,8 +1,8 @@
-Instance: Stesolid-10mg-Tablet-SE-IS-PackagedProductDefinition03
+Instance: Stesolid-10mg-Tablet-SE-IS-PPD03
 InstanceOf: PPLPackagedProductDefinition
 
 * containedItemQuantity = 25 http://spor.ema.europa.eu/v1/lists/200000000014#200000002152 "tablet"
-* packageFor = Reference(Stesolid-10mg-Tablet-SE-IS-MedicinalProductDefinition)
+* packageFor = Reference(Stesolid-10mg-Tablet-SE-IS-MPD)
 * description = "Burk, 25 tabletter"
 * marketingStatus.country = $100000000002#100000000535 "Sweden"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"

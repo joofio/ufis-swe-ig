@@ -1,9 +1,9 @@
 Instance: NitroglycerinAbicurinfu-SE-PLC-Ingredient
 InstanceOf: PPLIngredient
 * status = #active
-* for[0] = Reference(NitroglycerinAbicurinfu-SE-PLC-MedicinalProductDef)
-* for[+] = Reference(NitroglycerinAbicurinfu-SE-PLC-ManufacturedItemDef)
-* for[+] = Reference(NitroglycerinAbicurinfu-SE-PLC-AdminProductDef)
+* for[0] = Reference(NitroglycerinAbicurinfu-SE-PLC-MPD)
+* for[+] = Reference(NitroglycerinAbicurinfu-SE-PLC-MID)
+* for[+] = Reference(NitroglycerinAbicurinfu-SE-PLC-APD)
 * role = $100000072050#100000072072 "Active"
 * substance.code.concept = $SubstanceDefinition#100000087614 "Glyceryl trinitrate"
 

@@ -1,4 +1,4 @@
-Instance: EMLA-2525-Cream-SE-AJ-ManufacturedItemDefinition
+Instance: EMLA-2525-Cream-SE-AJ-MID
 InstanceOf: PPLManufacturedItemDefinition
 * status = #active
 * manufacturedDoseForm = $200000000004#100000073712 "Cream"

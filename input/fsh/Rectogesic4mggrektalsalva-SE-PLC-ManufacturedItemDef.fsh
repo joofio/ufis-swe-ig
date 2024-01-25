@@ -1,4 +1,4 @@
-Instance: Rectogesic4mggrektalsalva-SE-PLC-ManufacturedItemDef
+Instance: Rectogesic4mggrektalsalva-SE-PLC-MID
 InstanceOf: PPLManufacturedItemDefinition
 * status = #active
 * manufacturedDoseForm = $200000000004#100000073828 "Rectal ointment"

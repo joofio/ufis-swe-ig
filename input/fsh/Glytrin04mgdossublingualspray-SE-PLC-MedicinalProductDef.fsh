@@ -1,4 +1,4 @@
-Instance: Glytrin04mgdossublingualspray-SE-PLC-MedicinalProductDef
+Instance: Glytrin04mgdossublingualspray-SE-PLC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 
 * combinedPharmaceuticalDoseForm = $200000000004~200000000006~200000000007~200000000008#100000143499 "Sublingual spray, solution"

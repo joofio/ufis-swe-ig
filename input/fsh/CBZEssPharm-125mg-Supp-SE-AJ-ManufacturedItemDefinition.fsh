@@ -1,4 +1,4 @@
-Instance: CBZEssPharm-125mg-Supp-SE-AJ-ManufacturedItemDefinition
+Instance: CBZEssPharm-125mg-Supp-SE-AJ-MID
 InstanceOf: PPLManufacturedItemDefinition
 * status = #active
 * manufacturedDoseForm = $200000000004#100000073843 "Suppository"

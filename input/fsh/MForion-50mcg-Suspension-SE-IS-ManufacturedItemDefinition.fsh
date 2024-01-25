@@ -1,4 +1,4 @@
-Instance: MForion-50mcg-Suspension-SE-IS-ManufacturedItemDefinition
+Instance: MForion-50mcg-Suspension-SE-IS-MID
 InstanceOf: PPLManufacturedItemDefinition
 * status = #active
 * manufacturedDoseForm = $200000000004#100000073809 "Nasal spray, suspension"

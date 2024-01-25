@@ -1,8 +1,8 @@
-Instance: EnalaprilSandoz-2.5mg-Tablet-SE-AJ-PackagedProductDefinition02
+Instance: EnalaprilSandoz-2.5mg-Tablet-SE-AJ-PPD02
 InstanceOf: PPLPackagedProductDefinition
 
 * containedItemQuantity = 250 http://spor.ema.europa.eu/v1/lists/200000000014#200000002152 "tablet"
-* packageFor = Reference(EnalaprilSandoz-2.5mg-Tablet-SE-AJ-MedicinalProductDefinition)
+* packageFor = Reference(EnalaprilSandoz-2.5mg-Tablet-SE-AJ-MPD)
 * description = "Burk, 250 tabletter (dosdispensering)"
 * marketingStatus.country = $100000000002#100000000535 "Sweden"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"

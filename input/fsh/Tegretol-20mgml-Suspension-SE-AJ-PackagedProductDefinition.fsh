@@ -1,8 +1,8 @@
-Instance: Tegretol-20mgml-Suspension-SE-AJ-PackagedProductDefinition
+Instance: Tegretol-20mgml-Suspension-SE-AJ-PPD
 InstanceOf: PPLPackagedProductDefinition
 
 * containedItemQuantity = 1 http://spor.ema.europa.eu/v1/lists/200000000014#200000002111 "Bottle"
-* packageFor = Reference(Tegretol-20mgml-Suspension-SE-AJ-MedicinalProductDefinition)
+* packageFor = Reference(Tegretol-20mgml-Suspension-SE-AJ-MPD)
 * description = "Flaska, 300 ml"
 * marketingStatus.country = $100000000002#100000000535 "Sweden"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"

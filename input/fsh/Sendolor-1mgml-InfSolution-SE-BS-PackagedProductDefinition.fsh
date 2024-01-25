@@ -1,8 +1,8 @@
-Instance: Sendolor-1mgml-InfSolution-SE-BS-PackagedProductDefinition
+Instance: Sendolor-1mgml-InfSolution-SE-BS-PPD
 InstanceOf: PPLPackagedProductDefinition
 
 * containedItemQuantity = 1 http://spor.ema.europa.eu/v1/lists/200000000014#200000002166 "Bag"
-* packageFor = Reference(Sendolor-1mgml-InfSolution-SE-BS-MedicinalProductDefinition)
+* packageFor = Reference(Sendolor-1mgml-InfSolution-SE-BS-MPD)
 * description = "Påse, 100 ml"
 * marketingStatus.country = $100000000002#100000000535 "Sweden"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"

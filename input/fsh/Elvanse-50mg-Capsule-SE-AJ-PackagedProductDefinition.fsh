@@ -1,8 +1,8 @@
-Instance: Elvanse-50mg-Capsule-SE-AJ-PackagedProductDefinition
+Instance: Elvanse-50mg-Capsule-SE-AJ-PPD
 InstanceOf: PPLPackagedProductDefinition
 
 * containedItemQuantity = 30 http://spor.ema.europa.eu/v1/lists/200000000014#200000002113 "Capsule"
-* packageFor = Reference(Elvanse-50mg-Capsule-SE-AJ-MedicinalProductDefinition)
+* packageFor = Reference(Elvanse-50mg-Capsule-SE-AJ-MPD)
 * description = "Burk, 30 kapslar"
 * marketingStatus.country = $100000000002#100000000535 "Sweden"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"

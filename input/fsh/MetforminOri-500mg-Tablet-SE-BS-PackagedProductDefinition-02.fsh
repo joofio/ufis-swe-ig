@@ -1,8 +1,8 @@
-Instance: MetforminOri-500mg-Tablet-SE-BS-PackagedProductDefinition-02
+Instance: MetforminOri-500mg-Tablet-SE-BS-PPD-02
 InstanceOf: PPLPackagedProductDefinition
 
 * containedItemQuantity = 300 http://spor.ema.europa.eu/v1/lists/200000000014#200000002152 "Tablet"
-* packageFor = Reference(MetforminOri-500mg-Tablet-SE-BS-MedicinalProductDefinition)
+* packageFor = Reference(MetforminOri-500mg-Tablet-SE-BS-MPD)
 * description = "Burk, 300 tabletter"
 * marketingStatus.country = $100000000002#100000000535 "Sweden"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"

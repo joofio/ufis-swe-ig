@@ -1,21 +1,22 @@
 Instance: GOFSH-GENERATED-ID-79
 InstanceOf: Bundle
 Usage: #example
-* type = #collection
-* entry[+].resource = EnoxaparinBecat8000IEinjektion-SE-PLC-MPD
+* type = #transaction
+* entry[0].resource = EnoxaparinBecat8000IEinjektion-SE-PLC-MedicinalProductDef
 
-
+* entry[=].fullUrl = "MedicinalProductDefinition/EnoxaparinBecat8000IEinjektion-SE-PLC-MedicinalProductDef"
 * entry[+].resource = EnoxaparinBecat8000IEinjektion-SE-PLC-RegAutho
 
+* entry[=].fullUrl = "RegulatedAuthorization/EnoxaparinBecat8000IEinjektion-SE-PLC-RegAutho"
+* entry[+].resource = EnoxaparinBecat8000IEinjektion-SE-PLC-AdminProductDef
 
-* entry[+].resource = EnoxaparinBecat8000IEinjektion-SE-PLC-APD
+* entry[=].fullUrl = "AdministrableProductDefinition/EnoxaparinBecat8000IEinjektion-SE-PLC-AdminProductDef"
+* entry[+].resource = EnoxaparinBecat8000IEinjektion-SE-PLC-PackageProductDef
 
+* entry[=].fullUrl = "PackagedProductDefinition/EnoxaparinBecat8000IEinjektion-SE-PLC-PackageProductDef"
+* entry[+].resource = EnoxaparinBecat8000IEinjektion-SE-PLC-ManufacturedItemDef
 
-* entry[+].resource = EnoxaparinBecat8000IEinjektion-SE-PLC-PPD
-
-
-* entry[+].resource = EnoxaparinBecat8000IEinjektion-SE-PLC-MID
-
-
+* entry[=].fullUrl = "ManufacturedItemDefinition/EnoxaparinBecat8000IEinjektion-SE-PLC-ManufacturedItemDef"
 * entry[+].resource = EnoxaparinBecat8000IEinjektion-SE-PLC-Ingredient
 
+* entry[=].fullUrl = "Ingredient/EnoxaparinBecat8000IEinjektion-SE-PLC-Ingredient"

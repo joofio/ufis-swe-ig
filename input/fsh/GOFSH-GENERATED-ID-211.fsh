@@ -1,21 +1,22 @@
 Instance: GOFSH-GENERATED-ID-211
 InstanceOf: Bundle
 Usage: #example
-* type = #collection
-* entry[+].resource = Tegretol-20mgml-Suspension-SE-AJ-MPD
+* type = #transaction
+* entry[0].resource = Tegretol-20mgml-Suspension-SE-AJ-MedicinalProductDefinition
 
+* entry[=].fullUrl = "MedicinalProductDefinition/Tegretol-20mgml-Suspension-SE-AJ-MedicinalProductDefinition"
+* entry[+].resource = Tegretol-20mgml-Suspension-SE-AJ-RegulatedAuthorization
 
-* entry[+].resource = Tegretol-20mgml-Suspension-SE-AJ-RA
+* entry[=].fullUrl = "RegulatedAuthorization/Tegretol-20mgml-Suspension-SE-AJ-RegulatedAuthorization"
+* entry[+].resource = Tegretol-20mgml-Suspension-SE-AJ-AdministrableProductDefinition
 
+* entry[=].fullUrl = "AdministrableProductDefinition/Tegretol-20mgml-Suspension-SE-AJ-AdministrableProductDefinition"
+* entry[+].resource = Tegretol-20mgml-Suspension-SE-AJ-PackagedProductDefinition
 
-* entry[+].resource = Tegretol-20mgml-Suspension-SE-AJ-APD
+* entry[=].fullUrl = "PackagedProductDefinition/Tegretol-20mgml-Suspension-SE-AJ-PackagedProductDefinition"
+* entry[+].resource = Tegretol-20mgml-Suspension-SE-AJ-ManufacturedItemDefinition
 
-
-* entry[+].resource = Tegretol-20mgml-Suspension-SE-AJ-PPD
-
-
-* entry[+].resource = Tegretol-20mgml-Suspension-SE-AJ-MID
-
-
+* entry[=].fullUrl = "ManufacturedItemDefinition/Tegretol-20mgml-Suspension-SE-AJ-ManufacturedItemDefinition"
 * entry[+].resource = Tegretol-20mgml-Suspension-SE-AJ-Ingredient
 
+* entry[=].fullUrl = "Ingredient/Tegretol-20mgml-Suspension-SE-AJ-Ingredient"

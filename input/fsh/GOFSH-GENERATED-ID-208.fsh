@@ -1,27 +1,28 @@
 Instance: GOFSH-GENERATED-ID-208
 InstanceOf: Bundle
 Usage: #example
-* type = #collection
-* entry[+].resource = Tapin-2525-Plaster-SE-AJ-MPD
+* type = #transaction
+* entry[0].resource = Tapin-2525-Plaster-SE-AJ-MedicinalProductDefinition
 
+* entry[=].fullUrl = "MedicinalProductDefinition/Tapin-2525-Plaster-SE-AJ-MedicinalProductDefinition"
+* entry[+].resource = Tapin-2525-Plaster-SE-AJ-RegulatedAuthorization
 
-* entry[+].resource = Tapin-2525-Plaster-SE-AJ-RA
+* entry[=].fullUrl = "RegulatedAuthorization/Tapin-2525-Plaster-SE-AJ-RegulatedAuthorization"
+* entry[+].resource = Tapin-2525-Plaster-SE-AJ-AdministrableProductDefinition
 
+* entry[=].fullUrl = "AdministrableProductDefinition/Tapin-2525-Plaster-SE-AJ-AdministrableProductDefinition"
+* entry[+].resource = Tapin-2525-Plaster-SE-AJ-PackagedProductDefinition01
 
-* entry[+].resource = Tapin-2525-Plaster-SE-AJ-APD
+* entry[=].fullUrl = "PackagedProductDefinition/Tapin-2525-Plaster-SE-AJ-PackagedProductDefinition01"
+* entry[+].resource = Tapin-2525-Plaster-SE-AJ-PackagedProductDefinition02
 
+* entry[=].fullUrl = "PackagedProductDefinition/Tapin-2525-Plaster-SE-AJ-PackagedProductDefinition02"
+* entry[+].resource = Tapin-2525-Plaster-SE-AJ-ManufacturedItemDefinition
 
-* entry[+].resource = Tapin-2525-Plaster-SE-AJ-PPD01
-
-
-* entry[+].resource = Tapin-2525-Plaster-SE-AJ-PPD02
-
-
-* entry[+].resource = Tapin-2525-Plaster-SE-AJ-MID
-
-
+* entry[=].fullUrl = "ManufacturedItemDefinition/Tapin-2525-Plaster-SE-AJ-ManufacturedItemDefinition"
 * entry[+].resource = Tapin-2525-Plaster-SE-AJ-Ingredient01
 
-
+* entry[=].fullUrl = "Ingredient/Tapin-2525-Plaster-SE-AJ-Ingredient01"
 * entry[+].resource = Tapin-2525-Plaster-SE-AJ-Ingredient02
 
+* entry[=].fullUrl = "Ingredient/Tapin-2525-Plaster-SE-AJ-Ingredient02"

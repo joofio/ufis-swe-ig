@@ -1,24 +1,25 @@
 Instance: GOFSH-GENERATED-ID-231
 InstanceOf: Bundle
 Usage: #example
-* type = #collection
-* entry[+].resource = Voxra-150mg-Tablet-SE-BS-MPD
+* type = #transaction
+* entry[0].resource = Voxra-150mg-Tablet-SE-BS-MedicinalProductDefinition
 
+* entry[=].fullUrl = "MedicinalProductDefinition/Voxra-150mg-Tablet-SE-BS-MedicinalProductDefinition"
+* entry[+].resource = Voxra-150mg-Tablet-SE-BS-RegulatedAuthorization
 
-* entry[+].resource = Voxra-150mg-Tablet-SE-BS-RA
+* entry[=].fullUrl = "RegulatedAuthorization/Voxra-150mg-Tablet-SE-BS-RegulatedAuthorization"
+* entry[+].resource = Voxra-150mg-Tablet-SE-BS-AdministrableProductDef
 
+* entry[=].fullUrl = "AdministrableProductDefinition/Voxra-150mg-Tablet-SE-BS-AdministrableProductDef"
+* entry[+].resource = Voxra-150mg-Tablet-SE-BS-PackagedProductDefinition
 
-* entry[+].resource = Voxra-150mg-Tablet-SE-BS-APD
+* entry[=].fullUrl = "PackagedProductDefinition/Voxra-150mg-Tablet-SE-BS-PackagedProductDefinition"
+* entry[+].resource = Voxra-150mg-Tablet-SE-BS-PackagedProductDefinition-02
 
+* entry[=].fullUrl = "PackagedProductDefinition/Voxra-150mg-Tablet-SE-BS-PackagedProductDefinition-02"
+* entry[+].resource = Voxra-150mg-Tablet-SE-BS-ManufacturedItemDefinition
 
-* entry[+].resource = Voxra-150mg-Tablet-SE-BS-PPD
-
-
-* entry[+].resource = Voxra-150mg-Tablet-SE-BS-PPD-02
-
-
-* entry[+].resource = Voxra-150mg-Tablet-SE-BS-MID
-
-
+* entry[=].fullUrl = "ManufacturedItemDefinition/Voxra-150mg-Tablet-SE-BS-ManufacturedItemDefinition"
 * entry[+].resource = Voxra-150mg-Tablet-SE-BS-Ingredient
 
+* entry[=].fullUrl = "Ingredient/Voxra-150mg-Tablet-SE-BS-Ingredient"

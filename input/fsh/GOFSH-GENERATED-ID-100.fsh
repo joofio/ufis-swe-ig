@@ -1,21 +1,22 @@
 Instance: GOFSH-GENERATED-ID-100
 InstanceOf: Bundle
 Usage: #example
-* type = #collection
-* entry[+].resource = IMAkrkadd-400mg-Tablet-SE-IS-MPD
+* type = #transaction
+* entry[0].resource = IMAkrkadd-400mg-Tablet-SE-IS-MedicinalProductDefinition
 
+* entry[=].fullUrl = "MedicinalProductDefinition/IMAkrkadd-400mg-Tablet-SE-IS-MedicinalProductDefinition"
+* entry[+].resource = IMAkrkadd-400mg-Tablet-SE-IS-RegulatedAuthorization
 
-* entry[+].resource = IMAkrkadd-400mg-Tablet-SE-IS-RA
+* entry[=].fullUrl = "RegulatedAuthorization/IMAkrkadd-400mg-Tablet-SE-IS-RegulatedAuthorization"
+* entry[+].resource = IMAkrkadd-400mg-Tablet-SE-IS-AdministrableProductDefinition
 
+* entry[=].fullUrl = "AdministrableProductDefinition/IMAkrkadd-400mg-Tablet-SE-IS-AdministrableProductDefinition"
+* entry[+].resource = IMAkrkadd-400mg-Tablet-SE-IS-PackagedProductDefinition
 
-* entry[+].resource = IMAkrkadd-400mg-Tablet-SE-IS-APD
+* entry[=].fullUrl = "PackagedProductDefinition/IMAkrkadd-400mg-Tablet-SE-IS-PackagedProductDefinition"
+* entry[+].resource = IMAkrkadd-400mg-Tablet-SE-IS-ManufacturedItemDefinition
 
-
-* entry[+].resource = IMAkrkadd-400mg-Tablet-SE-IS-PPD
-
-
-* entry[+].resource = IMAkrkadd-400mg-Tablet-SE-IS-MID
-
-
+* entry[=].fullUrl = "ManufacturedItemDefinition/IMAkrkadd-400mg-Tablet-SE-IS-ManufacturedItemDefinition"
 * entry[+].resource = IMAkrkadd-400mg-Tablet-SE-IS-Ingredient
 
+* entry[=].fullUrl = "Ingredient/IMAkrkadd-400mg-Tablet-SE-IS-Ingredient"

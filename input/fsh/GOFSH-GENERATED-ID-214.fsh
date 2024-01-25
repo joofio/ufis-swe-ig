@@ -1,24 +1,25 @@
 Instance: GOFSH-GENERATED-ID-214
 InstanceOf: Bundle
 Usage: #example
-* type = #collection
-* entry[+].resource = TegretolR-200mg-PRTablet-SE-AJ-MPD
+* type = #transaction
+* entry[0].resource = TegretolR-200mg-PRTablet-SE-AJ-MedicinalProductDefinition
 
+* entry[=].fullUrl = "MedicinalProductDefinition/TegretolR-200mg-PRTablet-SE-AJ-MedicinalProductDefinition"
+* entry[+].resource = TegretolR-200mg-PRTablet-SE-AJ-RegulatedAuthorization
 
-* entry[+].resource = TegretolR-200mg-PRTablet-SE-AJ-RA
+* entry[=].fullUrl = "RegulatedAuthorization/TegretolR-200mg-PRTablet-SE-AJ-RegulatedAuthorization"
+* entry[+].resource = TegretolR-200mg-PRTablet-SE-AJ-AdministrableProductDefinition
 
+* entry[=].fullUrl = "AdministrableProductDefinition/TegretolR-200mg-PRTablet-SE-AJ-AdministrableProductDefinition"
+* entry[+].resource = TegretolR-200mg-PRTablet-SE-AJ-PackagedProductDefinition01
 
-* entry[+].resource = TegretolR-200mg-PRTablet-SE-AJ-APD
+* entry[=].fullUrl = "PackagedProductDefinition/TegretolR-200mg-PRTablet-SE-AJ-PackagedProductDefinition01"
+* entry[+].resource = TegretolR-200mg-PRTablet-SE-AJ-PackagedProductDefinition02
 
+* entry[=].fullUrl = "PackagedProductDefinition/TegretolR-200mg-PRTablet-SE-AJ-PackagedProductDefinition02"
+* entry[+].resource = TegretolR-200mg-PRTablet-SE-AJ-ManufacturedItemDefinition
 
-* entry[+].resource = TegretolR-200mg-PRTablet-SE-AJ-PPD01
-
-
-* entry[+].resource = TegretolR-200mg-PRTablet-SE-AJ-PPD02
-
-
-* entry[+].resource = TegretolR-200mg-PRTablet-SE-AJ-MID
-
-
+* entry[=].fullUrl = "ManufacturedItemDefinition/TegretolR-200mg-PRTablet-SE-AJ-ManufacturedItemDefinition"
 * entry[+].resource = TegretolR-200mg-PRTablet-SE-AJ-Ingredient
 
+* entry[=].fullUrl = "Ingredient/TegretolR-200mg-PRTablet-SE-AJ-Ingredient"

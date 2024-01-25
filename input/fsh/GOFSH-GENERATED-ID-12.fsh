@@ -1,21 +1,22 @@
 Instance: GOFSH-GENERATED-ID-12
 InstanceOf: Bundle
 Usage: #example
-* type = #collection
-* entry[+].resource = AMLjubilant-10mg-Tablet-SE-IS-MPD
+* type = #transaction
+* entry[0].resource = AMLjubilant-10mg-Tablet-SE-IS-MedicinalProductDefinition
 
+* entry[=].fullUrl = "MedicinalProductDefinition/AMLjubilant-10mg-Tablet-SE-IS-MedicinalProductDefinition"
+* entry[+].resource = AMLjubilant-10mg-Tablet-SE-IS-RegulatedAuthorization
 
-* entry[+].resource = AMLjubilant-10mg-Tablet-SE-IS-RA
+* entry[=].fullUrl = "RegulatedAuthorization/AMLjubilant-10mg-Tablet-SE-IS-RegulatedAuthorization"
+* entry[+].resource = AMLjubilant-10mg-Tablet-SE-IS-AdministrableProductDefinition
 
+* entry[=].fullUrl = "AdministrableProductDefinition/AMLjubilant-10mg-Tablet-SE-IS-AdministrableProductDefinition"
+* entry[+].resource = AMLjubilant-10mg-Tablet-SE-IS-PackagedProductDefinition
 
-* entry[+].resource = AMLjubilant-10mg-Tablet-SE-IS-APD
+* entry[=].fullUrl = "PackagedProductDefinition/AMLjubilant-10mg-Tablet-SE-IS-PackagedProductDefinition"
+* entry[+].resource = AMLjubilant-10mg-Tablet-SE-IS-ManufacturedItemDefinition
 
-
-* entry[+].resource = AMLjubilant-10mg-Tablet-SE-IS-PPD
-
-
-* entry[+].resource = AMLjubilant-10mg-Tablet-SE-IS-MID
-
-
+* entry[=].fullUrl = "ManufacturedItemDefinition/AMLjubilant-10mg-Tablet-SE-IS-ManufacturedItemDefinition"
 * entry[+].resource = AMLjubilant-10mg-Tablet-SE-IS-Ingredient
 
+* entry[=].fullUrl = "Ingredient/AMLjubilant-10mg-Tablet-SE-IS-Ingredient"

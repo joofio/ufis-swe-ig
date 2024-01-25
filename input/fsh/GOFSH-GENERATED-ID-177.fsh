@@ -1,27 +1,28 @@
 Instance: GOFSH-GENERATED-ID-177
 InstanceOf: Bundle
 Usage: #example
-* type = #collection
-* entry[+].resource = Panocod-500mg30mg-Tablet-SE-IS-MPD
+* type = #transaction
+* entry[0].resource = Panocod-500mg30mg-Tablet-SE-IS-MedicinalProductDefinition
 
+* entry[=].fullUrl = "MedicinalProductDefinition/Panocod-500mg30mg-Tablet-SE-IS-MedicinalProductDefinition"
+* entry[+].resource = Panocod-500mg30mg-Tablet-SE-IS-RegulatedAuthorization
 
-* entry[+].resource = Panocod-500mg30mg-Tablet-SE-IS-RA
+* entry[=].fullUrl = "RegulatedAuthorization/Panocod-500mg30mg-Tablet-SE-IS-RegulatedAuthorization"
+* entry[+].resource = Panocod-500mg30mg-Tablet-SE-IS-AdministrableProductDefinition
 
+* entry[=].fullUrl = "AdministrableProductDefinition/Panocod-500mg30mg-Tablet-SE-IS-AdministrableProductDefinition"
+* entry[+].resource = Panocod-500mg30mg-Tablet-SE-IS-PackagedProductDefinition01
 
-* entry[+].resource = Panocod-500mg30mg-Tablet-SE-IS-APD
+* entry[=].fullUrl = "PackagedProductDefinition/Panocod-500mg30mg-Tablet-SE-IS-PackagedProductDefinition01"
+* entry[+].resource = Panocod-500mg30mg-Tablet-SE-IS-PackagedProductDefinition02
 
+* entry[=].fullUrl = "PackagedProductDefinition/Panocod-500mg30mg-Tablet-SE-IS-PackagedProductDefinition02"
+* entry[+].resource = Panocod-500mg30mg-Tablet-SE-IS-ManufacturedItemDefinition
 
-* entry[+].resource = Panocod-500mg30mg-Tablet-SE-IS-PPD01
-
-
-* entry[+].resource = Panocod-500mg30mg-Tablet-SE-IS-PPD02
-
-
-* entry[+].resource = Panocod-500mg30mg-Tablet-SE-IS-MID
-
-
+* entry[=].fullUrl = "ManufacturedItemDefinition/Panocod-500mg30mg-Tablet-SE-IS-ManufacturedItemDefinition"
 * entry[+].resource = Panocod-500mg30mg-Tablet-SE-IS-Ingredient01
 
-
+* entry[=].fullUrl = "Ingredient/Panocod-500mg30mg-Tablet-SE-IS-Ingredient01"
 * entry[+].resource = Panocod-500mg30mg-Tablet-SE-IS-Ingredient02
 
+* entry[=].fullUrl = "Ingredient/Panocod-500mg30mg-Tablet-SE-IS-Ingredient02"

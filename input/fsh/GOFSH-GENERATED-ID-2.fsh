@@ -1,27 +1,22 @@
 Instance: GOFSH-GENERATED-ID-2
 InstanceOf: Bundle
 Usage: #example
-* type = #collection
-* entry[+].resource = Airomir0.1Spray-SE-PLC-MPD
-* entry[=].fullUrl = "http://example.org/fhir/MedicinalProductDefinition/ABASAGLAR-100eml-Solution-SE-IS-MPD"
+* type = #transaction
+* entry[0].resource = Airomir0.1Spray-SE-PLC-MedicinalProductDefinition
 
+* entry[=].fullUrl = "MedicinalProductDefinition/Airomir0.1Spray-SE-PLC-MedicinalProductDefinition"
+* entry[+].resource = Airomir0.1Spray-SE-PLC-RegulatedAuthorization
 
-* entry[+].resource = Airomir0.1Spray-SE-PLC-RA
-* entry[=].fullUrl = "http://example.org/fhir/MedicinalProductDefinition/ABASAGLAR-100eml-Solution-SE-IS-MPD"
+* entry[=].fullUrl = "RegulatedAuthorization/Airomir0.1Spray-SE-PLC-RegulatedAuthorization"
+* entry[+].resource = Airomir0.1Spray-SE-PLC-AdministrableProductDefinition
 
+* entry[=].fullUrl = "AdministrableProductDefinition/Airomir0.1Spray-SE-PLC-AdministrableProductDefinition"
+* entry[+].resource = Airomir0.1Spray-SE-PLC-PackagedProductDefinition
 
-* entry[+].resource = Airomir0.1Spray-SE-PLC-APD
-* entry[=].fullUrl = "http://example.org/fhir/MedicinalProductDefinition/ABASAGLAR-100eml-Solution-SE-IS-MPD"
+* entry[=].fullUrl = "PackagedProductDefinition/Airomir0.1Spray-SE-PLC-PackagedProductDefinition"
+* entry[+].resource = Airomir0.1Spray-SE-PLC-ManufacturedItemDefinition
 
-
-* entry[+].resource = Airomir0.1Spray-SE-PLC-PPD
-* entry[=].fullUrl = "http://example.org/fhir/MedicinalProductDefinition/ABASAGLAR-100eml-Solution-SE-IS-MPD"
-
-
-* entry[+].resource = Airomir0.1Spray-SE-PLC-MID
-* entry[=].fullUrl = "http://example.org/fhir/MedicinalProductDefinition/ABASAGLAR-100eml-Solution-SE-IS-MPD"
-
-
+* entry[=].fullUrl = "ManufacturedItemDefinition/Airomir0.1Spray-SE-PLC-ManufacturedItemDefinition"
 * entry[+].resource = Airomir0.1Spray-SE-PLC-Ingredient
 
-* entry[=].fullUrl = "http://example.org/fhir/MedicinalProductDefinition/ABASAGLAR-100eml-Solution-SE-IS-MPD"
+* entry[=].fullUrl = "Ingredient/Airomir0.1Spray-SE-PLC-Ingredient"

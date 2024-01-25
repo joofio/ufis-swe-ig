@@ -1,21 +1,22 @@
 Instance: GOFSH-GENERATED-ID-119
 InstanceOf: Bundle
 Usage: #example
-* type = #collection
-* entry[+].resource = CMImylan-10mg-Tablet-SE-IS-MPD
+* type = #transaction
+* entry[0].resource = CMImylan-10mg-Tablet-SE-IS-MedicinalProductDefinition
 
+* entry[=].fullUrl = "MedicinalProductDefinition/CMImylan-10mg-Tablet-SE-IS-MedicinalProductDefinition"
+* entry[+].resource = CMImylan-10mg-Tablet-SE-IS-RegulatedAuthorization
 
-* entry[+].resource = CMImylan-10mg-Tablet-SE-IS-RA
+* entry[=].fullUrl = "RegulatedAuthorization/CMImylan-10mg-Tablet-SE-IS-RegulatedAuthorization"
+* entry[+].resource = CMImylan-10mg-Tablet-SE-IS-AdministrableProductDefinition
 
+* entry[=].fullUrl = "AdministrableProductDefinition/CMImylan-10mg-Tablet-SE-IS-AdministrableProductDefinition"
+* entry[+].resource = CMImylan-10mg-Tablet-SE-IS-PackagedProductDefinition
 
-* entry[+].resource = CMImylan-10mg-Tablet-SE-IS-APD
+* entry[=].fullUrl = "PackagedProductDefinition/CMImylan-10mg-Tablet-SE-IS-PackagedProductDefinition"
+* entry[+].resource = CMImylan-10mg-Tablet-SE-IS-ManufacturedItemDefinition
 
-
-* entry[+].resource = CMImylan-10mg-Tablet-SE-IS-PPD
-
-
-* entry[+].resource = CMImylan-10mg-Tablet-SE-IS-MID
-
-
+* entry[=].fullUrl = "ManufacturedItemDefinition/CMImylan-10mg-Tablet-SE-IS-ManufacturedItemDefinition"
 * entry[+].resource = CMImylan-10mg-Tablet-SE-IS-Ingredient
 
+* entry[=].fullUrl = "Ingredient/CMImylan-10mg-Tablet-SE-IS-Ingredient"

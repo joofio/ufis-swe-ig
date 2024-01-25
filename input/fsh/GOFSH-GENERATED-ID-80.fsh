@@ -1,21 +1,22 @@
 Instance: GOFSH-GENERATED-ID-80
 InstanceOf: Bundle
 Usage: #example
-* type = #collection
-* entry[+].resource = EnoxaparinLedraxen2000IEinjektion-SE-PLC-MPD
+* type = #transaction
+* entry[0].resource = EnoxaparinLedraxen2000IEinjektion-SE-PLC-MedicinalProductDef
 
-
+* entry[=].fullUrl = "MedicinalProductDefinition/EnoxaparinLedraxen2000IEinjektion-SE-PLC-MedicinalProductDef"
 * entry[+].resource = EnoxaparinLedraxen2000IEinjektion-SE-PLC-RegAutho
 
+* entry[=].fullUrl = "RegulatedAuthorization/EnoxaparinLedraxen2000IEinjektion-SE-PLC-RegAutho"
+* entry[+].resource = EnoxaparinLedraxen2000IEinjektion-SE-PLC-AdminProductDef
 
-* entry[+].resource = EnoxaparinLedraxen2000IEinjektion-SE-PLC-APD
+* entry[=].fullUrl = "AdministrableProductDefinition/EnoxaparinLedraxen2000IEinjektion-SE-PLC-AdminProductDef"
+* entry[+].resource = EnoxaparinLedraxen2000IEinjektion-SE-PLC-PackageProductDef
 
+* entry[=].fullUrl = "PackagedProductDefinition/EnoxaparinLedraxen2000IEinjektion-SE-PLC-PackageProductDef"
+* entry[+].resource = EnoxaparinLedraxen2000IEinjektion-SE-PLC-ManufacturedItemDef
 
-* entry[+].resource = EnoxaparinLedraxen2000IEinjektion-SE-PLC-PPD
-
-
-* entry[+].resource = EnoxaparinLedraxen2000IEinjektion-SE-PLC-MID
-
-
+* entry[=].fullUrl = "ManufacturedItemDefinition/EnoxaparinLedraxen2000IEinjektion-SE-PLC-ManufacturedItemDef"
 * entry[+].resource = EnoxaparinLedraxen2000IEinjektion-SE-PLC-Ingredient
 
+* entry[=].fullUrl = "Ingredient/EnoxaparinLedraxen2000IEinjektion-SE-PLC-Ingredient"

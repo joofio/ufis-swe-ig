@@ -1,21 +1,22 @@
 Instance: GOFSH-GENERATED-ID-251
 InstanceOf: Bundle
 Usage: #example
-* type = #collection
-* entry[+].resource = Zoladex-3.6mg-Solution-SE-IS-MPD
+* type = #transaction
+* entry[0].resource = Zoladex-3.6mg-Solution-SE-IS-MedicinalProductDefinition
 
+* entry[=].fullUrl = "MedicinalProductDefinition/Zoladex-3.6mg-Solution-SE-IS-MedicinalProductDefinition"
+* entry[+].resource = Zoladex-3.6mg-Solution-SE-IS-RegulatedAuthorization
 
-* entry[+].resource = Zoladex-3.6mg-Solution-SE-IS-RA
+* entry[=].fullUrl = "RegulatedAuthorization/Zoladex-3.6mg-Solution-SE-IS-RegulatedAuthorization"
+* entry[+].resource = Zoladex-3.6mg-Solution-SE-IS-AdministrableProductDefinition
 
+* entry[=].fullUrl = "AdministrableProductDefinition/Zoladex-3.6mg-Solution-SE-IS-AdministrableProductDefinition"
+* entry[+].resource = Zoladex-3.6mg-Solution-SE-IS-PackagedProductDefinition
 
-* entry[+].resource = Zoladex-3.6mg-Solution-SE-IS-APD
+* entry[=].fullUrl = "PackagedProductDefinition/Zoladex-3.6mg-Solution-SE-IS-PackagedProductDefinition"
+* entry[+].resource = Zoladex-3.6mg-Solution-SE-IS-ManufacturedItemDefinition
 
-
-* entry[+].resource = Zoladex-3.6mg-Solution-SE-IS-PPD
-
-
-* entry[+].resource = Zoladex-3.6mg-Solution-SE-IS-MID
-
-
+* entry[=].fullUrl = "ManufacturedItemDefinition/Zoladex-3.6mg-Solution-SE-IS-ManufacturedItemDefinition"
 * entry[+].resource = Zoladex-3.6mg-Solution-SE-IS-Ingredient
 
+* entry[=].fullUrl = "Ingredient/Zoladex-3.6mg-Solution-SE-IS-Ingredient"

@@ -8,15 +8,15 @@ Usage: #example
 * entry[+].resource = DiklofenakNET232mgggel-SE-PLC-RegAutho
 
 * entry[=].fullUrl = "RegulatedAuthorization/DiklofenakNET232mgggel-SE-PLC-RegAutho"
-* entry[+].resource = DiklofenakNET232mgggel-SE-PLC-AdminProductDef
+* entry[+].resource = DiklofenakNET232mgggel-SE-PLC-APD
 
-* entry[=].fullUrl = "AdministrableProductDefinition/DiklofenakNET232mgggel-SE-PLC-AdminProductDef"
-* entry[+].resource = DiklofenakNET232mgggel-SE-PLC-PackageProductDef01
+* entry[=].fullUrl = "AdministrableProductDefinition/DiklofenakNET232mgggel-SE-PLC-APD"
+* entry[+].resource = DiklofenakNET232mgggel-SE-PLC-PPD01
 
-* entry[=].fullUrl = "PackagedProductDefinition/DiklofenakNET232mgggel-SE-PLC-PackageProductDef01"
-* entry[+].resource = DiklofenakNET232mgggel-SE-PLC-PackageProductDef02
+* entry[=].fullUrl = "PackagedProductDefinition/DiklofenakNET232mgggel-SE-PLC-PPD01"
+* entry[+].resource = DiklofenakNET232mgggel-SE-PLC-PPD02
 
-* entry[=].fullUrl = "PackagedProductDefinition/DiklofenakNET232mgggel-SE-PLC-PackageProductDef02"
+* entry[=].fullUrl = "PackagedProductDefinition/DiklofenakNET232mgggel-SE-PLC-PPD02"
 * entry[+].resource = DiklofenakNET232mgggel-SE-PLC-MID
 
 * entry[=].fullUrl = "ManufacturedItemDefinition/DiklofenakNET232mgggel-SE-PLC-MID"

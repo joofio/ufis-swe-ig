@@ -8,12 +8,12 @@ Usage: #example
 * entry[+].resource = Nobligan50mgkapselhard-SE-PLC-RegAutho
 
 * entry[=].fullUrl = "RegulatedAuthorization/Nobligan50mgkapselhard-SE-PLC-RegAutho"
-* entry[+].resource = Nobligan50mgkapselhard-SE-PLC-AdminProductDef
+* entry[+].resource = Nobligan50mgkapselhard-SE-PLC-APD
 
-* entry[=].fullUrl = "AdministrableProductDefinition/Nobligan50mgkapselhard-SE-PLC-AdminProductDef"
-* entry[+].resource = Nobligan50mgkapselhard-SE-PLC-PackageProductDef
+* entry[=].fullUrl = "AdministrableProductDefinition/Nobligan50mgkapselhard-SE-PLC-APD"
+* entry[+].resource = Nobligan50mgkapselhard-SE-PLC-PPD
 
-* entry[=].fullUrl = "PackagedProductDefinition/Nobligan50mgkapselhard-SE-PLC-PackageProductDef"
+* entry[=].fullUrl = "PackagedProductDefinition/Nobligan50mgkapselhard-SE-PLC-PPD"
 * entry[+].resource = Nobligan50mgkapselhard-SE-PLC-MID
 
 * entry[=].fullUrl = "ManufacturedItemDefinition/Nobligan50mgkapselhard-SE-PLC-MID"

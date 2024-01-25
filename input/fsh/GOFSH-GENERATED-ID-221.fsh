@@ -8,12 +8,12 @@ Usage: #example
 * entry[+].resource = TramadolRetardHexal100mgdepot-SE-PLC-RegAutho
 
 * entry[=].fullUrl = "RegulatedAuthorization/TramadolRetardHexal100mgdepot-SE-PLC-RegAutho"
-* entry[+].resource = TramadolRetardHexal100mgdepot-SE-PLC-AdminProductDef
+* entry[+].resource = TramadolRetardHexal100mgdepot-SE-PLC-APD
 
-* entry[=].fullUrl = "AdministrableProductDefinition/TramadolRetardHexal100mgdepot-SE-PLC-AdminProductDef"
-* entry[+].resource = TramadolRetardHexal100mgdepot-SE-PLC-PackageProductDef
+* entry[=].fullUrl = "AdministrableProductDefinition/TramadolRetardHexal100mgdepot-SE-PLC-APD"
+* entry[+].resource = TramadolRetardHexal100mgdepot-SE-PLC-PPD
 
-* entry[=].fullUrl = "PackagedProductDefinition/TramadolRetardHexal100mgdepot-SE-PLC-PackageProductDef"
+* entry[=].fullUrl = "PackagedProductDefinition/TramadolRetardHexal100mgdepot-SE-PLC-PPD"
 * entry[+].resource = TramadolRetardHexal100mgdepot-SE-PLC-MID
 
 * entry[=].fullUrl = "ManufacturedItemDefinition/TramadolRetardHexal100mgdepot-SE-PLC-MID"

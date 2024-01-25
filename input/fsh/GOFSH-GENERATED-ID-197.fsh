@@ -8,15 +8,15 @@ Usage: #example
 * entry[+].resource = SoluCortef100mgpulvervatskainj-SE-PLC-RegAutho
 
 * entry[=].fullUrl = "RegulatedAuthorization/SoluCortef100mgpulvervatskainj-SE-PLC-RegAutho"
-* entry[+].resource = SoluCortef100mgpulvervatskainj-SE-PLC-AdminProductDef
+* entry[+].resource = SoluCortef100mgpulvervatskainj-SE-PLC-APD
 
-* entry[=].fullUrl = "AdministrableProductDefinition/SoluCortef100mgpulvervatskainj-SE-PLC-AdminProductDef"
-* entry[+].resource = SoluCortef100mgpulvervatskainj-SE-PLC-PackageProductDef01
+* entry[=].fullUrl = "AdministrableProductDefinition/SoluCortef100mgpulvervatskainj-SE-PLC-APD"
+* entry[+].resource = SoluCortef100mgpulvervatskainj-SE-PLC-PPD01
 
-* entry[=].fullUrl = "PackagedProductDefinition/SoluCortef100mgpulvervatskainj-SE-PLC-PackageProductDef01"
-* entry[+].resource = SoluCortef100mgpulvervatskainj-SE-PLC-PackageProductDef02
+* entry[=].fullUrl = "PackagedProductDefinition/SoluCortef100mgpulvervatskainj-SE-PLC-PPD01"
+* entry[+].resource = SoluCortef100mgpulvervatskainj-SE-PLC-PPD02
 
-* entry[=].fullUrl = "PackagedProductDefinition/SoluCortef100mgpulvervatskainj-SE-PLC-PackageProductDef02"
+* entry[=].fullUrl = "PackagedProductDefinition/SoluCortef100mgpulvervatskainj-SE-PLC-PPD02"
 * entry[+].resource = SoluCortef100mgpulvervatskainj-SE-PLC-MID
 
 * entry[=].fullUrl = "ManufacturedItemDefinition/SoluCortef100mgpulvervatskainj-SE-PLC-MID"

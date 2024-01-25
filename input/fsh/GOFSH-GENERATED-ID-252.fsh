@@ -8,12 +8,12 @@ Usage: #example
 * entry[+].resource = Zoloft20mgpermlkoncentrat-SE-PLC-RegAutho
 
 * entry[=].fullUrl = "RegulatedAuthorization/Zoloft20mgpermlkoncentrat-SE-PLC-RegAutho"
-* entry[+].resource = Zoloft20mgpermlkoncentrat-SE-PLC-AdminProductDef
+* entry[+].resource = Zoloft20mgpermlkoncentrat-SE-PLC-APD
 
-* entry[=].fullUrl = "AdministrableProductDefinition/Zoloft20mgpermlkoncentrat-SE-PLC-AdminProductDef"
-* entry[+].resource = Zoloft20mgpermlkoncentrat-SE-PLC-PackageProductDef
+* entry[=].fullUrl = "AdministrableProductDefinition/Zoloft20mgpermlkoncentrat-SE-PLC-APD"
+* entry[+].resource = Zoloft20mgpermlkoncentrat-SE-PLC-PPD
 
-* entry[=].fullUrl = "PackagedProductDefinition/Zoloft20mgpermlkoncentrat-SE-PLC-PackageProductDef"
+* entry[=].fullUrl = "PackagedProductDefinition/Zoloft20mgpermlkoncentrat-SE-PLC-PPD"
 * entry[+].resource = Zoloft20mgpermlkoncentrat-SE-PLC-MID
 
 * entry[=].fullUrl = "ManufacturedItemDefinition/Zoloft20mgpermlkoncentrat-SE-PLC-MID"

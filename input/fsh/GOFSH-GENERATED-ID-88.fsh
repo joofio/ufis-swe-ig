@@ -8,12 +8,12 @@ Usage: #example
 * entry[+].resource = Glytrin04mgdossublingualspray-SE-PLC-RegAutho
 
 * entry[=].fullUrl = "RegulatedAuthorization/Glytrin04mgdossublingualspray-SE-PLC-RegAutho"
-* entry[+].resource = Glytrin04mgdossublingualspray-SE-PLC-AdminProductDef
+* entry[+].resource = Glytrin04mgdossublingualspray-SE-PLC-APD
 
-* entry[=].fullUrl = "AdministrableProductDefinition/Glytrin04mgdossublingualspray-SE-PLC-AdminProductDef"
-* entry[+].resource = Glytrin04mgdossublingualspray-SE-PLC-PackageProductDef
+* entry[=].fullUrl = "AdministrableProductDefinition/Glytrin04mgdossublingualspray-SE-PLC-APD"
+* entry[+].resource = Glytrin04mgdossublingualspray-SE-PLC-PPD
 
-* entry[=].fullUrl = "PackagedProductDefinition/Glytrin04mgdossublingualspray-SE-PLC-PackageProductDef"
+* entry[=].fullUrl = "PackagedProductDefinition/Glytrin04mgdossublingualspray-SE-PLC-PPD"
 * entry[+].resource = Glytrin04mgdossublingualspray-SE-PLC-MID
 
 * entry[=].fullUrl = "ManufacturedItemDefinition/Glytrin04mgdossublingualspray-SE-PLC-MID"

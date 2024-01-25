@@ -8,12 +8,12 @@ Usage: #example
 * entry[+].resource = EnoxaparinLedraxen2000IEinjektion-SE-PLC-RegAutho
 
 * entry[=].fullUrl = "RegulatedAuthorization/EnoxaparinLedraxen2000IEinjektion-SE-PLC-RegAutho"
-* entry[+].resource = EnoxaparinLedraxen2000IEinjektion-SE-PLC-AdminProductDef
+* entry[+].resource = EnoxaparinLedraxen2000IEinjektion-SE-PLC-APD
 
-* entry[=].fullUrl = "AdministrableProductDefinition/EnoxaparinLedraxen2000IEinjektion-SE-PLC-AdminProductDef"
-* entry[+].resource = EnoxaparinLedraxen2000IEinjektion-SE-PLC-PackageProductDef
+* entry[=].fullUrl = "AdministrableProductDefinition/EnoxaparinLedraxen2000IEinjektion-SE-PLC-APD"
+* entry[+].resource = EnoxaparinLedraxen2000IEinjektion-SE-PLC-PPD
 
-* entry[=].fullUrl = "PackagedProductDefinition/EnoxaparinLedraxen2000IEinjektion-SE-PLC-PackageProductDef"
+* entry[=].fullUrl = "PackagedProductDefinition/EnoxaparinLedraxen2000IEinjektion-SE-PLC-PPD"
 * entry[+].resource = EnoxaparinLedraxen2000IEinjektion-SE-PLC-MID
 
 * entry[=].fullUrl = "ManufacturedItemDefinition/EnoxaparinLedraxen2000IEinjektion-SE-PLC-MID"

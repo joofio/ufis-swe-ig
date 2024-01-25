@@ -8,15 +8,15 @@ Usage: #example
 * entry[+].resource = Cortimyk20mgml10mgmlkram-SE-PLC-RegAutho
 
 * entry[=].fullUrl = "RegulatedAuthorization/Cortimyk20mgml10mgmlkram-SE-PLC-RegAutho"
-* entry[+].resource = Cortimyk20mgml10mgmlkram-SE-PLC-AdminProductDef
+* entry[+].resource = Cortimyk20mgml10mgmlkram-SE-PLC-APD
 
-* entry[=].fullUrl = "AdministrableProductDefinition/Cortimyk20mgml10mgmlkram-SE-PLC-AdminProductDef"
-* entry[+].resource = Cortimyk20mgml10mgmlkram-SE-PLC-PackageProductDef01
+* entry[=].fullUrl = "AdministrableProductDefinition/Cortimyk20mgml10mgmlkram-SE-PLC-APD"
+* entry[+].resource = Cortimyk20mgml10mgmlkram-SE-PLC-PPD01
 
-* entry[=].fullUrl = "PackagedProductDefinition/Cortimyk20mgml10mgmlkram-SE-PLC-PackageProductDef01"
-* entry[+].resource = Cortimyk20mgml10mgmlkram-SE-PLC-PackageProductDef02
+* entry[=].fullUrl = "PackagedProductDefinition/Cortimyk20mgml10mgmlkram-SE-PLC-PPD01"
+* entry[+].resource = Cortimyk20mgml10mgmlkram-SE-PLC-PPD02
 
-* entry[=].fullUrl = "PackagedProductDefinition/Cortimyk20mgml10mgmlkram-SE-PLC-PackageProductDef02"
+* entry[=].fullUrl = "PackagedProductDefinition/Cortimyk20mgml10mgmlkram-SE-PLC-PPD02"
 * entry[+].resource = Cortimyk20mgml10mgmlkram-SE-PLC-MID
 
 * entry[=].fullUrl = "ManufacturedItemDefinition/Cortimyk20mgml10mgmlkram-SE-PLC-MID"

@@ -8,12 +8,12 @@ Usage: #example
 * entry[+].resource = Softacort335mgpermlogondroppar-SE-PLC-RegAutho
 
 * entry[=].fullUrl = "RegulatedAuthorization/Softacort335mgpermlogondroppar-SE-PLC-RegAutho"
-* entry[+].resource = Softacort335mgpermlogondroppar-SE-PLC-AdminProductDef
+* entry[+].resource = Softacort335mgpermlogondroppar-SE-PLC-APD
 
-* entry[=].fullUrl = "AdministrableProductDefinition/Softacort335mgpermlogondroppar-SE-PLC-AdminProductDef"
-* entry[+].resource = Softacort335mgpermlogondroppar-SE-PLC-PackageProductDef
+* entry[=].fullUrl = "AdministrableProductDefinition/Softacort335mgpermlogondroppar-SE-PLC-APD"
+* entry[+].resource = Softacort335mgpermlogondroppar-SE-PLC-PPD
 
-* entry[=].fullUrl = "PackagedProductDefinition/Softacort335mgpermlogondroppar-SE-PLC-PackageProductDef"
+* entry[=].fullUrl = "PackagedProductDefinition/Softacort335mgpermlogondroppar-SE-PLC-PPD"
 * entry[+].resource = Softacort335mgpermlogondroppar-SE-PLC-MID
 
 * entry[=].fullUrl = "ManufacturedItemDefinition/Softacort335mgpermlogondroppar-SE-PLC-MID"

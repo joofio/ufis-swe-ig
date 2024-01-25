@@ -8,12 +8,12 @@ Usage: #example
 * entry[+].resource = Ventoline2mgmllosningnebulisator-SE-PLC-RegAutho
 
 * entry[=].fullUrl = "RegulatedAuthorization/Ventoline2mgmllosningnebulisator-SE-PLC-RegAutho"
-* entry[+].resource = Ventoline2mgmllosningnebulisator-SE-PLC-AdminProductDef
+* entry[+].resource = Ventoline2mgmllosningnebulisator-SE-PLC-APD
 
-* entry[=].fullUrl = "AdministrableProductDefinition/Ventoline2mgmllosningnebulisator-SE-PLC-AdminProductDef"
-* entry[+].resource = Ventoline2mgmllosningnebulisator-SE-PLC-PackageProductDef
+* entry[=].fullUrl = "AdministrableProductDefinition/Ventoline2mgmllosningnebulisator-SE-PLC-APD"
+* entry[+].resource = Ventoline2mgmllosningnebulisator-SE-PLC-PPD
 
-* entry[=].fullUrl = "PackagedProductDefinition/Ventoline2mgmllosningnebulisator-SE-PLC-PackageProductDef"
+* entry[=].fullUrl = "PackagedProductDefinition/Ventoline2mgmllosningnebulisator-SE-PLC-PPD"
 * entry[+].resource = Ventoline2mgmllosningnebulisator-SE-PLC-MID
 
 * entry[=].fullUrl = "ManufacturedItemDefinition/Ventoline2mgmllosningnebulisator-SE-PLC-MID"

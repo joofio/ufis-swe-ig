@@ -8,15 +8,15 @@ Usage: #example
 * entry[+].resource = TramadolRetardActavis100mgdepot-SE-PLC-RegAutho
 
 * entry[=].fullUrl = "RegulatedAuthorization/TramadolRetardActavis100mgdepot-SE-PLC-RegAutho"
-* entry[+].resource = TramadolRetardActavis100mgdepot-SE-PLC-AdminProductDef
+* entry[+].resource = TramadolRetardActavis100mgdepot-SE-PLC-APD
 
-* entry[=].fullUrl = "AdministrableProductDefinition/TramadolRetardActavis100mgdepot-SE-PLC-AdminProductDef"
-* entry[+].resource = TramadolRetardActavis100mgdepot-SE-PLC-PackageProductDef01
+* entry[=].fullUrl = "AdministrableProductDefinition/TramadolRetardActavis100mgdepot-SE-PLC-APD"
+* entry[+].resource = TramadolRetardActavis100mgdepot-SE-PLC-PPD01
 
-* entry[=].fullUrl = "PackagedProductDefinition/TramadolRetardActavis100mgdepot-SE-PLC-PackageProductDef01"
-* entry[+].resource = TramadolRetardActavis100mgdepot-SE-PLC-PackageProductDef02
+* entry[=].fullUrl = "PackagedProductDefinition/TramadolRetardActavis100mgdepot-SE-PLC-PPD01"
+* entry[+].resource = TramadolRetardActavis100mgdepot-SE-PLC-PPD02
 
-* entry[=].fullUrl = "PackagedProductDefinition/TramadolRetardActavis100mgdepot-SE-PLC-PackageProductDef02"
+* entry[=].fullUrl = "PackagedProductDefinition/TramadolRetardActavis100mgdepot-SE-PLC-PPD02"
 * entry[+].resource = TramadolRetardActavis100mgdepot-SE-PLC-MID
 
 * entry[=].fullUrl = "ManufacturedItemDefinition/TramadolRetardActavis100mgdepot-SE-PLC-MID"

@@ -8,12 +8,12 @@ Usage: #example
 * entry[+].resource = Panodil60mgsuppositorium-SE-PLC-RegAutho
 
 * entry[=].fullUrl = "RegulatedAuthorization/Panodil60mgsuppositorium-SE-PLC-RegAutho"
-* entry[+].resource = Panodil60mgsuppositorium-SE-PLC-AdminProductDef
+* entry[+].resource = Panodil60mgsuppositorium-SE-PLC-APD
 
-* entry[=].fullUrl = "AdministrableProductDefinition/Panodil60mgsuppositorium-SE-PLC-AdminProductDef"
-* entry[+].resource = Panodil60mgsuppositorium-SE-PLC-PackageProductDef
+* entry[=].fullUrl = "AdministrableProductDefinition/Panodil60mgsuppositorium-SE-PLC-APD"
+* entry[+].resource = Panodil60mgsuppositorium-SE-PLC-PPD
 
-* entry[=].fullUrl = "PackagedProductDefinition/Panodil60mgsuppositorium-SE-PLC-PackageProductDef"
+* entry[=].fullUrl = "PackagedProductDefinition/Panodil60mgsuppositorium-SE-PLC-PPD"
 * entry[+].resource = Panodil60mgsuppositorium-SE-PLC-MID
 
 * entry[=].fullUrl = "ManufacturedItemDefinition/Panodil60mgsuppositorium-SE-PLC-MID"

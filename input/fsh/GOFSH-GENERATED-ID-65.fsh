@@ -11,12 +11,12 @@ Usage: #example
 * entry[+].resource = DiklofenakApofri116gel-SE-PLC-APD
 
 * entry[=].fullUrl = "AdministrableProductDefinition/DiklofenakApofri116gel-SE-PLC-APD"
-* entry[+].resource = DiklofenakApofri116gel-SE-PLC-PackageProductDefinition01
+* entry[+].resource = DiklofenakApofri116gel-SE-PLC-PPDinition01
 
-* entry[=].fullUrl = "PackagedProductDefinition/DiklofenakApofri116gel-SE-PLC-PackageProductDefinition01"
-* entry[+].resource = DiklofenakApofri116gel-SE-PLC-PackageProductDefinition02
+* entry[=].fullUrl = "PackagedProductDefinition/DiklofenakApofri116gel-SE-PLC-PPDinition01"
+* entry[+].resource = DiklofenakApofri116gel-SE-PLC-PPDinition02
 
-* entry[=].fullUrl = "PackagedProductDefinition/DiklofenakApofri116gel-SE-PLC-PackageProductDefinition02"
+* entry[=].fullUrl = "PackagedProductDefinition/DiklofenakApofri116gel-SE-PLC-PPDinition02"
 * entry[+].resource = DiklofenakApofri116gel-SE-PLC-MID
 
 * entry[=].fullUrl = "ManufacturedItemDefinition/DiklofenakApofri116gel-SE-PLC-MID"

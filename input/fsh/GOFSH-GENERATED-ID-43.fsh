@@ -8,12 +8,12 @@ Usage: #example
 * entry[+].resource = CiklosporinIVAX25mgkapselmjuk-SE-PLC-RegAutho
 
 * entry[=].fullUrl = "RegulatedAuthorization/CiklosporinIVAX25mgkapselmjuk-SE-PLC-RegAutho"
-* entry[+].resource = CiklosporinIVAX25mgkapselmjuk-SE-PLC-AdminProductDef
+* entry[+].resource = CiklosporinIVAX25mgkapselmjuk-SE-PLC-APD
 
-* entry[=].fullUrl = "AdministrableProductDefinition/CiklosporinIVAX25mgkapselmjuk-SE-PLC-AdminProductDef"
-* entry[+].resource = CiklosporinIVAX25mgkapselmjuk-SE-PLC-PackageProductDef
+* entry[=].fullUrl = "AdministrableProductDefinition/CiklosporinIVAX25mgkapselmjuk-SE-PLC-APD"
+* entry[+].resource = CiklosporinIVAX25mgkapselmjuk-SE-PLC-PPD
 
-* entry[=].fullUrl = "PackagedProductDefinition/CiklosporinIVAX25mgkapselmjuk-SE-PLC-PackageProductDef"
+* entry[=].fullUrl = "PackagedProductDefinition/CiklosporinIVAX25mgkapselmjuk-SE-PLC-PPD"
 * entry[+].resource = CiklosporinIVAX25mgkapselmjuk-SE-PLC-MID
 
 * entry[=].fullUrl = "ManufacturedItemDefinition/CiklosporinIVAX25mgkapselmjuk-SE-PLC-MID"

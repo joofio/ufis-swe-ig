@@ -8,12 +8,12 @@ Usage: #example
 * entry[+].resource = HydrokortisonOrifarm20mgTablett-SE-PLC-RegAutho
 
 * entry[=].fullUrl = "RegulatedAuthorization/HydrokortisonOrifarm20mgTablett-SE-PLC-RegAutho"
-* entry[+].resource = HydrokortisonOrifarm20mgTablett-SE-PLC-AdminProductDef
+* entry[+].resource = HydrokortisonOrifarm20mgTablett-SE-PLC-APD
 
-* entry[=].fullUrl = "AdministrableProductDefinition/HydrokortisonOrifarm20mgTablett-SE-PLC-AdminProductDef"
-* entry[+].resource = HydrokortisonOrifarm20mgTablett-SE-PLC-PackageProductDef
+* entry[=].fullUrl = "AdministrableProductDefinition/HydrokortisonOrifarm20mgTablett-SE-PLC-APD"
+* entry[+].resource = HydrokortisonOrifarm20mgTablett-SE-PLC-PPD
 
-* entry[=].fullUrl = "PackagedProductDefinition/HydrokortisonOrifarm20mgTablett-SE-PLC-PackageProductDef"
+* entry[=].fullUrl = "PackagedProductDefinition/HydrokortisonOrifarm20mgTablett-SE-PLC-PPD"
 * entry[+].resource = HydrokortisonOrifarm20mgTablett-SE-PLC-MID
 
 * entry[=].fullUrl = "ManufacturedItemDefinition/HydrokortisonOrifarm20mgTablett-SE-PLC-MID"

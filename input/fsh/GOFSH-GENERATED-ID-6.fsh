@@ -8,15 +8,15 @@ Usage: #example
 * entry[+].resource = Alvedon500mgBrustablett-SE-PLC-RegAutho
 
 * entry[=].fullUrl = "RegulatedAuthorization/Alvedon500mgBrustablett-SE-PLC-RegAutho"
-* entry[+].resource = Alvedon500mgBrustablett-SE-PLC-AdminProductDef
+* entry[+].resource = Alvedon500mgBrustablett-SE-PLC-APD
 
-* entry[=].fullUrl = "AdministrableProductDefinition/Alvedon500mgBrustablett-SE-PLC-AdminProductDef"
-* entry[+].resource = Alvedon500mgBrustablett-SE-PLC-PackageProductDef01
+* entry[=].fullUrl = "AdministrableProductDefinition/Alvedon500mgBrustablett-SE-PLC-APD"
+* entry[+].resource = Alvedon500mgBrustablett-SE-PLC-PPD01
 
-* entry[=].fullUrl = "PackagedProductDefinition/Alvedon500mgBrustablett-SE-PLC-PackageProductDef01"
-* entry[+].resource = Alvedon500mgBrustablett-SE-PLC-PackageProductDef02
+* entry[=].fullUrl = "PackagedProductDefinition/Alvedon500mgBrustablett-SE-PLC-PPD01"
+* entry[+].resource = Alvedon500mgBrustablett-SE-PLC-PPD02
 
-* entry[=].fullUrl = "PackagedProductDefinition/Alvedon500mgBrustablett-SE-PLC-PackageProductDef02"
+* entry[=].fullUrl = "PackagedProductDefinition/Alvedon500mgBrustablett-SE-PLC-PPD02"
 * entry[+].resource = Alvedon500mgBrustablett-SE-PLC-MID
 
 * entry[=].fullUrl = "ManufacturedItemDefinition/Alvedon500mgBrustablett-SE-PLC-MID"

@@ -8,12 +8,12 @@ Usage: #example
 * entry[+].resource = Locoid01kutanlosning-SE-PLC-RegAutho
 
 * entry[=].fullUrl = "RegulatedAuthorization/Locoid01kutanlosning-SE-PLC-RegAutho"
-* entry[+].resource = Locoid01kutanlosning-SE-PLC-AdminProductDef
+* entry[+].resource = Locoid01kutanlosning-SE-PLC-APD
 
-* entry[=].fullUrl = "AdministrableProductDefinition/Locoid01kutanlosning-SE-PLC-AdminProductDef"
-* entry[+].resource = Locoid01kutanlosning-SE-PLC-PackageProductDef
+* entry[=].fullUrl = "AdministrableProductDefinition/Locoid01kutanlosning-SE-PLC-APD"
+* entry[+].resource = Locoid01kutanlosning-SE-PLC-PPD
 
-* entry[=].fullUrl = "PackagedProductDefinition/Locoid01kutanlosning-SE-PLC-PackageProductDef"
+* entry[=].fullUrl = "PackagedProductDefinition/Locoid01kutanlosning-SE-PLC-PPD"
 * entry[+].resource = Locoid01kutanlosning-SE-PLC-MID
 
 * entry[=].fullUrl = "ManufacturedItemDefinition/Locoid01kutanlosning-SE-PLC-MID"

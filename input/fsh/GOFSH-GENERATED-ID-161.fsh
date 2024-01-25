@@ -8,15 +8,15 @@ Usage: #example
 * entry[+].resource = Nitrolingual04mgdossublingualspray-SE-PLC-RegAutho
 
 * entry[=].fullUrl = "RegulatedAuthorization/Nitrolingual04mgdossublingualspray-SE-PLC-RegAutho"
-* entry[+].resource = Nitrolingual04mgdossublingualspray-SE-PLC-AdminProductDef
+* entry[+].resource = Nitrolingual04mgdossublingualspray-SE-PLC-APD
 
-* entry[=].fullUrl = "AdministrableProductDefinition/Nitrolingual04mgdossublingualspray-SE-PLC-AdminProductDef"
-* entry[+].resource = Nitrolingual04mgdossublingualspray-SE-PLC-PackageProductDef01
+* entry[=].fullUrl = "AdministrableProductDefinition/Nitrolingual04mgdossublingualspray-SE-PLC-APD"
+* entry[+].resource = Nitrolingual04mgdossublingualspray-SE-PLC-PPD01
 
-* entry[=].fullUrl = "PackagedProductDefinition/Nitrolingual04mgdossublingualspray-SE-PLC-PackageProductDef01"
-* entry[+].resource = Nitrolingual04mgdossublingualspray-SE-PLC-PackageProductDef02
+* entry[=].fullUrl = "PackagedProductDefinition/Nitrolingual04mgdossublingualspray-SE-PLC-PPD01"
+* entry[+].resource = Nitrolingual04mgdossublingualspray-SE-PLC-PPD02
 
-* entry[=].fullUrl = "PackagedProductDefinition/Nitrolingual04mgdossublingualspray-SE-PLC-PackageProductDef02"
+* entry[=].fullUrl = "PackagedProductDefinition/Nitrolingual04mgdossublingualspray-SE-PLC-PPD02"
 * entry[+].resource = Nitrolingual04mgdossublingualspray-SE-PLC-MID
 
 * entry[=].fullUrl = "ManufacturedItemDefinition/Nitrolingual04mgdossublingualspray-SE-PLC-MID"

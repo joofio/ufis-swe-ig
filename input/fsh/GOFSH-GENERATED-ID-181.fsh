@@ -8,12 +8,12 @@ Usage: #example
 * entry[+].resource = PinexJordgubb250mggranulat-SE-PLC-RegAutho
 
 * entry[=].fullUrl = "RegulatedAuthorization/PinexJordgubb250mggranulat-SE-PLC-RegAutho"
-* entry[+].resource = PinexJordgubb250mggranulat-SE-PLC-AdminProductDef
+* entry[+].resource = PinexJordgubb250mggranulat-SE-PLC-APD
 
-* entry[=].fullUrl = "AdministrableProductDefinition/PinexJordgubb250mggranulat-SE-PLC-AdminProductDef"
-* entry[+].resource = PinexJordgubb250mggranulat-SE-PLC-PackageProductDef
+* entry[=].fullUrl = "AdministrableProductDefinition/PinexJordgubb250mggranulat-SE-PLC-APD"
+* entry[+].resource = PinexJordgubb250mggranulat-SE-PLC-PPD
 
-* entry[=].fullUrl = "PackagedProductDefinition/PinexJordgubb250mggranulat-SE-PLC-PackageProductDef"
+* entry[=].fullUrl = "PackagedProductDefinition/PinexJordgubb250mggranulat-SE-PLC-PPD"
 * entry[+].resource = PinexJordgubb250mggranulat-SE-PLC-MID
 
 * entry[=].fullUrl = "ManufacturedItemDefinition/PinexJordgubb250mggranulat-SE-PLC-MID"

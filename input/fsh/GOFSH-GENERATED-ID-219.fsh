@@ -8,12 +8,12 @@ Usage: #example
 * entry[+].resource = Tradolan50mgmlinjektionlosning-SE-PLC-RegAutho
 
 * entry[=].fullUrl = "RegulatedAuthorization/Tradolan50mgmlinjektionlosning-SE-PLC-RegAutho"
-* entry[+].resource = Tradolan50mgmlinjektionlosning-SE-PLC-AdminProductDef
+* entry[+].resource = Tradolan50mgmlinjektionlosning-SE-PLC-APD
 
-* entry[=].fullUrl = "AdministrableProductDefinition/Tradolan50mgmlinjektionlosning-SE-PLC-AdminProductDef"
-* entry[+].resource = Tradolan50mgmlinjektionlosning-SE-PLC-PackageProductDef
+* entry[=].fullUrl = "AdministrableProductDefinition/Tradolan50mgmlinjektionlosning-SE-PLC-APD"
+* entry[+].resource = Tradolan50mgmlinjektionlosning-SE-PLC-PPD
 
-* entry[=].fullUrl = "PackagedProductDefinition/Tradolan50mgmlinjektionlosning-SE-PLC-PackageProductDef"
+* entry[=].fullUrl = "PackagedProductDefinition/Tradolan50mgmlinjektionlosning-SE-PLC-PPD"
 * entry[+].resource = Tradolan50mgmlinjektionlosning-SE-PLC-MID
 
 * entry[=].fullUrl = "ManufacturedItemDefinition/Tradolan50mgmlinjektionlosning-SE-PLC-MID"

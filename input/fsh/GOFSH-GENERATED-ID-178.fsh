@@ -11,9 +11,9 @@ Usage: #example
 * entry[+].resource = Panodil500mgoralsolutionsachet-SE-PLC-APD
 
 * entry[=].fullUrl = "AdministrableProductDefinition/Panodil500mgoralsolutionsachet-SE-PLC-APD"
-* entry[+].resource = Panodil500mgoralsolutionsachet-SE-PLC-PackageProductDef
+* entry[+].resource = Panodil500mgoralsolutionsachet-SE-PLC-PPD
 
-* entry[=].fullUrl = "PackagedProductDefinition/Panodil500mgoralsolutionsachet-SE-PLC-PackageProductDef"
+* entry[=].fullUrl = "PackagedProductDefinition/Panodil500mgoralsolutionsachet-SE-PLC-PPD"
 * entry[+].resource = Panodil500mgoralsolutionsachet-SE-PLC-MID
 
 * entry[=].fullUrl = "ManufacturedItemDefinition/Panodil500mgoralsolutionsachet-SE-PLC-MID"

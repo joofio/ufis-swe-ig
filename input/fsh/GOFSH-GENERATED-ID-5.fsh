@@ -8,12 +8,12 @@ Usage: #example
 * entry[+].resource = Alvedon250mgMunsonderTablett-SE-PLC-RegAutho
 
 * entry[=].fullUrl = "RegulatedAuthorization/Alvedon250mgMunsonderTablett-SE-PLC-RegAutho"
-* entry[+].resource = Alvedon250mgMunsonderTablett-SE-PLC-AdminProductDef
+* entry[+].resource = Alvedon250mgMunsonderTablett-SE-PLC-APD
 
-* entry[=].fullUrl = "AdministrableProductDefinition/Alvedon250mgMunsonderTablett-SE-PLC-AdminProductDef"
-* entry[+].resource = Alvedon250mgMunsonderTablett-SE-PLC-PackageProductDef
+* entry[=].fullUrl = "AdministrableProductDefinition/Alvedon250mgMunsonderTablett-SE-PLC-APD"
+* entry[+].resource = Alvedon250mgMunsonderTablett-SE-PLC-PPD
 
-* entry[=].fullUrl = "PackagedProductDefinition/Alvedon250mgMunsonderTablett-SE-PLC-PackageProductDef"
+* entry[=].fullUrl = "PackagedProductDefinition/Alvedon250mgMunsonderTablett-SE-PLC-PPD"
 * entry[+].resource = Alvedon250mgMunsonderTablett-SE-PLC-MID
 
 * entry[=].fullUrl = "ManufacturedItemDefinition/Alvedon250mgMunsonderTablett-SE-PLC-MID"

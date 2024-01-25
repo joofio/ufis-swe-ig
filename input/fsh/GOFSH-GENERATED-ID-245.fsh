@@ -8,12 +8,12 @@ Usage: #example
 * entry[+].resource = Zeldox20mgmlpulvervatskainjek-SE-PLC-RegAutho
 
 * entry[=].fullUrl = "RegulatedAuthorization/Zeldox20mgmlpulvervatskainjek-SE-PLC-RegAutho"
-* entry[+].resource = Zeldox20mgmlpulvervatskainjek-SE-PLC-AdminProductDef
+* entry[+].resource = Zeldox20mgmlpulvervatskainjek-SE-PLC-APD
 
-* entry[=].fullUrl = "AdministrableProductDefinition/Zeldox20mgmlpulvervatskainjek-SE-PLC-AdminProductDef"
-* entry[+].resource = Zeldox20mgmlpulvervatskainjek-SE-PLC-PackageProductDef
+* entry[=].fullUrl = "AdministrableProductDefinition/Zeldox20mgmlpulvervatskainjek-SE-PLC-APD"
+* entry[+].resource = Zeldox20mgmlpulvervatskainjek-SE-PLC-PPD
 
-* entry[=].fullUrl = "PackagedProductDefinition/Zeldox20mgmlpulvervatskainjek-SE-PLC-PackageProductDef"
+* entry[=].fullUrl = "PackagedProductDefinition/Zeldox20mgmlpulvervatskainjek-SE-PLC-PPD"
 * entry[+].resource = Zeldox20mgmlpulvervatskainjek-SE-PLC-MID01
 
 * entry[=].fullUrl = "ManufacturedItemDefinition/Zeldox20mgmlpulvervatskainjek-SE-PLC-MID01"

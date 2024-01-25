@@ -8,12 +8,12 @@ Usage: #example
 * entry[+].resource = NitroglycerinAbicurinfu-SE-PLC-RegAutho
 
 * entry[=].fullUrl = "RegulatedAuthorization/NitroglycerinAbicurinfu-SE-PLC-RegAutho"
-* entry[+].resource = NitroglycerinAbicurinfu-SE-PLC-AdminProductDef
+* entry[+].resource = NitroglycerinAbicurinfu-SE-PLC-APD
 
-* entry[=].fullUrl = "AdministrableProductDefinition/NitroglycerinAbicurinfu-SE-PLC-AdminProductDef"
-* entry[+].resource = NitroglycerinAbicurinfu-SE-PLC-PackageProductDef
+* entry[=].fullUrl = "AdministrableProductDefinition/NitroglycerinAbicurinfu-SE-PLC-APD"
+* entry[+].resource = NitroglycerinAbicurinfu-SE-PLC-PPD
 
-* entry[=].fullUrl = "PackagedProductDefinition/NitroglycerinAbicurinfu-SE-PLC-PackageProductDef"
+* entry[=].fullUrl = "PackagedProductDefinition/NitroglycerinAbicurinfu-SE-PLC-PPD"
 * entry[+].resource = NitroglycerinAbicurinfu-SE-PLC-MID
 
 * entry[=].fullUrl = "ManufacturedItemDefinition/NitroglycerinAbicurinfu-SE-PLC-MID"

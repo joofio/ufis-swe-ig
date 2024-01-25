@@ -8,18 +8,18 @@ Usage: #example
 * entry[+].resource = SertralinTeva50mgfilmtablett-SE-PLC-RegAutho
 
 * entry[=].fullUrl = "RegulatedAuthorization/SertralinTeva50mgfilmtablett-SE-PLC-RegAutho"
-* entry[+].resource = SertralinTeva50mgfilmtablett-SE-PLC-AdminProductDef
+* entry[+].resource = SertralinTeva50mgfilmtablett-SE-PLC-APD
 
-* entry[=].fullUrl = "AdministrableProductDefinition/SertralinTeva50mgfilmtablett-SE-PLC-AdminProductDef"
-* entry[+].resource = SertralinTeva50mgfilmtablett-SE-PLC-PackageProductDef01
+* entry[=].fullUrl = "AdministrableProductDefinition/SertralinTeva50mgfilmtablett-SE-PLC-APD"
+* entry[+].resource = SertralinTeva50mgfilmtablett-SE-PLC-PPD01
 
-* entry[=].fullUrl = "PackagedProductDefinition/SertralinTeva50mgfilmtablett-SE-PLC-PackageProductDef01"
-* entry[+].resource = SertralinTeva50mgfilmtablett-SE-PLC-PackageProductDef02
+* entry[=].fullUrl = "PackagedProductDefinition/SertralinTeva50mgfilmtablett-SE-PLC-PPD01"
+* entry[+].resource = SertralinTeva50mgfilmtablett-SE-PLC-PPD02
 
-* entry[=].fullUrl = "PackagedProductDefinition/SertralinTeva50mgfilmtablett-SE-PLC-PackageProductDef02"
-* entry[+].resource = SertralinTeva50mgfilmtablett-SE-PLC-PackageProductDef03
+* entry[=].fullUrl = "PackagedProductDefinition/SertralinTeva50mgfilmtablett-SE-PLC-PPD02"
+* entry[+].resource = SertralinTeva50mgfilmtablett-SE-PLC-PPD03
 
-* entry[=].fullUrl = "PackagedProductDefinition/SertralinTeva50mgfilmtablett-SE-PLC-PackageProductDef03"
+* entry[=].fullUrl = "PackagedProductDefinition/SertralinTeva50mgfilmtablett-SE-PLC-PPD03"
 * entry[+].resource = SertralinTeva50mgfilmtablett-SE-PLC-MID
 
 * entry[=].fullUrl = "ManufacturedItemDefinition/SertralinTeva50mgfilmtablett-SE-PLC-MID"

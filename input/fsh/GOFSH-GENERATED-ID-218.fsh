@@ -8,12 +8,12 @@ Usage: #example
 * entry[+].resource = Tiparol50mgbrustablett-SE-PLC-RegAutho
 
 * entry[=].fullUrl = "RegulatedAuthorization/Tiparol50mgbrustablett-SE-PLC-RegAutho"
-* entry[+].resource = Tiparol50mgbrustablett-SE-PLC-AdminProductDef
+* entry[+].resource = Tiparol50mgbrustablett-SE-PLC-APD
 
-* entry[=].fullUrl = "AdministrableProductDefinition/Tiparol50mgbrustablett-SE-PLC-AdminProductDef"
-* entry[+].resource = Tiparol50mgbrustablett-SE-PLC-PackageProductDef
+* entry[=].fullUrl = "AdministrableProductDefinition/Tiparol50mgbrustablett-SE-PLC-APD"
+* entry[+].resource = Tiparol50mgbrustablett-SE-PLC-PPD
 
-* entry[=].fullUrl = "PackagedProductDefinition/Tiparol50mgbrustablett-SE-PLC-PackageProductDef"
+* entry[=].fullUrl = "PackagedProductDefinition/Tiparol50mgbrustablett-SE-PLC-PPD"
 * entry[+].resource = Tiparol50mgbrustablett-SE-PLC-MID
 
 * entry[=].fullUrl = "ManufacturedItemDefinition/Tiparol50mgbrustablett-SE-PLC-MID"

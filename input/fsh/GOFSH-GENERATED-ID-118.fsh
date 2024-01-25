@@ -8,12 +8,12 @@ Usage: #example
 * entry[+].resource = Klexane100000IEinjektion-SE-PLC-RegAutho
 
 * entry[=].fullUrl = "RegulatedAuthorization/Klexane100000IEinjektion-SE-PLC-RegAutho"
-* entry[+].resource = Klexane100000IEinjektion-SE-PLC-AdminProductDef
+* entry[+].resource = Klexane100000IEinjektion-SE-PLC-APD
 
-* entry[=].fullUrl = "AdministrableProductDefinition/Klexane100000IEinjektion-SE-PLC-AdminProductDef"
-* entry[+].resource = Klexane100000IEinjektion-SE-PLC-PackageProductDef
+* entry[=].fullUrl = "AdministrableProductDefinition/Klexane100000IEinjektion-SE-PLC-APD"
+* entry[+].resource = Klexane100000IEinjektion-SE-PLC-PPD
 
-* entry[=].fullUrl = "PackagedProductDefinition/Klexane100000IEinjektion-SE-PLC-PackageProductDef"
+* entry[=].fullUrl = "PackagedProductDefinition/Klexane100000IEinjektion-SE-PLC-PPD"
 * entry[+].resource = Klexane100000IEinjektion-SE-PLC-MID
 
 * entry[=].fullUrl = "ManufacturedItemDefinition/Klexane100000IEinjektion-SE-PLC-MID"

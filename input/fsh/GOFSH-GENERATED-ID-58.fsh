@@ -8,15 +8,15 @@ Usage: #example
 * entry[+].resource = DicTratiopharma50mgFilmtablet-SE-PLC-RegAutho
 
 * entry[=].fullUrl = "RegulatedAuthorization/DicTratiopharma50mgFilmtablet-SE-PLC-RegAutho"
-* entry[+].resource = DicTratiopharma50mgFilmtablet-SE-PLC-AdminProductDef
+* entry[+].resource = DicTratiopharma50mgFilmtablet-SE-PLC-APD
 
-* entry[=].fullUrl = "AdministrableProductDefinition/DicTratiopharma50mgFilmtablet-SE-PLC-AdminProductDef"
-* entry[+].resource = DicTratiopharma50mgFilmtablet-SE-PLC-PackageProductDef01
+* entry[=].fullUrl = "AdministrableProductDefinition/DicTratiopharma50mgFilmtablet-SE-PLC-APD"
+* entry[+].resource = DicTratiopharma50mgFilmtablet-SE-PLC-PPD01
 
-* entry[=].fullUrl = "PackagedProductDefinition/DicTratiopharma50mgFilmtablet-SE-PLC-PackageProductDef01"
-* entry[+].resource = DicTratiopharma50mgFilmtablet-SE-PLC-PackageProductDef02
+* entry[=].fullUrl = "PackagedProductDefinition/DicTratiopharma50mgFilmtablet-SE-PLC-PPD01"
+* entry[+].resource = DicTratiopharma50mgFilmtablet-SE-PLC-PPD02
 
-* entry[=].fullUrl = "PackagedProductDefinition/DicTratiopharma50mgFilmtablet-SE-PLC-PackageProductDef02"
+* entry[=].fullUrl = "PackagedProductDefinition/DicTratiopharma50mgFilmtablet-SE-PLC-PPD02"
 * entry[+].resource = DicTratiopharma50mgFilmtablet-SE-PLC-MID
 
 * entry[=].fullUrl = "ManufacturedItemDefinition/DicTratiopharma50mgFilmtablet-SE-PLC-MID"

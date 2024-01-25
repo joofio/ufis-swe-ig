@@ -8,12 +8,12 @@ Usage: #example
 * entry[+].resource = SandimmunNeoral25mgkapselmjuk-SE-PLC-RegAutho
 
 * entry[=].fullUrl = "RegulatedAuthorization/SandimmunNeoral25mgkapselmjuk-SE-PLC-RegAutho"
-* entry[+].resource = SandimmunNeoral25mgkapselmjuk-SE-PLC-AdminProductDef
+* entry[+].resource = SandimmunNeoral25mgkapselmjuk-SE-PLC-APD
 
-* entry[=].fullUrl = "AdministrableProductDefinition/SandimmunNeoral25mgkapselmjuk-SE-PLC-AdminProductDef"
-* entry[+].resource = SandimmunNeoral25mgkapselmjuk-SE-PLC-PackageProductDef
+* entry[=].fullUrl = "AdministrableProductDefinition/SandimmunNeoral25mgkapselmjuk-SE-PLC-APD"
+* entry[+].resource = SandimmunNeoral25mgkapselmjuk-SE-PLC-PPD
 
-* entry[=].fullUrl = "PackagedProductDefinition/SandimmunNeoral25mgkapselmjuk-SE-PLC-PackageProductDef"
+* entry[=].fullUrl = "PackagedProductDefinition/SandimmunNeoral25mgkapselmjuk-SE-PLC-PPD"
 * entry[+].resource = SandimmunNeoral25mgkapselmjuk-SE-PLC-MID
 
 * entry[=].fullUrl = "ManufacturedItemDefinition/SandimmunNeoral25mgkapselmjuk-SE-PLC-MID"

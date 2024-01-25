@@ -8,15 +8,15 @@ Usage: #example
 * entry[+].resource = DiklofenakABECE116mgggel-SE-PLC-RegAutho
 
 * entry[=].fullUrl = "RegulatedAuthorization/DiklofenakABECE116mgggel-SE-PLC-RegAutho"
-* entry[+].resource = DiklofenakABECE116mgggel-SE-PLC-AdminProductDef
+* entry[+].resource = DiklofenakABECE116mgggel-SE-PLC-APD
 
-* entry[=].fullUrl = "AdministrableProductDefinition/DiklofenakABECE116mgggel-SE-PLC-AdminProductDef"
-* entry[+].resource = DiklofenakABECE116mgggel-SE-PLC-PackageProductDef01
+* entry[=].fullUrl = "AdministrableProductDefinition/DiklofenakABECE116mgggel-SE-PLC-APD"
+* entry[+].resource = DiklofenakABECE116mgggel-SE-PLC-PPD01
 
-* entry[=].fullUrl = "PackagedProductDefinition/DiklofenakABECE116mgggel-SE-PLC-PackageProductDef01"
-* entry[+].resource = DiklofenakABECE116mgggel-SE-PLC-PackageProductDef02
+* entry[=].fullUrl = "PackagedProductDefinition/DiklofenakABECE116mgggel-SE-PLC-PPD01"
+* entry[+].resource = DiklofenakABECE116mgggel-SE-PLC-PPD02
 
-* entry[=].fullUrl = "PackagedProductDefinition/DiklofenakABECE116mgggel-SE-PLC-PackageProductDef02"
+* entry[=].fullUrl = "PackagedProductDefinition/DiklofenakABECE116mgggel-SE-PLC-PPD02"
 * entry[+].resource = DiklofenakABECE116mgggel-SE-PLC-MID
 
 * entry[=].fullUrl = "ManufacturedItemDefinition/DiklofenakABECE116mgggel-SE-PLC-MID"

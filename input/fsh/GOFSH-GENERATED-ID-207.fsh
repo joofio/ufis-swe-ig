@@ -8,15 +8,15 @@ Usage: #example
 * entry[+].resource = Suscard5mgbuckaltablett-SE-PLC-RegAutho
 
 * entry[=].fullUrl = "RegulatedAuthorization/Suscard5mgbuckaltablett-SE-PLC-RegAutho"
-* entry[+].resource = Suscard5mgbuckaltablett-SE-PLC-AdminProductDef
+* entry[+].resource = Suscard5mgbuckaltablett-SE-PLC-APD
 
-* entry[=].fullUrl = "AdministrableProductDefinition/Suscard5mgbuckaltablett-SE-PLC-AdminProductDef"
-* entry[+].resource = Suscard5mgbuckaltablett-SE-PLC-PackageProductDef01
+* entry[=].fullUrl = "AdministrableProductDefinition/Suscard5mgbuckaltablett-SE-PLC-APD"
+* entry[+].resource = Suscard5mgbuckaltablett-SE-PLC-PPD01
 
-* entry[=].fullUrl = "PackagedProductDefinition/Suscard5mgbuckaltablett-SE-PLC-PackageProductDef01"
-* entry[+].resource = Suscard5mgbuckaltablett-SE-PLC-PackageProductDef02
+* entry[=].fullUrl = "PackagedProductDefinition/Suscard5mgbuckaltablett-SE-PLC-PPD01"
+* entry[+].resource = Suscard5mgbuckaltablett-SE-PLC-PPD02
 
-* entry[=].fullUrl = "PackagedProductDefinition/Suscard5mgbuckaltablett-SE-PLC-PackageProductDef02"
+* entry[=].fullUrl = "PackagedProductDefinition/Suscard5mgbuckaltablett-SE-PLC-PPD02"
 * entry[+].resource = Suscard5mgbuckaltablett-SE-PLC-MID
 
 * entry[=].fullUrl = "ManufacturedItemDefinition/Suscard5mgbuckaltablett-SE-PLC-MID"

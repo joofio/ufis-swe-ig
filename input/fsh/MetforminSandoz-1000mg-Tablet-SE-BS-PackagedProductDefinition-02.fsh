@@ -6,7 +6,7 @@ InstanceOf: PPLPackagedProductDefinition
 * extension[=].valueCoding = $100000072057#100000072288 "Swedish"
 * packageFor = Reference(MetforminSandoz-1000mg-Tablet-SE-BS-MPD)
 * description = "Blister, 60 tabletter"
-* marketingStatus.country = $100000000002#100000000535 "Sweden"
+* marketingStatus.country = $100000000002#100000000535 "'Kingdom of Sweden"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 //DUMMY
 * packaging.type.coding.system = "https://spor.ema.europa.eu/v1/lists/100000073346"

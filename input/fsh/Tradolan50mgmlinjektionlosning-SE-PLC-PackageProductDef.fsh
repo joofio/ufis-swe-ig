@@ -4,7 +4,7 @@ InstanceOf: PPLPackagedProductDefinition
 * containedItemQuantity = 5 http://spor.ema.europa.eu/v1/lists/200000000014#200000002164 "Ampoule"
 * packageFor = Reference(Tradolan50mgmlinjektionlosning-SE-PLC-MPD)
 * description = "Ampull, 5 x 2 ml"
-* marketingStatus.country = $100000000002#100000000535 "Sweden"
+* marketingStatus.country = $100000000002#100000000535 "'Kingdom of Sweden"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 //DUMMY
 * packaging.type.coding.system = "https://spor.ema.europa.eu/v1/lists/100000073346"

@@ -4,7 +4,7 @@ InstanceOf: PPLPackagedProductDefinition
 * containedItemQuantity = 10 http://spor.ema.europa.eu/v1/lists/200000000014#200000002156 "tube"
 * packageFor = Reference(Xylocain-2-Gel-SE-AJ-MPD)
 * description = "Tub, 10 x 30 g"
-* marketingStatus.country = $100000000002#100000000535 "Sweden"
+* marketingStatus.country = $100000000002#100000000535 "'Kingdom of Sweden"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 //DUMMY
 * packaging.type.coding.system = "https://spor.ema.europa.eu/v1/lists/100000073346"

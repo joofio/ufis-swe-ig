@@ -4,7 +4,7 @@ InstanceOf: PPLRegulatedAuthorization
 * identifier.value = "11242"
 * subject = Reference(VoltarenT50mgFilmtablet-SE-PLC-MPD)
 * type = $220000000060#220000000061 "Marketing Authorisation"
-* region = $100000000002#100000000535 "Sweden"
+* region = $100000000002#100000000535 "'Kingdom of Sweden"
 * status = $100000072049#100000072099 "Valid"
 * statusDate = "1990-10-19"
 * case.type = $authorisationDateType#dateOfFirstAuthorisation "First Authorisation"

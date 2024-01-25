@@ -4,7 +4,7 @@ InstanceOf: PPLRegulatedAuthorization
 * identifier.value = "25970"
 * subject = Reference(MetforminSandoz-500mg-Tablet-SE-BS-MPD)
 * type = $220000000060#220000000061 "Marketing Authorisation"
-* region = $100000000002#100000000535 "Sweden"
+* region = $100000000002#100000000535 "'Kingdom of Sweden"
 * status = $100000072049#100000072099 "Valid"
 * statusDate = "2009-02-13"
 * case.type = $authorisationDateType#dateOfFirstAuthorisation "First Authorisation"

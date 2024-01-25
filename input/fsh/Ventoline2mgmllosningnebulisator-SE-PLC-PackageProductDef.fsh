@@ -4,7 +4,7 @@ InstanceOf: PPLPackagedProductDefinition
 * containedItemQuantity = 60 http://spor.ema.europa.eu/v1/lists/200000000014#200000002139 "Pipette"
 * packageFor = Reference(Ventoline2mgmllosningnebulisator-SE-PLC-MPD)
 * description = "Endosbehållare 6 x 10 x 2,5 ml"
-* marketingStatus.country = $100000000002#100000000535 "Sweden"
+* marketingStatus.country = $100000000002#100000000535 "'Kingdom of Sweden"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 //DUMMY
 * packaging.type.coding.system = "https://spor.ema.europa.eu/v1/lists/100000073346"

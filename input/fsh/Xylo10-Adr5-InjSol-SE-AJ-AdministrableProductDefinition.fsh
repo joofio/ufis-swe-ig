@@ -6,4 +6,4 @@ InstanceOf: PPLAdministrableProductDefinition
 * producedFrom = Reference(Xylo10-Adr5-InjSol-SE-AJ-MID)
 * routeOfAdministration[+].code = $100000073345#100000073624 "Perineural use"
 * routeOfAdministration[+].code = $100000073345#100000073572 "Epidural use"
-* routeOfAdministration[+].code = $100000073345#100000075248 "Inflitration"
+* routeOfAdministration[+].code = $100000073345#100000075248 "Infiltration"

@@ -8,7 +8,7 @@ InstanceOf: PPLPackagedProductDefinition
 * identifier.value = "SE-100002602-00000001-002"
 * packageFor = Reference(7f81d47e-9a74-44b3-8ed7-07990093d878)
 * description = "Blister 10 tablets"
-* marketingStatus.country = $100000000002#100000000535 "Sweden"
+* marketingStatus.country = $100000000002#100000000535 "'Kingdom of Sweden"
 * marketingStatus.status = $100000072052#100000072074 "Not marketed"
 * marketingStatus.dateRange.start = "2017-06-15"
 //DUMMY

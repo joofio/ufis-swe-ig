@@ -4,7 +4,7 @@ InstanceOf: PPLRegulatedAuthorization
 * identifier.value = "10151"
 * subject = Reference(Citodon-500mg30mg-EffTablet-SE-IS-MPD)
 * type = $220000000060#220000000061 "Marketing Authorisation"
-* region = $100000000002#100000000535 "Sweden"
+* region = $100000000002#100000000535 "'Kingdom of Sweden"
 * status = $100000072049#100000072099 "Valid"
 * statusDate = "1985-02-01"
 * case.type = $authorisationDateType#dateOfFirstAuthorisation "First Authorisation"

@@ -27,8 +27,8 @@ InstanceOf: PPLMedicinalProductDefinition
 * name.part[=].type.coding.display = "Pharmaceutical dose form part"
 * name.usage.country.coding.system = "https://spor.ema.europa.eu/v1/lists/100000000002"
 * name.usage.country.coding.code = #100000000535
-* name.usage.country.coding.display = "Sweden"
+* name.usage.country.coding.display = "Kingdom of Sweden"
 * name.usage.language = urn:ietf:bcp:47#sv "Swedish" 
 * characteristic.type = $200000003186#200000003187 "combined therapeutic medicine / device"
-* name.usage.country.coding.display = "Sweden"
+* name.usage.country.coding.display = "Kingdom of Sweden"
 * name.usage.language = urn:ietf:bcp:47#sv "Swedish"

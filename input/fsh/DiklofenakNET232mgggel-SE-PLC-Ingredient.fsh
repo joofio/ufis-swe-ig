@@ -4,7 +4,7 @@ InstanceOf: PPLIngredient
 * status = #active
 * for[0] = Reference(DiklofenakNET232mgggel-SE-PLC-MPD)
 * for[+] = Reference(DiklofenakNET232mgggel-SE-PLC-MID)
-* for[+] = Reference(DiklofenakNET232mgggel-SE-PLC-AdminProductDef)
+* for[+] = Reference(DiklofenakNET232mgggel-SE-PLC-APD)
 * role = $100000072050#100000072072 "Active"
 * substance.code.concept = $SubstanceDefinition#100000091074 "Diclofenac diethylamine"
 

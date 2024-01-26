@@ -25,9 +25,9 @@ InstanceOf: PPLMedicinalProductDefinition
 * name.part[=].type.coding.display = "Pharmaceutical dose form part"
 * name.usage.country.coding.system = "https://spor.ema.europa.eu/v1/lists/100000000002"
 * name.usage.country.coding.code = #100000000535
-* name.usage.country.coding.display = "Sweden"
+* name.usage.country.coding.display = "Kingdom of Sweden"
 * name.usage.language = urn:ietf:bcp:47#sv "Swedish" 
 //DUMMY
 * combinedPharmaceuticalDoseForm = $200000000004#100000116186 "Powder for solution for injection/infusion"
-* name.usage.country.coding.display = "Sweden"
+* name.usage.country.coding.display = "Kingdom of Sweden"
 * name.usage.language = urn:ietf:bcp:47#sv "Swedish"

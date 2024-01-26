@@ -2,7 +2,7 @@ Instance: SimvastatinBluefish-10mg-Tablet-SE-BS-ING--
 InstanceOf: PPLIngredient
 
 * status = #active
-* for[0] = Reference(MedicinalProductDefinition/SimvastatinBluefish-10mg-Tablet-SE-BS-MID)
+* for[0] = Reference(SimvastatinBluefish-10mg-Tablet-SE-BS-MID)
 * for[+] = Reference(SimvastatinBluefish-10mg-Tablet-SE-BS-MID)
 * for[+] = Reference(SimvastatinBluefish-10mg-Tablet-SE-BS-APD)
 * role = $100000072050#100000072072 "Active"

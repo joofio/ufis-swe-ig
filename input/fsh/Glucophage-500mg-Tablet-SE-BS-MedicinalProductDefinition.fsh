@@ -11,7 +11,7 @@ InstanceOf: PPLMedicinalProductDefinition
 * status = $200000005003#200000005004 "Current"
 * indication = "Behandling av diabetes mellitus typ 2, speciellt hos överviktiga patienter, där enbart diet och motion inte ger tillräcklig metabolisk kontroll.  • Hos vuxna kan Glucophage användas som monoterapi eller i kombination med andra perorala diabetesmedel eller med insulin.  • Hos barn från 10 år och ungdomar kan Glucophage användas som monoterapi eller i kombination med insulin. En reduktion av diabetiska komplikationer har visats hos överviktiga vuxna patienter med typ 2 diabetes som behandlades med metformin som förstahandspreparat efter att ha sviktat på dietbehandling (se avsnitt 5.1)."
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal product subject to medical prescription"
-* classification = $100000093533#100000094031 "A10BA02"
+* classification = $100000093533#100000094031 "metformin"
 * name.productName = "Glucophage 500 mg filmdragerad tablett"
 * name.part[+].part = "Glucophage"
 * name.part[=].type.coding.system = "http://spor.ema.europa.eu/v1/lists/220000000000"
@@ -27,7 +27,7 @@ InstanceOf: PPLMedicinalProductDefinition
 * name.part[=].type.coding.display = "Pharmaceutical dose form part"
 * name.usage.country.coding.system = "https://spor.ema.europa.eu/v1/lists/100000000002"
 * name.usage.country.coding.code = #100000000535
-* name.usage.country.coding.display = "Sweden"
+* name.usage.country.coding.display = "Kingdom of Sweden"
 * name.usage.language = urn:ietf:bcp:47#sv "Swedish" 
-* name.usage.country.coding.display = "Sweden"
+* name.usage.country.coding.display = "Kingdom of Sweden"
 * name.usage.language = urn:ietf:bcp:47#sv "Swedish"

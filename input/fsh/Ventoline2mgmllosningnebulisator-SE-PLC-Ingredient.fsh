@@ -4,7 +4,7 @@ InstanceOf: PPLIngredient
 * status = #active
 * for[0] = Reference(Ventoline2mgmllosningnebulisator-SE-PLC-MPD)
 * for[+] = Reference(Ventoline2mgmllosningnebulisator-SE-PLC-MID)
-* for[+] = Reference(Ventoline2mgmllosningnebulisator-SE-PLC-AdminProductDef)
+* for[+] = Reference(Ventoline2mgmllosningnebulisator-SE-PLC-APD)
 * role = $100000072050#100000072072 "Active"
 * substance.code.concept = $SubstanceDefinition#100000090564 "Salbutamol sulfate"
 

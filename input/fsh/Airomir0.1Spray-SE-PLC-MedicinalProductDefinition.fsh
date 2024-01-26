@@ -11,7 +11,7 @@ InstanceOf: PPLMedicinalProductDefinition
 * status = $200000005003#200000005004 "Current"
 * indication = "Airomir 0,1 mg/dos inhalationsspray, suspension är indicerat för symtomlindring av bronkkonstriktion vid astma och kroniskt obstruktiv lungsjukdom (KOL). Airomir är indicerat för vuxna, ungdomar och barn. För barn under 4 år ska dosering och farmakodynamik ses över."
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal product subject to medical prescription"
-* classification = $100000093533#100000098065 "R03AC02"
+* classification = $100000093533#100000098065 "salbutamol"
 * name.productName = "Airomir 0,1 mg/dos inhalationsspray, suspension"
 * name.part[+].part = "Airomir"
 * name.part[=].type.coding.system = "http://spor.ema.europa.eu/v1/lists/220000000000"
@@ -27,7 +27,7 @@ InstanceOf: PPLMedicinalProductDefinition
 * name.part[=].type.coding.display = "Pharmaceutical dose form part"
 * name.usage.country.coding.system = "https://spor.ema.europa.eu/v1/lists/100000000002"
 * name.usage.country.coding.code = #100000000535
-* name.usage.country.coding.display = "Sweden"
+* name.usage.country.coding.display = "Kingdom of Sweden"
 * name.usage.language = urn:ietf:bcp:47#sv "Swedish" 
-* name.usage.country.coding.display = "Sweden"
+* name.usage.country.coding.display = "Kingdom of Sweden"
 * name.usage.language = urn:ietf:bcp:47#sv "Swedish"

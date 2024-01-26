@@ -4,7 +4,7 @@ InstanceOf: PPLIngredient
 * status = #active
 * for[0] = Reference(EnoxaparinBecat8000IEinjektion-SE-PLC-MPD)
 * for[+] = Reference(EnoxaparinBecat8000IEinjektion-SE-PLC-MID)
-* for[+] = Reference(EnoxaparinBecat8000IEinjektion-SE-PLC-AdminProductDef)
+* for[+] = Reference(EnoxaparinBecat8000IEinjektion-SE-PLC-APD)
 * role = $100000072050#100000072072 "Active"
 * substance.code.concept = $SubstanceDefinition#100000090152 "Enoxaparin sodium"
 

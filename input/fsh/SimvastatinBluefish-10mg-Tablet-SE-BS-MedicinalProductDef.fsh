@@ -11,7 +11,7 @@ InstanceOf: PPLMedicinalProductDefinition
 * status = $200000005003#200000005004 "Current"
 * indication = "Hypercholesterolaemia Treatment of primary hypercholesterolaemia or mixed dyslipidaemia, as an adjunct to diet, when response to diet and other non-pharmacological treatments (such as exercise, weight reduction) is inadequate.  Treatment of homozygous familial hypercholesterolaemia (HoFH) as an adjunct to diet and other lipid-lowering treatments (e.g. LDL-apheresis) or if such treatments are not appropriate.             Cardiovascular prevention  Reduction of cardiovascular mortality and morbidity in patients with manifest atherosclerotic cardiovascular disease or diabetes mellitus, with either normal or increased cholesterol levels, as an adjunct to correction of other risk factors and other cardioprotective therapy"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal product subject to medical prescription"
-* classification = $100000093533#100000095169 "C10AA01"
+* classification = $100000093533#100000095169 "simvastatin"
 * name.productName = "Simvastatin Bluefish 10 mg filmdragerad tablett"
 * name.part[+].part = "Simvastatin Bluefish"
 * name.part[=].type.coding.system = "http://spor.ema.europa.eu/v1/lists/220000000000"
@@ -27,7 +27,7 @@ InstanceOf: PPLMedicinalProductDefinition
 * name.part[=].type.coding.display = "Pharmaceutical dose form part"
 * name.usage.country.coding.system = "https://spor.ema.europa.eu/v1/lists/100000000002"
 * name.usage.country.coding.code = #100000000535
-* name.usage.country.coding.display = "Sweden"
+* name.usage.country.coding.display = "Kingdom of Sweden"
 * name.usage.language = urn:ietf:bcp:47#sv "Swedish" 
-* name.usage.country.coding.display = "Sweden"
+* name.usage.country.coding.display = "Kingdom of Sweden"
 * name.usage.language = urn:ietf:bcp:47#sv "Swedish"

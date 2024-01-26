@@ -4,7 +4,7 @@ InstanceOf: PPLIngredient
 * status = #active
 * for[0] = Reference(Softacort335mgpermlogondroppar-SE-PLC-MPD)
 * for[+] = Reference(Softacort335mgpermlogondroppar-SE-PLC-MID)
-* for[+] = Reference(Softacort335mgpermlogondroppar-SE-PLC-AdminProductDef)
+* for[+] = Reference(Softacort335mgpermlogondroppar-SE-PLC-APD)
 * role = $100000072050#100000072072 "Active"
 * substance.code.concept = $SubstanceDefinition#100000086691 "Hydrocortisone sodium phosphate"
 

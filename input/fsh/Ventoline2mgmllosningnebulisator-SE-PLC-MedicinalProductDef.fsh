@@ -11,7 +11,7 @@ InstanceOf: PPLMedicinalProductDefinition
 * status = $200000005003#200000005004 "Current"
 * indication = "För symtomlindring av bronkkonstriktion vid astma och för lindring av svåra akuta och kroniska kramptillstånd i luftvägarna (KOL). Ventoline lösning för nebulisator är indicerat för vuxna, ungdomar och barn i åldern 4 till 11 år."
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal product subject to medical prescription"
-* classification = $100000093533#100000098065 "R03AC02"
+* classification = $100000093533#100000098065 "salbutamol"
 * name.productName = "Ventoline 2 mg/ml lösning för nebulisator"
 * name.part[+].part = "Ventoline"
 * name.part[=].type.coding.system = "http://spor.ema.europa.eu/v1/lists/220000000000"
@@ -27,7 +27,7 @@ InstanceOf: PPLMedicinalProductDefinition
 * name.part[=].type.coding.display = "Pharmaceutical dose form part"
 * name.usage.country.coding.system = "https://spor.ema.europa.eu/v1/lists/100000000002"
 * name.usage.country.coding.code = #100000000535
-* name.usage.country.coding.display = "Sweden"
+* name.usage.country.coding.display = "Kingdom of Sweden"
 * name.usage.language = urn:ietf:bcp:47#sv "Swedish" 
-* name.usage.country.coding.display = "Sweden"
+* name.usage.country.coding.display = "Kingdom of Sweden"
 * name.usage.language = urn:ietf:bcp:47#sv "Swedish"

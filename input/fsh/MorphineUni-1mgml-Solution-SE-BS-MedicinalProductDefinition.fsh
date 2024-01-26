@@ -11,7 +11,7 @@ InstanceOf: PPLMedicinalProductDefinition
 * status = $200000005003#200000005004 "Current"
 * indication = "Morphine Unimedic är indikerat för behandling av svår postoperativ och posttraumatisk smärta och svår opioidkänslig smärta såsom smärta vid cancer."
 * legalStatusOfSupply = $100000072051#100000072085 "Medicinal product subject to special medical prescription"
-* classification = $100000093533#100000097139 "N02AA01"
+* classification = $100000093533#100000097139 "morphine"
 * name.productName = "Morphine Unimedic 1 mg/ml injektionsvätska, lösning"
 * name.part[+].part = "Morphine Unimedic"
 * name.part[=].type.coding.system = "http://spor.ema.europa.eu/v1/lists/220000000000"
@@ -27,7 +27,7 @@ InstanceOf: PPLMedicinalProductDefinition
 * name.part[=].type.coding.display = "Pharmaceutical dose form part"
 * name.usage.country.coding.system = "https://spor.ema.europa.eu/v1/lists/100000000002"
 * name.usage.country.coding.code = #100000000535
-* name.usage.country.coding.display = "Sweden"
+* name.usage.country.coding.display = "Kingdom of Sweden"
 * name.usage.language = urn:ietf:bcp:47#sv "Swedish" 
-* name.usage.country.coding.display = "Sweden"
+* name.usage.country.coding.display = "Kingdom of Sweden"
 * name.usage.language = urn:ietf:bcp:47#sv "Swedish"

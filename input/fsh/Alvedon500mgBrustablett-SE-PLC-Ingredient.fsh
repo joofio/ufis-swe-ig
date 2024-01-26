@@ -4,7 +4,7 @@ InstanceOf: PPLIngredient
 * status = #active
 * for[0] = Reference(Alvedon500mgBrustablett-SE-PLC-MPD)
 * for[+] = Reference(Alvedon500mgBrustablett-SE-PLC-MID)
-* for[+] = Reference(Alvedon500mgBrustablett-SE-PLC-AdminProductDef)
+* for[+] = Reference(Alvedon500mgBrustablett-SE-PLC-APD)
 * role = $100000072050#100000072072 "Active"
 * substance.code.concept = $SubstanceDefinition#100000090270 "Paracetamol"
 * substance.strength.presentationRatio.numerator = 500 https://spor.ema.europa.eu/v1/lists/100000110633#100000110655 "milligram(s)"

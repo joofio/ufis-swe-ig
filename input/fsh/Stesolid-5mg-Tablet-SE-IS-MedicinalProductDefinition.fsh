@@ -2,7 +2,7 @@ Instance: Stesolid-5mg-Tablet-SE-IS-MPD
 InstanceOf: PPLMedicinalProductDefinition
 
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablett"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * identifier[+].system = "http://ema.europa.eu/fhir/mpId"
 * identifier[=].value = "SE-100000064-00008013"
 * identifier[+].system = "http://ema.europa.eu/fhir/eurdId"

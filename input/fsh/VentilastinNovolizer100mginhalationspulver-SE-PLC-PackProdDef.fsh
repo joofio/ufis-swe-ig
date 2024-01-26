@@ -1,9 +1,9 @@
-Instance: VentilastinNovolizer100mginhalationspulver-SE-PLC-PPD
+Instance: VentilastinNovolizer100mginhaspul-SE-PLC-PPD
 InstanceOf: PPLPackagedProductDefinition
 
 
 * containedItemQuantity = 1 http://spor.ema.europa.eu/v1/lists/200000000014#200000002114 "Cartridge"
-* packageFor = Reference(VentilastinNovolizer100mginhalationspulver-SE-PLC-MPD)
+* packageFor = Reference(VentilastinNovolizer100mginhaspul-SE-PLC-MPD)
 * description = "Kasett 1 x 200 doser (refill)"
 * marketingStatus.country = $100000000002#100000000535 "Kingdom of Sweden"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
@@ -14,7 +14,7 @@ InstanceOf: PPLPackagedProductDefinition
 * packaging.material.coding.system = "https://spor.ema.europa.eu/v1/lists/200000003199"
 * packaging.material.coding.code = #200000003529
 * packaging.material.coding.display = "Cardboard"
-* packaging.containedItem.item.reference = Reference(VentilastinNovolizer100mginhalationspulver-SE-PLC-ManuItemDef)
+* packaging.containedItem.item.reference = Reference(VentilastinNovolizer100mginhaspul-SE-PLC-ManuItemDef)
 * packaging.containedItem.amount.value = 1
 * packaging.containedItem.amount.code = #200000002114
 * packaging.containedItem.amount.system = "http://spor.ema.europa.eu/v1/lists/100000110633~200000000014"

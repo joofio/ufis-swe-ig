@@ -808,5 +808,1413 @@ InstanceOf: PPLManufacturedItemDefinition
 * status = #active
 * manufacturedDoseForm = $200000000004#100000073863 "Solution for injection"
 * unitOfPresentation = $200000000014#200000002158 "Vial"
-        
+
+Instance: MetforminAristo-1000mg-Tablet-SE-BS-APD
+InstanceOf: PPLAdministrableProductDefinition
+Usage: #example
+* status = #active
+* formOf = Reference(MetforminAristo-1000mg-Tablet-SE-BS-MPD)
+* administrableDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* producedFrom = Reference(MetforminAristo-1000mg-Tablet-SE-BS-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: MorfinAlt-20mg-Tablet-SE-BS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(MorfinAlt-20mg-Tablet-SE-BS-MPD)
+* administrableDoseForm = $200000000004#100000073664 "Tablet"
+* producedFrom = Reference(MorfinAlt-20mg-Tablet-SE-BS-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: MFABECE-50mcg-Suspension-SE-IS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(MFABECE-50mcg-Suspension-SE-IS-MPD)
+* administrableDoseForm = $200000000004#100000174018 "Suspension for spray"
+* producedFrom = Reference(MFABECE-50mcg-Suspension-SE-IS-MID)
+* routeOfAdministration.code = $100000073345#100000073615 "Nasal use"
+
+Instance: Dolcontin-5mg-Tablet-SE-BS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(Dolcontin-5mg-Tablet-SE-BS-MPD)
+* administrableDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
+* producedFrom = Reference(Dolcontin-5mg-Tablet-SE-BS-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: Norspan-15h-Transderm-SE-BS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(Norspan-15h-Transderm-SE-BS-MPD)
+* administrableDoseForm = $200000000004#100000073741 "Transdermal patch"
+* producedFrom = Reference(Norspan-15h-Transderm-SE-BS-MID)
+* routeOfAdministration.code = $100000073345#100000073637 "Transdermal use"
+
+Instance: IMAmylan-400mg-Tablet-SE-IS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(IMAmylan-400mg-Tablet-SE-IS-MPD)
+* administrableDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* producedFrom = Reference(IMAmylan-400mg-Tablet-SE-IS-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: MorfinMeda-10mgml-Solution-SE-BS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(MorfinMeda-10mgml-Solution-SE-BS-MPD)
+* administrableDoseForm = $200000000004#100000073863 "Solution for injection"
+* producedFrom = Reference(MorfinMeda-10mgml-Solution-SE-BS-MID)
+* routeOfAdministration.code.coding[0] = $100000073345#100000073633 "Subcutaneous use"
+* routeOfAdministration.code.coding[+] = $100000073345#100000073600 "Intramuscular use"
+* routeOfAdministration.code.coding[+] = $100000073345#100000073611 "Intravenous use"
+
+Instance: Maxilene-40mg-cream-SE-AJ-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(Maxilene-40mg-cream-SE-AJ-MPD)
+* administrableDoseForm = $200000000004#100000073712 "Cream"
+* producedFrom = Reference(Maxilene-40mg-cream-SE-AJ-MID)
+* routeOfAdministration.code = $100000073345#100000073566 "Cutaneous use"
+
+Instance: BuprenorSTADA-10perh-Transderm-SE-BS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(BuprenorSTADA-10perh-Transderm-SE-BS-MPD)
+* administrableDoseForm = $200000000004#100000073741 "Transdermal patch"
+* producedFrom = Reference(BuprenorSTADA-10perh-Transderm-SE-BS-MID)
+* routeOfAdministration.code = $100000073345#100000073637 "Transdermal use"
+
+Instance: BuprenorSTADA-5h-Transderm-SE-BS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(BuprenorSTADA-5h-Transderm-SE-BS-MPD)
+* administrableDoseForm = $200000000004#100000073741 "Transdermal patch"
+* producedFrom = Reference(BuprenorSTADA-5h-Transderm-SE-BS-MID)
+* routeOfAdministration.code = $100000073345#100000073637 "Transdermal use"
+
+Instance: Glucophage-850mg-Tablet-SE-BS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(Glucophage-850mg-Tablet-SE-BS-MPD)
+* administrableDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* producedFrom = Reference(Glucophage-850mg-Tablet-SE-BS-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: DZPorifarm-5mg-Tablet-SE-IS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(DZPorifarm-5mg-Tablet-SE-IS-MPD)
+* administrableDoseForm = $200000000004#100000073664 "Tablet"
+* producedFrom = Reference(DZPorifarm-5mg-Tablet-SE-IS-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: IMASTADA-600mg-Tablet-SE-IS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(IMASTADA-600mg-Tablet-SE-IS-MPD)
+* administrableDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* producedFrom = Reference(IMASTADA-600mg-Tablet-SE-IS-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: MorfinMeda-10mg-Tablet-SE-BS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(MorfinMeda-10mg-Tablet-SE-BS-MPD)
+* administrableDoseForm = $200000000004#100000073664 "Tablet"
+* producedFrom = Reference(MorfinMeda-10mg-Tablet-SE-BS-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: Sendolor-1mgml-InfSolution-SE-BS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(Sendolor-1mgml-InfSolution-SE-BS-MPD)
+* administrableDoseForm = $200000000004#100000073870 "Solution for infusion"
+* producedFrom = Reference(Sendolor-1mgml-InfSolution-SE-BS-MID)
+* routeOfAdministration.code.coding[0] = $100000073345#100000073633 "Subcutaneous use"
+* routeOfAdministration.code.coding[+] = $100000073345#100000073600 "Intramuscular use"
+* routeOfAdministration.code.coding[+] = $100000073345#100000073611 "Intravenous use"
+* routeOfAdministration.code.coding[+] = $100000073345#100000073572 "Epidural use"
+* routeOfAdministration.code.coding[+] = $100000073345#100000073608 "Intrathecal use"
+
+Instance: AMLteva-10mg-Tablet-SE-IS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(AMLteva-10mg-Tablet-SE-IS-MPD)
+* administrableDoseForm = $200000000004#100000073664 "Tablet"
+* producedFrom = Reference(AMLteva-10mg-Tablet-SE-IS-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: ITZSTADA-100mg-Cap-SE-IS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(ITZSTADA-100mg-Cap-SE-IS-MPD)
+* administrableDoseForm = $200000000004#100000073375 "Capsule, hard"
+* producedFrom = Reference(ITZSTADA-100mg-Cap-SE-IS-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: MetforminOri-500mg-Tablet-SE-BS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(MetforminOri-500mg-Tablet-SE-BS-MPD)
+* administrableDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* producedFrom = Reference(MetforminOri-500mg-Tablet-SE-BS-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: MetforminAuro-500mg-Tablet-SE-BS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(MetforminAuro-500mg-Tablet-SE-BS-MPD)
+* administrableDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* producedFrom = Reference(MetforminAuro-500mg-Tablet-SE-BS-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: Citodon-500mg30mg-EffTablet-SE-IS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(Citodon-500mg30mg-EffTablet-SE-IS-MPD)
+* administrableDoseForm = $200000000004#100000073646 "Oral solution"
+* producedFrom = Reference(Citodon-500mg30mg-EffTablet-SE-IS-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: Dolcontin-30mg-Tablet-SE-BS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(Dolcontin-30mg-Tablet-SE-BS-MPD)
+* administrableDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
+* producedFrom = Reference(Dolcontin-30mg-Tablet-SE-BS-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: MetforminSandoz-500mg-Tablet-SE-BS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(MetforminSandoz-500mg-Tablet-SE-BS-MPD)
+* administrableDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* producedFrom = Reference(MetforminSandoz-500mg-Tablet-SE-BS-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: InfluvacTetra-0.5ml-Suspension-SE-AJ-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(InfluvacTetra-0.5ml-Suspension-SE-AJ-MPD)
+* administrableDoseForm = $200000000004#100000073864 "Suspension for injection"
+* producedFrom = Reference(InfluvacTetra-0.5ml-Suspension-SE-AJ-MID)
+* routeOfAdministration[+].code = $100000073345#100000073600 "Intramuscular use"
+* routeOfAdministration[+].code = $100000073345#100000073633 "Subcutaneous use"
+
+Instance: MetforminActavis-1000mg-Tablet-SE-BS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(MetforminActavis-1000mg-Tablet-SE-BS-MPD)
+* administrableDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* producedFrom = Reference(MetforminActavis-1000mg-Tablet-SE-BS-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: Alvedon500mgBrustablett-SE-PLC-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(Alvedon500mgBrustablett-SE-PLC-MPD)
+* administrableDoseForm = $200000000004#100000073646 "Oral solution"
+* producedFrom = Reference(Alvedon500mgBrustablett-SE-PLC-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: DicTratiopharma25mgFilmtablet-SE-PLC-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(DicTratiopharma25mgFilmtablet-SE-PLC-MPD)
+* administrableDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* producedFrom = Reference(DicTratiopharma25mgFilmtablet-SE-PLC-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: AMLmedvalley-5mg-Tablet-SE-IS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(AMLmedvalley-5mg-Tablet-SE-IS-MPD)
+* administrableDoseForm = $200000000004#100000073664 "Tablet"
+* producedFrom = Reference(AMLmedvalley-5mg-Tablet-SE-IS-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: Panocod-500mg30mg-Tablet-SE-IS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(Panocod-500mg30mg-Tablet-SE-IS-MPD)
+* administrableDoseForm = $200000000004#100000073664 "Tablet"
+* producedFrom = Reference(Panocod-500mg30mg-Tablet-SE-IS-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: BuprenorphineOri-2mg-Tablet-SE-BS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(BuprenorphineOri-2mg-Tablet-SE-BS-MPD)
+* administrableDoseForm = $200000000004#100000073698 "Sublingual tablet"
+* producedFrom = Reference(BuprenorphineOri-2mg-Tablet-SE-BS-MID)
+* routeOfAdministration.code = $100000073345#100000073634 "Sublingual use"
+
+Instance: AMLbluefish-5mg-Tablet-SE-IS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(AMLbluefish-5mg-Tablet-SE-IS-MPD)
+* administrableDoseForm = $200000000004#100000073664 "Tablet"
+* producedFrom = Reference(AMLbluefish-5mg-Tablet-SE-IS-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: IMAkoanaa-400mg-Tablet-SE-IS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(IMAkoanaa-400mg-Tablet-SE-IS-MPD)
+* administrableDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* producedFrom = Reference(IMAkoanaa-400mg-Tablet-SE-IS-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: EnalaprilSandoz-20mg-Tablet-SE-AJ-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(EnalaprilSandoz-20mg-Tablet-SE-AJ-MPD)
+* administrableDoseForm = $200000000004#100000073664 "tablet"
+* producedFrom = Reference(EnalaprilSandoz-20mg-Tablet-SE-AJ-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: ISOactavis-10mg-Capsule-SE-IS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(ISOactavis-10mg-Capsule-SE-IS-MPD)
+* administrableDoseForm = $200000000004#100000073660 "Capsule, soft"
+* producedFrom = Reference(ISOactavis-10mg-Capsule-SE-IS-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: IMASTADA-100mg-Tablet-SE-IS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(IMASTADA-100mg-Tablet-SE-IS-MPD)
+* administrableDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* producedFrom = Reference(IMASTADA-100mg-Tablet-SE-IS-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: DiklofenakABECE116mgggel-SE-PLC-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(DiklofenakABECE116mgggel-SE-PLC-MPD)
+* administrableDoseForm = $200000000004#100000073726 "Gel"
+* producedFrom = Reference(DiklofenakABECE116mgggel-SE-PLC-MID)
+* routeOfAdministration.code = $100000073345#100000073566 "Cutaneous use"
+
+Instance: CefStragen-750mg-Powder-SE-IS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(CefStragen-750mg-Powder-SE-IS-MPD)
+* administrableDoseForm = $200000000004#100000074038 "Solution for injection/infusion"
+* producedFrom = Reference(CefStragen-750mg-Powder-SE-IS-MID)
+* routeOfAdministration.code.coding[0] = $100000073345#100000073600 "Intramuscular use"
+* routeOfAdministration.code.coding[+] = $100000073345#100000073611 "Intravenous use"
+
+Instance: Cortimyk20mgml10mgmlkram-SE-PLC-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(Cortimyk20mgml10mgmlkram-SE-PLC-MPD)
+* administrableDoseForm = $200000000004#100000073712 "Cream"
+* producedFrom = Reference(Cortimyk20mgml10mgmlkram-SE-PLC-MID)
+* routeOfAdministration.code = $100000073345#100000073566 "Cutaneous use"
+
+Instance: ITZactavis-100mg-Cap-SE-IS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(ITZactavis-100mg-Cap-SE-IS-MPD)
+* administrableDoseForm = $200000000004#100000073375 "Capsule, hard"
+* producedFrom = Reference(ITZactavis-100mg-Cap-SE-IS-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: BupropionSandoz-150mg-Tablet-SE-BS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(BupropionSandoz-150mg-Tablet-SE-BS-MPD)
+* administrableDoseForm = $200000000004#100000073668 "Modified-release tablet"
+* producedFrom = Reference(BupropionSandoz-150mg-Tablet-SE-BS-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: IMAsandoz-100mg-Tablet-SE-IS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(IMAsandoz-100mg-Tablet-SE-IS-MPD)
+* administrableDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* producedFrom = Reference(IMAsandoz-100mg-Tablet-SE-IS-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+
+Instance: IMAkrkadd-100mg-Tablet-SE-IS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(IMAkrkadd-100mg-Tablet-SE-IS-MPD)
+* administrableDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* producedFrom = Reference(IMAkrkadd-100mg-Tablet-SE-IS-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: SimvastatinBluefish-80mg-Tablet-SE-BS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(SimvastatinBluefish-80mg-Tablet-SE-BS-MPD)
+* administrableDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* producedFrom = Reference(SimvastatinBluefish-80mg-Tablet-SE-BS-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: EnalaprilSandoz-10mg-Tablet-SE-AJ-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(EnalaprilSandoz-10mg-Tablet-SE-AJ-MPD)
+* administrableDoseForm = $200000000004#100000073664 "tablet"
+* producedFrom = Reference(EnalaprilSandoz-10mg-Tablet-SE-AJ-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: AMLbluefish-10mg-Tablet-SE-IS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(AMLbluefish-10mg-Tablet-SE-IS-MPD)
+* administrableDoseForm = $200000000004#100000073664 "Tablet"
+* producedFrom = Reference(AMLbluefish-10mg-Tablet-SE-IS-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: PKEvolan-500mg30mg-Tablet-SE-IS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(PKEvolan-500mg30mg-Tablet-SE-IS-MPD)
+* administrableDoseForm = $200000000004#100000073664 "Tablet"
+* producedFrom = Reference(PKEvolan-500mg30mg-Tablet-SE-IS-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: SertralineSUN100mgfilmtablett-SE-PLC-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(SertralineSUN100mgfilmtablett-SE-PLC-MPD)
+* administrableDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* producedFrom = Reference(SertralineSUN100mgfilmtablett-SE-PLC-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: IMAgrindeks-100mg-Capsule-SE-IS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(IMAgrindeks-100mg-Capsule-SE-IS-MPD)
+* administrableDoseForm = $200000000004#100000073375 "Capsule, hard"
+* producedFrom = Reference(IMAgrindeks-100mg-Capsule-SE-IS-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: Norspan-5h-Transderm-SE-BS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(Norspan-5h-Transderm-SE-BS-MPD)
+* administrableDoseForm = $200000000004#100000073741 "Transdermal patch"
+* producedFrom = Reference(Norspan-5h-Transderm-SE-BS-MID)
+* routeOfAdministration.code = $100000073345#100000073637 "Transdermal use"
+
+Instance: DiklofenakOrifarm25Enterotablett-SE-PLC-AdminProdDef
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(DiklofenakOrifarm25Enterotablett-SE-PLC-MedProdDef)
+* administrableDoseForm = $200000000004#100000073667 "Gastro-resistant tablet"
+* producedFrom = Reference(DiklofenakOrifarm25Enterotablett-SE-PLC-ManItemDef)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: MetforminAuro-1000mg-Tablet-SE-BS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(MetforminAuro-1000mg-Tablet-SE-BS-MPD)
+* administrableDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* producedFrom = Reference(MetforminAuro-1000mg-Tablet-SE-BS-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: AMLsandoz-10mg-Tablet-SE-IS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(AMLsandoz-10mg-Tablet-SE-IS-MPD)
+* administrableDoseForm = $200000000004#100000073664 "Tablet"
+* producedFrom = Reference(AMLsandoz-10mg-Tablet-SE-IS-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: AMLvitabalans-10mg-Tablet-SE-IS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(AMLvitabalans-10mg-Tablet-SE-IS-MPD)
+* administrableDoseForm = $200000000004#100000073664 "Tablet"
+* producedFrom = Reference(AMLvitabalans-10mg-Tablet-SE-IS-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: ISOorifarm-20mg-Capsule-SE-IS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(ISOorifarm-20mg-Capsule-SE-IS-MPD)
+* administrableDoseForm = $200000000004#100000073660 "Capsule, soft"
+* producedFrom = Reference(ISOorifarm-20mg-Capsule-SE-IS-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: HermolepsinR-300mg-PRTablet-SE-AJ-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(HermolepsinR-300mg-PRTablet-SE-AJ-MPD)
+* administrableDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
+* producedFrom = Reference(HermolepsinR-300mg-PRTablet-SE-AJ-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: EnalaprilSandoz-5mg-Tablet-SE-AJ-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(EnalaprilSandoz-5mg-Tablet-SE-AJ-MPD)
+* administrableDoseForm = $200000000004#100000073664 "tablet"
+* producedFrom = Reference(EnalaprilSandoz-5mg-Tablet-SE-AJ-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: AMLkrka-5mg-Tablet-SE-IS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(AMLkrka-5mg-Tablet-SE-IS-MPD)
+* administrableDoseForm = $200000000004#100000073664 "Tablet"
+* producedFrom = Reference(AMLkrka-5mg-Tablet-SE-IS-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: DZPdesitin-10mg-Solution-SE-IS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(DZPdesitin-10mg-Solution-SE-IS-MPD)
+* administrableDoseForm = $200000000004#100000073829 "Rectal solution"
+* producedFrom = Reference(DZPdesitin-10mg-Solution-SE-IS-MID)
+* routeOfAdministration.code = $100000073345#100000073628 "Rectal use"
+
+Instance: MetforminSandoz-1000mg-Tablet-SE-BS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(MetforminSandoz-1000mg-Tablet-SE-BS-MPD)
+* administrableDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* producedFrom = Reference(MetforminSandoz-1000mg-Tablet-SE-BS-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: Panodil60mgsuppositorium-SE-PLC-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(Panodil60mgsuppositorium-SE-PLC-MPD)
+* administrableDoseForm = $200000000004#100000073843 "Suppository"
+* producedFrom = Reference(Panodil60mgsuppositorium-SE-PLC-MID)
+* routeOfAdministration.code = $100000073345#100000073628 "Rectal use"
+
+Instance: Norspan-30h-Transderm-SE-BS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(Norspan-30h-Transderm-SE-BS-MPD)
+* administrableDoseForm = $200000000004#100000073741 "Transdermal patch"
+* producedFrom = Reference(Norspan-30h-Transderm-SE-BS-MID)
+* routeOfAdministration.code = $100000073345#100000073637 "Transdermal use"
+
+Instance: Concerta-36mg-PRTablet-SE-AJ-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(Concerta-36mg-PRTablet-SE-AJ-MPD)
+* administrableDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
+* producedFrom = Reference(Concerta-36mg-PRTablet-SE-AJ-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: SimvastatinBluefish-20mg-Tablet-SE-BS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(SimvastatinBluefish-20mg-Tablet-SE-BS-MPD)
+* administrableDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* producedFrom = Reference(SimvastatinBluefish-20mg-Tablet-SE-BS-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: Aprokam-50mg-Powder-SE-IS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(Aprokam-50mg-Powder-SE-IS-MPD)
+* administrableDoseForm = $200000000004#100000073863 "Solution for injection"
+* producedFrom = Reference(Aprokam-50mg-Powder-SE-IS-MID)
+* routeOfAdministration.code = $100000073345#100000125763 "Intracameral use"
+
+Instance: EMLA-2525-Plaster-SE-AJ-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(EMLA-2525-Plaster-SE-AJ-MPD)
+* administrableDoseForm = $200000000004#100000073714 "Medicated plaster"
+* producedFrom = Reference(EMLA-2525-Plaster-SE-AJ-MID)
+* routeOfAdministration.code = $100000073345#100000073566 "Cutaneous use"
+
+Instance: Airomir0.1Spray-SE-PLC-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(Airomir0.1Spray-SE-PLC-MPD)
+* administrableDoseForm = $200000000004#100000073838 "Pressurised inhalation, suspension"
+* producedFrom = Reference(Airomir0.1Spray-SE-PLC-MID)
+* routeOfAdministration.code = $100000073345#100000073584 "Inhalation use"
+
+Instance: Panodil500mgoralsolutionsachet-SE-PLC-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(Panodil500mgoralsolutionsachet-SE-PLC-MPD)
+* administrableDoseForm = $200000000004#100000073646 "Oral solution"
+* producedFrom = Reference(Panodil500mgoralsolutionsachet-SE-PLC-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: Herceptin-150mg-Powder-SE-IS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(Herceptin-150mg-Powder-SE-IS-MPD)
+* administrableDoseForm = $200000000004#100000073870 "Solution for infusion"
+* producedFrom = Reference(Herceptin-150mg-Powder-SE-IS-MID)
+* routeOfAdministration.code = $100000073345#100000073611 "Intravenous use"
+
+Instance: Anafranil-25mg-Tablet-SE-IS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(Anafranil-25mg-Tablet-SE-IS-MPD)
+* administrableDoseForm = $200000000004#100000073380 "Coated tablet"
+* producedFrom = Reference(Anafranil-25mg-Tablet-SE-IS-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: Panocod-500mg30mg-EffTablet-SE-IS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(Panocod-500mg30mg-EffTablet-SE-IS-MPD)
+* administrableDoseForm = $200000000004#100000073646 "Oral solution"
+* producedFrom = Reference(Panocod-500mg30mg-EffTablet-SE-IS-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: AMLteva-5mg-Tablet-SE-IS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(AMLteva-5mg-Tablet-SE-IS-MPD)
+* administrableDoseForm = $200000000004#100000073664 "Tablet"
+* producedFrom = Reference(AMLteva-5mg-Tablet-SE-IS-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: DiklofenakNET232mgggel-SE-PLC-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(DiklofenakNET232mgggel-SE-PLC-MPD)
+* administrableDoseForm = $200000000004#100000073726 "Gel"
+* producedFrom = Reference(DiklofenakNET232mgggel-SE-PLC-MID)
+* routeOfAdministration.code = $100000073345#100000073566 "Cutaneous use"
+
+Instance: Dolcontin-60mg-Tablet-SE-BS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(Dolcontin-60mg-Tablet-SE-BS-MPD)
+* administrableDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
+* producedFrom = Reference(Dolcontin-60mg-Tablet-SE-BS-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: Sandimmun50mgmlkoncentrat-SE-PLC-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(Sandimmun50mgmlkoncentrat-SE-PLC-MPD)
+* administrableDoseForm = $200000000004#100000073870 "Solution for infusion"
+* producedFrom = Reference(Sandimmun50mgmlkoncentrat-SE-PLC-MID)
+* routeOfAdministration.code = $100000073345#100000073611 "Intravenous use"
+
+Instance: SandimmunNeoral100mgmlorallos-SE-PLC-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(SandimmunNeoral100mgmlorallos-SE-PLC-MPD)
+* administrableDoseForm = $200000000004#100000073646 "Oral solution"
+* producedFrom = Reference(SandimmunNeoral100mgmlorallos-SE-PLC-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: MFteva-50mcg-Suspension-SE-IS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(MFteva-50mcg-Suspension-SE-IS-MPD)
+* administrableDoseForm = $200000000004#100000174018 "Suspension for spray"
+* producedFrom = Reference(MFteva-50mcg-Suspension-SE-IS-MID)
+* routeOfAdministration.code = $100000073345#100000073615 "Nasal use"
+
+Instance: AMLmedvalley-10mg-Tablet-SE-IS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(AMLmedvalley-10mg-Tablet-SE-IS-MPD)
+* administrableDoseForm = $200000000004#100000073664 "Tablet"
+* producedFrom = Reference(AMLmedvalley-10mg-Tablet-SE-IS-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: Denela-2525-Cream-SE-AJ-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(Denela-2525-Cream-SE-AJ-MPD)
+* administrableDoseForm = $200000000004#100000073712 "Cream"
+* producedFrom = Reference(Denela-2525-Cream-SE-AJ-MID)
+* routeOfAdministration.code = $100000073345#100000073566 "Cutaneous use"
+
+Instance: MorphineUni-1mgml-Solution-SE-BS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(MorphineUni-1mgml-Solution-SE-BS-MPD)
+* administrableDoseForm = $200000000004#100000073863 "Solution for injection"
+* producedFrom = Reference(MorphineUni-1mgml-Solution-SE-BS-MID)
+* routeOfAdministration.code.coding[0] = $100000073345#100000073633 "Subcutaneous use"
+* routeOfAdministration.code.coding[+] = $100000073345#100000073600 "Intramuscular use"
+* routeOfAdministration.code.coding[+] = $100000073345#100000073611 "Intravenous use"
+* routeOfAdministration.code.coding[+] = $100000073345#100000073572 "Epidural use"
+
+Instance: Dolcontin-10mg-Tablet-SE-BS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(Dolcontin-10mg-Tablet-SE-BS-MPD)
+* administrableDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
+* producedFrom = Reference(Dolcontin-10mg-Tablet-SE-BS-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: SimvastatinBluefish-40mg-Tablet-SE-BS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(SimvastatinBluefish-40mg-Tablet-SE-BS-MPD)
+* administrableDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* producedFrom = Reference(SimvastatinBluefish-40mg-Tablet-SE-BS-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: CefuroximMIP-750mg-Powder-SE-IS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(CefuroximMIP-750mg-Powder-SE-IS-MPD)
+* administrableDoseForm = $200000000004#100000073863 "Solution for injection"
+* producedFrom = Reference(CefuroximMIP-750mg-Powder-SE-IS-MID)
+* routeOfAdministration.code.coding[0] = $100000073345#100000073600 "Intramuscular use"
+* routeOfAdministration.code.coding[+] = $100000073345#100000073611 "Intravenous use"
+
+Instance: MetforminAristo-500mg-Tablet-SE-BS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(MetforminAristo-500mg-Tablet-SE-BS-MPD)
+* administrableDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* producedFrom = Reference(MetforminAristo-500mg-Tablet-SE-BS-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: AMLaurobindo-10mg-Tablet-SE-IS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(AMLaurobindo-10mg-Tablet-SE-IS-MPD)
+* administrableDoseForm = $200000000004#100000073664 "Tablet"
+* producedFrom = Reference(AMLaurobindo-10mg-Tablet-SE-IS-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: DiklofenakTApofri50mgFilmtablet-SE-PLC-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(DiklofenakTApofri50mgFilmtablet-SE-PLC-MPD)
+* administrableDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* producedFrom = Reference(DiklofenakTApofri50mgFilmtablet-SE-PLC-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: SandimmunNeoral25mgkapselmjuk-SE-PLC-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(SandimmunNeoral25mgkapselmjuk-SE-PLC-MPD)
+* administrableDoseForm = $200000000004#100000073660 "Capsule, soft"
+* producedFrom = Reference(SandimmunNeoral25mgkapselmjuk-SE-PLC-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: Ignorin50mgFilmtablet-SE-PLC-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(Ignorin50mgFilmtablet-SE-PLC-MPD)
+* administrableDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* producedFrom = Reference(Ignorin50mgFilmtablet-SE-PLC-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: MorfinEpMeda-10mgml-Solution-SE-BS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(MorfinEpMeda-10mgml-Solution-SE-BS-MPD)
+* administrableDoseForm = $200000000004#100000073863 "Solution for injection"
+* producedFrom = Reference(MorfinEpMeda-10mgml-Solution-SE-BS-MID)
+* routeOfAdministration.code = $100000073345#100000073572 "Epidural use"
+
+Instance: BuprenorSTADA-20h-Transderm-SE-BS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(BuprenorSTADA-20h-Transderm-SE-BS-MPD)
+* administrableDoseForm = $200000000004#100000073741 "Transdermal patch"
+* producedFrom = Reference(BuprenorSTADA-20h-Transderm-SE-BS-MID)
+* routeOfAdministration.code = $100000073345#100000073637 "Transdermal use"
+
+Instance: BuprenorphineOri-8mg-Tablet-SE-BS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(BuprenorphineOri-8mg-Tablet-SE-BS-MPD)
+* administrableDoseForm = $200000000004#100000073698 "Sublingual tablet"
+* producedFrom = Reference(BuprenorphineOri-8mg-Tablet-SE-BS-MID)
+* routeOfAdministration.code = $100000073345#100000073634 "Sublingual use"
+
+Instance: MetforminActavis-500mg-Tablet-SE-BS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(MetforminActavis-500mg-Tablet-SE-BS-MPD)
+* administrableDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* producedFrom = Reference(MetforminActavis-500mg-Tablet-SE-BS-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: DiklofenakOrifarm50Enterotablett-SE-PLC-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(DiklofenakOrifarm50Enterotablett-SE-PLC-MPD)
+* administrableDoseForm = $200000000004#100000073667 "Gastro-resistant tablet"
+* producedFrom = Reference(DiklofenakOrifarm50Enterotablett-SE-PLC-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: Mydrane-InjSol-SE-AJ-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(Mydrane-InjSol-SE-AJ-MPD)
+* administrableDoseForm = $200000000004#100000073863 "Solution for injection"
+* producedFrom = Reference(Mydrane-InjSol-SE-AJ-MID)
+* routeOfAdministration.code = $100000073345#100000125763 "Intracameral use"
+
+Instance: SertralinTeva50mgfilmtablett-SE-PLC-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(SertralinTeva50mgfilmtablett-SE-PLC-MPD)
+* administrableDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* producedFrom = Reference(SertralinTeva50mgfilmtablett-SE-PLC-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: MorfinAbcur-10mgml-Solution-SE-BS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(MorfinAbcur-10mgml-Solution-SE-BS-MPD)
+* administrableDoseForm = $200000000004#100000073863 "Solution for injection"
+* producedFrom = Reference(MorfinAbcur-10mgml-Solution-SE-BS-MID)
+* routeOfAdministration.code.coding[0] = $100000073345#100000073633 "Subcutaneous use"
+* routeOfAdministration.code.coding[+] = $100000073345#100000073600 "Intramuscular use"
+* routeOfAdministration.code.coding[+] = $100000073345#100000073611 "Intravenous use"
+
+Instance: ISOsandoz-10mg-Capsule-SE-IS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(ISOsandoz-10mg-Capsule-SE-IS-MPD)
+* administrableDoseForm = $200000000004#100000073660 "Capsule, soft"
+* producedFrom = Reference(ISOsandoz-10mg-Capsule-SE-IS-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: EMLA-2525-Cream-SE-AJ-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(EMLA-2525-Cream-SE-AJ-MPD)
+* administrableDoseForm = $200000000004#100000073712 "Cream"
+* producedFrom = Reference(EMLA-2525-Cream-SE-AJ-MID)
+* routeOfAdministration.code = $100000073345#100000073566 "Cutaneous use"
+
+Instance: MorfinKalceks-10mgml-Solution-SE-BS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(MorfinKalceks-10mgml-Solution-SE-BS-MPD)
+* administrableDoseForm = $200000000004#100000073863 "Solution for injection"
+* producedFrom = Reference(MorfinKalceks-10mgml-Solution-SE-BS-MID)
+* routeOfAdministration.code.coding[0] = $100000073345#100000073633 "Subcutaneous use"
+* routeOfAdministration.code.coding[+] = $100000073345#100000073600 "Intramuscular use"
+* routeOfAdministration.code.coding[+] = $100000073345#100000073611 "Intravenous use"
+
+Instance: AnafranilRet-75mg-Tablet-SE-IS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(AnafranilRet-75mg-Tablet-SE-IS-MPD)
+* administrableDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
+* producedFrom = Reference(AnafranilRet-75mg-Tablet-SE-IS-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: MForion-50mcg-Suspension-SE-IS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(MForion-50mcg-Suspension-SE-IS-MPD)
+* administrableDoseForm = $200000000004#100000174018 "Suspension for spray"
+* producedFrom = Reference(MForion-50mcg-Suspension-SE-IS-MID)
+* routeOfAdministration.code = $100000073345#100000073615 "Nasal use"
+
+Instance: SimvastatinBluefish-10mg-Tablet-SE-BS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(SimvastatinBluefish-10mg-Tablet-SE-BS-MPD)
+* administrableDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* producedFrom = Reference(SimvastatinBluefish-10mg-Tablet-SE-BS-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: DiklofenakTeva116mgggelSE-PLC-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(DiklofenakTeva116mgggel-SE-PLC-MPD)
+* administrableDoseForm = $200000000004#100000073726 "Gel"
+* producedFrom = Reference(DiklofenakTeva116mgggel-SE-PLC-MID)
+* routeOfAdministration.code = $100000073345#100000073566 "Cutaneous use"
+
+Instance: Anafranil-12mgml-Solution-SE-IS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(Anafranil-12mgml-Solution-SE-IS-MPD)
+* administrableDoseForm = $200000000004#100000073863 "Solution for injection"
+* producedFrom = Reference(Anafranil-12mgml-Solution-SE-IS-MID)
+* routeOfAdministration.code.coding[0] = $100000073345#100000073600 "Intramuscular use"
+* routeOfAdministration.code.coding[+] = $100000073345#100000073611 "Intravenous use"
+
+Instance: Norspan-40h-Transderm-SE-BS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(Norspan-40h-Transderm-SE-BS-MPD)
+* administrableDoseForm = $200000000004#100000073741 "Transdermal patch"
+* producedFrom = Reference(Norspan-40h-Transderm-SE-BS-MID)
+* routeOfAdministration.code = $100000073345#100000073637 "Transdermal use"
+
+Instance: Glucophage-1000mg-Tablet-SE-BS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(Glucophage-1000mg-Tablet-SE-BS-MPD)
+* administrableDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* producedFrom = Reference(Glucophage-1000mg-Tablet-SE-BS-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: HydrokortisonOrifarm20mgTablett-SE-PLC-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(HydrokortisonOrifarm20mgTablett-SE-PLC-MPD)
+* administrableDoseForm = $200000000004#100000073664 "Tablet"
+* producedFrom = Reference(HydrokortisonOrifarm20mgTablett-SE-PLC-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: EnalaprilSandoz-2.5mg-Tablet-SE-AJ-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(EnalaprilSandoz-2.5mg-Tablet-SE-AJ-MPD)
+* administrableDoseForm = $200000000004#100000073664 "tablet"
+* producedFrom = Reference(EnalaprilSandoz-2.5mg-Tablet-SE-AJ-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: AMLaccord-10mg-Tablet-SE-IS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(AMLaccord-10mg-Tablet-SE-IS-MPD)
+* administrableDoseForm = $200000000004#100000073664 "Tablet"
+* producedFrom = Reference(AMLaccord-10mg-Tablet-SE-IS-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: PinexJordgubb250mggranulat-SE-PLC-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(PinexJordgubb250mggranulat-SE-PLC-MPD)
+* administrableDoseForm = $200000000004#100000073372 "Granules"
+* producedFrom = Reference(PinexJordgubb250mggranulat-SE-PLC-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: ISOorifarm-10mg-Capsule-SE-IS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(ISOorifarm-10mg-Capsule-SE-IS-MPD)
+* administrableDoseForm = $200000000004#100000073660 "Capsule, soft"
+* producedFrom = Reference(ISOorifarm-10mg-Capsule-SE-IS-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: DiklofenakApofri116gel-SE-PLC-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(DiklofenakApofri116gel-SE-PLC-MPD)
+* administrableDoseForm = $200000000004#100000073726 "Gel"
+* producedFrom = Reference(DiklofenakApofri116gel-SE-PLC-MID)
+* routeOfAdministration.code = $100000073345#100000073566 "Cutaneous use"
+
+Instance: DZPdesitin-5mg-Solution-SE-IS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(DZPdesitin-5mg-Solution-SE-IS-MPD)
+* administrableDoseForm = $200000000004#100000073829 "Rectal solution"
+* producedFrom = Reference(DZPdesitin-5mg-Solution-SE-IS-MID)
+* routeOfAdministration.code = $100000073345#100000073628 "Rectal use"
+
+Instance: Instillagel-209-Gel-SE-AJ-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(Instillagel-209-Gel-SE-AJ-MPD)
+* administrableDoseForm = $200000000004#100000073726 "Gel"
+* producedFrom = Reference(Instillagel-209-Gel-SE-AJ-MID)
+* routeOfAdministration.code = $100000073345#100000073638 "Urethral use"
+
+Instance: Nitrolingual04mgdossublingualspray-SE-PLC-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(Nitrolingual04mgdossublingualspray-SE-PLC-MPD)
+* administrableDoseForm = $200000000004#100000143499 "Sublingual spray, solution"
+* producedFrom = Reference(Nitrolingual04mgdossublingualspray-SE-PLC-MID)
+* routeOfAdministration.code = $100000073345#100000073634 "Sublingual use"
+
+Instance: CoversylNovum-5mg-Tablet-SE-BS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(CoversylNovum-5mg-Tablet-SE-BS-MPD)
+* administrableDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* producedFrom = Reference(CoversylNovum-5mg-Tablet-SE-BS-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: Norspan-10h-Transderm-SE-BS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(Norspan-10h-Transderm-SE-BS-MPD)
+* administrableDoseForm = $200000000004#100000073741 "Transdermal patch"
+* producedFrom = Reference(Norspan-10h-Transderm-SE-BS-MID)
+* routeOfAdministration.code = $100000073345#100000073637 "Transdermal use"
+
+Instance: Amlodistad-10mg-Tablet-SE-IS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(Amlodistad-10mg-Tablet-SE-IS-MPD)
+* administrableDoseForm = $200000000004#100000073664 "Tablet"
+* producedFrom = Reference(Amlodistad-10mg-Tablet-SE-IS-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: Anafranil-10mg-Tablet-SE-IS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(Anafranil-10mg-Tablet-SE-IS-MPD)
+* administrableDoseForm = $200000000004#100000073380 "Coated tablet"
+* producedFrom = Reference(Anafranil-10mg-Tablet-SE-IS-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: Elvanse-50mg-Capsule-SE-AJ-APD01
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(Elvanse-50mg-Capsule-SE-AJ-MPD)
+* administrableDoseForm = $200000000004#100000073375 "Capsule, hard"
+* producedFrom = Reference(Elvanse-50mg-Capsule-SE-AJ-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: Elvanse-50mg-Capsule-SE-AJ-APD02
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(Elvanse-50mg-Capsule-SE-AJ-MPD)
+* administrableDoseForm = $200000000004#100000073646 "Oral solution"
+* producedFrom = Reference(Elvanse-50mg-Capsule-SE-AJ-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: CiklosporinIVAX25mgkapselmjuk-SE-PLC-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(CiklosporinIVAX25mgkapselmjuk-SE-PLC-MPD)
+* administrableDoseForm = $200000000004#100000073660 "Capsule, soft"
+* producedFrom = Reference(CiklosporinIVAX25mgkapselmjuk-SE-PLC-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: HermolepsinR-100mg-PRTablet-SE-AJ-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(HermolepsinR-100mg-PRTablet-SE-AJ-MPD)
+* administrableDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
+* producedFrom = Reference(HermolepsinR-100mg-PRTablet-SE-AJ-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: Mommox-50mcg-Suspension-SE-IS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(Mommox-50mcg-Suspension-SE-IS-MPD)
+* administrableDoseForm = $200000000004#100000174018 "Suspension for spray"
+* producedFrom = Reference(Mommox-50mcg-Suspension-SE-IS-MID)
+* routeOfAdministration.code = $100000073345#100000073615 "Nasal use"
+
+Instance: CefuroximStragen-1.5g-Powder-SE-IS-AdminProdDef
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(CefuroximStragen-1.5g-Powder-SE-IS-MPD)
+* administrableDoseForm = $200000000004#100000074038 "Solution for injection/infusion"
+* producedFrom = Reference(CefuroximStragen-1.5g-Powder-SE-IS-MID)
+* routeOfAdministration.code.coding[0] = $100000073345#100000073600 "Intramuscular use"
+* routeOfAdministration.code.coding[+] = $100000073345#100000073611 "Intravenous use"
+
+Instance: DiklofenakApofri232mgggel-SE-PLC-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(DiklofenakApofri232mgggel-SE-PLC-MPD)
+* administrableDoseForm = $200000000004#100000073726 "Gel"
+* producedFrom = Reference(DiklofenakApofri232mgggel-SE-PLC-MID)
+* routeOfAdministration.code = $100000073345#100000073566 "Cutaneous use"
+
+Instance: Nobligan100mgmloraladropparlos-SE-PLC-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(Nobligan100mgmloraladropparlos-SE-PLC-MPD)
+* administrableDoseForm = $200000000004#100000073642 "Oral drops, solution"
+* producedFrom = Reference(Nobligan100mgmloraladropparlos-SE-PLC-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: HermolepsinR-200mg-PRTablet-SE-AJ-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(HermolepsinR-200mg-PRTablet-SE-AJ-MPD)
+* administrableDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
+* producedFrom = Reference(HermolepsinR-200mg-PRTablet-SE-AJ-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: AMLsandoz-5mg-Tablet-SE-IS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(AMLsandoz-5mg-Tablet-SE-IS-MPD)
+* administrableDoseForm = $200000000004#100000073664 "Tablet"
+* producedFrom = Reference(AMLsandoz-5mg-Tablet-SE-IS-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: MetforminActavis-850mg-Tablet-SE-BS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(MetforminActavis-850mg-Tablet-SE-BS-MPD)
+* administrableDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* producedFrom = Reference(MetforminActavis-850mg-Tablet-SE-BS-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: Altermol-500mg30mg-Tablet-SE-IS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(Altermol-500mg30mg-Tablet-SE-IS-MPD)
+* administrableDoseForm = $200000000004#100000073664 "Tablet"
+* producedFrom = Reference(Altermol-500mg30mg-Tablet-SE-IS-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: Citodon-1g60mg-Suppository-SE-IS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(Citodon-1g60mg-Suppository-SE-IS-MPD)
+* administrableDoseForm = $200000000004#100000073843 "Suppository"
+* producedFrom = Reference(Citodon-1g60mg-Suppository-SE-IS-MID)
+* routeOfAdministration.code = $100000073345#100000073628 "Rectal use"
+
+Instance: HydrokortisonEvolan10mgpergsalva-SE-PLC-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(HydrokortisonEvolan10mgpergsalva-SE-PLC-MPD)
+* administrableDoseForm = $200000000004#100000073713 "Ointment"
+* producedFrom = Reference(HydrokortisonEvolan10mgpergsalva-SE-PLC-MID)
+* routeOfAdministration.code = $100000073345#100000073566 "Cutaneous use"
+
+Instance: Alburex-200g-L-Solution-SE-AJ-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(Alburex-200g-L-Solution-SE-AJ-MPD)
+* administrableDoseForm = $200000000004#100000073870 "solution for infusion"
+* producedFrom = Reference(Alburex-200g-L-Solution-SE-AJ-MID)
+* routeOfAdministration.code = $100000073345#100000073611 "Intravenous use"
+
+Instance: NitroglycerinAbicurinfu-SE-PLC-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(NitroglycerinAbicurinfu-SE-PLC-MPD)
+* administrableDoseForm = $200000000004#100000073870 "Solution for infusion"
+* producedFrom = Reference(NitroglycerinAbicurinfu-SE-PLC-MID)
+* routeOfAdministration.code = $100000073345#100000073611 "Intravenous use"
+
+Instance: Norvasc-5mg-Tablet-SE-IS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(Norvasc-5mg-Tablet-SE-IS-MPD)
+* administrableDoseForm = $200000000004#100000073664 "Tablet"
+* producedFrom = Reference(Norvasc-5mg-Tablet-SE-IS-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: ABASAGLAR-100eml-Solution-SE-IS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(ABASAGLAR-100eml-Solution-SE-IS-MPD)
+* administrableDoseForm = $200000000004#100000073863 "Solution for injection"
+* producedFrom = Reference(ABASAGLAR-100eml-Solution-SE-IS-MID)
+* routeOfAdministration.code = $100000073345#100000073633 "Subcutaneous use"
+
+Instance: AMLaccord-5mg-Tablet-SE-IS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(AMLaccord-5mg-Tablet-SE-IS-MPD)
+* administrableDoseForm = $200000000004#100000073664 "Tablet"
+* producedFrom = Reference(AMLaccord-5mg-Tablet-SE-IS-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: IMASTADA-400mg-Tablet-SE-IS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(IMASTADA-400mg-Tablet-SE-IS-MPD)
+* administrableDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* producedFrom = Reference(IMASTADA-400mg-Tablet-SE-IS-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: CefStragen-250mg-Powder-SE-IS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(CefStragen-250mg-Powder-SE-IS-MPD)
+* administrableDoseForm = $200000000004#100000073863 "Solution for injection"
+* producedFrom = Reference(CefStragen-250mg-Powder-SE-IS-MID)
+* routeOfAdministration.code.coding[0] = $100000073345#100000073600 "Intramuscular use"
+* routeOfAdministration.code.coding[+] = $100000073345#100000073611 "Intravenous use"
+
+Instance: Glucophage-500mg-Tablet-SE-BS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(Glucophage-500mg-Tablet-SE-BS-MPD)
+* administrableDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* producedFrom = Reference(Glucophage-500mg-Tablet-SE-BS-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: DZPorifarm-10mg-Tablet-SE-IS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(DZPorifarm-10mg-Tablet-SE-IS-MPD)
+* administrableDoseForm = $200000000004#100000073664 "Tablet"
+* producedFrom = Reference(DZPorifarm-10mg-Tablet-SE-IS-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: Sendolor-1mgml-Solution-SE-BS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(Sendolor-1mgml-Solution-SE-BS-MPD)
+* administrableDoseForm = $200000000004#100000073863 "Solution for injection"
+* producedFrom = Reference(Sendolor-1mgml-Solution-SE-BS-MID)
+* routeOfAdministration.code.coding[0] = $100000073345#100000073633 "Subcutaneous use"
+* routeOfAdministration.code.coding[+] = $100000073345#100000073600 "Intramuscular use"
+* routeOfAdministration.code.coding[+] = $100000073345#100000073611 "Intravenous use"
+* routeOfAdministration.code.coding[+] = $100000073345#100000073572 "Epidural use"
+* routeOfAdministration.code.coding[+] = $100000073345#100000073608 "Intrathecal use"
+
+Instance: IMAkoanaa-100mg-Tablet-SE-IS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(IMAkoanaa-100mg-Tablet-SE-IS-MPD)
+* administrableDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* producedFrom = Reference(IMAkoanaa-100mg-Tablet-SE-IS-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: AMLjubilant-5mg-Tablet-SE-IS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(AMLjubilant-5mg-Tablet-SE-IS-MPD)
+* administrableDoseForm = $200000000004#100000073664 "Tablet"
+* producedFrom = Reference(AMLjubilant-5mg-Tablet-SE-IS-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: CitodonEv-500mg30mg-Tablet-SE-IS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(CitodonEv-500mg30mg-Tablet-SE-IS-MPD)
+* administrableDoseForm = $200000000004#100000073664 "Tablet"
+* producedFrom = Reference(CitodonEv-500mg30mg-Tablet-SE-IS-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: IMAkrkadd-400mg-Tablet-SE-IS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(IMAkrkadd-400mg-Tablet-SE-IS-MPD)
+* administrableDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* producedFrom = Reference(IMAkrkadd-400mg-Tablet-SE-IS-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: Momenex-50mcg-Suspension-SE-IS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(Momenex-50mcg-Suspension-SE-IS-MPD)
+* administrableDoseForm = $200000000004#100000174018 "Suspension for spray"
+* producedFrom = Reference(Momenex-50mcg-Suspension-SE-IS-MID)
+* routeOfAdministration.code = $100000073345#100000073615 "Nasal use"
+
+Instance: Amlodistad-5mg-Tablet-SE-IS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(Amlodistad-5mg-Tablet-SE-IS-MPD)
+* administrableDoseForm = $200000000004#100000073664 "Tablet"
+* producedFrom = Reference(Amlodistad-5mg-Tablet-SE-IS-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: DicTratiopharma50mgFilmtablet-SE-PLC-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(DicTratiopharma50mgFilmtablet-SE-PLC-MPD)
+* administrableDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* producedFrom = Reference(DicTratiopharma50mgFilmtablet-SE-PLC-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: Nobligan50mgkapselhard-SE-PLC-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(Nobligan50mgkapselhard-SE-PLC-MPD)
+* administrableDoseForm = $200000000004#100000073375 "Capsule, hard"
+* producedFrom = Reference(Nobligan50mgkapselhard-SE-PLC-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: Dicuno50mgFilmtablet-SE-PLC-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(Dicuno50mgFilmtablet-SE-PLC-MPD)
+* administrableDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* producedFrom = Reference(Dicuno50mgFilmtablet-SE-PLC-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: MorfinSpecial-2mgml-Solution-SE-BS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(MorfinSpecial-2mgml-Solution-SE-BS-MPD)
+* administrableDoseForm = $200000000004#100000073863 "Solution for injection"
+* producedFrom = Reference(MorfinSpecial-2mgml-Solution-SE-BS-MID)
+* routeOfAdministration.code = $100000073345#100000073572 "Epidural use"
+
+Instance: ISOactavis-20mg-Capsule-SE-IS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(ISOactavis-20mg-Capsule-SE-IS-MPD)
+* administrableDoseForm = $200000000004#100000073660 "Capsule, soft"
+* producedFrom = Reference(ISOactavis-20mg-Capsule-SE-IS-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: DiclofenacOrifarm116mgggel-SE-PLC-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(DiclofenacOrifarm116mgggel-SE-PLC-MPD)
+* administrableDoseForm = $200000000004#100000073726 "Gel"
+* producedFrom = Reference(DiclofenacOrifarm116mgggel-SE-PLC-MID)
+* routeOfAdministration.code = $100000073345#100000073566 "Cutaneous use"
+
+Instance: Norvasc-10mg-Tablet-SE-IS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(Norvasc-10mg-Tablet-SE-IS-MPD)
+* administrableDoseForm = $200000000004#100000073664 "Tablet"
+* producedFrom = Reference(Norvasc-10mg-Tablet-SE-IS-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: MFapofri-50mcg-Suspension-SE-IS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(MFapofri-50mcg-Suspension-SE-IS-MPD)
+* administrableDoseForm = $200000000004#100000174018 "Suspension for spray"
+* producedFrom = Reference(MFapofri-50mcg-Suspension-SE-IS-MID)
+* routeOfAdministration.code = $100000073345#100000073615 "Nasal use"
+
+Instance: IMAmylan-100mg-Tablet-SE-IS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(IMAmylan-100mg-Tablet-SE-IS-MPD)
+* administrableDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* producedFrom = Reference(IMAmylan-100mg-Tablet-SE-IS-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: AMLvitabalans-5mg-Tablet-SE-IS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(AMLvitabalans-5mg-Tablet-SE-IS-MPD)
+* administrableDoseForm = $200000000004#100000073664 "Tablet"
+* producedFrom = Reference(AMLvitabalans-5mg-Tablet-SE-IS-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: AMLjubilant-10mg-Tablet-SE-IS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(AMLjubilant-10mg-Tablet-SE-IS-MPD)
+* administrableDoseForm = $200000000004#100000073664 "Tablet"
+* producedFrom = Reference(AMLjubilant-10mg-Tablet-SE-IS-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: DepoMedrolcumLido-4010-SE-AJ-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(DepoMedrolcumLido-4010-SE-AJ-MPD)
+* administrableDoseForm = $200000000004#100000073864 "Suspension for injection"
+* producedFrom = Reference(DepoMedrolcumLido-4010-SE-AJ-MID)
+* routeOfAdministration.code = $100000073345#100000073623 "Periarticular use"
+
+Instance: Glytrin04mgdossublingualspray-SE-PLC-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(Glytrin04mgdossublingualspray-SE-PLC-MPD)
+* administrableDoseForm = $200000000004#100000143499 "Sublingual spray, solution"
+* producedFrom = Reference(Glytrin04mgdossublingualspray-SE-PLC-MID)
+* routeOfAdministration.code = $100000073345#100000073634 "Sublingual use"
+
+Instance: Aphiahsone-50mcg-Suspension-SE-IS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(Aphiahsone-50mcg-Suspension-SE-IS-MPD)
+* administrableDoseForm = $200000000004#100000174018 "Suspension for spray"
+* producedFrom = Reference(Aphiahsone-50mcg-Suspension-SE-IS-MID)
+* routeOfAdministration.code = $100000073345#100000073615 "Nasal use"
+
+
+Instance: MorfinMeda-20mg-Tablet-SE-BS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(MorfinMeda-20mg-Tablet-SE-BS-MPD)
+* administrableDoseForm = $200000000004#100000073664 "Tablet"
+* producedFrom = Reference(MorfinMeda-20mg-Tablet-SE-BS-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: Alvedon250mgMunsonderTablett-SE-PLC-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(Alvedon250mgMunsonderTablett-SE-PLC-MPD)
+* administrableDoseForm = $200000000004#100000073666 "Orodispersible tablet"
+* producedFrom = Reference(Alvedon250mgMunsonderTablett-SE-PLC-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: Isotracin-10mg-Capsule-SE-IS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(Isotracin-10mg-Capsule-SE-IS-MPD)
+* administrableDoseForm = $200000000004#100000073660 "Capsule, soft"
+* producedFrom = Reference(Isotracin-10mg-Capsule-SE-IS-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: MorfinAlt-10mg-Tablet-SE-BS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(MorfinAlt-10mg-Tablet-SE-BS-MPD)
+* administrableDoseForm = $200000000004#100000073664 "Tablet"
+* producedFrom = Reference(MorfinAlt-10mg-Tablet-SE-BS-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: Nasonex-50mcg-Suspension-SE-IS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(Nasonex-50mcg-Suspension-SE-IS-MPD)
+* administrableDoseForm = $200000000004#100000174018 "Suspension for spray"
+* producedFrom = Reference(Nasonex-50mcg-Suspension-SE-IS-MID)
+* routeOfAdministration.code = $100000073345#100000073615 "Nasal use"
+
+Instance: Alburex-50g-L-Solution-SE-AJ-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(Alburex-50g-L-Solution-SE-AJ-MPD)
+* administrableDoseForm = $200000000004#100000073870 "solution for infusion"
+* producedFrom[0] = Reference(ManufacturedItemDefinition/Alburex-50g-L-Solution-SE-AJ-MID01)
+* producedFrom[+] = Reference(ManufacturedItemDefinition/Alburex-50g-L-Solution-SE-AJ-MID02)
+* routeOfAdministration.code = $100000073345#100000073611 "Intravenous use"
+
+Instance: MetforminSandoz-850mg-Tablet-SE-BS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(MetforminSandoz-850mg-Tablet-SE-BS-MPD)
+* administrableDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* producedFrom = Reference(MetforminSandoz-850mg-Tablet-SE-BS-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: CBZEssPharm-125mg-Supp-SE-AJ-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(CBZEssPharm-125mg-Supp-SE-AJ-MPD)
+* administrableDoseForm = $200000000004#100000073843 "Suppository"
+* producedFrom = Reference(CBZEssPharm-125mg-Supp-SE-AJ-MID)
+* routeOfAdministration.code = $100000073345#100000073628 "Rectal use"
+
+Instance: Norspan-20h-Transderm-SE-BS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(Norspan-20h-Transderm-SE-BS-MPD)
+* administrableDoseForm = $200000000004#100000073741 "Transdermal patch"
+* producedFrom = Reference(Norspan-20h-Transderm-SE-BS-MID)
+* routeOfAdministration.code = $100000073345#100000073637 "Transdermal use"
+
+
+
+Instance: Curocef1500mgPulver-A-HL-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(Curocef1500mgPulver-A-HL-MPD)
+* administrableDoseForm = $200000000004#100000074038 "Solution for injection/infusion"
+* unitOfPresentation = $200000000014#200000002164 "Ampoule"
+* routeOfAdministration[+].code = $100000073345#100000073600 "Intramuscular use"
+* routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
+
+
+Instance: Smofkabiven-Emulsion-SE-IS-APD
+InstanceOf: PPLAdministrableProductDefinition
+* status = #active
+* formOf = Reference(Smofkabiven-Emulsion-SE-IS-MPD)
+* administrableDoseForm = $200000000004#100000073858 "Emulsion for infusion"
+* unitOfPresentation = $200000000014#200000002164 "Ampoule"
+* routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
+* producedFrom = Reference(Smofkabiven-Emulsion-SE-IS-MID)
+
         

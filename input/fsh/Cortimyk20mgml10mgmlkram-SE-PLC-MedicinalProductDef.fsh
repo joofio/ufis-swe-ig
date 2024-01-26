@@ -11,7 +11,7 @@ InstanceOf: PPLMedicinalProductDefinition
 * status = $200000005003#200000005004 "Current"
 * indication = "Tinea (dermatofytoser orsakade av Trichophyton-, Epidermophyton- och Microsporum-arter) och kutana  candidiasis med inflammatoriskt inslag och/eller där klåda är besvärande."
 * legalStatusOfSupply = $100000072051#200000002239 "Medicinal product subject to medical prescription exempt for some pack sizes"
-* classification = $100000093533#100000095248 "D01AC20"
+* classification = $100000093533#100000095248 "imidazoles/triazoles in combination with corticosteroids"
 * name.productName = "Cortimyk 20 mg/g + 10 mg/g kräm"
 * name.part[+].part = "Cortimyk"
 * name.part[=].type.coding.system = "http://spor.ema.europa.eu/v1/lists/220000000000"

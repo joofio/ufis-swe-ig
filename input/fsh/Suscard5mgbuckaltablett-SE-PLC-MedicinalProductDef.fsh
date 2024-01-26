@@ -11,7 +11,7 @@ InstanceOf: PPLMedicinalProductDefinition
 * status = $200000005003#200000005004 "Current"
 * indication = "Angina pectoris."
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal product subject to medical prescription"
-* classification = $100000093533#100000094611 "C01DA02"
+* classification = $100000093533#100000094611 "glyceryl trinitrate"
 * name.productName = "Suscard 5 mg buckaltablett"
 * name.part[+].part = "Suscard"
 * name.part[=].type.coding.system = "http://spor.ema.europa.eu/v1/lists/220000000000"

@@ -11,7 +11,7 @@ InstanceOf: PPLMedicinalProductDefinition
 * status = $200000005003#200000005004 "Current"
 * indication = "Ziprasidon injektionsvätska, lösning är indicerat för snabb kontroll av agiterade patienter med schizofreni, när peroral terapi inte är lämpligt, under maximalt tre på varandra följande dagar.   Behandling med ziprasidon injektionsvätska, lösning bör upphöra och peroralt ziprasidon initieras så snart det är kliniskt lämpligt."
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal product subject to medical prescription"
-* classification = $100000093533#100000097488 "N05AE04"
+* classification = $100000093533#100000097488 "ziprasidone"
 * name.productName = "Zeldox 20 mg/ml pulver och vätska till injektionsvätska, lösning"
 * name.part[+].part = "Zeldox"
 * name.part[=].type.coding.system = "http://spor.ema.europa.eu/v1/lists/220000000000"

@@ -11,7 +11,7 @@ InstanceOf: PPLMedicinalProductDefinition
 * status = $200000005003#200000005004 "Current"
 * indication = "Applanationstonometri. Diagnostisk infärgning med en samtidig tillförsel av ett kortverkande anestetikum."
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal product subject to medical prescription"
-* classification = $100000093533#100000098587 "S01JA51"
+* classification = $100000093533#100000098587 "fluorescein, combinations"
 * name.productName = "Lidokain-Fluorescein Bausch & Lomb 4% + 0,25% Ögondroppar, lösning i endosbehållare"
 * name.part[+].part = "Lidokain-Fluorescein Bausch & Lomb"
 * name.part[=].type.coding.system = "http://spor.ema.europa.eu/v1/lists/220000000000"

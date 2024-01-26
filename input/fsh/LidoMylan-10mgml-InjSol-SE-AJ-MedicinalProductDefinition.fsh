@@ -11,7 +11,7 @@ InstanceOf: PPLMedicinalProductDefinition
 * status = $200000005003#200000005004 "Current"
 * indication = "Nervblockad av fingrar, tår, öron, näsa och penis. Infiltrations- och ledningsanestesi när adrenalin anses vara kontraindicerat. Lidokain Mylan är avsett för vuxna och barn över 1 år."
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal product subject to medical prescription"
-* classification = $100000093533#100000097196 "N01BB02"
+* classification = $100000093533#100000097196 "lidocaine"
 * name.productName = "Lidokain Mylan 10 mg/ml Injektionsvätska, lösning"
 * name.part[+].part = "Lidokain Mylan"
 * name.part[=].type.coding.system = "http://spor.ema.europa.eu/v1/lists/220000000000"

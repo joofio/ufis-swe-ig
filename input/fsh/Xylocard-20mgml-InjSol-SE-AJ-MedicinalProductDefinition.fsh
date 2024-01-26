@@ -11,7 +11,7 @@ InstanceOf: PPLMedicinalProductDefinition
 * status = $200000005003#200000005004 "Current"
 * indication = "Hjärtarytmi: Terapi vid och profylax efter ventrikulära takyarytmier inklusive recidiv av kammarflimmer, speciellt i samband med hjärtinfarkt,   mekanisk irritation av myokardiet vid hjärtoperationer, diagnostiska ingrepp (t ex hjärtkateterisering och angiokardiografi),   digitalisintoxikation och intoxikation med tricykliska antidepressiva medel. Status epilepticus: Behandling av status epilepticus med Xylocard intravenöst lämpar sig bäst för fall av grand mal och Jackson-attacker,  där man för övervakningen av patienten ej önskar sänka medvetandegraden."
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal product subject to medical prescription"
-* classification = $100000093533#100000094554 "C01BB01"
+* classification = $100000093533#100000094554 "lidocaine"
 * name.productName = "Xylocard 20 mg/ml Injektionsvätska, lösning"
 * name.part[+].part = "Xylocard"
 * name.part[=].type.coding.system = "http://spor.ema.europa.eu/v1/lists/220000000000"

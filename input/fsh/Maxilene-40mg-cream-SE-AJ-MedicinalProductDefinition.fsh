@@ -11,7 +11,7 @@ InstanceOf: PPLMedicinalProductDefinition
 * status = $200000005003#200000005004 "Current"
 * indication = "Lokalanestetikum för topikal användning avsett för kutan ytanestesi inför:  venkanylering eller venpunktion på vuxna och barn som är minst en månad gamla  administrering av smärtsamma topikala behandlingar på större intakta hudytor då det är lämpligt att använda ett topikalt bedövningsmedel, endast på vuxna"
 * legalStatusOfSupply = $100000072051#200000002239 "Medicinal product subject to prescription exempt for some pack sizes"
-* classification = $100000093533#100000095332 "D04AB01"
+* classification = $100000093533#100000095332 "lidocaine"
 * name.productName = "Maxilene 40 mg/g Kräm"
 * name.part[+].part = "Maxilene"
 * name.part[=].type.coding.system = "http://spor.ema.europa.eu/v1/lists/220000000000"

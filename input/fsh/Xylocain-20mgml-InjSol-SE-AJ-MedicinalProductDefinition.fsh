@@ -11,7 +11,7 @@ InstanceOf: PPLMedicinalProductDefinition
 * status = $200000005003#200000005004 "Current"
 * indication = "Intravenös regional anestesi, infiltrationsanestesi, nervblockader, epiduralanestesi.    Anestesi av fingrar, tår, öron, näsa och penis eller i andra fall då adrenalin anses kontraindicerat. Vid små operativa ingrepp, då mycket kortvarig anestesi önskas. Xylocain 5 mg/ml och Xylocain 10 mg/ml är avsett för vuxna och barn över 1 år. Xylocain 20 mg/ml är avsett för vuxna."
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal product subject to medical prescription"
-* classification = $100000093533#100000097196 "N01BB02"
+* classification = $100000093533#100000097196 "lidocaine"
 * name.productName = "Xylocain 20 mg/ml Injektionsvätska, lösning"
 * name.part[+].part = "Xylocain"
 * name.part[=].type.coding.system = "http://spor.ema.europa.eu/v1/lists/220000000000"

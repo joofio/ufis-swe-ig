@@ -11,7 +11,7 @@ InstanceOf: PPLMedicinalProductDefinition
 * status = $200000005003#200000005004 "Current"
 * indication = "Lidocaine Accord är indicerat för användning vid infiltrationsanestesi, intravenös regional anestesi, nervblockader och epiduralanestesi. Lidocaine Accord 10 mg/ml är avsett för vuxna och barn över 1 år. Lidocaine Accord 20 mg/ml är avsett för vuxna."
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal product subject to medical prescription"
-* classification = $100000093533#100000097196 "N01BB02"
+* classification = $100000093533#100000097196 "lidocaine"
 * name.productName = "Lidocain Accord 20 mg/ml Injektionsvätska, lösning"
 * name.part[+].part = "Lidocain Accord"
 * name.part[=].type.coding.system = "http://spor.ema.europa.eu/v1/lists/220000000000"

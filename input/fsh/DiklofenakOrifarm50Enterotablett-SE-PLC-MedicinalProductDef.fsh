@@ -11,7 +11,7 @@ InstanceOf: PPLMedicinalProductDefinition
 * status = $200000005003#200000005004 "Current"
 * indication = "Diklofenak Orifarm 50 mg enterotablett är indicerat för behandling av nedanstående och är avsedd för vuxna och barn som väger mer än 50 kg. Reumatoid artrit. Juvenil reumatoid artrit. Artros. Mb. Bechterew. Dysmenorré utan organisk orsak."
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal product subject to medical prescription"
-* classification = $100000093533#100000096906 "M01AB05"
+* classification = $100000093533#100000096906 "diclofenac"
 * name.productName = "Diklofenak Orifarm 50 mg enterotablett"
 * name.part[+].part = "Diklofenak Orifarm"
 * name.part[=].type.coding.system = "http://spor.ema.europa.eu/v1/lists/220000000000"

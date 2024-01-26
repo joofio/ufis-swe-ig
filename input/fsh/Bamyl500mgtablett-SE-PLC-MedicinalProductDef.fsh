@@ -11,7 +11,7 @@ InstanceOf: PPLMedicinalProductDefinition
 * status = $200000005003#200000005004 "Current"
 * indication = "Smärttillstånd såsom huvudvärk, tandvärk, led-och muskelsmärtor och dysmenorré. Feber vid förkylningssjukdomar. Reumatoid artrit. Till barn med feber som ej svarat på gängse behandling endast efter kontakt med läkare."
 * legalStatusOfSupply = $100000072051#200000002239 "Medicinal product subject to medical prescription exempt for some pack sizes"
-* classification = $100000093533#100000097266 "N02BA01"
+* classification = $100000093533#100000097266 "acetylsalicylic acid"
 * name.productName = "Bamyl 500 tablett"
 * name.part[+].part = "Bamyl"
 * name.part[=].type.coding.system = "http://spor.ema.europa.eu/v1/lists/220000000000"

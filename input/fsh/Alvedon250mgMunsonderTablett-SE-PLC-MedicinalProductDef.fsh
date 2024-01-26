@@ -11,7 +11,7 @@ InstanceOf: PPLMedicinalProductDefinition
 * status = $200000005003#200000005004 "Current"
 * indication = "Alvedon 250 mg Munsönderfallande tablett är indicerat för huvudvärk, tandvärk, feber vid förkylningssjukdomar, menstruationssmärtor, muskel- och  ledvärk, som analgetikum vid reumatiska smärtor, hyperpyrexi. Används av vuxna och barn över 3 år."
 * legalStatusOfSupply = $100000072051#100000072076 "Medicinal product not subject to medical prescription"
-* classification = $100000093533#100000097305 "N02BE01"
+* classification = $100000093533#100000097305 "paracetamol"
 * name.productName = "Alvedon 250 mg Munsönderfallande tablett"
 * name.part[+].part = "Alvedon"
 * name.part[=].type.coding.system = "http://spor.ema.europa.eu/v1/lists/220000000000"

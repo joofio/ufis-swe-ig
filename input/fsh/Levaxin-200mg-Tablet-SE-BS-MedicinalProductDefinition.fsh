@@ -11,7 +11,7 @@ InstanceOf: PPLMedicinalProductDefinition
 * status = $200000005003#200000005004 "Current"
 * indication = "Hypotyreos av alla former t ex vid autoimmun tyreoidit, efter radiojod- och kirurgisk terapi av hypertyreos och vid progressiv oftalmopati när den är förenad med hypotyreos.  Som tillägg till tyreostatika vid långtidsbehandling av hypertyreos och vid preoperativ kombinationsbehandling av hypertyreos. Tyreoideacancer. Myxödemkoma."
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal product subject to medical prescription"
-* classification = $100000093533#100000096060 "H03AA01"
+* classification = $100000093533#100000096060 "levothyroxine sodium"
 * name.productName = "Levaxin 200 mikrogram tablett"
 * name.part[+].part = "Levaxin"
 * name.part[=].type.coding.system = "http://spor.ema.europa.eu/v1/lists/220000000000"

@@ -11,7 +11,7 @@ InstanceOf: PPLMedicinalProductDefinition
 * status = $200000005003#200000005004 "Current"
 * indication = "Pinex Jordgubb används av vuxna och barn över 4 år vid symptomatisk behandling av lätt till måttlig smärta och feber."
 * legalStatusOfSupply = $100000072051#100000072076 "Medicinal product not subject to medical prescription"
-* classification = $100000093533#100000097305 "N02BE01"
+* classification = $100000093533#100000097305 "paracetamol"
 * name.productName = "Pinex Jordgubb 250 mg Granulat i dospåse"
 * name.part[+].part = "Pinex Jordgubb"
 * name.part[=].type.coding.system = "http://spor.ema.europa.eu/v1/lists/220000000000"

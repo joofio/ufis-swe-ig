@@ -11,7 +11,7 @@ InstanceOf: PPLMedicinalProductDefinition
 * status = $200000005003#200000005004 "Current"
 * indication = "Hypertoni Behandling av hypertoni  Hjärtsvikt Behandling av symptomatisk hjärtsvikt  Stabil kranskärlssjukdom Reduktion av risken för hjärtkomplikationer hos patienter som tidigare genomgått hjärtinfarkt och/eller revaskulariserande behandling."
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal product subject to medical prescription"
-* classification = $100000093533#100000095106 "C09AA04"
+* classification = $100000093533#100000095106 "perindopril"
 * name.productName = "Coversyl Novum 5 mg filmdragerad tablett"
 * name.part[+].part = "Coversyl Novum"
 * name.part[=].type.coding.system = "http://spor.ema.europa.eu/v1/lists/220000000000"

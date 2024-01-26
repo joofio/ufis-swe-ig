@@ -11,7 +11,7 @@ InstanceOf: PPLMedicinalProductDefinition
 * status = $200000005003#200000005004 "Current"
 * indication = "Locoid är indicerat för behandling av akuta och kroniska eksem av varierande genes, psoriasis i lindriga former och på känsliga hudpartier. För kutan lösning även extern otit.  Locoid är indicerat för vuxna, barn och spädbarn över 6 månader."
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal product subject to medical prescription"
-* classification = $100000093533#100000095417 "D07AB02"
+* classification = $100000093533#100000095417 "hydrocortisone butyrate"
 * name.productName = "Locoid 0.1% kutan lösning"
 * name.part[+].part = "Locoid"
 * name.part[=].type.coding.system = "http://spor.ema.europa.eu/v1/lists/220000000000"

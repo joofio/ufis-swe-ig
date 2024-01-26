@@ -8,7 +8,7 @@ InstanceOf: PPLMedicinalProductDefinition
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Current"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal product subject to medical prescription"
-* classification = $100000093533#100000095785 "G03AA12"
+* classification = $100000093533#100000095785 "drospirenone and ethinylestradiol"
 * name.productName = "Yasminelle 0,02 mg/3 mg Filmdragerad tablett"
 * name.part[+].part = "Yasminelle"
 * name.part[=].type.coding.system = "http://spor.ema.europa.eu/v1/lists/220000000000"

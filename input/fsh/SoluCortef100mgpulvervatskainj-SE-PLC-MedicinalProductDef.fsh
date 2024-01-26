@@ -11,7 +11,7 @@ InstanceOf: PPLMedicinalProductDefinition
 * status = $200000005003#200000005004 "Current"
 * indication = "Substitutionsbehandling:  Vid primär och sekundär binjurebarkinsufficiens och kongenitalt adrenogenitalt syndrom när oral terapi inte kan genomföras, t ex vid akuta sjukdomstillstånd. I samband med operativa ingrepp när glukokortikoidreserven är otillräcklig.   Ospecifik terapi: T ex vid chock av olika genes som komplement till annan behandling, anafylaktiska reaktioner, svåra allergiska tillstånd och reaktioner efter insekts- och ormbett samt astma.   Vid SLE, kongenital binjurebarkhyperplasi, leukemi och malignt lymfom."
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal product subject to medical prescription"
-* classification = $100000093533#100000096043 "H02AB09"
+* classification = $100000093533#100000096043 "hydrocortisone"
 * name.productName = "Solu-Cortef 100 mg pulver och vätska till injektionsvätska, lösning"
 * name.part[+].part = "Solu-Cortef"
 * name.part[=].type.coding.system = "http://spor.ema.europa.eu/v1/lists/220000000000"

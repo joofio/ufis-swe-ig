@@ -11,7 +11,7 @@ InstanceOf: PPLMedicinalProductDefinition
 * status = $200000005003#200000005004 "Current"
 * indication = "Behandling av måttlig till svår smärta."
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal product subject to medical prescription"
-* classification = $100000093533#100000097261 "N02AX02"
+* classification = $100000093533#100000097261 "tramadol"
 * name.productName = "Tramadol Retard Actavis 100 mg depottablett"
 * name.part[+].part = "Tramadol Retard Actavis"
 * name.part[=].type.coding.system = "http://spor.ema.europa.eu/v1/lists/220000000000"

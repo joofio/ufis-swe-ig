@@ -11,7 +11,7 @@ InstanceOf: PPLMedicinalProductDefinition
 * status = $200000005003#200000005004 "Current"
 * indication = "Lokalanestesi inom odontologin, t ex vid operationer, komplicerade extraktioner och vid  parodontal kirurgi. Xylocain Dental adrenalin ger god blodtomhet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal preoduct subject to medical prescription"
-* classification = $100000093533#100000097207 "N01BB52"
+* classification = $100000093533#100000097207 "lidocaine, combinations"
 * name.productName = "Xylocain Dental Adrenalin 20 mg/ml + 12,5 mikrogram/ml Injektionsvätska, lösning"
 * name.part[+].part = "Xylocain"
 * name.part[=].type.coding.system = "http://spor.ema.europa.eu/v1/lists/220000000000"

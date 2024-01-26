@@ -11,7 +11,7 @@ InstanceOf: PPLMedicinalProductDefinition
 * status = $200000005003#200000005004 "Current"
 * indication = "Periartikulära inflammatoriska tillstånd, t.ex. epikondylit och tendinit."
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal product subject to medical prescription"
-* classification = $100000093533#100000096038 "H02AB04"
+* classification = $100000093533#100000096038 "methylprednisolone"
 * name.productName = "Depo-Medrol cum lidocain 40 mg/ml+10 mg/ml Injektionsvätska, suspension"
 * name.part[+].part = "Depo-Medrol cum lidocain"
 * name.part[=].type.coding.system = "http://spor.ema.europa.eu/v1/lists/220000000000"

@@ -11,7 +11,7 @@ InstanceOf: PPLMedicinalProductDefinition
 * status = $200000005003#200000005004 "Current"
 * indication = "Symptomlindring vid halsont hos vuxna och ungdomar över 12 år"
 * legalStatusOfSupply = $100000072051#100000072076 "Medicinal product not subject to medical prescription"
-* classification = $100000093533#100000098045 "R02AA20"
+* classification = $100000093533#100000098045 "various"
 * name.productName = "Triolif Apelsin Sugtablett"
 * name.part[+].part = "Triolif"
 * name.part[=].type.coding.system = "http://spor.ema.europa.eu/v1/lists/220000000000"

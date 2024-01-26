@@ -11,7 +11,7 @@ InstanceOf: PPLMedicinalProductDefinition
 * status = $200000005003#200000005004 "Current"
 * indication = "Mydrane är avsett för kataraktkirurgi för att erhålla mydriasis och intraokulär anestesi under det kirurgiska ingreppet. Mydrane är endast avsett för vuxna."
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal product subject to medical prescription"
-* classification = $100000093533#100000098543 "S01FA56"
+* classification = $100000093533#100000098543 "tropicamide, combinations"
 * name.productName = "Mydrane 0,2 mg/ml + 3,1 mg/ml + 10 mg/ml Injektionsvätska, lösning"
 * name.part[+].part = "Mydrane"
 * name.part[=].type.coding.system = "http://spor.ema.europa.eu/v1/lists/220000000000"

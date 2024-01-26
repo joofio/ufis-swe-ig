@@ -11,7 +11,7 @@ InstanceOf: PPLMedicinalProductDefinition
 * status = $200000005003#200000005004 "Current"
 * indication = "Tapin kräm är avsett för: Ytanestesi av huden i samband med: nålstick t.ex. vid inläggning av perifer venkateter eller vid blodprovstagning ytliga kirurgiska ingrepp, hos vuxna och den pediatriska populationen Ytanestesi av genitalslemhinnan, t.ex. före ytliga kirurgiska ingrepp eller före lokalbedövning hos vuxna och ungdomar ≥12 år. Ytanestesi av bensår för att underlätta mekanisk rengöring/debridering endast hos vuxna."
 * legalStatusOfSupply = $100000072051#200000002239 "Medicinal product subject to prescription exempt for some pack sizes"
-* classification = $100000093533#100000097205 "N01BB20"
+* classification = $100000093533#100000097205 "combinations"
 * name.productName = "Tapin 25 mg/g + 25 mg/g Kräm"
 * name.part[+].part = "Tapin"
 * name.part[=].type.coding.system = "http://spor.ema.europa.eu/v1/lists/220000000000"

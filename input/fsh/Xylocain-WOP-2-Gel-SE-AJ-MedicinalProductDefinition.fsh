@@ -11,7 +11,7 @@ InstanceOf: PPLMedicinalProductDefinition
 * status = $200000005003#200000005004 "Current"
 * indication = "Ytanestesi av uretra vid kateterisering, sondering samt andra endouretrala ingrepp.  Ytanestesi vid ano-, rekto- och sigmoidoskopi samt vid rektal palpation. Smärtsamma cystiter. Xylocain gel är avsett för vuxna och barn i alla åldrar."
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal product subject to medical prescription"
-* classification = $100000093533#100000097196 "N01BB02"
+* classification = $100000093533#100000097196 "lidocaine"
 * name.productName = "Xylocain utan konserveringsmedel 2% Gel"
 * name.part[+].part = "Xylocain"
 * name.part[=].type.coding.system = "http://spor.ema.europa.eu/v1/lists/220000000000"

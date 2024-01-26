@@ -11,7 +11,7 @@ InstanceOf: PPLMedicinalProductDefinition
 * status = $200000005003#200000005004 "Current"
 * indication = "Huvudvärk, menstruationssmärtor, tandvärk, led- och muskelsmärtor, reumatiska smärtor, feber vid infektions- och förkylningssjukdomar.  Till barn med feber som ej svarat på gängse behandling endast efter kontakt med läkare"
 * legalStatusOfSupply = $100000072051#100000072076 "Medicinal product not subject to medical prescription"
-* classification = $100000093533#100000097266 "N02BA01"
+* classification = $100000093533#100000097266 "acetylsalicylic acid"
 * name.productName = "Aspirin 500 mg tablett"
 * name.part[+].part = "Aspirin"
 * name.part[=].type.coding.system = "http://spor.ema.europa.eu/v1/lists/220000000000"

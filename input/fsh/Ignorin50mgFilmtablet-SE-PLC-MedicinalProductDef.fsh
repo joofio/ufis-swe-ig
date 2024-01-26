@@ -11,7 +11,7 @@ InstanceOf: PPLMedicinalProductDefinition
 * status = $200000005003#200000005004 "Current"
 * indication = "Symptomatisk behandling av akut inflammatorisk sjukdom i det muskuloskeletala systemet, primär dysmenorré och symptomatisk behandling av akuta anfall av migränhuvudvärk med eller utan aura."
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal product subject to medical prescription"
-* classification = $100000093533#100000096906 "M01AB05"
+* classification = $100000093533#100000096906 "diclofenac"
 * name.productName = "Ignorin 50 mg filmdragerad tablett"
 * name.part[+].part = "Ignorin"
 * name.part[=].type.coding.system = "http://spor.ema.europa.eu/v1/lists/220000000000"

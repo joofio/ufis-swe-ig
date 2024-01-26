@@ -11,7 +11,7 @@ InstanceOf: PPLMedicinalProductDefinition
 * status = $200000005003#200000005004 "Current"
 * indication = "Diklofenak Apofri 11.6 mg/g gel används för symtomatisk behandling av lokala smärttillstånd av lätt till måttlig intensitet i samband med muskel och ledskador, t.ex. sportskador. För användning av vuxna och barn över 14 år."
 * legalStatusOfSupply = $100000072051#100000072076 "Medicinal product not subject to medical prescription"
-* classification = $100000093533#100000097012 "M02AA15"
+* classification = $100000093533#100000097012 "diclofenac"
 * name.productName = "Diklofenak Apofri 11.6 mg/g gel"
 * name.part[+].part = "Diklofenak Apofri"
 * name.part[=].type.coding.system = "http://spor.ema.europa.eu/v1/lists/220000000000"

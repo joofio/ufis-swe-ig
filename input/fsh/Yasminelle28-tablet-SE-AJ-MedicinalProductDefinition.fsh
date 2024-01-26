@@ -11,7 +11,7 @@ InstanceOf: PPLMedicinalProductDefinition
 * status = $200000005003#200000005004 "Current"
 * indication = "Antikonception Vid beslut att förskriva Yasminelle 28 ska den enskilda kvinnans riskfaktorer beaktas, framför  allt de för venös tromboembolism (VTE), och risken för VTE med Yasminelle 28 jämfört  med andra kombinerade hormonella preventivmedel (se avsnitt 4.3 och 4.4)."
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal product subject to medical prescription"
-* classification = $100000093533#100000095785 "G03AA12"
+* classification = $100000093533#100000095785 "drospirenone and ethinylestradiol"
 * name.productName = "Yasminelle 28 0,02 mg/3 mg Filmdragerad tablett"
 * name.part[+].part = "Yasminelle 28"
 * name.part[=].type.coding.system = "http://spor.ema.europa.eu/v1/lists/220000000000"

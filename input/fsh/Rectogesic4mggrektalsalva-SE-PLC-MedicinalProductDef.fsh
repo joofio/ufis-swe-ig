@@ -11,7 +11,7 @@ InstanceOf: PPLMedicinalProductDefinition
 * status = $200000005003#200000005004 "Current"
 * indication = "Rectogesic 4 mg/g rektalsalva är avsett för vuxna för att lindra smärta i samband med kronisk analfissur.   Vid den kliniska utvecklingen av läkemedlet har en måttlig effekt visats beträffande lindring av medelintensiteten av daglig smärta (se avsnitt Farmakodynamik)."
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal product subject to medical prescription"
-* classification = $100000093533#100000094945 "C05AE01"
+* classification = $100000093533#100000094945 "glyceryl trinitrate"
 * name.productName = "Rectogesic 4 mg/g rektalsalva"
 * name.part[+].part = "Rectogesic"
 * name.part[=].type.coding.system = "http://spor.ema.europa.eu/v1/lists/220000000000"

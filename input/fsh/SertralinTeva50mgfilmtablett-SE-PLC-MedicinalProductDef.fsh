@@ -11,7 +11,7 @@ InstanceOf: PPLMedicinalProductDefinition
 * status = $200000005003#200000005004 "Current"
 * indication = "Sertralin är indicerat för behandling av:  Egentliga depressionsepisoder. Förebyggande av återkommande episoder med egentlig depression.  Paniksyndrom med eller utan agorafobi.  Tvångssyndrom (OCD) hos vuxna och barn/ungdomar i åldrarna 6-17 år.  Social fobi.  Posttraumatiskt stressyndrom (PTSD)."
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal product subject to medical prescription"
-* classification = $100000093533#100000097678 "N06AB06"
+* classification = $100000093533#100000097678 "sertraline"
 * name.productName = "Sertralin Teva 50 mg filmdragerad tablett"
 * name.part[+].part = "Sertralin Teva"
 * name.part[=].type.coding.system = "http://spor.ema.europa.eu/v1/lists/220000000000"

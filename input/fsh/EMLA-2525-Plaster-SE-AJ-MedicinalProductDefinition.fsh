@@ -11,7 +11,7 @@ InstanceOf: PPLMedicinalProductDefinition
 * status = $200000005003#200000005004 "Current"
 * indication = "Emla plåster används vid: • Ytanestesi av intakt hud i samband med: o nålstick, t.ex. vid inläggning av perifer venkateter eller vid blodprovstagning o ytliga kirurgiska ingrepp, hos vuxna och den pediatriska populationen"
 * legalStatusOfSupply = $100000072051#200000002239 "Medicinal product subject to medical prescription exempt for some pack sizes"
-* classification = $100000093533#100000097205 "N01BB20"
+* classification = $100000093533#100000097205 "combinations"
 * name.productName = "EMLA 25 mg/25 mg Medicinskt plåster"
 * name.part[+].part = "EMLA"
 * name.part[=].type.coding.system = "http://spor.ema.europa.eu/v1/lists/220000000000"

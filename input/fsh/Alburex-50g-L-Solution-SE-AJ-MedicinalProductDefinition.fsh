@@ -11,7 +11,7 @@ InstanceOf: PPLMedicinalProductDefinition
 * status = $200000005003#200000005004 "Current"
 * indication = "Återställande och upprätthållande av cirkulerande blodvolym vid volymbrist och när användning av en kolloid är lämpligt. Val av albumin istället för en artificiell kolloid kan göras med hänsyn till patientens kliniska tillstånd och aktuella behandlingsrekommendationer."
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal product subject to medical prescription"
-* classification = $100000093533#100000094427 "B05AA01"
+* classification = $100000093533#100000094427 "albumin"
 * name.productName = "Alburex 50 g/l infusionsvätska, lösning"
 * name.part[+].part = "Alburex"
 * name.part[=].type.coding.system = "http://spor.ema.europa.eu/v1/lists/220000000000"

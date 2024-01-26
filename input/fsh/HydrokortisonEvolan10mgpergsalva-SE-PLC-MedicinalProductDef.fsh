@@ -11,7 +11,7 @@ InstanceOf: PPLMedicinalProductDefinition
 * status = $200000005003#200000005004 "Current"
 * indication = "Hydrokortison Evolan 10 mg per g salva indicerat för akuta och kroniska eksem av varierande genes. Anogenital pruritus."
 * legalStatusOfSupply = $100000072051#200000002239 "Medicinal product subject to medical prescription exempt for some pack sizes"
-* classification = $100000093533#100000095413 "D07AA02"
+* classification = $100000093533#100000095413 "hydrocortisone"
 * name.productName = "Hydrokortison Evolan 10 mg/g salva"
 * name.part[+].part = "Hydrokortison Evolan"
 * name.part[=].type.coding.system = "http://spor.ema.europa.eu/v1/lists/220000000000"

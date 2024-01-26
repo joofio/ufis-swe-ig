@@ -11,7 +11,7 @@ InstanceOf: PPLMedicinalProductDefinition
 * status = $200000005003#200000005004 "Current"
 * indication = "Influensaprofylax, speciellt för dem som löper ökad risk för influensarelaterade komplikationer. Influvac Tetra är indicerat för vuxna och barn från 6 månaders ålder. Användningen av Influvac Tetra ska bedömas på basis av officiella rekommendationer."
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal product subject to medical prescription"
-* classification = $100000093533#100000096563 "J07BB02"
+* classification = $100000093533#100000096563 "influenza, inactivated, split virus or surface antigen"
 * name.productName = "Influvac Tetra Injektionsvätska, suspension, förfylld spruta"
 * name.part[+].part = "Influvac Tetra"
 * name.part[=].type.coding.system = "http://spor.ema.europa.eu/v1/lists/220000000000"

@@ -11,7 +11,7 @@ InstanceOf: PPLMedicinalProductDefinition
 * status = $200000005003#200000005004 "Current"
 * indication = "Vuxna och ungdomar över 16 år  Symtomatisk korttidsbehandling av följande akuta tillstånd: Reumatiska tillstånd i mjukdelsvävnad, posttraumatisk och postoperativ inflammation och smärta, även inom odontologin, primär dysmenorré. Akut behandling av migrän med eller utan aura.   Pediatrisk population  Symtomatisk korttidsbehandling hos barn och ungdomar vid  smärta orsakad av inflammatoriska öron-, näsa- eller halsinfektioner, t.ex. faryngotonsillit, otit. Den underliggande infektionen bör behandlas med antibiotika enligt gällande behandlingsrekommendationer. Enbart feber utan inflammatorisk infektion är inte en indikation.  akut postoperativ smärta efter mindre kirurgiskt ingrepp.   Diclofenac T ratiopharm tabletter är ej indicerade för barn under 9 år på grund av mängden diklofenak i varje tablett."
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal product subject to medical prescription"
-* classification = $100000093533#100000096906 "M01AB05"
+* classification = $100000093533#100000096906 "diclofenac"
 * name.productName = "Diclofenac T ratiopharm 25 mg fildragerad tablett"
 * name.part[+].part = "Diclofenac T ratiopharm"
 * name.part[=].type.coding.system = "http://spor.ema.europa.eu/v1/lists/220000000000"

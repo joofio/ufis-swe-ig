@@ -11,7 +11,7 @@ InstanceOf: PPLMedicinalProductDefinition
 * status = $200000005003#200000005004 "Current"
 * indication = "Behandling av icke maligna smärtor av måttlig intensitet när en opioid krävs för att uppnå tillräcklig smärtlindring.  Norspan är inte lämpligt för behandling av akuta smärttillstånd.  Norspan är avsett för vuxna."
 * legalStatusOfSupply = $100000072051#100000072085 "Medicinal product subject to special medical prescription"
-* classification = $100000093533#100000097250 "N02AE01"
+* classification = $100000093533#100000097250 "buprenorphine"
 * name.productName = "Norspan 10 mikrogram/timme depotplåster"
 * name.part[+].part = "Norspan"
 * name.part[=].type.coding.system = "http://spor.ema.europa.eu/v1/lists/220000000000"

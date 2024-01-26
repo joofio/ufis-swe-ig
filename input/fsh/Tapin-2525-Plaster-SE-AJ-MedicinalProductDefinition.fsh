@@ -11,7 +11,7 @@ InstanceOf: PPLMedicinalProductDefinition
 * status = $200000005003#200000005004 "Current"
 * indication = "Lidokain/prilokain plåster används vid: Ytanestesi av intakt hud i samband med: nålstick, t.ex. intravenösa katetrar eller blodprovstagning ytliga kirurgiska ingrepp, hos vuxna och den pediatriska populationen."
 * legalStatusOfSupply = $100000072051#200000002239 "Medicinal product subject to medical prescription exempt for some pack sizes"
-* classification = $100000093533#100000097205 "N01BB20"
+* classification = $100000093533#100000097205 "combinations"
 * name.productName = "Tapin 25 mg/25 mg Medicinskt plåster"
 * name.part[+].part = "Tapin"
 * name.part[=].type.coding.system = "http://spor.ema.europa.eu/v1/lists/220000000000"

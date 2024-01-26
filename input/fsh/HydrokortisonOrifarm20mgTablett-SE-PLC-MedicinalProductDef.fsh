@@ -11,7 +11,7 @@ InstanceOf: PPLMedicinalProductDefinition
 * status = $200000005003#200000005004 "Current"
 * indication = "Substitutionsbehandling vid kongenital binjurebarkshyperplasi hos barn.  Behandling av binjurebarkinsufficiens hos barn och ungdomar under 18 år.  Akut behandling av svår astma, överkänslighetsreaktioner mot läkemedel, serumsjuka, angioneurotiskt ödem och anafylaxi hos vuxna och barn.  Hydrokortison Orifarm är avsett för vuxna och barn i åldern 1 månad till 18 år där tablettberedning bedöms lämplig."
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal product subject to medical prescription"
-* classification = $100000093533#100000096043 "H02AB09"
+* classification = $100000093533#100000096043 "hydrocortisone"
 * name.productName = "Hydrokortison Orifarm 20 mg Tablett"
 * name.part[+].part = "Hydrokortison Orifarm"
 * name.part[=].type.coding.system = "http://spor.ema.europa.eu/v1/lists/220000000000"

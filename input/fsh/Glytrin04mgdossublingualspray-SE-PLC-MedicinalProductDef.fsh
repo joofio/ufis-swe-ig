@@ -11,7 +11,7 @@ InstanceOf: PPLMedicinalProductDefinition
 * status = $200000005003#200000005004 "Current"
 * indication = "Behandling av akut angina pectoris.  Förebyggande av angina, som förorsakas av ansträngning (t ex fysisk ansträngning, emotionell stress, kyla)."
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal product subject to medical prescription"
-* classification = $100000093533#100000094611 "C01DA02"
+* classification = $100000093533#100000094611 "glyceryl trinitrate"
 * name.productName = "Glytrin 0,4 mg/dos sublingualspray"
 * name.part[+].part = "Glytrin"
 * name.part[=].type.coding.system = "http://spor.ema.europa.eu/v1/lists/220000000000"

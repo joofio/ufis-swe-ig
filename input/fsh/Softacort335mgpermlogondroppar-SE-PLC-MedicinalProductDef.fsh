@@ -11,7 +11,7 @@ InstanceOf: PPLMedicinalProductDefinition
 * status = $200000005003#200000005004 "Current"
 * indication = "Behandling av milda icke-infektiösa allergiska eller inflammatoriska konjunktivala sjukdomar."
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal product subject to medical prescription"
-* classification = $100000093533#100000098437 "S01BA02"
+* classification = $100000093533#100000098437 "hydrocortisone"
 * name.productName = "Softacort 3.35 mg/ml ögondroppar, lösning i endosbehållare"
 * name.part[+].part = "Softacort"
 * name.part[=].type.coding.system = "http://spor.ema.europa.eu/v1/lists/220000000000"

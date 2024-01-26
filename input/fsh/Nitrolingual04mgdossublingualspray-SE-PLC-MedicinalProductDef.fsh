@@ -11,7 +11,7 @@ InstanceOf: PPLMedicinalProductDefinition
 * status = $200000005003#200000005004 "Current"
 * indication = "Kupering av angina pectorisattack.  Profylaktiskt, omedelbart före en ansträngning som erfarenhetsmässigt kan utlösa angina pectoris  Initial, symtomlindrande behandling vid misstanke på akut coronart syndrom  Initial, symtomlindrande behandling vid akut vänsterkammarsvikt  Vid katerinducerad spasm i kranskärl."
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal product subject to medical prescription"
-* classification = $100000093533#100000094611 "C01DA02"
+* classification = $100000093533#100000094611 "glyceryl trinitrate"
 * name.productName = "Nitrolingual 0,4 mg/dos sublingualspray"
 * name.part[+].part = "Nitrolingual"
 * name.part[=].type.coding.system = "http://spor.ema.europa.eu/v1/lists/220000000000"

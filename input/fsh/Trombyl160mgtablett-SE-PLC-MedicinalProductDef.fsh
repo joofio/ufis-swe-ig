@@ -11,7 +11,7 @@ InstanceOf: PPLMedicinalProductDefinition
 * status = $200000005003#200000005004 "Current"
 * indication = "Akut hjärtinfarkt. Profylax mot kardiovaskulära komplikationer efter akut hjärtinfarkt och vid instabil kranskärlssjukdom (instabil angina pectoris, genomgången icke Q-vågsinfarkt) samt stabil angina pectoris. Sekundär profylax mot recidiv av cerebrovaskulär sjukdom såsom TIA (transitoriska ischemiska attacker) och RIND (reversibel ischemisk neurologisk defekt)."
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal product subject to medical prescription"
-* classification = $100000093533#100000094281 "B01AC06"
+* classification = $100000093533#100000094281 "acetylsalicylic acid"
 * name.productName = "Trombyl 160 mg tablett"
 * name.part[+].part = "Trombyl"
 * name.part[=].type.coding.system = "http://spor.ema.europa.eu/v1/lists/220000000000"

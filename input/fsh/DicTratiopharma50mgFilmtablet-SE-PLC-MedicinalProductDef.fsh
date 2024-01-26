@@ -11,7 +11,7 @@ InstanceOf: PPLMedicinalProductDefinition
 * status = $200000005003#200000005004 "Current"
 * indication = "Diclofenac T ratiopharm 50 mg fildragerad tablett är indicerad för symtomatisk korttidsbehandling av följande akuta tillstånd: Reumatiska tillstånd i mjukdelsvävnad, posttraumatisk och postoperativ inflammation och smärta, även inom odontologin, primär dysmenorré. Akut behandling av migrän med eller utan aura.  Diclofenac T ratiopharm tabletter är ej indicerade för barn under 16 år på grund av mängden diklofenak i varje tablett."
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal product subject to medical prescription"
-* classification = $100000093533#100000096906 "M01AB05"
+* classification = $100000093533#100000096906 "diclofenac"
 * name.productName = "Diclofenac T ratiopharm 50 mg fildragerad tablett"
 * name.part[+].part = "Diclofenac T ratiopharm"
 * name.part[=].type.coding.system = "http://spor.ema.europa.eu/v1/lists/220000000000"

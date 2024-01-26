@@ -11,7 +11,7 @@ InstanceOf: PPLMedicinalProductDefinition
 * status = $200000005003#200000005004 "Current"
 * indication = "För symtomatisk behandling av lokal smärta med lindrig till måttlig intensitet i samband med inflammation eller muskel- eller ledskada."
 * legalStatusOfSupply = $100000072051#100000072076 "Medicinal product not subject to medical prescription"
-* classification = $100000093533#100000097012 "M02AA15"
+* classification = $100000093533#100000097012 "diclofenac"
 * name.productName = "Diclofenac Orifarm 11,6 mg/g gel"
 * name.part[+].part = "Diclofenac Orifarm"
 * name.part[=].type.coding.system = "http://spor.ema.europa.eu/v1/lists/220000000000"

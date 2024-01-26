@@ -11,7 +11,7 @@ InstanceOf: PPLMedicinalProductDefinition
 * status = $200000005003#200000005004 "Current"
 * indication = "Symtomatisk behandling av akut smärta av lätt till måttlig intensitet. Symtomatisk behandling av akuta anfall  av migränhuvudvärk."
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal product subject to medical prescription"
-* classification = $100000093533#100000096906 "M01AB05"
+* classification = $100000093533#100000096906 "diclofenac"
 * name.productName = "Dicuno 50 mg fildragerad tablett"
 * name.part[+].part = "Dicuno"
 * name.part[=].type.coding.system = "http://spor.ema.europa.eu/v1/lists/220000000000"

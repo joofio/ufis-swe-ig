@@ -11,7 +11,7 @@ InstanceOf: PPLMedicinalProductDefinition
 * status = $200000005003#200000005004 "Current"
 * indication = "Akuta smärttillstånd, t.ex. huvudvärk inkluderande anfallsbehandling av migrän, tandvärk, muskel- och ledvärk samt ryggsmärta. Feber vid förkylningssjukdomar. Dysmenorré utan organisk orsak."
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal product subject to medical prescription"
-* classification = $100000093533#100000096906 "M01AB05"
+* classification = $100000093533#100000096906 "diclofenac"
 * name.productName = "Diklofenak T Apofri 50 mg fildragerad tablett"
 * name.part[+].part = "Diklofenak T Apofri"
 * name.part[=].type.coding.system = "http://spor.ema.europa.eu/v1/lists/220000000000"

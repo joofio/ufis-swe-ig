@@ -11,7 +11,7 @@ InstanceOf: PPLMedicinalProductDefinition
 * status = $200000005003#200000005004 "Current"
 * indication = "Xyloproct rektalsalva och Xyloproct suppositorier är avsedda för behandling av vuxna. Behandling av hemorrojder, analtenesmer och analfissurer samt postoperativt efter anorektala ingrepp eller i samband med anorektala explorationer. För egenvård: hemorrojder och ytliga ändtarmsirritationer."
 * legalStatusOfSupply = $100000072051#100000072076 "Medicinal product not subject to medical prescription"
-* classification = $100000093533#100000094927 "C05AA01"
+* classification = $100000093533#100000094927 "hydrocortisone"
 * name.productName = "Xyloproct Rektalsalva"
 * name.part[+].part = "Xyloproct"
 * name.part[=].type.coding.system = "http://spor.ema.europa.eu/v1/lists/220000000000"

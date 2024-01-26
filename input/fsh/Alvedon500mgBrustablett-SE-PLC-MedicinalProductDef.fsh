@@ -11,7 +11,7 @@ InstanceOf: PPLMedicinalProductDefinition
 * status = $200000005003#200000005004 "Current"
 * indication = "Alvedon 500 mg Brustablett är indicerat för huvudvärk, tandvärk, feber vid förkylningssjukdomar, menstruationssmärtor, muskel- och  ledvärk, som analgetikum vid reumatiska smärtor, hyperpyrexi. Används av vuxna och barn över 12 år."
 * legalStatusOfSupply = $100000072051#200000002239 "Medicinal product subject to medical prescription exempt for some pack sizes"
-* classification = $100000093533#100000097305 "N02BE01"
+* classification = $100000093533#100000097305 "paracetamol"
 * name.productName = "Alvedon 500 mg Brustablett"
 * name.part[+].part = "Alvedon"
 * name.part[=].type.coding.system = "http://spor.ema.europa.eu/v1/lists/220000000000"

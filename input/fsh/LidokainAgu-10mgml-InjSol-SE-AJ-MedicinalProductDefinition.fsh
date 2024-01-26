@@ -11,7 +11,7 @@ InstanceOf: PPLMedicinalProductDefinition
 * status = $200000005003#200000005004 "Current"
 * indication = "Lidokain Aguettant är avsett för infiltrationsanestesi och perifer nervblockad. Lidokain Aguettant 10 mg/ml är avsett för vuxna och barn över 2 år. Lidokain Aguettant 20 mg/ml är avsett för vuxna."
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal product subject to medical prescription"
-* classification = $100000093533#100000097196 "N01BB02"
+* classification = $100000093533#100000097196 "lidocaine"
 * name.productName = "Lidokain Aguettant 10 mg/ml Injektionsvätska, lösning i förfylld spruta"
 * name.part[+].part = "Lidokain Aguettant"
 * name.part[=].type.coding.system = "http://spor.ema.europa.eu/v1/lists/220000000000"

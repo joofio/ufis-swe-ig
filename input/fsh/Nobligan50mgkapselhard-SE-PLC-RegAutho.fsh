@@ -1,4 +1,4 @@
-Instance: Nobligan50mgkapselhard-SE-PLC-RegAutho
+Instance: Nobligan50mgkapselhard-SE-PLC-RA
 InstanceOf: PPLRegulatedAuthorization
 
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"

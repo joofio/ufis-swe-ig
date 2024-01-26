@@ -1,4 +1,4 @@
-Instance: da3cc2f65dc41e3e0bc7c5c4e3dc0ae69550c8898af23b924971955011e74c29
+Instance: HermolepsinR-200mg-PRTablet-SE-AJ-MPD-BBDL
 InstanceOf: Bundle
 Usage: #example
 * type = #collection
@@ -22,3 +22,6 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Ingredient/HermolepsinR-200mg-PRTablet-SE-AJ-ING"
+//DUMMY
+* entry[+].resource = HermolepsinR-200mg-PRTablet-SE-AJ-APD
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/HermolepsinR-200mg-PRTablet-SE-AJ-APD"

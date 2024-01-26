@@ -6,10 +6,10 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/MedicinalProductDefinition/HydrokortisonOrifarm20mgTablett-SE-PLC-MPD"
-* entry[+].resource = HydrokortisonOrifarm20mgTablett-SE-PLC-RegAutho
+* entry[+].resource = HydrokortisonOrifarm20mgTablett-SE-PLC-RA
 
 
-* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/RegulatedAuthorization/HydrokortisonOrifarm20mgTablett-SE-PLC-RegAutho"
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/RegulatedAuthorization/HydrokortisonOrifarm20mgTablett-SE-PLC-RA"
 * entry[+].resource = HydrokortisonOrifarm20mgTablett-SE-PLC-PPD
 
 
@@ -42,3 +42,6 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Ingredient/HydrokortisonOrifarm20mgTablett-SE-PLC-ING06"
+//DUMMY
+* entry[+].resource = HydrokortisonOrifarm20mgTablett-SE-PLC-APD
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/HydrokortisonOrifarm20mgTablett-SE-PLC-APD"

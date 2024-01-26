@@ -1,4 +1,4 @@
-Instance: 5260e90d6b3ecd7a763c66f8995acb299c325bc98223ed1a31d14b3b188af7b3
+Instance: BupropionSandoz-150mg-Tablet-SE-BS-MPD-BBDL
 InstanceOf: Bundle
 Usage: #example
 * type = #collection
@@ -26,3 +26,6 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Ingredient/BupropionSandoz-150mg-Tablet-SE-BS-ING"
+//DUMMY
+* entry[+].resource = BupropionSandoz-150mg-Tablet-SE-BS-APD
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/BupropionSandoz-150mg-Tablet-SE-BS-APD"

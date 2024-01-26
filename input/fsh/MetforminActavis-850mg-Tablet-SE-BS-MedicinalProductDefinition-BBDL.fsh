@@ -1,4 +1,4 @@
-Instance: 8025e160fbf3c02443ae5e8dad34f0cda8fff8b160067abc50ff38f20cd67131
+Instance: MetforminActavis-850mg-Tablet-SE-BS-MPD-BBDL
 InstanceOf: Bundle
 Usage: #example
 * type = #collection
@@ -26,3 +26,6 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Ingredient/MetforminActavis-850mg-Tablet-SE-BS-ING"
+//DUMMY
+* entry[+].resource = MetforminActavis-850mg-Tablet-SE-BS-APD
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/MetforminActavis-850mg-Tablet-SE-BS-APD"

@@ -1,4 +1,4 @@
-Instance: 254935fc1afb86724360a7fdda25224f9b842b8ca859bb66e53f5dba9e7e7f6c
+Instance: SimvastatinBluefish-40mg-Tablet-SE-BS-MPD-BBDL
 InstanceOf: Bundle
 Usage: #example
 * type = #collection
@@ -22,3 +22,6 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Ingredient/SimvastatinBluefish-40mg-Tablet-SE-BS-ING"
+//DUMMY
+* entry[+].resource = SimvastatinBluefish-40mg-Tablet-SE-BS-APD
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/SimvastatinBluefish-40mg-Tablet-SE-BS-APD"

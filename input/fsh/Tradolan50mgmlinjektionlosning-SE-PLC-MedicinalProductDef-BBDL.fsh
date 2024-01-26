@@ -6,10 +6,10 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/MedicinalProductDefinition/Tradolan50mgmlinjektionlosning-SE-PLC-MPD"
-* entry[+].resource = Tradolan50mgmlinjektionlosning-SE-PLC-RegAutho
+* entry[+].resource = Tradolan50mgmlinjektionlosning-SE-PLC-RA
 
 
-* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/RegulatedAuthorization/Tradolan50mgmlinjektionlosning-SE-PLC-RegAutho"
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/RegulatedAuthorization/Tradolan50mgmlinjektionlosning-SE-PLC-RA"
 * entry[+].resource = Tradolan50mgmlinjektionlosning-SE-PLC-PPD
 
 
@@ -26,3 +26,6 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Ingredient/Tradolan50mgmlinjektionlosning-SE-PLC-ING02"
+//DUMMY
+* entry[+].resource = Tradolan50mgmlinjektionlosning-SE-PLC-APD
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/Tradolan50mgmlinjektionlosning-SE-PLC-APD"

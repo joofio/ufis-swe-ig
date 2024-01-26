@@ -22,3 +22,6 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Ingredient/Xylocain-2-Gel-SE-AJ-ING"
+//DUMMY
+* entry[+].resource = Xylocain-2-Gel-SE-AJ-APD
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/Xylocain-2-Gel-SE-AJ-APD"

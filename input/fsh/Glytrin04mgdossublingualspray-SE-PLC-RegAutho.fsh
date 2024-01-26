@@ -1,4 +1,4 @@
-Instance: Glytrin04mgdossublingualspray-SE-PLC-RegAutho
+Instance: Glytrin04mgdossublingualspray-SE-PLC-RA
 InstanceOf: PPLRegulatedAuthorization
 
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"

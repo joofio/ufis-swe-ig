@@ -4,7 +4,7 @@ InstanceOf: PPLIngredient
 * status = #active
 * for[0] = Reference(TPTDteva-20mcg80mcl-Solution-SE-IS-MPD)
 * for[+] = Reference(TPTDteva-20mcg80mcl-Solution-SE-IS-MID)
-* for[+] = Reference(TPTDteva-20mcg80mcl-Solution-SE-IS-AdminProdDef)
+* for[+] = Reference(TPTDteva-20mcg80mcl-Solution-SE-IS-APD)
 * role = $100000072050#100000072072 "Active"
 * substance.code.concept = $SubstanceDefinition#100000089193 "Teriparatide"
 

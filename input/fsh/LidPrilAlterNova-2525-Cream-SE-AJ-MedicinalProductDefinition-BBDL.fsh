@@ -1,4 +1,4 @@
-Instance: 5eeae941f1a57d893f4f215aee459575c7d5d64b9a0ae9178a9b1033f56644f1
+Instance: LidPrilAlterNova-2525-Cream-SE-AJ-MPD-BBDL
 InstanceOf: Bundle
 Usage: #example
 * type = #collection
@@ -30,3 +30,6 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Ingredient/LidPrilAlterNova-2525-Cream-SE-AJ-ING02"
+//DUMMY
+* entry[+].resource = LidPrilAlterNova-2525-Cream-SE-AJ-APD
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/LidPrilAlterNova-2525-Cream-SE-AJ-APD"

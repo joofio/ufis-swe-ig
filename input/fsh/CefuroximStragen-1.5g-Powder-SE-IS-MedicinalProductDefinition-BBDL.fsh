@@ -1,4 +1,4 @@
-Instance: d7b934e2f4aa23e9ae4ed84b393d3a840b0fd011fc8b17c6201687084e65d0e8
+Instance: CefuroximStragen-1.5g-Powder-SE-IS-MPD-BBDL
 InstanceOf: Bundle
 Usage: #example
 * type = #collection
@@ -22,3 +22,6 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Ingredient/CefuroximStragen-1.5g-Powder-SE-IS-ING"
+//DUMMY
+* entry[+].resource = CefuroximStragen-1.5g-Powder-SE-IS-APD
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/CefuroximStragen-1.5g-Powder-SE-IS-APD"

@@ -26,3 +26,6 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Ingredient/Espranor-2mg-Lyophilisate-SE-BS-ING"
+//DUMMY
+* entry[+].resource = Espranor-2mg-Lyophilisate-SE-BS-APD
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/Espranor-2mg-Lyophilisate-SE-BS-APD"

@@ -1,4 +1,4 @@
-Instance: 0000bba9e466f20debb9a4a09ea9d3d7bba382e95e8b82ec376e7e3d2770569e
+Instance: Citodon-500mg30mg-EffTablet-SE-IS-MPD-BBDL
 InstanceOf: Bundle
 Usage: #example
 * type = #collection
@@ -66,3 +66,6 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Ingredient/Citodon-500mg30mg-EffTablet-SE-IS-ING10"
+//DUMMY
+* entry[+].resource = Citodon-500mg30mg-EffTablet-SE-IS-APD
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/Citodon-500mg30mg-EffTablet-SE-IS-APD"

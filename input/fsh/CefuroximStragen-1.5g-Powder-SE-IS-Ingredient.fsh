@@ -4,7 +4,7 @@ InstanceOf: PPLIngredient
 * status = #active
 * for[0] = Reference(CefuroximStragen-1.5g-Powder-SE-IS-MPD)
 * for[+] = Reference(CefuroximStragen-1.5g-Powder-SE-IS-MID)
-* for[+] = Reference(CefuroximStragen-1.5g-Powder-SE-IS-AdminProdDef)
+* for[+] = Reference(CefuroximStragen-1.5g-Powder-SE-IS-APD)
 * role = $100000072050#100000072072 "Active"
 * substance.code.concept = $SubstanceDefinition#100000091436 "cefuroxime sodium"
 

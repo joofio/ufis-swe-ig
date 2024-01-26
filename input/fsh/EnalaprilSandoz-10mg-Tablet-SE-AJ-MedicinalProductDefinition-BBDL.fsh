@@ -1,4 +1,4 @@
-Instance: c50441b331822aca239e6591c1acc9b59463913608f90c4e7cfddac988f5c0b9
+Instance: EnalaprilSandoz-10mg-Tablet-SE-AJ-MPD-BBDL
 InstanceOf: Bundle
 Usage: #example
 * type = #collection
@@ -26,3 +26,6 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Ingredient/EnalaprilSandoz-10mg-Tablet-SE-AJ-ING"
+//DUMMY
+* entry[+].resource = EnalaprilSandoz-10mg-Tablet-SE-AJ-APD
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/EnalaprilSandoz-10mg-Tablet-SE-AJ-APD"

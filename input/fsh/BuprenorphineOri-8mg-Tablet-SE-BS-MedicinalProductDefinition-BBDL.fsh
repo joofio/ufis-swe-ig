@@ -1,4 +1,4 @@
-Instance: bdc57c9d4955426960e37cb465bdeab6518c3886251eab07480c1a71a97e340b
+Instance: BuprenorphineOri-8mg-Tablet-SE-BS-MPD-BBDL
 InstanceOf: Bundle
 Usage: #example
 * type = #collection
@@ -26,3 +26,6 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Ingredient/BuprenorphineOri-8mg-Tablet-SE-BS-ING"
+//DUMMY
+* entry[+].resource = BuprenorphineOri-8mg-Tablet-SE-BS-APD
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/BuprenorphineOri-8mg-Tablet-SE-BS-APD"

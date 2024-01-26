@@ -6,10 +6,10 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/MedicinalProductDefinition/DiklofenakApofri232mgggel-SE-PLC-MPD"
-* entry[+].resource = DiklofenakApofri232mgggel-SE-PLC-RegAutho
+* entry[+].resource = DiklofenakApofri232mgggel-SE-PLC-RA
 
 
-* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/RegulatedAuthorization/DiklofenakApofri232mgggel-SE-PLC-RegAutho"
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/RegulatedAuthorization/DiklofenakApofri232mgggel-SE-PLC-RA"
 * entry[+].resource = DiklofenakApofri232mgggel-SE-PLC-PPD01
 
 
@@ -26,3 +26,6 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Ingredient/DiklofenakApofri232mgggel-SE-PLC-ING"
+//DUMMY
+* entry[+].resource = DiklofenakApofri232mgggel-SE-PLC-APD
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/DiklofenakApofri232mgggel-SE-PLC-APD"

@@ -1,4 +1,4 @@
-Instance: Zeldox20mgml2-SE-PLC-RegAutho
+Instance: Zeldox20mgml2-SE-PLC-RA
 InstanceOf: PPLRegulatedAuthorization
 
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"

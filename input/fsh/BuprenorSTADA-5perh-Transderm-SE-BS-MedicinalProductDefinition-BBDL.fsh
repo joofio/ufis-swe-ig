@@ -1,4 +1,4 @@
-Instance: 71bd1d6656a6cb72933acb3415cd53a2d68a5942e316bbb1c14b6291c146ae9f
+Instance: BuprenorSTADA-5perh-Transderm-SE-BS-MPD-BBDL
 InstanceOf: Bundle
 Usage: #example
 * type = #collection

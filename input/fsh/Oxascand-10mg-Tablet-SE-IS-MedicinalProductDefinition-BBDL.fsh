@@ -54,3 +54,6 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Ingredient/Oxascand-10mg-Tablet-SE-IS-ING06"
+//DUMMY
+* entry[+].resource = Oxascand-10mg-Tablet-SE-IS-APD
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/Oxascand-10mg-Tablet-SE-IS-APD"

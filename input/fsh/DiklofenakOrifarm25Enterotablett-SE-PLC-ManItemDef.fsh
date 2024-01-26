@@ -1,4 +1,4 @@
-Instance: DiklofenakOrifarm25Enterotablett-SE-PLC-ManItemDef
+Instance: DiklofenakOrifarm25Enterotablett-SE-PLC-MID
 InstanceOf: PPLManufacturedItemDefinition
 
 * status = #active

@@ -1,4 +1,4 @@
-Instance: DiklofenakTApofri50mgFilmtablet-SE-PLC-RegAutho
+Instance: DiklofenakTApofri50mgFilmtablet-SE-PLC-RA
 InstanceOf: PPLRegulatedAuthorization
 
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"

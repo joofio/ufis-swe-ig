@@ -1,4 +1,4 @@
-Instance: NitroglycerinAbicurinfu-SE-PLC-RegAutho
+Instance: NitroglycerinAbicurinfu-SE-PLC-RA
 InstanceOf: PPLRegulatedAuthorization
 
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"

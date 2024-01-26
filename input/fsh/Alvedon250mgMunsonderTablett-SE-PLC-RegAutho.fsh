@@ -1,4 +1,4 @@
-Instance: Alvedon250mgMunsonderTablett-SE-PLC-RegAutho
+Instance: Alvedon250mgMunsonderTablett-SE-PLC-RA
 InstanceOf: PPLRegulatedAuthorization
 
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"

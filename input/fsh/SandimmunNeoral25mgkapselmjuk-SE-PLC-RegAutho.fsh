@@ -1,4 +1,4 @@
-Instance: SandimmunNeoral25mgkapselmjuk-SE-PLC-RegAutho
+Instance: SandimmunNeoral25mgkapselmjuk-SE-PLC-RA
 InstanceOf: PPLRegulatedAuthorization
 
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"

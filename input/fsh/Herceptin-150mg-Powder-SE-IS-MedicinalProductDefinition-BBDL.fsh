@@ -38,3 +38,6 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Ingredient/Herceptin-150mg-Powder-SE-IS-ING-05"
+//DUMMY
+* entry[+].resource = Herceptin-150mg-Powder-SE-IS-APD
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/Herceptin-150mg-Powder-SE-IS-APD"

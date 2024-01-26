@@ -1,4 +1,4 @@
-Instance: b9f3c4fde6660dbddab76a29cfe765cc357450f18dd81791ad6a932ba786e6e4
+Instance: Panocod-500mg30mg-EffTablet-SE-IS-MPD-BBDL
 InstanceOf: Bundle
 Usage: #example
 * type = #collection
@@ -26,3 +26,6 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Ingredient/Panocod-500mg30mg-EffTablet-SE-IS-ING02"
+//DUMMY
+* entry[+].resource = Panocod-500mg30mg-EffTablet-SE-IS-APD
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/Panocod-500mg30mg-EffTablet-SE-IS-APD"

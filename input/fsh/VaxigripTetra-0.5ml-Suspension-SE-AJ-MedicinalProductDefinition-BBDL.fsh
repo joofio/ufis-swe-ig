@@ -1,4 +1,4 @@
-Instance: c4973cdd2c14bfba5d0ce3a56e3bdb03310c74f41efbb07e0c9ce3ce0c3e9920
+Instance: VaxigripTetra-0.5ml-Suspension-SE-AJ-MPD-BBDL
 InstanceOf: Bundle
 Usage: #example
 * type = #collection
@@ -42,3 +42,6 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Ingredient/VaxigripTetra-0.5ml-Suspension-SE-AJ-ING04"
+//DUMMY
+* entry[+].resource = VaxigripTetra-0.5ml-Suspension-SE-AJ-APD
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/VaxigripTetra-0.5ml-Suspension-SE-AJ-APD"

@@ -58,3 +58,6 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Ingredient/Sobril-15mg-Tablet-SE-IS-ING09"
+//DUMMY
+* entry[+].resource = Sobril-15mg-Tablet-SE-IS-APD
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/Sobril-15mg-Tablet-SE-IS-APD"

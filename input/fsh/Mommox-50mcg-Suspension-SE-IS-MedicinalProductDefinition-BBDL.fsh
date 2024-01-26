@@ -30,3 +30,6 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Ingredient/Mommox-50mcg-Suspension-SE-IS-ING"
+//DUMMY
+* entry[+].resource = Mommox-50mcg-Suspension-SE-IS-APD
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/Mommox-50mcg-Suspension-SE-IS-APD"

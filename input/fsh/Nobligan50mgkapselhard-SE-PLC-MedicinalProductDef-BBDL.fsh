@@ -6,10 +6,10 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/MedicinalProductDefinition/Nobligan50mgkapselhard-SE-PLC-MPD"
-* entry[+].resource = Nobligan50mgkapselhard-SE-PLC-RegAutho
+* entry[+].resource = Nobligan50mgkapselhard-SE-PLC-RA
 
 
-* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/RegulatedAuthorization/Nobligan50mgkapselhard-SE-PLC-RegAutho"
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/RegulatedAuthorization/Nobligan50mgkapselhard-SE-PLC-RA"
 * entry[+].resource = Nobligan50mgkapselhard-SE-PLC-PPD
 
 
@@ -22,3 +22,6 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Ingredient/Nobligan50mgkapselhard-SE-PLC-ING"
+//DUMMY
+* entry[+].resource = Nobligan50mgkapselhard-SE-PLC-APD
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/Nobligan50mgkapselhard-SE-PLC-APD"

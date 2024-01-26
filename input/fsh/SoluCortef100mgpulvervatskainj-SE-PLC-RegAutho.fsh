@@ -1,4 +1,4 @@
-Instance: SoluCortef100mgpulvervatskainj-SE-PLC-RegAutho
+Instance: SoluCortef100mgpulvervatskainj-SE-PLC-RA
 InstanceOf: PPLRegulatedAuthorization
 
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"

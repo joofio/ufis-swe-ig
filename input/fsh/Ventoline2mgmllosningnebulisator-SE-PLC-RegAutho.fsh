@@ -1,4 +1,4 @@
-Instance: Ventoline2mgmllosningnebulisator-SE-PLC-RegAutho
+Instance: Ventoline2mgmllosningnebulisator-SE-PLC-RA
 InstanceOf: PPLRegulatedAuthorization
 
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"

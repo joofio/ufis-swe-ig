@@ -6,10 +6,10 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/MedicinalProductDefinition/Tiparol50mgbrustablett-SE-PLC-MPD"
-* entry[+].resource = Tiparol50mgbrustablett-SE-PLC-RegAutho
+* entry[+].resource = Tiparol50mgbrustablett-SE-PLC-RA
 
 
-* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/RegulatedAuthorization/Tiparol50mgbrustablett-SE-PLC-RegAutho"
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/RegulatedAuthorization/Tiparol50mgbrustablett-SE-PLC-RA"
 * entry[+].resource = Tiparol50mgbrustablett-SE-PLC-PPD
 
 
@@ -58,3 +58,6 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Ingredient/Tiparol50mgbrustablett-SE-PLC-ING10"
+//DUMMY
+* entry[+].resource = Tiparol50mgbrustablett-SE-PLC-APD
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/Tiparol50mgbrustablett-SE-PLC-APD"

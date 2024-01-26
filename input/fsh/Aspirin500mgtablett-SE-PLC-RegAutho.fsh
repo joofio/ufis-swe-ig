@@ -1,4 +1,4 @@
-Instance: Aspirin500mgtablett-SE-PLC-RegAutho
+Instance: Aspirin500mgtablett-SE-PLC-RA
 InstanceOf: PPLRegulatedAuthorization
 
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"

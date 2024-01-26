@@ -6,10 +6,10 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/MedicinalProductDefinition/Zoloft20mgpermlkoncentrat-SE-PLC-MPD"
-* entry[+].resource = Zoloft20mgpermlkoncentrat-SE-PLC-RegAutho
+* entry[+].resource = Zoloft20mgpermlkoncentrat-SE-PLC-RA
 
 
-* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/RegulatedAuthorization/Zoloft20mgpermlkoncentrat-SE-PLC-RegAutho"
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/RegulatedAuthorization/Zoloft20mgpermlkoncentrat-SE-PLC-RA"
 * entry[+].resource = Zoloft20mgpermlkoncentrat-SE-PLC-PPD
 
 

@@ -1,4 +1,4 @@
-Instance: 002be66e15236b5cbe584689dca1333c38213c104700c73ca3b94944732130ae
+Instance: MetforminAristo-1000mg-Tablet-SE-BS-MPD-BBDL
 InstanceOf: Bundle
 Usage: #example
 * type = #collection
@@ -26,3 +26,6 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Ingredient/MetforminAristo-1000mg-Tablet-SE-BS-ING"
+//DUMMY
+* entry[+].resource = MetforminAristo-1000mg-Tablet-SE-BS-APD
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/MetforminAristo-1000mg-Tablet-SE-BS-APD"

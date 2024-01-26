@@ -1,4 +1,4 @@
-Instance: 8fd994377828bf8e2d8144e90668495d8a6c7f4f883f32041cb10c670973dc20
+Instance: MorfinKalceks-10mgml-Solution-SE-BS-MPD-BBDL
 InstanceOf: Bundle
 Usage: #example
 * type = #collection
@@ -22,3 +22,6 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Ingredient/MorfinKalceks-10mgml-Solution-SE-BS-ING"
+//DUMMY
+* entry[+].resource = MorfinKalceks-10mgml-Solution-SE-BS-APD
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/MorfinKalceks-10mgml-Solution-SE-BS-APD"

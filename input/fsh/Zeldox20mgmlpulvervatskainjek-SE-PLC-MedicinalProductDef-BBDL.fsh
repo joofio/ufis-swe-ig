@@ -6,10 +6,10 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/MedicinalProductDefinition/Zeldox20mgmlpulvervatskainjek-SE-PLC-MPD"
-* entry[+].resource = Zeldox20mgmlpulvervatskainjek-SE-PLC-RegAutho
+* entry[+].resource = Zeldox20mgmlpulvervatskainjek-SE-PLC-RA
 
 
-* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/RegulatedAuthorization/Zeldox20mgmlpulvervatskainjek-SE-PLC-RegAutho"
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/RegulatedAuthorization/Zeldox20mgmlpulvervatskainjek-SE-PLC-RA"
 * entry[+].resource = Zeldox20mgmlpulvervatskainjek-SE-PLC-PPD
 
 
@@ -34,3 +34,6 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Ingredient/Zeldox20mgmlpulvervatskainjek-SE-PLC-ING03"
+//DUMMY
+* entry[+].resource = Zeldox20mgmlpulvervatskainjek-SE-PLC-APD
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/Zeldox20mgmlpulvervatskainjek-SE-PLC-APD"

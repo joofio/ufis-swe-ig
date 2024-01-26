@@ -70,3 +70,6 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Ingredient/Altermol-500mg30mg-Tablet-SE-IS-ING08"
+//DUMMY
+* entry[+].resource = Altermol-500mg30mg-Tablet-SE-IS-APD
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/Altermol-500mg30mg-Tablet-SE-IS-APD"

@@ -6,10 +6,10 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/MedicinalProductDefinition/NitroglycerinAbicurinfu-SE-PLC-MPD"
-* entry[+].resource = NitroglycerinAbicurinfu-SE-PLC-RegAutho
+* entry[+].resource = NitroglycerinAbicurinfu-SE-PLC-RA
 
 
-* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/RegulatedAuthorization/NitroglycerinAbicurinfu-SE-PLC-RegAutho"
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/RegulatedAuthorization/NitroglycerinAbicurinfu-SE-PLC-RA"
 * entry[+].resource = NitroglycerinAbicurinfu-SE-PLC-PPD
 
 
@@ -22,3 +22,6 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Ingredient/NitroglycerinAbicurinfu-SE-PLC-ING"
+//DUMMY
+* entry[+].resource = NitroglycerinAbicurinfu-SE-PLC-APD
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/NitroglycerinAbicurinfu-SE-PLC-APD"

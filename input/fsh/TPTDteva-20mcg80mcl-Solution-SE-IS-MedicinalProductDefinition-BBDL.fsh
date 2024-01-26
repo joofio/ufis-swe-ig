@@ -1,4 +1,4 @@
-Instance: 27ffa04e9b47c89fcff2850f0962d2dd8986b7e75cf16ba121a8c271810357b4
+Instance: TPTDteva-20mcg80mcl-Solution-SE-IS-MPD-BBDL
 InstanceOf: Bundle
 Usage: #example
 * type = #collection
@@ -22,3 +22,6 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Ingredient/TPTDteva-20mcg80mcl-Solution-SE-IS-ING"
+//DUMMY
+* entry[+].resource = TPTDteva-20mcg80mcl-Solution-SE-IS-APD
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/TPTDteva-20mcg80mcl-Solution-SE-IS-APD"

@@ -1,4 +1,4 @@
-Instance: eefa3421d771bb7eecfb85bd1dd9b777b2a25cc6c2ce71e4602383f7b4f6eba6
+Instance: MorfinSpecial-2mgml-Solution-SE-BS-MPD-BBDL
 InstanceOf: Bundle
 Usage: #example
 * type = #collection
@@ -22,3 +22,6 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Ingredient/MorfinSpecial-2mgml-Solution-SE-BS-ING"
+//DUMMY
+* entry[+].resource = MorfinSpecial-2mgml-Solution-SE-BS-APD
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/MorfinSpecial-2mgml-Solution-SE-BS-APD"

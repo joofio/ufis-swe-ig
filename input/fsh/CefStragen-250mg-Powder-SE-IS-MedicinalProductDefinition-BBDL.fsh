@@ -22,3 +22,6 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Ingredient/CefStragen-250mg-Powder-SE-IS-ING"
+//DUMMY
+* entry[+].resource = CefStragen-250mg-Powder-SE-IS-APD
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/CefStragen-250mg-Powder-SE-IS-APD"

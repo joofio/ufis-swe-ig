@@ -22,3 +22,6 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Ingredient/Panodil500mgoralsolutionsachet-SE-PLC-ING"
+//DUMMY
+* entry[+].resource = Panodil500mgoralsolutionsachet-SE-PLC-APD
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/Panodil500mgoralsolutionsachet-SE-PLC-APD"

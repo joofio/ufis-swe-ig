@@ -38,3 +38,6 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Ingredient/PKEvolan-500mg30mg-Tablet-SE-IS-ING02"
+//DUMMY
+* entry[+].resource = PKEvolan-500mg30mg-Tablet-SE-IS-APD
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/PKEvolan-500mg30mg-Tablet-SE-IS-APD"

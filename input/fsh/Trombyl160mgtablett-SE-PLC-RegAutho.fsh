@@ -1,4 +1,4 @@
-Instance: Trombyl160mgtablett-SE-PLC-RegAutho
+Instance: Trombyl160mgtablett-SE-PLC-RA
 InstanceOf: PPLRegulatedAuthorization
 
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"

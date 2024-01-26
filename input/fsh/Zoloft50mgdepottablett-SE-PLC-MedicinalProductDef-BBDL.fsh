@@ -6,10 +6,10 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/MedicinalProductDefinition/Zoloft50mgdepottablett-SE-PLC-MPD"
-* entry[+].resource = Zoloft50mgdepottablett-SE-PLC-RegAutho
+* entry[+].resource = Zoloft50mgdepottablett-SE-PLC-RA
 
 
-* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/RegulatedAuthorization/Zoloft50mgdepottablett-SE-PLC-RegAutho"
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/RegulatedAuthorization/Zoloft50mgdepottablett-SE-PLC-RA"
 * entry[+].resource = Zoloft50mgdepottablett-SE-PLC-PPD
 
 
@@ -22,3 +22,6 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Ingredient/Zoloft50mgdepottablett-SE-PLC-ING"
+//DUMMY
+* entry[+].resource = Zoloft50mgdepottablett-SE-PLC-APD
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/Zoloft50mgdepottablett-SE-PLC-APD"

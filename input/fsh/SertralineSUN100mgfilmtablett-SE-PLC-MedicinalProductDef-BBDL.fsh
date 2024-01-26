@@ -6,10 +6,10 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/MedicinalProductDefinition/SertralineSUN100mgfilmtablett-SE-PLC-MPD"
-* entry[+].resource = SertralineSUN100mgfilmtablett-SE-PLC-RegAutho
+* entry[+].resource = SertralineSUN100mgfilmtablett-SE-PLC-RA
 
 
-* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/RegulatedAuthorization/SertralineSUN100mgfilmtablett-SE-PLC-RegAutho"
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/RegulatedAuthorization/SertralineSUN100mgfilmtablett-SE-PLC-RA"
 * entry[+].resource = SertralineSUN100mgfilmtablett-SE-PLC-PPD01
 
 
@@ -26,3 +26,6 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Ingredient/SertralineSUN100mgfilmtablett-SE-PLC-ING"
+//DUMMY
+* entry[+].resource = SertralineSUN100mgfilmtablett-SE-PLC-APD
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/SertralineSUN100mgfilmtablett-SE-PLC-APD"

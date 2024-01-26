@@ -1,4 +1,4 @@
-Instance: Zoloft20mgpermlkoncentrat-SE-PLC-RegAutho
+Instance: Zoloft20mgpermlkoncentrat-SE-PLC-RA
 InstanceOf: PPLRegulatedAuthorization
 
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"

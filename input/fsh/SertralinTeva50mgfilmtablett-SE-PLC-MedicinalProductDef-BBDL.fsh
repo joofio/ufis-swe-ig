@@ -6,10 +6,10 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/MedicinalProductDefinition/SertralinTeva50mgfilmtablett-SE-PLC-MPD"
-* entry[+].resource = SertralinTeva50mgfilmtablett-SE-PLC-RegAutho
+* entry[+].resource = SertralinTeva50mgfilmtablett-SE-PLC-RA
 
 
-* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/RegulatedAuthorization/SertralinTeva50mgfilmtablett-SE-PLC-RegAutho"
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/RegulatedAuthorization/SertralinTeva50mgfilmtablett-SE-PLC-RA"
 * entry[+].resource = SertralinTeva50mgfilmtablett-SE-PLC-PPD01
 
 
@@ -30,3 +30,6 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Ingredient/SertralinTeva50mgfilmtablett-SE-PLC-ING"
+//DUMMY
+* entry[+].resource = SertralinTeva50mgfilmtablett-SE-PLC-APD
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/SertralinTeva50mgfilmtablett-SE-PLC-APD"

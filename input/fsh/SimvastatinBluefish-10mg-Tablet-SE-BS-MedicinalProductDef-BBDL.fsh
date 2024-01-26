@@ -26,3 +26,6 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Ingredient/SimvastatinBluefish-10mg-Tablet-SE-BS-ING"
+//DUMMY
+* entry[+].resource = SimvastatinBluefish-10mg-Tablet-SE-BS-APD
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/SimvastatinBluefish-10mg-Tablet-SE-BS-APD"

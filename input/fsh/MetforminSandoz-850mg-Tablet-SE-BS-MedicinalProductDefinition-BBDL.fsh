@@ -1,4 +1,4 @@
-Instance: 6ffb6b37a5a42fdbd1306e4037026357cbc6b40925f1dce9da48c91f9526df8a
+Instance: MetforminSandoz-850mg-Tablet-SE-BS-MPD-BBDL
 InstanceOf: Bundle
 Usage: #example
 * type = #collection
@@ -26,3 +26,6 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Ingredient/MetforminSandoz-850mg-Tablet-SE-BS-ING"
+//DUMMY
+* entry[+].resource = MetforminSandoz-850mg-Tablet-SE-BS-APD
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/MetforminSandoz-850mg-Tablet-SE-BS-APD"

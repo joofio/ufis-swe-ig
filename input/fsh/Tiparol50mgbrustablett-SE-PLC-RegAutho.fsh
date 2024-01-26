@@ -1,4 +1,4 @@
-Instance: Tiparol50mgbrustablett-SE-PLC-RegAutho
+Instance: Tiparol50mgbrustablett-SE-PLC-RA
 InstanceOf: PPLRegulatedAuthorization
 
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"

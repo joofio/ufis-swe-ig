@@ -6,10 +6,10 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/MedicinalProductDefinition/Suscard25mgbuckaltablett-SE-PLC-MPD"
-* entry[+].resource = Suscard25mgbuckaltablett-SE-PLC-RegAutho
+* entry[+].resource = Suscard25mgbuckaltablett-SE-PLC-RA
 
 
-* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/RegulatedAuthorization/Suscard25mgbuckaltablett-SE-PLC-RegAutho"
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/RegulatedAuthorization/Suscard25mgbuckaltablett-SE-PLC-RA"
 * entry[+].resource = Suscard25mgbuckaltablett-SE-PLC-PPD01
 
 
@@ -26,3 +26,6 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Ingredient/Suscard25mgbuckaltablett-SE-PLC-ING"
+//DUMMY
+* entry[+].resource = Suscard25mgbuckaltablett-SE-PLC-APD
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/Suscard25mgbuckaltablett-SE-PLC-APD"

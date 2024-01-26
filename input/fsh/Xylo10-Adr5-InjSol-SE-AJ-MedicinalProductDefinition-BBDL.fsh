@@ -26,3 +26,6 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Ingredient/Xylo10-Adr5-InjSol-SE-AJ-ING02"
+//DUMMY
+* entry[+].resource = Xylo10-Adr5-InjSol-SE-AJ-APD
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/Xylo10-Adr5-InjSol-SE-AJ-APD"

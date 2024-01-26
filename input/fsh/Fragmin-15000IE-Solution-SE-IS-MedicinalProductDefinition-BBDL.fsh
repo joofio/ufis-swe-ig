@@ -26,3 +26,6 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Ingredient/Fragmin-15000IE-Solution-SE-IS-ING"
+//DUMMY
+* entry[+].resource = Fragmin-15000IE-Solution-SE-IS-APD
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/Fragmin-15000IE-Solution-SE-IS-APD"

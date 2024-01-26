@@ -1,4 +1,4 @@
-Instance: VentilastinNovolizer100mginhalationspulver-SE-PLC-MedProdDef
+Instance: VentilastinNovolizer100mginhalationspulver-SE-PLC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 
 

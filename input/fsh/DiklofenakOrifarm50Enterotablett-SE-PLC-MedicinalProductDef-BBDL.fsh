@@ -34,3 +34,6 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Ingredient/DiklofenakOrifarm50Enterotablett-SE-PLC-ING"
+//DUMMY
+* entry[+].resource = DiklofenakOrifarm50Enterotablett-SE-PLC-APD
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/DiklofenakOrifarm50Enterotablett-SE-PLC-APD"

@@ -26,3 +26,6 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Ingredient/IMAgrindeks-100mg-Capsule-SE-IS-ING"
+//DUMMY
+* entry[+].resource = IMAgrindeks-100mg-Capsule-SE-IS-APD
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/IMAgrindeks-100mg-Capsule-SE-IS-APD"

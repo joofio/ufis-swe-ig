@@ -1,4 +1,4 @@
-Instance: Rectogesic4mggrektalsalva-SE-PLC-RegAutho
+Instance: Rectogesic4mggrektalsalva-SE-PLC-RA
 InstanceOf: PPLRegulatedAuthorization
 
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"

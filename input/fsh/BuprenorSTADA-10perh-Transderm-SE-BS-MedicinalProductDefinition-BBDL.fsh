@@ -1,4 +1,4 @@
-Instance: f01c55acd61bbe0f4ce5721f392da96d7fa920b0a917f2f0aca30f374aa8ef73
+Instance: BuprenorSTADA-10perh-Transderm-SE-BS-MPD-BBDL
 InstanceOf: Bundle
 Usage: #example
 * type = #collection
@@ -26,3 +26,6 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Ingredient/BuprenorSTADA-10perh-Transderm-SE-BS-ING"
+//DUMMY
+* entry[+].resource = BuprenorSTADA-10perh-Transderm-SE-BS-APD
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/BuprenorSTADA-10perh-Transderm-SE-BS-APD"

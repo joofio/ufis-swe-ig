@@ -34,3 +34,6 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Ingredient/BuprenorSTADA-5h-Transderm-SE-BS-ING02"
+//DUMMY
+* entry[+].resource = BuprenorSTADA-5h-Transderm-SE-BS-APD
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/BuprenorSTADA-5h-Transderm-SE-BS-APD"

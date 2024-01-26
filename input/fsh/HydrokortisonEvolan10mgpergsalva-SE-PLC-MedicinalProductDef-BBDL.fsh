@@ -6,10 +6,10 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/MedicinalProductDefinition/HydrokortisonEvolan10mgpergsalva-SE-PLC-MPD"
-* entry[+].resource = HydrokortisonEvolan10mgpergsalva-SE-PLC-RegAutho
+* entry[+].resource = HydrokortisonEvolan10mgpergsalva-SE-PLC-RA
 
 
-* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/RegulatedAuthorization/HydrokortisonEvolan10mgpergsalva-SE-PLC-RegAutho"
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/RegulatedAuthorization/HydrokortisonEvolan10mgpergsalva-SE-PLC-RA"
 * entry[+].resource = HydrokortisonEvolan10mgpergsalva-SE-PLC-PPD01
 
 
@@ -38,3 +38,6 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Ingredient/HydrokortisonEvolan10mgpergsalva-SE-PLC-ING03"
+//DUMMY
+* entry[+].resource = HydrokortisonEvolan10mgpergsalva-SE-PLC-APD
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/HydrokortisonEvolan10mgpergsalva-SE-PLC-APD"

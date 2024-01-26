@@ -1,4 +1,4 @@
-Instance: SandimmunNeoral100mgmlorallos-SE-PLC-RegAutho
+Instance: SandimmunNeoral100mgmlorallos-SE-PLC-RA
 InstanceOf: PPLRegulatedAuthorization
 
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"

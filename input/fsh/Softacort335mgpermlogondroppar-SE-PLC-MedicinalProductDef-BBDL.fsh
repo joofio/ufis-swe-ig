@@ -6,10 +6,10 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/MedicinalProductDefinition/Softacort335mgpermlogondroppar-SE-PLC-MPD"
-* entry[+].resource = Softacort335mgpermlogondroppar-SE-PLC-RegAutho
+* entry[+].resource = Softacort335mgpermlogondroppar-SE-PLC-RA
 
 
-* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/RegulatedAuthorization/Softacort335mgpermlogondroppar-SE-PLC-RegAutho"
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/RegulatedAuthorization/Softacort335mgpermlogondroppar-SE-PLC-RA"
 * entry[+].resource = Softacort335mgpermlogondroppar-SE-PLC-PPD
 
 
@@ -22,3 +22,6 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Ingredient/Softacort335mgpermlogondroppar-SE-PLC-ING"
+//DUMMY
+* entry[+].resource = Softacort335mgpermlogondroppar-SE-PLC-APD
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/Softacort335mgpermlogondroppar-SE-PLC-APD"

@@ -1,4 +1,4 @@
-Instance: df0fa806bcf91e3903999b0c03f1cedf02186bfa4b0056a855601fd6f75c96f4
+Instance: InfluvacTetra-0.5ml-Suspension-SE-AJ-MPD-BBDL
 InstanceOf: Bundle
 Usage: #example
 * type = #collection
@@ -38,3 +38,6 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Ingredient/InfluvacTetra-0.5ml-Suspension-SE-AJ-ING04"
+//DUMMY
+* entry[+].resource = InfluvacTetra-0.5ml-Suspension-SE-AJ-APD
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/InfluvacTetra-0.5ml-Suspension-SE-AJ-APD"

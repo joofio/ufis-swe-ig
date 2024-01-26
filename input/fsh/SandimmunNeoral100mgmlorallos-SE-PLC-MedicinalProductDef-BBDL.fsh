@@ -6,10 +6,10 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/MedicinalProductDefinition/SandimmunNeoral100mgmlorallos-SE-PLC-MPD"
-* entry[+].resource = SandimmunNeoral100mgmlorallos-SE-PLC-RegAutho
+* entry[+].resource = SandimmunNeoral100mgmlorallos-SE-PLC-RA
 
 
-* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/RegulatedAuthorization/SandimmunNeoral100mgmlorallos-SE-PLC-RegAutho"
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/RegulatedAuthorization/SandimmunNeoral100mgmlorallos-SE-PLC-RA"
 * entry[+].resource = SandimmunNeoral100mgmlorallos-SE-PLC-PPD
 
 
@@ -38,3 +38,6 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Ingredient/SandimmunNeoral100mgmlorallos-SE-PLC-ING05"
+//DUMMY
+* entry[+].resource = SandimmunNeoral100mgmlorallos-SE-PLC-APD
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/SandimmunNeoral100mgmlorallos-SE-PLC-APD"

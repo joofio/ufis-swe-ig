@@ -1,4 +1,4 @@
-Instance: Cortimyk20mgml10mgmlkram-SE-PLC-RegAutho
+Instance: Cortimyk20mgml10mgmlkram-SE-PLC-RA
 InstanceOf: PPLRegulatedAuthorization
 
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"

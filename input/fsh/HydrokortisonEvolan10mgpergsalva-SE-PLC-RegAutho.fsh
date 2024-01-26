@@ -1,4 +1,4 @@
-Instance: HydrokortisonEvolan10mgpergsalva-SE-PLC-RegAutho
+Instance: HydrokortisonEvolan10mgpergsalva-SE-PLC-RA
 InstanceOf: PPLRegulatedAuthorization
 
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"

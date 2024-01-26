@@ -1,4 +1,4 @@
-Instance: DiklofenakOrifarm25Enterotablett-SE-PLC-MedProdDef
+Instance: DiklofenakOrifarm25Enterotablett-SE-PLC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 
 

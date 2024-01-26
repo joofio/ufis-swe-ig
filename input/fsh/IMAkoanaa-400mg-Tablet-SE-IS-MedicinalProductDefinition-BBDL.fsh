@@ -22,3 +22,6 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Ingredient/IMAkoanaa-400mg-Tablet-SE-IS-ING"
+//DUMMY
+* entry[+].resource = IMAkoanaa-400mg-Tablet-SE-IS-APD
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/IMAkoanaa-400mg-Tablet-SE-IS-APD"

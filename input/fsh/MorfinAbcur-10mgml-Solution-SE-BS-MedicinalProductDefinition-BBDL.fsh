@@ -1,4 +1,4 @@
-Instance: 246a1765e2bd418aaea97aea8defdbf5da3dbf959f3bf86abfc284f812b3e87f
+Instance: MorfinAbcur-10mgml-Solution-SE-BS-MPD-BBDL
 InstanceOf: Bundle
 Usage: #example
 * type = #collection
@@ -22,3 +22,6 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Ingredient/MorfinAbcur-10mgml-Solution-SE-BS-ING"
+//DUMMY
+* entry[+].resource = MorfinAbcur-10mgml-Solution-SE-BS-APD
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/MorfinAbcur-10mgml-Solution-SE-BS-APD"

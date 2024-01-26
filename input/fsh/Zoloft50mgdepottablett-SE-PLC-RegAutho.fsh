@@ -1,4 +1,4 @@
-Instance: Zoloft50mgdepottablett-SE-PLC-RegAutho
+Instance: Zoloft50mgdepottablett-SE-PLC-RA
 InstanceOf: PPLRegulatedAuthorization
 
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"

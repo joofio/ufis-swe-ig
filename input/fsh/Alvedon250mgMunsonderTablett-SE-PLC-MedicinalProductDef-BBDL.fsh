@@ -6,10 +6,10 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/MedicinalProductDefinition/Alvedon250mgMunsonderTablett-SE-PLC-MPD"
-* entry[+].resource = Alvedon250mgMunsonderTablett-SE-PLC-RegAutho
+* entry[+].resource = Alvedon250mgMunsonderTablett-SE-PLC-RA
 
 
-* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/RegulatedAuthorization/Alvedon250mgMunsonderTablett-SE-PLC-RegAutho"
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/RegulatedAuthorization/Alvedon250mgMunsonderTablett-SE-PLC-RA"
 * entry[+].resource = Alvedon250mgMunsonderTablett-SE-PLC-PPD
 
 
@@ -22,3 +22,6 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Ingredient/Alvedon250mgMunsonderTablett-SE-PLC-ING"
+//DUMMY
+* entry[+].resource = Alvedon250mgMunsonderTablett-SE-PLC-APD
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/Alvedon250mgMunsonderTablett-SE-PLC-APD"

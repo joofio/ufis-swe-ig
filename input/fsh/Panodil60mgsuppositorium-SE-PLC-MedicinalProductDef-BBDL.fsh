@@ -6,10 +6,10 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/MedicinalProductDefinition/Panodil60mgsuppositorium-SE-PLC-MPD"
-* entry[+].resource = Panodil60mgsuppositorium-SE-PLC-RegAutho
+* entry[+].resource = Panodil60mgsuppositorium-SE-PLC-RA
 
 
-* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/RegulatedAuthorization/Panodil60mgsuppositorium-SE-PLC-RegAutho"
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/RegulatedAuthorization/Panodil60mgsuppositorium-SE-PLC-RA"
 * entry[+].resource = Panodil60mgsuppositorium-SE-PLC-PPD
 
 
@@ -26,3 +26,6 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Ingredient/Panodil60mgsuppositorium-SE-PLC-ING02"
+//DUMMY
+* entry[+].resource = Panodil60mgsuppositorium-SE-PLC-APD
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/Panodil60mgsuppositorium-SE-PLC-APD"

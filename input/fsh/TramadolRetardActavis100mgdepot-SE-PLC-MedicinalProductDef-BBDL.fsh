@@ -6,10 +6,10 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/MedicinalProductDefinition/TramadolRetardActavis100mgdepot-SE-PLC-MPD"
-* entry[+].resource = TramadolRetardActavis100mgdepot-SE-PLC-RegAutho
+* entry[+].resource = TramadolRetardActavis100mgdepot-SE-PLC-RA
 
 
-* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/RegulatedAuthorization/TramadolRetardActavis100mgdepot-SE-PLC-RegAutho"
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/RegulatedAuthorization/TramadolRetardActavis100mgdepot-SE-PLC-RA"
 * entry[+].resource = TramadolRetardActavis100mgdepot-SE-PLC-PPD01
 
 
@@ -38,3 +38,6 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Ingredient/TramadolRetardActavis100mgdepot-SE-PLC-ING04"
+//DUMMY
+* entry[+].resource = TramadolRetardActavis100mgdepot-SE-PLC-APD
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/TramadolRetardActavis100mgdepot-SE-PLC-APD"

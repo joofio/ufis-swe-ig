@@ -6,10 +6,10 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/MedicinalProductDefinition/Ventoline2mgmllosningnebulisator-SE-PLC-MPD"
-* entry[+].resource = Ventoline2mgmllosningnebulisator-SE-PLC-RegAutho
+* entry[+].resource = Ventoline2mgmllosningnebulisator-SE-PLC-RA
 
 
-* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/RegulatedAuthorization/Ventoline2mgmllosningnebulisator-SE-PLC-RegAutho"
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/RegulatedAuthorization/Ventoline2mgmllosningnebulisator-SE-PLC-RA"
 * entry[+].resource = Ventoline2mgmllosningnebulisator-SE-PLC-PPD
 
 
@@ -22,3 +22,6 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Ingredient/Ventoline2mgmllosningnebulisator-SE-PLC-ING"
+//DUMMY
+* entry[+].resource = Ventoline2mgmllosningnebulisator-SE-PLC-APD
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/Ventoline2mgmllosningnebulisator-SE-PLC-APD"

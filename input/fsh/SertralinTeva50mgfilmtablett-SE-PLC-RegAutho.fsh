@@ -1,4 +1,4 @@
-Instance: SertralinTeva50mgfilmtablett-SE-PLC-RegAutho
+Instance: SertralinTeva50mgfilmtablett-SE-PLC-RA
 InstanceOf: PPLRegulatedAuthorization
 
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"

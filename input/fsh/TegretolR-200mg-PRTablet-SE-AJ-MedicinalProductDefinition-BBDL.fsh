@@ -26,3 +26,6 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Ingredient/TegretolR-200mg-PRTablet-SE-AJ-ING"
+//DUMMY
+* entry[+].resource = TegretolR-200mg-PRTablet-SE-AJ-APD
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/TegretolR-200mg-PRTablet-SE-AJ-APD"

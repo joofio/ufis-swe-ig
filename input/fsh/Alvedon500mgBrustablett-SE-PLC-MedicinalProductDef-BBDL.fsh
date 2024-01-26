@@ -6,10 +6,10 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/MedicinalProductDefinition/Alvedon500mgBrustablett-SE-PLC-MPD"
-* entry[+].resource = Alvedon500mgBrustablett-SE-PLC-RegAutho
+* entry[+].resource = Alvedon500mgBrustablett-SE-PLC-RA
 
 
-* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/RegulatedAuthorization/Alvedon500mgBrustablett-SE-PLC-RegAutho"
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/RegulatedAuthorization/Alvedon500mgBrustablett-SE-PLC-RA"
 * entry[+].resource = Alvedon500mgBrustablett-SE-PLC-PPD01
 
 
@@ -26,3 +26,6 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Ingredient/Alvedon500mgBrustablett-SE-PLC-ING"
+//DUMMY
+* entry[+].resource = Alvedon500mgBrustablett-SE-PLC-APD
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/Alvedon500mgBrustablett-SE-PLC-APD"

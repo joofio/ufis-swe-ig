@@ -1,4 +1,4 @@
-Instance: Nobligan100mgmloraladropparlos-SE-PLC-RegAutho
+Instance: Nobligan100mgmloraladropparlos-SE-PLC-RA
 InstanceOf: PPLRegulatedAuthorization
 
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"

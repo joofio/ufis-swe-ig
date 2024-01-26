@@ -1,4 +1,4 @@
-Instance: 4753ab6136993c7c1baa7dad0215ca09e04a2f6d8e88796553a20846243ad9f5
+Instance: EnoxaparinLedraxen2000IEinjektion-SE-PLC-MPD-BBDL
 InstanceOf: Bundle
 Usage: #example
 * type = #collection
@@ -6,10 +6,10 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/MedicinalProductDefinition/EnoxaparinLedraxen2000IEinjektion-SE-PLC-MPD"
-* entry[+].resource = EnoxaparinLedraxen2000IEinjektion-SE-PLC-RegAutho
+* entry[+].resource = EnoxaparinLedraxen2000IEinjektion-SE-PLC-RA
 
 
-* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/RegulatedAuthorization/EnoxaparinLedraxen2000IEinjektion-SE-PLC-RegAutho"
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/RegulatedAuthorization/EnoxaparinLedraxen2000IEinjektion-SE-PLC-RA"
 * entry[+].resource = EnoxaparinLedraxen2000IEinjektion-SE-PLC-PPD
 
 
@@ -22,3 +22,6 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Ingredient/EnoxaparinLedraxen2000IEinjektion-SE-PLC-ING"
+//DUMMY
+* entry[+].resource = EnoxaparinLedraxen2000IEinjektion-SE-PLC-APD
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/EnoxaparinLedraxen2000IEinjektion-SE-PLC-APD"

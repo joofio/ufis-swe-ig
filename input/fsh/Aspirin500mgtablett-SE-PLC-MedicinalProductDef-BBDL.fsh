@@ -6,10 +6,10 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/MedicinalProductDefinition/Aspirin500mgtablett-SE-PLC-MPD"
-* entry[+].resource = Aspirin500mgtablett-SE-PLC-RegAutho
+* entry[+].resource = Aspirin500mgtablett-SE-PLC-RA
 
 
-* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/RegulatedAuthorization/Aspirin500mgtablett-SE-PLC-RegAutho"
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/RegulatedAuthorization/Aspirin500mgtablett-SE-PLC-RA"
 * entry[+].resource = Aspirin500mgtablett-SE-PLC-PPD01
 
 

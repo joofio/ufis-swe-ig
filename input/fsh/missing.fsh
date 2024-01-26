@@ -74,7 +74,7 @@ InstanceOf: PPLAdministrableProductDefinition
 * producedFrom = Reference(Softacort335mgpermlogondroppar-SE-PLC-MID)
 * routeOfAdministration.code = $100000073345#100000073617 "Ocular use"
 
-Instance: TPTDteva-20mcg80mcl-Solution-SE-IS-AdminProdDef
+Instance: TPTDteva-20mcg80mcl-Solution-SE-IS-APD
 InstanceOf: PPLAdministrableProductDefinition
 * status = #active
 * formOf = Reference(TPTDteva-20mcg80mcl-Solution-SE-IS-MPD)
@@ -1203,12 +1203,12 @@ InstanceOf: PPLAdministrableProductDefinition
 * producedFrom = Reference(Norspan-5h-Transderm-SE-BS-MID)
 * routeOfAdministration.code = $100000073345#100000073637 "Transdermal use"
 
-Instance: DiklofenakOrifarm25Enterotablett-SE-PLC-AdminProdDef
+Instance: DiklofenakOrifarm25Enterotablett-SE-PLC-APD
 InstanceOf: PPLAdministrableProductDefinition
 * status = #active
-* formOf = Reference(DiklofenakOrifarm25Enterotablett-SE-PLC-MedProdDef)
+* formOf = Reference(DiklofenakOrifarm25Enterotablett-SE-PLC-MPD)
 * administrableDoseForm = $200000000004#100000073667 "Gastro-resistant tablet"
-* producedFrom = Reference(DiklofenakOrifarm25Enterotablett-SE-PLC-ManItemDef)
+* producedFrom = Reference(DiklofenakOrifarm25Enterotablett-SE-PLC-MID)
 * routeOfAdministration.code = $100000073345#100000073619 "Oral use"
 
 Instance: MetforminAuro-1000mg-Tablet-SE-BS-APD
@@ -1804,7 +1804,7 @@ InstanceOf: PPLAdministrableProductDefinition
 * producedFrom = Reference(Mommox-50mcg-Suspension-SE-IS-MID)
 * routeOfAdministration.code = $100000073345#100000073615 "Nasal use"
 
-Instance: CefuroximStragen-1.5g-Powder-SE-IS-AdminProdDef
+Instance: CefuroximStragen-1.5g-Powder-SE-IS-APD
 InstanceOf: PPLAdministrableProductDefinition
 * status = #active
 * formOf = Reference(CefuroximStragen-1.5g-Powder-SE-IS-MPD)

@@ -18,3 +18,6 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Ingredient/Locoid01kutanlosning-SE-PLC-ING"
+//DUMMY
+* entry[+].resource = Locoid01kutanlosning-SE-PLC-APD
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/Locoid01kutanlosning-SE-PLC-APD"

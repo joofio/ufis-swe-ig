@@ -1,4 +1,4 @@
-Instance: 0ee937b48f9f774e3c37fef958b2be37e94c0bc0f246b585200b1978d7ad2ed1
+Instance: Aphiahsone-50mcg-Suspension-SE-IS-MPD-BBDL
 InstanceOf: Bundle
 Usage: #example
 * type = #collection
@@ -26,3 +26,6 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Ingredient/Aphiahsone-50mcg-Suspension-SE-IS-ING"
+//DUMMY
+* entry[+].resource = Aphiahsone-50mcg-Suspension-SE-IS-APD
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/Aphiahsone-50mcg-Suspension-SE-IS-APD"

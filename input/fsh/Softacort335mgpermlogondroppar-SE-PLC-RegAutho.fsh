@@ -1,4 +1,4 @@
-Instance: Softacort335mgpermlogondroppar-SE-PLC-RegAutho
+Instance: Softacort335mgpermlogondroppar-SE-PLC-RA
 InstanceOf: PPLRegulatedAuthorization
 
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"

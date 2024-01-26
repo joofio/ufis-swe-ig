@@ -22,3 +22,6 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Ingredient/ITZactavis-100mg-Cap-SE-IS-ING"
+//DUMMY
+* entry[+].resource = ITZactavis-100mg-Cap-SE-IS-APD
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/ITZactavis-100mg-Cap-SE-IS-APD"

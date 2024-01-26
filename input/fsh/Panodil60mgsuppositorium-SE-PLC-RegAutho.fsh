@@ -1,4 +1,4 @@
-Instance: Panodil60mgsuppositorium-SE-PLC-RegAutho
+Instance: Panodil60mgsuppositorium-SE-PLC-RA
 InstanceOf: PPLRegulatedAuthorization
 
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"

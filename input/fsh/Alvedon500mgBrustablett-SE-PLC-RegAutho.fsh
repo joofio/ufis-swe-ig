@@ -1,4 +1,4 @@
-Instance: Alvedon500mgBrustablett-SE-PLC-RegAutho
+Instance: Alvedon500mgBrustablett-SE-PLC-RA
 InstanceOf: PPLRegulatedAuthorization
 
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"

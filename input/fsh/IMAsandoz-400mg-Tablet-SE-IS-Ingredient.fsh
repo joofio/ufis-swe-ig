@@ -1,8 +1,9 @@
-Instance: IMAsandoz-400mg-Tablet-SE-IS-Ingredient
+Instance: IMAsandoz-400mg-Tablet-SE-IS-ING
 InstanceOf: PPLIngredient
+
 * status = #active
 * for[0] = Reference(IMAsandoz-400mg-Tablet-SE-IS-MPD)
-* for[+] = Reference(IMAsandoz-400mg-Tablet-SE-IS-MID)
+* for[+] = Reference(ManufacturedItemDefinition/IMAsandoz-400mg-Tablet-SE-IS-MID)
 * for[+] = Reference(IMAsandoz-400mg-Tablet-SE-IS-APD)
 * role = $100000072050#100000072072 "Active"
 * substance.code.concept = $SubstanceDefinition#100000091825 "Imatinib mesilate"

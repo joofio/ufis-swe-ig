@@ -1,5 +1,6 @@
 Instance: CMImylan-25mg-Tablet-SE-IS-RA
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "11340"
 * subject = Reference(CMImylan-25mg-Tablet-SE-IS-MPD)

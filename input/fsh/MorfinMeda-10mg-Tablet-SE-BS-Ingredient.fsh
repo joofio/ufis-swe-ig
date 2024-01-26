@@ -1,5 +1,6 @@
-Instance: MorfinMeda-10mg-Tablet-SE-BS-Ingredient
+Instance: MorfinMeda-10mg-Tablet-SE-BS-ING
 InstanceOf: PPLIngredient
+
 * status = #active
 * for[0] = Reference(MorfinMeda-10mg-Tablet-SE-BS-MPD)
 * for[+] = Reference(MorfinMeda-10mg-Tablet-SE-BS-MID)

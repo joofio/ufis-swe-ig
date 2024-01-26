@@ -1,5 +1,6 @@
-Instance: Xyloproct-RectalOintment-SE-AJ-Ingredient02
+Instance: Xyloproct-RectalOintment-SE-AJ-ING02
 InstanceOf: PPLIngredient
+
 * status = #active
 * for[0] = Reference(Xyloproct-RectalOintment-SE-AJ-MPD)
 * for[+] = Reference(Xyloproct-RectalOintment-SE-AJ-MID)

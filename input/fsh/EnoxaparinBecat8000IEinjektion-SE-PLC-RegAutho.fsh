@@ -1,5 +1,6 @@
 Instance: EnoxaparinBecat8000IEinjektion-SE-PLC-RegAutho
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "56069"
 * subject = Reference(EnoxaparinBecat8000IEinjektion-SE-PLC-MPD)

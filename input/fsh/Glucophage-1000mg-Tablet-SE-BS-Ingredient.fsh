@@ -1,5 +1,6 @@
-Instance: Glucophage-1000mg-Tablet-SE-BS-Ingredient
+Instance: Glucophage-1000mg-Tablet-SE-BS-ING
 InstanceOf: PPLIngredient
+
 * status = #active
 * for[0] = Reference(Glucophage-1000mg-Tablet-SE-BS-MPD)
 * for[+] = Reference(Glucophage-1000mg-Tablet-SE-BS-MID)

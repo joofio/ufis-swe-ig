@@ -1,5 +1,6 @@
-Instance: Aphiahsone-50mcg-Suspension-SE-IS-Ingredient
+Instance: Aphiahsone-50mcg-Suspension-SE-IS-ING
 InstanceOf: PPLIngredient
+
 * status = #active
 * for[0] = Reference(Aphiahsone-50mcg-Suspension-SE-IS-MPD)
 * for[+] = Reference(Aphiahsone-50mcg-Suspension-SE-IS-MID)

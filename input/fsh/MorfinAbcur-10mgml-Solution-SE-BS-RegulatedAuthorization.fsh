@@ -1,5 +1,6 @@
 Instance: MorfinAbcur-10mgml-Solution-SE-BS-RA
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "45658"
 * subject = Reference(MorfinAbcur-10mgml-Solution-SE-BS-MPD)

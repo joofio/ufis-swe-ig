@@ -1,5 +1,6 @@
-Instance: DiklofenakApofri116gel-SE-PLC-Ingredient
+Instance: DiklofenakApofri116gel-SE-PLC-ING
 InstanceOf: PPLIngredient
+
 * status = #active
 * for[0] = Reference(DiklofenakApofri116gel-SE-PLC-MPD)
 * for[+] = Reference(DiklofenakApofri116gel-SE-PLC-MID)

@@ -1,9 +1,10 @@
-Instance: Sandimmun50mgmlkoncentrat-SE-PLC-Ingredient
+Instance: Sandimmun50mgmlkoncentrat-SE-PLC-ING
 InstanceOf: PPLIngredient
+
 * status = #active
 * for[0] = Reference(Sandimmun50mgmlkoncentrat-SE-PLC-MPD)
 * for[+] = Reference(Sandimmun50mgmlkoncentrat-SE-PLC-MID)
-* for[+] = Reference(Sandimmun50mgmlkoncentrat-SE-PLC-APD)
+* for[+] = Reference(Sandimmun50mgmlkoncentrat-SE-PLC-AdminProductDef)
 * role = $100000072050#100000072072 "Active"
 * substance.code.concept = $SubstanceDefinition#100000092121 "Ciclosporin"
 

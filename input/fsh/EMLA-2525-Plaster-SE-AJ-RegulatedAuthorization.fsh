@@ -1,5 +1,6 @@
 Instance: EMLA-2525-Plaster-SE-AJ-RA
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "11834"
 * subject = Reference(EMLA-2525-Plaster-SE-AJ-MPD)

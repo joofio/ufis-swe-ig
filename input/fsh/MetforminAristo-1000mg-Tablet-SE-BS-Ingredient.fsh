@@ -1,5 +1,6 @@
-Instance: MetforminAristo-1000mg-Tablet-SE-BS-Ingredient
+Instance: MetforminAristo-1000mg-Tablet-SE-BS-ING
 InstanceOf: PPLIngredient
+
 * status = #active
 * for[0] = Reference(MetforminAristo-1000mg-Tablet-SE-BS-MPD)
 * for[+] = Reference(MetforminAristo-1000mg-Tablet-SE-BS-MID)

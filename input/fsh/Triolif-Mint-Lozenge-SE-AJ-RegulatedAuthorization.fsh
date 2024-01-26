@@ -1,5 +1,6 @@
 Instance: Triolif-Mint-Lozenge-SE-AJ-RA
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "49612"
 * subject = Reference(Triolif-Mint-Lozenge-SE-AJ-MPD)

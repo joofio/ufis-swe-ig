@@ -1,5 +1,6 @@
-Instance: Panodil500mgoralsolutionsachet-SE-PLC-Ingredient
+Instance: Panodil500mgoralsolutionsachet-SE-PLC-ING
 InstanceOf: PPLIngredient
+
 * status = #active
 * for[0] = Reference(Panodil500mgoralsolutionsachet-SE-PLC-MPD)
 * for[+] = Reference(Panodil500mgoralsolutionsachet-SE-PLC-MID)

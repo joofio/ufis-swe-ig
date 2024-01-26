@@ -1,5 +1,6 @@
-Instance: Dolcontin-30mg-Tablet-SE-BS-Ingredient
+Instance: Dolcontin-30mg-Tablet-SE-BS-ING
 InstanceOf: PPLIngredient
+
 * status = #active
 * for[0] = Reference(Dolcontin-30mg-Tablet-SE-BS-MPD)
 * for[+] = Reference(Dolcontin-30mg-Tablet-SE-BS-MID)

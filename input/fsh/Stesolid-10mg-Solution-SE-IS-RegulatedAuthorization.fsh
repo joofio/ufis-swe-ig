@@ -1,5 +1,6 @@
 Instance: Stesolid-10mg-Solution-SE-IS-RA
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "9292"
 * subject = Reference(Stesolid-10mg-Solution-SE-IS-MPD)

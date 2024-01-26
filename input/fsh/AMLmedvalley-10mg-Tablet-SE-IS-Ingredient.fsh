@@ -1,5 +1,6 @@
-Instance: AMLmedvalley-10mg-Tablet-SE-IS-Ingredient
+Instance: AMLmedvalley-10mg-Tablet-SE-IS-ING
 InstanceOf: PPLIngredient
+
 * status = #active
 * for[0] = Reference(AMLmedvalley-10mg-Tablet-SE-IS-MPD)
 * for[+] = Reference(AMLmedvalley-10mg-Tablet-SE-IS-MID)

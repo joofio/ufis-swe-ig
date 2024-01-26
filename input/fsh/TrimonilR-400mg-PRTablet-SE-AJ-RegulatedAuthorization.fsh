@@ -1,5 +1,6 @@
 Instance: TrimonilR-400mg-PRTablet-SE-AJ-RA
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "12922"
 * subject = Reference(TrimonilR-400mg-PRTablet-SE-AJ-MPD)

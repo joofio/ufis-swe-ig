@@ -1,5 +1,6 @@
 Instance: SoluCortef100mgpulvervatskainj-SE-PLC-RegAutho
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "MTnumber"
 * subject = Reference(SoluCortef100mgpulvervatskainj-SE-PLC-MPD)

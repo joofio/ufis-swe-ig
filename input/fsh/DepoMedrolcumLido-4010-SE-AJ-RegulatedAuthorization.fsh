@@ -1,5 +1,6 @@
 Instance: DepoMedrolcumLido-4010-SE-AJ-RA
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "9493"
 * subject = Reference(DepoMedrolcumLido-4010-SE-AJ-MPD)

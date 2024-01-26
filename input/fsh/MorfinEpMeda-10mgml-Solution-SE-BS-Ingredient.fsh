@@ -1,5 +1,6 @@
-Instance: MorfinEpMeda-10mgml-Solution-SE-BS-Ingredient
+Instance: MorfinEpMeda-10mgml-Solution-SE-BS-ING
 InstanceOf: PPLIngredient
+
 * status = #active
 * for[0] = Reference(MorfinEpMeda-10mgml-Solution-SE-BS-MPD)
 * for[+] = Reference(MorfinEpMeda-10mgml-Solution-SE-BS-MID)

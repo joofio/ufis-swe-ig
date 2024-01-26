@@ -1,5 +1,6 @@
-Instance: MorfinKalceks-10mgml-Solution-SE-BS-Ingredient
+Instance: MorfinKalceks-10mgml-Solution-SE-BS-ING
 InstanceOf: PPLIngredient
+
 * status = #active
 * for[0] = Reference(MorfinKalceks-10mgml-Solution-SE-BS-MPD)
 * for[+] = Reference(MorfinKalceks-10mgml-Solution-SE-BS-MID)

@@ -1,6 +1,7 @@
 Instance: ABASAGLAR-100eml-Solution-SE-IS-MPD
 InstanceOf: PPLMedicinalProductDefinition
 
+
 * combinedPharmaceuticalDoseForm = $200000000004#200000016493 "Solution for injection in cartridge"
 * identifier[+].system = "http://ema.europa.eu/fhir/mpId"
 * identifier[=].value = "SE-100000426-00049703"
@@ -15,6 +16,22 @@ InstanceOf: PPLMedicinalProductDefinition
 * classification[+].coding[0] = $100000160962#200000027129 "CHMP Rapporteur"
 * classification[=].coding[+] = $100000160962#200000027126 "PRAC Co-Rapporteur"
 * name.productName = "ABASAGLAR 100 enheter/ml Injektionsvätska, lösning i cylinderampull"
+* name.part[+].part = "ABASAGLAR"
+* name.part[=].type.coding.system = "http://spor.ema.europa.eu/v1/lists/220000000000"
+* name.part[=].type.coding.code = #220000000002
+* name.part[=].type.coding.display = "Invented name part"
+* name.part[+].part = "100 enheter/ml"
+* name.part[=].type.coding.system = "http://spor.ema.europa.eu/v1/lists/220000000000"
+* name.part[=].type.coding.code = #220000000004
+* name.part[=].type.coding.display = "Strength part"
+* name.part[+].part = "Injektionsvätska, lösning i cylinderampull"
+* name.part[=].type.coding.system = "http://spor.ema.europa.eu/v1/lists/220000000000"
+* name.part[=].type.coding.code = #220000000005
+* name.part[=].type.coding.display = "Pharmaceutical dose form part"
+* name.usage.country.coding.system = "https://spor.ema.europa.eu/v1/lists/100000000002"
+* name.usage.country.coding.code = #100000000535
+* name.usage.country.coding.display = "Sweden"
+* name.usage.language = urn:ietf:bcp:47#sv "Swedish" 
 * characteristic.type = $100000155526#100000155530 "Biological Medicinal Product"
 * name.usage.country.coding.display = "Sweden"
 * name.usage.language = urn:ietf:bcp:47#sv "Swedish"

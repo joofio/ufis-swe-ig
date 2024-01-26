@@ -1,5 +1,6 @@
 Instance: Mydrane-InjSol-SE-AJ-RA
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "51088"
 * subject = Reference(Mydrane-InjSol-SE-AJ-MPD)

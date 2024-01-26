@@ -1,5 +1,6 @@
 Instance: BuprenorSTADA-10perh-Transderm-SE-BS-RA
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "52810"
 * subject = Reference(BuprenorSTADA-10perh-Transderm-SE-BS-MPD)

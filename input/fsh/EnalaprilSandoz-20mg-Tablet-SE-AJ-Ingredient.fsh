@@ -1,5 +1,6 @@
-Instance: EnalaprilSandoz-20mg-Tablet-SE-AJ-Ingredient
+Instance: EnalaprilSandoz-20mg-Tablet-SE-AJ-ING
 InstanceOf: PPLIngredient
+
 * status = #active
 * for[0] = Reference(EnalaprilSandoz-20mg-Tablet-SE-AJ-MPD)
 * for[+] = Reference(EnalaprilSandoz-20mg-Tablet-SE-AJ-MID)

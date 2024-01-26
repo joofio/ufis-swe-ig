@@ -1,5 +1,6 @@
 Instance: Norvasc-10mg-Tablet-SE-IS-RA
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "11288"
 * subject = Reference(Norvasc-10mg-Tablet-SE-IS-MPD)

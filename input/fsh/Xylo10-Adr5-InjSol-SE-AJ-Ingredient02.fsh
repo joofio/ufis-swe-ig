@@ -1,5 +1,6 @@
-Instance: Xylo10-Adr5-InjSol-SE-AJ-Ingredient02
+Instance: Xylo10-Adr5-InjSol-SE-AJ-ING02
 InstanceOf: PPLIngredient
+
 * status = #active
 * for[0] = Reference(Xylo10-Adr5-InjSol-SE-AJ-MPD)
 * for[+] = Reference(Xylo10-Adr5-InjSol-SE-AJ-MID)

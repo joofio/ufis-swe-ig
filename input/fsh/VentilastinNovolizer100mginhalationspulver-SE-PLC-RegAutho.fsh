@@ -1,5 +1,6 @@
 Instance: VentilastinNovolizer100mginhalationspulver-SE-PLC-RegAutho
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "24458"
 * subject = Reference(VentilastinNovolizer100mginhalationspulver-SE-PLC-MedProdDef)

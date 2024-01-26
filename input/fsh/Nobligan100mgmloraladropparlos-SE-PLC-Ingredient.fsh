@@ -1,9 +1,10 @@
-Instance: Nobligan100mgmloraladropparlos-SE-PLC-Ingredient
+Instance: Nobligan100mgmloraladropparlos-SE-PLC-ING
 InstanceOf: PPLIngredient
+
 * status = #active
 * for[0] = Reference(Nobligan100mgmloraladropparlos-SE-PLC-MPD)
 * for[+] = Reference(Nobligan100mgmloraladropparlos-SE-PLC-MID)
-* for[+] = Reference(Nobligan100mgmloraladropparlos-SE-PLC-APD)
+* for[+] = Reference(Nobligan100mgmloraladropparlos-SE-PLC-AdminProductDef)
 * role = $100000072050#100000072072 "Active"
 * substance.code.concept = $SubstanceDefinition#100000093275 "Tramadol hydrochloride"
 

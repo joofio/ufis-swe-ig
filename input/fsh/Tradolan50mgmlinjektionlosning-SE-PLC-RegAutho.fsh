@@ -1,5 +1,6 @@
 Instance: Tradolan50mgmlinjektionlosning-SE-PLC-RegAutho
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "13067"
 * subject = Reference(Tradolan50mgmlinjektionlosning-SE-PLC-MPD)

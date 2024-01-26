@@ -1,5 +1,6 @@
-Instance: ISOactavis-20mg-Capsule-SE-IS-Ingredient
+Instance: ISOactavis-20mg-Capsule-SE-IS-ING
 InstanceOf: PPLIngredient
+
 * status = #active
 * for[0] = Reference(ISOactavis-20mg-Capsule-SE-IS-MPD)
 * for[+] = Reference(ISOactavis-20mg-Capsule-SE-IS-MID)

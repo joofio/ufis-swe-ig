@@ -1,5 +1,6 @@
 Instance: Maxilene-40mg-cream-SE-AJ-RA
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "50469"
 * subject = Reference(Maxilene-40mg-cream-SE-AJ-MPD)

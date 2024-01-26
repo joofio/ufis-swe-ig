@@ -1,5 +1,6 @@
-Instance: MorfinAlt-10mg-Tablet-SE-BS-Ingredient
+Instance: MorfinAlt-10mg-Tablet-SE-BS-ING
 InstanceOf: PPLIngredient
+
 * status = #active
 * for[0] = Reference(MorfinAlt-10mg-Tablet-SE-BS-MPD)
 * for[+] = Reference(MorfinAlt-10mg-Tablet-SE-BS-MID)

@@ -1,5 +1,6 @@
 Instance: Sandimmun50mgmlkoncentrat-SE-PLC-RegAutho
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "10263"
 * subject = Reference(Sandimmun50mgmlkoncentrat-SE-PLC-MPD)

@@ -1,5 +1,6 @@
 Instance: HermolepsinR-100mg-PRTablet-SE-AJ-RA
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "10790"
 * subject = Reference(HermolepsinR-100mg-PRTablet-SE-AJ-MPD)

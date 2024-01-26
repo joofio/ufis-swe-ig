@@ -1,5 +1,6 @@
 Instance: PinexJordgubb250mggranulat-SE-PLC-RegAutho
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "27963"
 * subject = Reference(PinexJordgubb250mggranulat-SE-PLC-MPD)

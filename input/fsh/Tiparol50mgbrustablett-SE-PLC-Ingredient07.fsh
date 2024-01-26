@@ -1,9 +1,10 @@
-Instance: Tiparol50mgbrustablett-SE-PLC-Ingredient07
+Instance: Tiparol50mgbrustablett-SE-PLC-ING07
 InstanceOf: PPLIngredient
+
 * status = #active
 * for[0] = Reference(Tiparol50mgbrustablett-SE-PLC-MPD)
 * for[+] = Reference(Tiparol50mgbrustablett-SE-PLC-MID)
-* for[+] = Reference(Tiparol50mgbrustablett-SE-PLC-APD)
+* for[+] = Reference(Tiparol50mgbrustablett-SE-PLC-AdminProductDef)
 * role = $100000072050#100000072082 "Excipient"
 * substance.code.concept = $SubstanceDefinition#100000076793 "Macrogol stearate"
 * substance.strength.concentrationRatio.numerator = 0 http://spor.ema.europa.eu/v1/lists/100000110633#100000110655 "milligram(s)"

@@ -1,5 +1,6 @@
 Instance: Voxra-300mg-Tablet-SE-BS-RA
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "23492"
 * subject = Reference(Voxra-300mg-Tablet-SE-BS-MPD)

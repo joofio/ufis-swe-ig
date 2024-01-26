@@ -1,5 +1,6 @@
 Instance: CefStragen-750mg-Powder-SE-IS-RA
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "50005"
 * subject = Reference(CefStragen-750mg-Powder-SE-IS-MPD)

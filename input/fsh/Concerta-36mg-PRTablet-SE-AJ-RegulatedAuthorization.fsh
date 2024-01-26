@@ -1,5 +1,6 @@
 Instance: Concerta-36mg-PRTablet-SE-AJ-RA
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "18542"
 * subject = Reference(Concerta-36mg-PRTablet-SE-AJ-MPD)

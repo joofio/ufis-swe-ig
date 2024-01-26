@@ -1,5 +1,6 @@
 Instance: Alburex-50g-L-Solution-SE-AJ-RA
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "50242"
 * subject = Reference(Alburex-50g-L-Solution-SE-AJ-MPD)

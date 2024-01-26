@@ -1,5 +1,6 @@
 Instance: Suscard25mgbuckaltablett-SE-PLC-RegAutho
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "10409"
 * subject = Reference(Suscard25mgbuckaltablett-SE-PLC-MPD)

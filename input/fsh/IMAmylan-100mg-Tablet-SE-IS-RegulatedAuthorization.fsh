@@ -1,5 +1,6 @@
 Instance: IMAmylan-100mg-Tablet-SE-IS-RA
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "53013"
 * subject = Reference(IMAmylan-100mg-Tablet-SE-IS-MPD)

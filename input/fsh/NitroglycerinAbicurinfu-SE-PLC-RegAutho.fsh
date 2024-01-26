@@ -1,5 +1,6 @@
 Instance: NitroglycerinAbicurinfu-SE-PLC-RegAutho
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "49668"
 * subject = Reference(NitroglycerinAbicurinfu-SE-PLC-MPD)

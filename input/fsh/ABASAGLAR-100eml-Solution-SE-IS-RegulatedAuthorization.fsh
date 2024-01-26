@@ -1,5 +1,6 @@
 Instance: ABASAGLAR-100eml-Solution-SE-IS-RA
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "49703"
 * subject = Reference(ABASAGLAR-100eml-Solution-SE-IS-MPD)

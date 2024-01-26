@@ -1,5 +1,6 @@
 Instance: Zeldox20mgmlpulvervatskainjek-SE-PLC-RegAutho
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "15002"
 * subject = Reference(Zeldox20mgmlpulvervatskainjek-SE-PLC-MPD)

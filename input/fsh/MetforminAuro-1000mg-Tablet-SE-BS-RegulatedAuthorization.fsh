@@ -1,5 +1,6 @@
 Instance: MetforminAuro-1000mg-Tablet-SE-BS-RA
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "27669"
 * subject = Reference(MetforminAuro-1000mg-Tablet-SE-BS-MPD)

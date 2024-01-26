@@ -1,5 +1,6 @@
 Instance: Sobril-10mg-Tablet-SE-IS-RA
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "8880"
 * subject = Reference(Sobril-10mg-Tablet-SE-IS-MPD)

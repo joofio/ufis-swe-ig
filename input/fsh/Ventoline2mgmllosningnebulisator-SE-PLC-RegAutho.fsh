@@ -1,5 +1,6 @@
 Instance: Ventoline2mgmllosningnebulisator-SE-PLC-RegAutho
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "11088"
 * subject = Reference(Ventoline2mgmllosningnebulisator-SE-PLC-MPD)

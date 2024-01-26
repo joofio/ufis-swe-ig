@@ -1,9 +1,10 @@
-Instance: Rectogesic4mggrektalsalva-SE-PLC-Ingredient
+Instance: Rectogesic4mggrektalsalva-SE-PLC-ING
 InstanceOf: PPLIngredient
+
 * status = #active
 * for[0] = Reference(Rectogesic4mggrektalsalva-SE-PLC-MPD)
 * for[+] = Reference(Rectogesic4mggrektalsalva-SE-PLC-MID)
-* for[+] = Reference(Rectogesic4mggrektalsalva-SE-PLC-APD)
+* for[+] = Reference(Rectogesic4mggrektalsalva-SE-PLC-AdminProductDef)
 * role = $100000072050#100000072072 "Active"
 * substance.code.concept = $SubstanceDefinition#100000087614 "Glyceryl trinitrate"
 

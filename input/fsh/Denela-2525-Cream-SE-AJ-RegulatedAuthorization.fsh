@@ -1,5 +1,6 @@
 Instance: Denela-2525-Cream-SE-AJ-RA
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "50703"
 * subject = Reference(Denela-2525-Cream-SE-AJ-MPD)

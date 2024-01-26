@@ -1,5 +1,6 @@
-Instance: TrimonilR-150mg-PRTablet-SE-AJ-Ingredient
+Instance: TrimonilR-150mg-PRTablet-SE-AJ-ING
 InstanceOf: PPLIngredient
+
 * status = #active
 * for[0] = Reference(TrimonilR-150mg-PRTablet-SE-AJ-MPD)
 * for[+] = Reference(TrimonilR-150mg-PRTablet-SE-AJ-MID)

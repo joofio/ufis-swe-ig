@@ -1,5 +1,6 @@
 Instance: MorfinAlt-20mg-Tablet-SE-BS-RA
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "49754"
 * subject = Reference(MorfinAlt-20mg-Tablet-SE-BS-MPD)

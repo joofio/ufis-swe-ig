@@ -1,5 +1,6 @@
 Instance: SandimmunNeoral100mgmlorallos-SE-PLC-RegAutho
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "12311"
 * subject = Reference(SandimmunNeoral100mgmlorallos-SE-PLC-MPD)

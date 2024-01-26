@@ -1,5 +1,6 @@
-Instance: AMLaurobindo-10mg-Tablet-SE-IS-Ingredient
+Instance: AMLaurobindo-10mg-Tablet-SE-IS-ING
 InstanceOf: PPLIngredient
+
 * status = #active
 * for[0] = Reference(AMLaurobindo-10mg-Tablet-SE-IS-MPD)
 * for[+] = Reference(AMLaurobindo-10mg-Tablet-SE-IS-MID)

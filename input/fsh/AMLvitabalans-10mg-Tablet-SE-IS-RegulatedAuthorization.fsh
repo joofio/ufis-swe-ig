@@ -1,5 +1,6 @@
 Instance: AMLvitabalans-10mg-Tablet-SE-IS-RA
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "43521"
 * subject = Reference(AMLvitabalans-10mg-Tablet-SE-IS-MPD)

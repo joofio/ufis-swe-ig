@@ -1,5 +1,6 @@
 Instance: Aprokam-50mg-Powder-SE-IS-RA
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "46149"
 * subject = Reference(Aprokam-50mg-Powder-SE-IS-MPD)

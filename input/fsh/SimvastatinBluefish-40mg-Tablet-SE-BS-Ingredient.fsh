@@ -1,5 +1,6 @@
-Instance: SimvastatinBluefish-40mg-Tablet-SE-BS-Ingredient
+Instance: SimvastatinBluefish-40mg-Tablet-SE-BS-ING
 InstanceOf: PPLIngredient
+
 * status = #active
 * for[0] = Reference(SimvastatinBluefish-40mg-Tablet-SE-BS-MPD)
 * for[+] = Reference(SimvastatinBluefish-40mg-Tablet-SE-BS-MID)

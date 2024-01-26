@@ -1,5 +1,6 @@
 Instance: Citodon-500mg30mg-EffTablet-SE-IS-RA
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "10151"
 * subject = Reference(Citodon-500mg30mg-EffTablet-SE-IS-MPD)

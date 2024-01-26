@@ -1,5 +1,6 @@
-Instance: MetforminActavis-500mg-Tablet-SE-BS-Ingredient
+Instance: MetforminActavis-500mg-Tablet-SE-BS-ING
 InstanceOf: PPLIngredient
+
 * status = #active
 * for[0] = Reference(MetforminActavis-500mg-Tablet-SE-BS-MPD)
 * for[+] = Reference(MetforminActavis-500mg-Tablet-SE-BS-MID)

@@ -1,5 +1,6 @@
 Instance: Oxascand-10mg-Tablet-SE-IS-RA
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "10743"
 * subject = Reference(Oxascand-10mg-Tablet-SE-IS-MPD)

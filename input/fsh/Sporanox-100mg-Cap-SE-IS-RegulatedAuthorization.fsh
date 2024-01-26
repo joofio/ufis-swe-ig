@@ -1,5 +1,6 @@
 Instance: Sporanox-100mg-Cap-SE-IS-RA
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "11900"
 * subject = Reference(Sporanox-100mg-Cap-SE-IS-MPD)

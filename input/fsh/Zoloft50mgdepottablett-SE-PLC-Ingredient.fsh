@@ -1,9 +1,10 @@
-Instance: Zoloft50mgdepottablett-SE-PLC-Ingredient
+Instance: Zoloft50mgdepottablett-SE-PLC-ING
 InstanceOf: PPLIngredient
+
 * status = #active
 * for[0] = Reference(Zoloft50mgdepottablett-SE-PLC-MPD)
 * for[+] = Reference(Zoloft50mgdepottablett-SE-PLC-MID)
-* for[+] = Reference(Zoloft50mgdepottablett-SE-PLC-APD)
+* for[+] = Reference(Zoloft50mgdepottablett-SE-PLC-AdminProductDef)
 * role = $100000072050#100000072072 "Active"
 * substance.code.concept = $SubstanceDefinition#100000090582 "Sertraline hydrochloride"
 * substance.strength.presentationRatio.numerator = 55.95 https://spor.ema.europa.eu/v1/lists/100000110633#100000110655 "milligram(s)"

@@ -1,5 +1,6 @@
-Instance: Mydrane-InjSol-SE-AJ-Ingredient03
+Instance: Mydrane-InjSol-SE-AJ-ING03
 InstanceOf: PPLIngredient
+
 * status = #active
 * for[0] = Reference(Mydrane-InjSol-SE-AJ-MPD)
 * for[+] = Reference(Mydrane-InjSol-SE-AJ-MID)

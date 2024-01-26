@@ -1,5 +1,6 @@
-Instance: Aprokam-50mg-Powder-SE-IS-Ingredient
+Instance: Aprokam-50mg-Powder-SE-IS-ING
 InstanceOf: PPLIngredient
+
 * status = #active
 * for[0] = Reference(Aprokam-50mg-Powder-SE-IS-MPD)
 * for[+] = Reference(Aprokam-50mg-Powder-SE-IS-MID)

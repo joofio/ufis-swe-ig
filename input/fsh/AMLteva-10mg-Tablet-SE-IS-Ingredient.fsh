@@ -1,5 +1,6 @@
-Instance: AMLteva-10mg-Tablet-SE-IS-Ingredient
+Instance: AMLteva-10mg-Tablet-SE-IS-ING
 InstanceOf: PPLIngredient
+
 * status = #active
 * for[0] = Reference(AMLteva-10mg-Tablet-SE-IS-MPD)
 * for[+] = Reference(AMLteva-10mg-Tablet-SE-IS-MID)

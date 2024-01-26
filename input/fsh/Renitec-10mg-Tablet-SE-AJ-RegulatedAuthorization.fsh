@@ -1,5 +1,6 @@
 Instance: Renitec-10mg-Tablet-SE-AJ-RA
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "10840"
 * subject = Reference(Renitec-10mg-Tablet-SE-AJ-MPD)

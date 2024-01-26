@@ -1,5 +1,6 @@
 Instance: ISOactavis-20mg-Capsule-SE-IS-RA
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "48556"
 * subject = Reference(ISOactavis-20mg-Capsule-SE-IS-MPD)

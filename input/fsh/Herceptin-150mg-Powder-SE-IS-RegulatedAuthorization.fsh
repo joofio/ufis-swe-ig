@@ -1,5 +1,6 @@
 Instance: Herceptin-150mg-Powder-SE-IS-RA
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "15488"
 * subject = Reference(Herceptin-150mg-Powder-SE-IS-MPD)

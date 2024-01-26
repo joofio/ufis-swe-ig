@@ -1,5 +1,6 @@
 Instance: ISOsandoz-10mg-Capsule-SE-IS-RA
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "58873"
 * subject = Reference(ISOsandoz-10mg-Capsule-SE-IS-MPD)

@@ -1,5 +1,6 @@
 Instance: Levaxin-200mg-Tablet-SE-BS-RA
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "21055"
 * subject = Reference(Levaxin-200mg-Tablet-SE-BS-MPD)

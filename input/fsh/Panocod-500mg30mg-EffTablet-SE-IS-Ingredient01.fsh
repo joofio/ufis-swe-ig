@@ -1,5 +1,6 @@
-Instance: Panocod-500mg30mg-EffTablet-SE-IS-Ingredient01
+Instance: Panocod-500mg30mg-EffTablet-SE-IS-ING01
 InstanceOf: PPLIngredient
+
 * status = #active
 * for[0] = Reference(Panocod-500mg30mg-EffTablet-SE-IS-MPD)
 * for[+] = Reference(Panocod-500mg30mg-EffTablet-SE-IS-MID)

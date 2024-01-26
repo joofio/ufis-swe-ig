@@ -1,5 +1,6 @@
-Instance: InfluvacTetra-0.5ml-Suspension-SE-AJ-Ingredient04
+Instance: InfluvacTetra-0.5ml-Suspension-SE-AJ-ING04
 InstanceOf: PPLIngredient
+
 * status = #active
 * for[0] = Reference(InfluvacTetra-0.5ml-Suspension-SE-AJ-MPD)
 * for[+] = Reference(InfluvacTetra-0.5ml-Suspension-SE-AJ-MID)

@@ -1,5 +1,6 @@
-Instance: CitodonEv-500mg30mg-Tablet-SE-IS-Ingredient01
+Instance: CitodonEv-500mg30mg-Tablet-SE-IS-ING01
 InstanceOf: PPLIngredient
+
 * status = #active
 * for[0] = Reference(CitodonEv-500mg30mg-Tablet-SE-IS-MPD)
 * for[+] = Reference(CitodonEv-500mg30mg-Tablet-SE-IS-MID)

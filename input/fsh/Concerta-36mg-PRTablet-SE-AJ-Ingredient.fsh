@@ -1,5 +1,6 @@
-Instance: Concerta-36mg-PRTablet-SE-AJ-Ingredient
+Instance: Concerta-36mg-PRTablet-SE-AJ-ING
 InstanceOf: PPLIngredient
+
 * status = #active
 * for[0] = Reference(Concerta-36mg-PRTablet-SE-AJ-MPD)
 * for[+] = Reference(Concerta-36mg-PRTablet-SE-AJ-MID)

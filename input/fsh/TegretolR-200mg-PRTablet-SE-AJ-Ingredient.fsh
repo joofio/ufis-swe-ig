@@ -1,5 +1,6 @@
-Instance: TegretolR-200mg-PRTablet-SE-AJ-Ingredient
+Instance: TegretolR-200mg-PRTablet-SE-AJ-ING
 InstanceOf: PPLIngredient
+
 * status = #active
 * for[0] = Reference(TegretolR-200mg-PRTablet-SE-AJ-MPD)
 * for[+] = Reference(TegretolR-200mg-PRTablet-SE-AJ-MID)

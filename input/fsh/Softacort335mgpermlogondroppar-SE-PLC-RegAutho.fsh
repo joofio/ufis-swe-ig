@@ -1,5 +1,6 @@
 Instance: Softacort335mgpermlogondroppar-SE-PLC-RegAutho
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "52042"
 * subject = Reference(Softacort335mgpermlogondroppar-SE-PLC-MPD)

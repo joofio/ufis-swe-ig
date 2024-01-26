@@ -1,5 +1,6 @@
 Instance: TramadolRetardActavis100mgdepot-SE-PLC-RegAutho
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "24560"
 * subject = Reference(TramadolRetardActavis100mgdepot-SE-PLC-MPD)

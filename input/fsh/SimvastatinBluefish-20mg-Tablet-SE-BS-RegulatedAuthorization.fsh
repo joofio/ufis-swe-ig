@@ -1,5 +1,6 @@
 Instance: SimvastatinBluefish-20mg-Tablet-SE-BS-RA
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "26678"
 * subject = Reference(SimvastatinBluefish-20mg-Tablet-SE-BS-MPD)

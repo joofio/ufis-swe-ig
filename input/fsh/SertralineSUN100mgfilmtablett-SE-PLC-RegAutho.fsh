@@ -1,5 +1,6 @@
 Instance: SertralineSUN100mgfilmtablett-SE-PLC-RegAutho
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "20308"
 * subject = Reference(SertralineSUN100mgfilmtablett-SE-PLC-MPD)

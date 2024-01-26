@@ -1,5 +1,6 @@
 Instance: Lido4-Fluor25-EyeDropsSol-SE-AJ-RA
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "10114"
 * subject = Reference(Lido4-Fluor25-EyeDropsSol-SE-AJ-MPD)

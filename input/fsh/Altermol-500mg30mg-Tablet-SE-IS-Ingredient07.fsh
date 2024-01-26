@@ -1,5 +1,6 @@
-Instance: Altermol-500mg30mg-Tablet-SE-IS-Ingredient07
+Instance: Altermol-500mg30mg-Tablet-SE-IS-ING07
 InstanceOf: PPLIngredient
+
 * status = #active
 * for[0] = Reference(Altermol-500mg30mg-Tablet-SE-IS-MPD)
 * for[+] = Reference(Altermol-500mg30mg-Tablet-SE-IS-MID)

@@ -1,5 +1,6 @@
 Instance: Glucophage-850mg-Tablet-SE-BS-RA
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "10799"
 * subject = Reference(Glucophage-850mg-Tablet-SE-BS-MPD)

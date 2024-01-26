@@ -1,5 +1,6 @@
 Instance: Citodon-1g60mg-Suppository-SE-IS-RA
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "11529"
 * subject = Reference(Citodon-1g60mg-Suppository-SE-IS-MPD)

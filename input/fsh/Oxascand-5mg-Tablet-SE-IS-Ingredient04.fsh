@@ -1,5 +1,6 @@
-Instance: Oxascand-5mg-Tablet-SE-IS-Ingredient04
+Instance: Oxascand-5mg-Tablet-SE-IS-ING04
 InstanceOf: PPLIngredient
+
 * status = #active
 * for[0] = Reference(Oxascand-5mg-Tablet-SE-IS-MPD)
 * for[+] = Reference(Oxascand-5mg-Tablet-SE-IS-MID)

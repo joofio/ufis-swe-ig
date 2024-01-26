@@ -1,5 +1,6 @@
 Instance: Panodil60mgsuppositorium-SE-PLC-RegAutho
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "9621"
 * subject = Reference(Panodil60mgsuppositorium-SE-PLC-MPD)

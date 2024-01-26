@@ -1,5 +1,6 @@
 Instance: DiklofenakNET232mgggel-SE-PLC-RegAutho
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "55649"
 * subject = Reference(DiklofenakNET232mgggel-SE-PLC-MPD)

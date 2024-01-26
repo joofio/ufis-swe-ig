@@ -1,5 +1,6 @@
-Instance: Anafranil-12mgml-Solution-SE-IS-Ingredient
+Instance: Anafranil-12mgml-Solution-SE-IS-ING
 InstanceOf: PPLIngredient
+
 * status = #active
 * for[0] = Reference(Anafranil-12mgml-Solution-SE-IS-MPD)
 * for[+] = Reference(Anafranil-12mgml-Solution-SE-IS-MID)

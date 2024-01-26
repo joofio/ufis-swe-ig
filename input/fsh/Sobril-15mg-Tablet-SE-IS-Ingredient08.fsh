@@ -1,5 +1,6 @@
-Instance: Sobril-15mg-Tablet-SE-IS-Ingredient08
+Instance: Sobril-15mg-Tablet-SE-IS-ING08
 InstanceOf: PPLIngredient
+
 * status = #active
 * for[0] = Reference(Sobril-15mg-Tablet-SE-IS-MPD)
 * for[+] = Reference(Sobril-15mg-Tablet-SE-IS-MID)

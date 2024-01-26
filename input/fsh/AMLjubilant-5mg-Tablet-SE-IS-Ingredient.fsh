@@ -1,5 +1,6 @@
-Instance: AMLjubilant-5mg-Tablet-SE-IS-Ingredient
+Instance: AMLjubilant-5mg-Tablet-SE-IS-ING
 InstanceOf: PPLIngredient
+
 * status = #active
 * for[0] = Reference(AMLjubilant-5mg-Tablet-SE-IS-MPD)
 * for[+] = Reference(AMLjubilant-5mg-Tablet-SE-IS-MID)

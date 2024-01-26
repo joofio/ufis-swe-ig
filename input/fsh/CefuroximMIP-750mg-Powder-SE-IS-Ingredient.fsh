@@ -1,5 +1,6 @@
-Instance: CefuroximMIP-750mg-Powder-SE-IS-Ingredient
+Instance: CefuroximMIP-750mg-Powder-SE-IS-ING
 InstanceOf: PPLIngredient
+
 * status = #active
 * for[0] = Reference(CefuroximMIP-750mg-Powder-SE-IS-MPD)
 * for[+] = Reference(CefuroximMIP-750mg-Powder-SE-IS-MID)

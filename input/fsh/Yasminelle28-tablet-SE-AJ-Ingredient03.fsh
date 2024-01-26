@@ -1,5 +1,6 @@
-Instance: Yasminelle28-tablet-SE-AJ-Ingredient03
+Instance: Yasminelle28-tablet-SE-AJ-ING03
 InstanceOf: PPLIngredient
+
 * status = #active
 * for[0] = Reference(Yasminelle28-tablet-SE-AJ-MPD)
 * for[+] = Reference(Yasminelle28-tablet-SE-AJ-MID01)

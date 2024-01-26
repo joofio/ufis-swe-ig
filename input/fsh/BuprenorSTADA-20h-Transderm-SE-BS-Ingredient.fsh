@@ -1,5 +1,6 @@
-Instance: BuprenorSTADA-20h-Transderm-SE-BS-Ingredient
+Instance: BuprenorSTADA-20h-Transderm-SE-BS-ING
 InstanceOf: PPLIngredient
+
 * status = #active
 * for[0] = Reference(BuprenorSTADA-20h-Transderm-SE-BS-MPD)
 * for[+] = Reference(BuprenorSTADA-20h-Transderm-SE-BS-MID)

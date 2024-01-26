@@ -1,5 +1,6 @@
 Instance: AMLjubilant-5mg-Tablet-SE-IS-RA
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "21304"
 * subject = Reference(AMLjubilant-5mg-Tablet-SE-IS-MPD)

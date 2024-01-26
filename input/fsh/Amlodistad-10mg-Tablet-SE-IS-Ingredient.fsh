@@ -1,5 +1,6 @@
-Instance: Amlodistad-10mg-Tablet-SE-IS-Ingredient
+Instance: Amlodistad-10mg-Tablet-SE-IS-ING
 InstanceOf: PPLIngredient
+
 * status = #active
 * for[0] = Reference(Amlodistad-10mg-Tablet-SE-IS-MPD)
 * for[+] = Reference(Amlodistad-10mg-Tablet-SE-IS-MID)

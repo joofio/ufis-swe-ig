@@ -1,5 +1,6 @@
-Instance: CBZEssPharm-125mg-Supp-SE-AJ-Ingredient
+Instance: CBZEssPharm-125mg-Supp-SE-AJ-ING
 InstanceOf: PPLIngredient
+
 * status = #active
 * for[0] = Reference(CBZEssPharm-125mg-Supp-SE-AJ-MPD)
 * for[+] = Reference(CBZEssPharm-125mg-Supp-SE-AJ-MID)

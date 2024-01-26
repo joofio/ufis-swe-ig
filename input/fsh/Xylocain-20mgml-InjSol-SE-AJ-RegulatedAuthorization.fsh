@@ -1,5 +1,6 @@
 Instance: Xylocain-20mgml-InjSol-SE-AJ-RA
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "3553"
 * subject = Reference(Xylocain-20mgml-InjSol-SE-AJ-MPD)

@@ -1,5 +1,6 @@
-Instance: EMLA-2525-Plaster-SE-AJ-Ingredient01
+Instance: EMLA-2525-Plaster-SE-AJ-ING01
 InstanceOf: PPLIngredient
+
 * status = #active
 * for[0] = Reference(EMLA-2525-Plaster-SE-AJ-MPD)
 * for[+] = Reference(EMLA-2525-Plaster-SE-AJ-MID)

@@ -1,5 +1,6 @@
 Instance: Zoloft50mgdepottablett-SE-PLC-RegAutho
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "12566"
 * subject = Reference(Zoloft50mgdepottablett-SE-PLC-MPD)

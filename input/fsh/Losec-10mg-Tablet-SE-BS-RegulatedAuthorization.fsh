@@ -1,5 +1,6 @@
 Instance: Losec-10mg-Tablet-SE-BS-RA
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "13670"
 * subject = Reference(Losec-10mg-Tablet-SE-BS-MPD)

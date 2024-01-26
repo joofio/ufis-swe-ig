@@ -1,5 +1,6 @@
 Instance: MFapofri-50mcg-Suspension-SE-IS-RA
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "49060"
 * subject = Reference(MFapofri-50mcg-Suspension-SE-IS-MPD)

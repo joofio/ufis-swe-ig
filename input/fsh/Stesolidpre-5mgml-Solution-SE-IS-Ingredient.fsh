@@ -1,5 +1,6 @@
-Instance: Stesolidpre-5mgml-Solution-SE-IS-Ingredient
+Instance: Stesolidpre-5mgml-Solution-SE-IS-ING
 InstanceOf: PPLIngredient
+
 * status = #active
 * for[0] = Reference(Stesolidpre-5mgml-Solution-SE-IS-MPD)
 * for[+] = Reference(Stesolidpre-5mgml-Solution-SE-IS-MID)

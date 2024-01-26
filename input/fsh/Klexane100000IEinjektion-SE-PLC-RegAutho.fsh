@@ -1,5 +1,6 @@
 Instance: Klexane100000IEinjektion-SE-PLC-RegAutho
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "56487"
 * subject = Reference(Klexane100000IEinjektion-SE-PLC-MPD)

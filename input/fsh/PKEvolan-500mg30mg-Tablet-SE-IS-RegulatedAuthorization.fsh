@@ -1,5 +1,6 @@
 Instance: PKEvolan-500mg30mg-Tablet-SE-IS-RA
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "43144"
 * subject = Reference(PKEvolan-500mg30mg-Tablet-SE-IS-MPD)

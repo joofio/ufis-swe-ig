@@ -1,5 +1,6 @@
 Instance: IMAkrkadd-400mg-Tablet-SE-IS-RA
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "52196"
 * subject = Reference(IMAkrkadd-400mg-Tablet-SE-IS-MPD)

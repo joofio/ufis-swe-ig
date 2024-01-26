@@ -1,6 +1,7 @@
 Instance: LidokainAgu-10mgml-InjSol-SE-AJ-MPD
 InstanceOf: PPLMedicinalProductDefinition
 
+
 * combinedPharmaceuticalDoseForm = $200000000007#100000074047 "Solution for injection in pre-filled syringe"
 * identifier[+].system = "http://ema.europa.eu/fhir/mpId"
 * identifier[=].value = "SE-100000357-00056122"
@@ -12,5 +13,21 @@ InstanceOf: PPLMedicinalProductDefinition
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal product subject to medical prescription"
 * classification = $100000093533#100000097196 "N01BB02"
 * name.productName = "Lidokain Aguettant 10 mg/ml Injektionsvätska, lösning i förfylld spruta"
+* name.part[+].part = "Lidokain Aguettant"
+* name.part[=].type.coding.system = "http://spor.ema.europa.eu/v1/lists/220000000000"
+* name.part[=].type.coding.code = #220000000003
+* name.part[=].type.coding.display = "Scientific Name Part"
+* name.part[+].part = "10 mg/ml"
+* name.part[=].type.coding.system = "http://spor.ema.europa.eu/v1/lists/220000000000"
+* name.part[=].type.coding.code = #220000000004
+* name.part[=].type.coding.display = "Strength part"
+* name.part[+].part = "Injektionsvätska, lösning i förfylld spruta"
+* name.part[=].type.coding.system = "http://spor.ema.europa.eu/v1/lists/220000000000"
+* name.part[=].type.coding.code = #220000000005
+* name.part[=].type.coding.display = "Pharmaceutical dose form part"
+* name.usage.country.coding.system = "https://spor.ema.europa.eu/v1/lists/100000000002"
+* name.usage.country.coding.code = #100000000535
+* name.usage.country.coding.display = "Sweden"
+* name.usage.language = urn:ietf:bcp:47#sv "Swedish" 
 * name.usage.country.coding.display = "Sweden"
 * name.usage.language = urn:ietf:bcp:47#sv "Swedish"

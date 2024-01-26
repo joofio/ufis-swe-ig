@@ -1,5 +1,6 @@
 Instance: DZPdesitin-5mg-Solution-SE-IS-RA
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "12951"
 * subject = Reference(DZPdesitin-5mg-Solution-SE-IS-MPD)

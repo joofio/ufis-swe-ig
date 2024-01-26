@@ -1,5 +1,6 @@
-Instance: Sendolor-1mgml-Solution-SE-BS-Ingredient
+Instance: Sendolor-1mgml-Solution-SE-BS-ING
 InstanceOf: PPLIngredient
+
 * status = #active
 * for[0] = Reference(Sendolor-1mgml-Solution-SE-BS-MPD)
 * for[+] = Reference(Sendolor-1mgml-Solution-SE-BS-MID)

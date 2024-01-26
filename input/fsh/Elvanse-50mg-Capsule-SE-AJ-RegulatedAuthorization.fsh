@@ -1,5 +1,6 @@
 Instance: Elvanse-50mg-Capsule-SE-AJ-RA
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "47383"
 * subject = Reference(Elvanse-50mg-Capsule-SE-AJ-MPD)

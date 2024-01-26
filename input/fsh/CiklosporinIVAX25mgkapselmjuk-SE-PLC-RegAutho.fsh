@@ -1,5 +1,6 @@
 Instance: CiklosporinIVAX25mgkapselmjuk-SE-PLC-RegAutho
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "19567"
 * subject = Reference(CiklosporinIVAX25mgkapselmjuk-SE-PLC-MPD)

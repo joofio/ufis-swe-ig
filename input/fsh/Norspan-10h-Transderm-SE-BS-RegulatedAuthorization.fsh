@@ -1,5 +1,6 @@
 Instance: Norspan-10h-Transderm-SE-BS-RA
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "21883"
 * subject = Reference(Norspan-10h-Transderm-SE-BS-MPD)

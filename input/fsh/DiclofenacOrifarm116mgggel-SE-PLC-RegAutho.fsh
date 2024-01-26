@@ -1,5 +1,6 @@
 Instance: DiclofenacOrifarm116mgggel-SE-PLC-RegAutho
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "45481"
 * subject = Reference(DiclofenacOrifarm116mgggel-SE-PLC-MPD)

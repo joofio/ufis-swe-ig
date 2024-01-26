@@ -1,5 +1,6 @@
 Instance: MForion-50mcg-Suspension-SE-IS-RA
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "49693"
 * subject = Reference(MForion-50mcg-Suspension-SE-IS-MPD)

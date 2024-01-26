@@ -1,5 +1,6 @@
 Instance: LidoAcc-20mgml-InjSol-SE-AJ-RA
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "51170"
 * subject = Reference(LidoAcc-20mgml-InjSol-SE-AJ-MPD)

@@ -1,5 +1,6 @@
 Instance: Xylo10-Adr5-InjSol-SE-AJ-RA
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "8318"
 * subject = Reference(Xylo10-Adr5-InjSol-SE-AJ-MPD)

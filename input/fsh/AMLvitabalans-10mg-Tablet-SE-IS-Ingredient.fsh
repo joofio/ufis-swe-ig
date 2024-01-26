@@ -1,5 +1,6 @@
-Instance: AMLvitabalans-10mg-Tablet-SE-IS-Ingredient
+Instance: AMLvitabalans-10mg-Tablet-SE-IS-ING
 InstanceOf: PPLIngredient
+
 * status = #active
 * for[0] = Reference(AMLvitabalans-10mg-Tablet-SE-IS-MPD)
 * for[+] = Reference(AMLvitabalans-10mg-Tablet-SE-IS-MID)

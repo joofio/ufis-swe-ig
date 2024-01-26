@@ -1,5 +1,6 @@
 Instance: Alvedon250mgMunsonderTablett-SE-PLC-RegAutho
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "16408"
 * subject = Reference(Alvedon250mgMunsonderTablett-SE-PLC-MPD)

@@ -1,5 +1,6 @@
-Instance: Orimox-50mcg-Suspension-SE-IS-Ingredient
+Instance: Orimox-50mcg-Suspension-SE-IS-ING
 InstanceOf: PPLIngredient
+
 * status = #active
 * for[0] = Reference(Orimox-50mcg-Suspension-SE-IS-MPD)
 * for[+] = Reference(Orimox-50mcg-Suspension-SE-IS-MID)

@@ -1,5 +1,6 @@
 Instance: Cortimyk20mgml10mgmlkram-SE-PLC-RegAutho
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "12627"
 * subject = Reference(Cortimyk20mgml10mgmlkram-SE-PLC-MPD)

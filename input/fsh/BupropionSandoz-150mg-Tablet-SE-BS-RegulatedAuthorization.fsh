@@ -1,5 +1,6 @@
 Instance: BupropionSandoz-150mg-Tablet-SE-BS-RA
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "50226"
 * subject = Reference(BupropionSandoz-150mg-Tablet-SE-BS-MPD)

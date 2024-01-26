@@ -1,5 +1,6 @@
 Instance: Instillagel-209-Gel-SE-AJ-RA
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "10132"
 * subject = Reference(Instillagel-209-Gel-SE-AJ-MPD)

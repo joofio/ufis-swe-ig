@@ -1,5 +1,6 @@
-Instance: Triolif-Mint-Lozenge-SE-AJ-Ingredient02
+Instance: Triolif-Mint-Lozenge-SE-AJ-ING02
 InstanceOf: PPLIngredient
+
 * status = #active
 * for[0] = Reference(Triolif-Mint-Lozenge-SE-AJ-MPD)
 * for[+] = Reference(Triolif-Mint-Lozenge-SE-AJ-MID)

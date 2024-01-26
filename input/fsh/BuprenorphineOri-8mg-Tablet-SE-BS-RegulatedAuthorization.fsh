@@ -1,5 +1,6 @@
 Instance: BuprenorphineOri-8mg-Tablet-SE-BS-RA
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "43165"
 * subject = Reference(BuprenorphineOri-8mg-Tablet-SE-BS-MPD)

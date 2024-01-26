@@ -1,5 +1,6 @@
 Instance: Sendolor-1mgml-InfSolution-SE-BS-RA
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "54375"
 * subject = Reference(Sendolor-1mgml-InfSolution-SE-BS-MPD)

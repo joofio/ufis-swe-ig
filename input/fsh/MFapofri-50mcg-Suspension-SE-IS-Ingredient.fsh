@@ -1,5 +1,6 @@
-Instance: MFapofri-50mcg-Suspension-SE-IS-Ingredient
+Instance: MFapofri-50mcg-Suspension-SE-IS-ING
 InstanceOf: PPLIngredient
+
 * status = #active
 * for[0] = Reference(MFapofri-50mcg-Suspension-SE-IS-MPD)
 * for[+] = Reference(MFapofri-50mcg-Suspension-SE-IS-MID)

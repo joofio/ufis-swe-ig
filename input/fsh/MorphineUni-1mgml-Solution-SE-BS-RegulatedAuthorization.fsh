@@ -1,5 +1,6 @@
 Instance: MorphineUni-1mgml-Solution-SE-BS-RA
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "56117"
 * subject = Reference(MorphineUni-1mgml-Solution-SE-BS-MPD)

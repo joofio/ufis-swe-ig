@@ -1,5 +1,6 @@
 Instance: ITZactavis-100mg-Cap-SE-IS-RA
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "20352"
 * subject = Reference(ITZactavis-100mg-Cap-SE-IS-MPD)

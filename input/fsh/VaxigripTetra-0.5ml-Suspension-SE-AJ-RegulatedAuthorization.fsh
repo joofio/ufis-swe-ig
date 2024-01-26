@@ -1,5 +1,6 @@
 Instance: VaxigripTetra-0.5ml-Suspension-SE-AJ-RA
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "53400"
 * subject = Reference(VaxigripTetra-0.5ml-Suspension-SE-AJ-MPD)

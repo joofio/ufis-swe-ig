@@ -1,9 +1,10 @@
-Instance: Locoid01kutanlosning-SE-PLC-Ingredient
+Instance: Locoid01kutanlosning-SE-PLC-ING
 InstanceOf: PPLIngredient
+
 * status = #active
 * for[0] = Reference(Locoid01kutanlosning-SE-PLC-MPD)
 * for[+] = Reference(Locoid01kutanlosning-SE-PLC-MID)
-* for[+] = Reference(Locoid01kutanlosning-SE-PLC-APD)
+* for[+] = Reference(Locoid01kutanlosning-SE-PLC-AdminProductDef)
 * role = $100000072050#100000072072 "Active"
 * substance.code.concept = $SubstanceDefinition#100000085172 "Hydrocortisone butyrate"
 

@@ -1,5 +1,6 @@
 Instance: AMLaccord-5mg-Tablet-SE-IS-RA
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "26703"
 * subject = Reference(AMLaccord-5mg-Tablet-SE-IS-MPD)

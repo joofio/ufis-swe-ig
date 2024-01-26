@@ -1,5 +1,6 @@
-Instance: AnafranilRet-75mg-Tablet-SE-IS-Ingredient
+Instance: AnafranilRet-75mg-Tablet-SE-IS-ING
 InstanceOf: PPLIngredient
+
 * status = #active
 * for[0] = Reference(AnafranilRet-75mg-Tablet-SE-IS-MPD)
 * for[+] = Reference(AnafranilRet-75mg-Tablet-SE-IS-MID)

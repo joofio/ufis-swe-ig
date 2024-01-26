@@ -1,5 +1,6 @@
 Instance: Xylocain-Dental-Adrenalin-SE-AJ-RA
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "3844"
 * subject = Reference(Xylocain-Dental-Adrenalin-SE-AJ-MPD)

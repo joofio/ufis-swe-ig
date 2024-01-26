@@ -1,5 +1,6 @@
 Instance: MFteva-50mcg-Suspension-SE-IS-RA
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "48308"
 * subject = Reference(MFteva-50mcg-Suspension-SE-IS-MPD)

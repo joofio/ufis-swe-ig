@@ -1,5 +1,6 @@
 Instance: MFABECE-50mcg-Suspension-SE-IS-RA
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "49065"
 * subject = Reference(MFABECE-50mcg-Suspension-SE-IS-MPD)

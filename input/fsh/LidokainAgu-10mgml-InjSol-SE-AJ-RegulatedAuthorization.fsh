@@ -1,5 +1,6 @@
 Instance: LidokainAgu-10mgml-InjSol-SE-AJ-RA
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "56122"
 * subject = Reference(LidokainAgu-10mgml-InjSol-SE-AJ-MPD)

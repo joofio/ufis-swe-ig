@@ -1,5 +1,6 @@
 Instance: Isotracin-10mg-Capsule-SE-IS-RA
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "59030"
 * subject = Reference(Isotracin-10mg-Capsule-SE-IS-MPD)

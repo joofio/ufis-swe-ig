@@ -1,5 +1,6 @@
-Instance: Isotracin-10mg-Capsule-SE-IS-Ingredient
+Instance: Isotracin-10mg-Capsule-SE-IS-ING
 InstanceOf: PPLIngredient
+
 * status = #active
 * for[0] = Reference(Isotracin-10mg-Capsule-SE-IS-MPD)
 * for[+] = Reference(Isotracin-10mg-Capsule-SE-IS-MID)

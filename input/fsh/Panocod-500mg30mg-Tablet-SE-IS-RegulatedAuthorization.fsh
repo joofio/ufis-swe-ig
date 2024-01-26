@@ -1,5 +1,6 @@
 Instance: Panocod-500mg30mg-Tablet-SE-IS-RA
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "10233"
 * subject = Reference(Panocod-500mg30mg-Tablet-SE-IS-MPD)

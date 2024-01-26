@@ -1,5 +1,6 @@
-Instance: ITZactavis-100mg-Cap-SE-IS-Ingredient
+Instance: ITZactavis-100mg-Cap-SE-IS-ING
 InstanceOf: PPLIngredient
+
 * status = #active
 * for[0] = Reference(ITZactavis-100mg-Cap-SE-IS-MPD)
 * for[+] = Reference(ITZactavis-100mg-Cap-SE-IS-MID)

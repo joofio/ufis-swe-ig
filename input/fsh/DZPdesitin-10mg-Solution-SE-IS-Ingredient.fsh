@@ -1,5 +1,6 @@
-Instance: DZPdesitin-10mg-Solution-SE-IS-Ingredient
+Instance: DZPdesitin-10mg-Solution-SE-IS-ING
 InstanceOf: PPLIngredient
+
 * status = #active
 * for[0] = Reference(DZPdesitin-10mg-Solution-SE-IS-MPD)
 * for[+] = Reference(DZPdesitin-10mg-Solution-SE-IS-MID)

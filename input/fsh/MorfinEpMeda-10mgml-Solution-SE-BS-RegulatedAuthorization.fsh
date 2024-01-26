@@ -1,5 +1,6 @@
 Instance: MorfinEpMeda-10mgml-Solution-SE-BS-RA
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "10916"
 * subject = Reference(MorfinEpMeda-10mgml-Solution-SE-BS-MPD)

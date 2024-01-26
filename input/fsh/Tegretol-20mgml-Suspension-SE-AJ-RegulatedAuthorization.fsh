@@ -1,5 +1,6 @@
 Instance: Tegretol-20mgml-Suspension-SE-AJ-RA
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "9115"
 * subject = Reference(Tegretol-20mgml-Suspension-SE-AJ-MPD)

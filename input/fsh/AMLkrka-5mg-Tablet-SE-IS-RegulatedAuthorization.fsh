@@ -1,5 +1,6 @@
 Instance: AMLkrka-5mg-Tablet-SE-IS-RA
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "23828"
 * subject = Reference(AMLkrka-5mg-Tablet-SE-IS-MPD)

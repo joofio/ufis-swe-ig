@@ -1,5 +1,6 @@
 Instance: Nasonex-50mcg-Suspension-SE-IS-RA
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "13216"
 * subject = Reference(Nasonex-50mcg-Suspension-SE-IS-MPD)

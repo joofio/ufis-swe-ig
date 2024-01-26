@@ -1,5 +1,6 @@
 Instance: Xyloproct-RectalOintment-SE-AJ-RA
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "8340"
 * subject = Reference(Xyloproct-RectalOintment-SE-AJ-MPD)

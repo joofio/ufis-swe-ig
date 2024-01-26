@@ -1,5 +1,6 @@
-Instance: IMAkoanaa-100mg-Tablet-SE-IS-Ingredient
+Instance: IMAkoanaa-100mg-Tablet-SE-IS-ING
 InstanceOf: PPLIngredient
+
 * status = #active
 * for[0] = Reference(IMAkoanaa-100mg-Tablet-SE-IS-MPD)
 * for[+] = Reference(IMAkoanaa-100mg-Tablet-SE-IS-MID)

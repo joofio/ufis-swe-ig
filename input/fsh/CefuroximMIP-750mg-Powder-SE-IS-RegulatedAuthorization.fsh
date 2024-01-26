@@ -1,5 +1,6 @@
 Instance: CefuroximMIP-750mg-Powder-SE-IS-RA
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "46356"
 * subject = Reference(CefuroximMIP-750mg-Powder-SE-IS-MPD)

@@ -1,5 +1,6 @@
 Instance: Stesolid-5mg-Tablet-SE-IS-RA
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "8013"
 * subject = Reference(Stesolid-5mg-Tablet-SE-IS-MPD)

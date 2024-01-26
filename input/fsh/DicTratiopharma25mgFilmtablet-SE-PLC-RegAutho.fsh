@@ -1,5 +1,6 @@
 Instance: DicTratiopharma25mgFilmtablet-SE-PLC-RegAutho
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "16702"
 * subject = Reference(DicTratiopharma25mgFilmtablet-SE-PLC-MPD)

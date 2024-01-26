@@ -1,5 +1,6 @@
 Instance: AnafranilRet-75mg-Tablet-SE-IS-RA
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "10568"
 * subject = Reference(AnafranilRet-75mg-Tablet-SE-IS-MPD)

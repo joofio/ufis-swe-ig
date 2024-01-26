@@ -1,5 +1,6 @@
-Instance: Xylocain-100mgml-cutspray-SE-AJ-Ingredient
+Instance: Xylocain-100mgml-cutspray-SE-AJ-ING
 InstanceOf: PPLIngredient
+
 * status = #active
 * for[0] = Reference(Xylocain-100mgml-cutspray-SE-AJ-MPD)
 * for[+] = Reference(Xylocain-100mgml-cutspray-SE-AJ-MID)

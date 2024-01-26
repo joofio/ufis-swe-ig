@@ -1,5 +1,6 @@
-Instance: MForion-50mcg-Suspension-SE-IS-Ingredient
+Instance: MForion-50mcg-Suspension-SE-IS-ING
 InstanceOf: PPLIngredient
+
 * status = #active
 * for[0] = Reference(MForion-50mcg-Suspension-SE-IS-MPD)
 * for[+] = Reference(MForion-50mcg-Suspension-SE-IS-MID)

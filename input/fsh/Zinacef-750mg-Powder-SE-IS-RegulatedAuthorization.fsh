@@ -1,5 +1,6 @@
 Instance: Zinacef-750mg-Powder-SE-IS-RA
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "50971"
 * subject = Reference(Zinacef-750mg-Powder-SE-IS-MPD)

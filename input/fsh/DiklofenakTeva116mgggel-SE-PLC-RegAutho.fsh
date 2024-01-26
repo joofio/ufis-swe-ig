@@ -1,5 +1,6 @@
 Instance: DiklofenakTeva116mgggel-SE-PLC-RegAutho
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "60736"
 * subject = Reference(DiklofenakTeva116mgggel-SE-PLC-MPD)

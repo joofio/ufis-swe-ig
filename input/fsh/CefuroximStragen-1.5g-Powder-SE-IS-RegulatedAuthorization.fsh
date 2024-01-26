@@ -1,5 +1,6 @@
 Instance: CefuroximStragen-1.5g-Powder-SE-IS-RA
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "50006"
 * subject = Reference(CefuroximStragen-1.5g-Powder-SE-IS-MPD)

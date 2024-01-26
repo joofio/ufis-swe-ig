@@ -1,5 +1,6 @@
 Instance: ISOorifarm-20mg-Capsule-SE-IS-RA
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "57968"
 * subject = Reference(ISOorifarm-20mg-Capsule-SE-IS-MPD)

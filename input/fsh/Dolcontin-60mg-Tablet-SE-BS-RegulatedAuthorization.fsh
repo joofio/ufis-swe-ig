@@ -1,5 +1,6 @@
 Instance: Dolcontin-60mg-Tablet-SE-BS-RA
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "11076"
 * subject = Reference(Dolcontin-60mg-Tablet-SE-BS-MPD)

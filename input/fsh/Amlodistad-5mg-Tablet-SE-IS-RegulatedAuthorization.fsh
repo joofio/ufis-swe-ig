@@ -1,5 +1,6 @@
 Instance: Amlodistad-5mg-Tablet-SE-IS-RA
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "50371"
 * subject = Reference(Amlodistad-5mg-Tablet-SE-IS-MPD)

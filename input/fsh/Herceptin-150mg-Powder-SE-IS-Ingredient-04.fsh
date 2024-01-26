@@ -1,5 +1,6 @@
-Instance: Herceptin-150mg-Powder-SE-IS-Ingredient-04
+Instance: Herceptin-150mg-Powder-SE-IS-ING-04
 InstanceOf: PPLIngredient
+
 * status = #active
 * for[0] = Reference(Herceptin-150mg-Powder-SE-IS-MPD)
 * for[+] = Reference(Herceptin-150mg-Powder-SE-IS-MID)

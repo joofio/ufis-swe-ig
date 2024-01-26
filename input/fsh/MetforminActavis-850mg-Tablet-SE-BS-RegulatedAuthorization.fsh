@@ -1,5 +1,6 @@
 Instance: MetforminActavis-850mg-Tablet-SE-BS-RA
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "12786"
 * subject = Reference(MetforminActavis-850mg-Tablet-SE-BS-MPD)

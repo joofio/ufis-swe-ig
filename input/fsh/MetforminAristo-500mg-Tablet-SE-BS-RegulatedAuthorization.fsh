@@ -1,5 +1,6 @@
 Instance: MetforminAristo-500mg-Tablet-SE-BS-RA
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "43338"
 * subject = Reference(MetforminAristo-500mg-Tablet-SE-BS-MPD)

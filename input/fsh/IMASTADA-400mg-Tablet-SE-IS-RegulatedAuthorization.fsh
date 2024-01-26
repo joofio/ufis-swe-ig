@@ -1,5 +1,6 @@
 Instance: IMASTADA-400mg-Tablet-SE-IS-RA
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "50151"
 * subject = Reference(IMASTADA-400mg-Tablet-SE-IS-MPD)

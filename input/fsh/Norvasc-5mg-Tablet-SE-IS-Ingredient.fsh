@@ -1,5 +1,6 @@
-Instance: Norvasc-5mg-Tablet-SE-IS-Ingredient
+Instance: Norvasc-5mg-Tablet-SE-IS-ING
 InstanceOf: PPLIngredient
+
 * status = #active
 * for[0] = Reference(Norvasc-5mg-Tablet-SE-IS-MPD)
 * for[+] = Reference(Norvasc-5mg-Tablet-SE-IS-MID)

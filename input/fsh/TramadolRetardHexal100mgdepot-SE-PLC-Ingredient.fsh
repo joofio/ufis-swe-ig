@@ -1,9 +1,10 @@
-Instance: TramadolRetardHexal100mgdepot-SE-PLC-Ingredient
+Instance: TramadolRetardHexal100mgdepot-SE-PLC-ING
 InstanceOf: PPLIngredient
+
 * status = #active
 * for[0] = Reference(TramadolRetardHexal100mgdepot-SE-PLC-MPD)
 * for[+] = Reference(TramadolRetardHexal100mgdepot-SE-PLC-MID)
-* for[+] = Reference(TramadolRetardHexal100mgdepot-SE-PLC-APD)
+* for[+] = Reference(TramadolRetardHexal100mgdepot-SE-PLC-AdminProductDef)
 * role = $100000072050#100000072072 "Active"
 * substance.code.concept = $SubstanceDefinition#100000093275 "Tramadol hydrochloride"
 * substance.strength.presentationRatio.numerator = 100 https://spor.ema.europa.eu/v1/lists/100000110633#100000110655 "milligram(s)"

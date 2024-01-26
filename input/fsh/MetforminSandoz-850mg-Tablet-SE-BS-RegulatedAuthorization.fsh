@@ -1,5 +1,6 @@
 Instance: MetforminSandoz-850mg-Tablet-SE-BS-RA
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "25971"
 * subject = Reference(MetforminSandoz-850mg-Tablet-SE-BS-MPD)

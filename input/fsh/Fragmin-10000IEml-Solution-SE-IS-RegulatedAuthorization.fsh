@@ -1,5 +1,6 @@
 Instance: Fragmin-10000IEml-Solution-SE-IS-RA
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "10944"
 * subject = Reference(Fragmin-10000IEml-Solution-SE-IS-MPD)

@@ -1,5 +1,6 @@
-Instance: IMAgrindeks-100mg-Capsule-SE-IS-Ingredient
+Instance: IMAgrindeks-100mg-Capsule-SE-IS-ING
 InstanceOf: PPLIngredient
+
 * status = #active
 * for[0] = Reference(IMAgrindeks-100mg-Capsule-SE-IS-MPD)
 * for[+] = Reference(IMAgrindeks-100mg-Capsule-SE-IS-MID)

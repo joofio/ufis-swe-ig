@@ -1,5 +1,6 @@
 Instance: Stesolidpre-5mgml-Solution-SE-IS-RA
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "9307"
 * subject = Reference(Stesolidpre-5mgml-Solution-SE-IS-MPD)

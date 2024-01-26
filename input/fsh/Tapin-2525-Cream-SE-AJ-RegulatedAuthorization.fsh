@@ -1,5 +1,6 @@
 Instance: Tapin-2525-Cream-SE-AJ-RA
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "23074"
 * subject = Reference(Tapin-2525-Cream-SE-AJ-MPD)

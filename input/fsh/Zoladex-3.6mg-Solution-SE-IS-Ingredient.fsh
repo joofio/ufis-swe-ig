@@ -1,5 +1,6 @@
-Instance: Zoladex-3.6mg-Solution-SE-IS-Ingredient
+Instance: Zoladex-3.6mg-Solution-SE-IS-ING
 InstanceOf: PPLIngredient
+
 * status = #active
 * for[0] = Reference(Zoladex-3.6mg-Solution-SE-IS-MPD)
 * for[+] = Reference(Zoladex-3.6mg-Solution-SE-IS-MID)

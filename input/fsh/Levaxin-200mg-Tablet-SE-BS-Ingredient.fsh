@@ -1,5 +1,6 @@
-Instance: Levaxin-200mg-Tablet-SE-BS-Ingredient
+Instance: Levaxin-200mg-Tablet-SE-BS-ING
 InstanceOf: PPLIngredient
+
 * status = #active
 * for[0] = Reference(Levaxin-200mg-Tablet-SE-BS-MPD)
 * for[+] = Reference(Levaxin-200mg-Tablet-SE-BS-MID)

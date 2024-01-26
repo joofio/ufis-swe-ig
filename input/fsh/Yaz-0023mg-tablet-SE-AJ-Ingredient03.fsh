@@ -1,8 +1,9 @@
-Instance: Yaz-0023mg-tablet-SE-AJ-Ingredient03
+Instance: Yaz-0023mg-tablet-SE-AJ-ING03
 InstanceOf: PPLIngredient
+
 * status = #active
 * for[0] = Reference(Yaz-0023mg-tablet-SE-AJ-MPD)
-* for[+] = Reference(Yaz-0023mg-tablet-SE-AJ-MPD01)
+* for[+] = Reference(Yaz-0023mg-tablet-SE-AJ-MID01)
 * for[+] = Reference(Yaz-0023mg-tablet-SE-AJ-APD01)
 * role = $100000072050#100000072072 "Active"
 * substance.code.concept = $SubstanceDefinition#100000092375 "drospirenone"

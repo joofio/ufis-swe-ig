@@ -1,5 +1,6 @@
 Instance: Triolif-HonLem-Lozenge-SE-AJ-RA
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "49614"
 * subject = Reference(Triolif-HonLem-Lozenge-SE-AJ-MPD)

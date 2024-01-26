@@ -1,5 +1,6 @@
-Instance: Nasonex-50mcg-Suspension-SE-IS-Ingredient
+Instance: Nasonex-50mcg-Suspension-SE-IS-ING
 InstanceOf: PPLIngredient
+
 * status = #active
 * for[0] = Reference(Nasonex-50mcg-Suspension-SE-IS-MPD)
 * for[+] = Reference(Nasonex-50mcg-Suspension-SE-IS-MID)

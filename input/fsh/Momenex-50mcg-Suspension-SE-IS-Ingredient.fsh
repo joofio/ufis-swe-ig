@@ -1,5 +1,6 @@
-Instance: Momenex-50mcg-Suspension-SE-IS-Ingredient
+Instance: Momenex-50mcg-Suspension-SE-IS-ING
 InstanceOf: PPLIngredient
+
 * status = #active
 * for[0] = Reference(Momenex-50mcg-Suspension-SE-IS-MPD)
 * for[+] = Reference(Momenex-50mcg-Suspension-SE-IS-MID)

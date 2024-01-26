@@ -1,9 +1,10 @@
-Instance: Panodil60mgsuppositorium-SE-PLC-Ingredient01
+Instance: Panodil60mgsuppositorium-SE-PLC-ING01
 InstanceOf: PPLIngredient
+
 * status = #active
 * for[0] = Reference(Panodil60mgsuppositorium-SE-PLC-MPD)
 * for[+] = Reference(Panodil60mgsuppositorium-SE-PLC-MID)
-* for[+] = Reference(Panodil60mgsuppositorium-SE-PLC-APD)
+* for[+] = Reference(Panodil60mgsuppositorium-SE-PLC-AdminProductDef)
 * role = $100000072050#100000072072 "Active"
 * substance.code.concept = $SubstanceDefinition#100000090270 "Paracetamol"
 * substance.strength.presentationRatio.numerator = 60 https://spor.ema.europa.eu/v1/lists/100000110633#100000110655 "milligram(s)"

@@ -1,5 +1,6 @@
 Instance: Yaz-0023mg-tablet-SE-AJ-RA
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "26267"
 * subject = Reference(Yaz-0023mg-tablet-SE-AJ-MPD)

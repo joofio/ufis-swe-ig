@@ -1,5 +1,6 @@
 Instance: DiklofenakOrifarm50Enterotablett-SE-PLC-RA
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "19695"
 * subject = Reference(DiklofenakOrifarm50Enterotablett-SE-PLC-MPD)

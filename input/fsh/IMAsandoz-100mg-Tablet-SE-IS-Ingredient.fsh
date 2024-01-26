@@ -1,5 +1,6 @@
-Instance: IMAsandoz-100mg-Tablet-SE-IS-Ingredient
+Instance: IMAsandoz-100mg-Tablet-SE-IS-ING
 InstanceOf: PPLIngredient
+
 * status = #active
 * for[0] = Reference(IMAsandoz-100mg-Tablet-SE-IS-MPD)
 * for[+] = Reference(IMAsandoz-100mg-Tablet-SE-IS-MID)

@@ -1,5 +1,6 @@
 Instance: EMLA-2525-Cream-SE-AJ-RA
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "10129"
 * subject = Reference(EMLA-2525-Cream-SE-AJ-MPD)

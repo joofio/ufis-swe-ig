@@ -1,5 +1,6 @@
 Instance: EnoxaparinLedraxen2000IEinjektion-SE-PLC-RegAutho
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "54214"
 * subject = Reference(EnoxaparinLedraxen2000IEinjektion-SE-PLC-MPD)

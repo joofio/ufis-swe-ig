@@ -1,5 +1,6 @@
 Instance: TPTDteva-20mcg80mcl-Solution-SE-IS-RA
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "53004"
 * subject = Reference(TPTDteva-20mcg80mcl-Solution-SE-IS-MPD)

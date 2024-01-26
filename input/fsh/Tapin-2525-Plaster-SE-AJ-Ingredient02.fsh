@@ -1,5 +1,6 @@
-Instance: Tapin-2525-Plaster-SE-AJ-Ingredient02
+Instance: Tapin-2525-Plaster-SE-AJ-ING02
 InstanceOf: PPLIngredient
+
 * status = #active
 * for[0] = Reference(Tapin-2525-Plaster-SE-AJ-MPD)
 * for[+] = Reference(Tapin-2525-Plaster-SE-AJ-MID)

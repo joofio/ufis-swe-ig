@@ -1,5 +1,6 @@
-Instance: Sporanox-100mg-Cap-SE-IS-Ingredient
+Instance: Sporanox-100mg-Cap-SE-IS-ING
 InstanceOf: PPLIngredient
+
 * status = #active
 * for[0] = Reference(Sporanox-100mg-Cap-SE-IS-MPD)
 * for[+] = Reference(Sporanox-100mg-Cap-SE-IS-MID)

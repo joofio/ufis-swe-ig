@@ -1,5 +1,6 @@
 Instance: MetforminOri-500mg-Tablet-SE-BS-RA
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "27607"
 * subject = Reference(MetforminOri-500mg-Tablet-SE-BS-MPD)

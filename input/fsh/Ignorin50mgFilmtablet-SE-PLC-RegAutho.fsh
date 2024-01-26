@@ -1,5 +1,6 @@
 Instance: Ignorin50mgFilmtablet-SE-PLC-RegAutho
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "20690"
 * subject = Reference(Ignorin50mgFilmtablet-SE-PLC-MPD)

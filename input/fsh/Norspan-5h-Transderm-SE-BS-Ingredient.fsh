@@ -1,5 +1,6 @@
-Instance: Norspan-5h-Transderm-SE-BS-Ingredient
+Instance: Norspan-5h-Transderm-SE-BS-ING
 InstanceOf: PPLIngredient
+
 * status = #active
 * for[0] = Reference(Norspan-5h-Transderm-SE-BS-MPD)
 * for[+] = Reference(Norspan-5h-Transderm-SE-BS-MID)

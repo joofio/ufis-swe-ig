@@ -1,5 +1,6 @@
 Instance: Tegretol-400mg-Tablet-SE-AJ-RA
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "10028"
 * subject = Reference(Tegretol-400mg-Tablet-SE-AJ-MPD)

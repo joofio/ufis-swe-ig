@@ -1,5 +1,6 @@
 Instance: Orimox-50mcg-Suspension-SE-IS-RA
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "55400"
 * subject = Reference(Orimox-50mcg-Suspension-SE-IS-MPD)

@@ -1,5 +1,6 @@
 Instance: IMAsandoz-400mg-Tablet-SE-IS-RA
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "51919"
 * subject = Reference(IMAsandoz-400mg-Tablet-SE-IS-MPD)

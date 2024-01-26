@@ -1,5 +1,6 @@
 Instance: AMLsandoz-10mg-Tablet-SE-IS-RA
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "23888"
 * subject = Reference(AMLsandoz-10mg-Tablet-SE-IS-MPD)

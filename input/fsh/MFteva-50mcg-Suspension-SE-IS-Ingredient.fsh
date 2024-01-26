@@ -1,5 +1,6 @@
-Instance: MFteva-50mcg-Suspension-SE-IS-Ingredient
+Instance: MFteva-50mcg-Suspension-SE-IS-ING
 InstanceOf: PPLIngredient
+
 * status = #active
 * for[0] = Reference(MFteva-50mcg-Suspension-SE-IS-MPD)
 * for[+] = Reference(MFteva-50mcg-Suspension-SE-IS-MID)

@@ -1,5 +1,6 @@
 Instance: Xylocain-100mgml-cutspray-SE-AJ-RA
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "11258"
 * subject = Reference(Xylocain-100mgml-cutspray-SE-AJ-MPD)

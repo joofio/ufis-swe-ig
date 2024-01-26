@@ -1,5 +1,6 @@
-Instance: IMAmylan-400mg-Tablet-SE-IS-Ingredient
+Instance: IMAmylan-400mg-Tablet-SE-IS-ING
 InstanceOf: PPLIngredient
+
 * status = #active
 * for[0] = Reference(IMAmylan-400mg-Tablet-SE-IS-MPD)
 * for[+] = Reference(IMAmylan-400mg-Tablet-SE-IS-MID)

@@ -1,5 +1,6 @@
 Instance: VoltarenT50mgFilmtablet-SE-PLC-RegAutho
 InstanceOf: PPLRegulatedAuthorization
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "11242"
 * subject = Reference(VoltarenT50mgFilmtablet-SE-PLC-MPD)

@@ -1,4 +1,4 @@
-Instance: VentilastinNovolizer100mginhaspul-SE-PLC-ManuItemDef
+Instance: VentilastinNovolizer100mginhaspul-SE-PLC-MID
 InstanceOf: PPLManufacturedItemDefinition
 
 * status = #active

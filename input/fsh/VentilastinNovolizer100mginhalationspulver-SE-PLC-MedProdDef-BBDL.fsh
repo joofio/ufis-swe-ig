@@ -14,10 +14,7 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/PackagedProductDefinition/VentilastinNovolizer100mginhaspul-SE-PLC-PPD"
-* entry[+].resource = VentilastinNovolizer100mginhaspul-SE-PLC-ManuItemDef
+* entry[+].resource = VentilastinNovolizer100mginhaspul-SE-PLC-MID
 
 
-* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/ManufacturedItemDefinition/VentilastinNovolizer100mginhaspul-SE-PLC-ManuItemDef"
-//DUMMY
-* entry[+].resource = VentilastinNovolizer100mginhaspul-SE-PLC-APD
-* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/VentilastinNovolizer100mginhaspul-SE-PLC-APD"
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/ManufacturedItemDefinition/VentilastinNovolizer100mginhaspul-SE-PLC-MID"

@@ -1,5 +1,6 @@
 Instance: IMAkrkadd-100mg-Tablet-SE-IS-PPD02
 InstanceOf: PPLPackagedProductDefinition
+Usage: #inline
 
 
 * containedItemQuantity = 10 http://spor.ema.europa.eu/v1/lists/200000000014#200000002152 "Tablet"

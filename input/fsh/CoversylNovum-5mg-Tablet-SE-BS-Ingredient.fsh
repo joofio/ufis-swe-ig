@@ -1,5 +1,6 @@
 Instance: CoversylNovum-5mg-Tablet-SE-BS-ING
 InstanceOf: PPLIngredient
+Usage: #inline
 
 * status = #active
 * for[0] = Reference(CoversylNovum-5mg-Tablet-SE-BS-MPD)

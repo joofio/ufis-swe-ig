@@ -1,5 +1,6 @@
 Instance: AMLsandoz-10mg-Tablet-SE-IS-PPD02
 InstanceOf: PPLPackagedProductDefinition
+Usage: #inline
 
 
 * containedItemQuantity = 105 http://spor.ema.europa.eu/v1/lists/200000000014#Tablet "200000002152"

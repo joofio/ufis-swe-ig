@@ -1,5 +1,6 @@
 Instance: Denela-2525-Cream-SE-AJ-ING02
 InstanceOf: PPLIngredient
+Usage: #inline
 
 * status = #active
 * for[0] = Reference(Denela-2525-Cream-SE-AJ-MPD)

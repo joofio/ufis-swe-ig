@@ -1,5 +1,6 @@
 Instance: TramadolRetardActavis100mgdepot-SE-PLC-ING02
 InstanceOf: PPLIngredient
+Usage: #inline
 
 * status = #active
 * for[0] = Reference(TramadolRetardActavis100mgdepot-SE-PLC-MPD)

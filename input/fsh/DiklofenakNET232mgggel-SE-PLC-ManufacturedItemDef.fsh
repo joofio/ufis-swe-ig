@@ -1,5 +1,6 @@
 Instance: DiklofenakNET232mgggel-SE-PLC-MID
 InstanceOf: PPLManufacturedItemDefinition
+Usage: #inline
 
 * status = #active
 * manufacturedDoseForm = $200000000004#100000073726 "Gel"

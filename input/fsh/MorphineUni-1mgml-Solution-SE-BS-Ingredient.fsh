@@ -1,5 +1,6 @@
 Instance: MorphineUni-1mgml-Solution-SE-BS-ING
 InstanceOf: PPLIngredient
+Usage: #inline
 
 * status = #active
 * for[0] = Reference(MorphineUni-1mgml-Solution-SE-BS-MPD)

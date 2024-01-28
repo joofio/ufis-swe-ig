@@ -1,5 +1,6 @@
 Instance: Renitec-10mg-Tablet-SE-AJ-ING
 InstanceOf: PPLIngredient
+Usage: #inline
 
 * status = #active
 * for[0] = Reference(Renitec-10mg-Tablet-SE-AJ-MPD)

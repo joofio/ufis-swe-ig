@@ -1,5 +1,6 @@
 Instance: Rectogesic4mggrektalsalva-SE-PLC-ING
 InstanceOf: PPLIngredient
+Usage: #inline
 
 * status = #active
 * for[0] = Reference(Rectogesic4mggrektalsalva-SE-PLC-MPD)

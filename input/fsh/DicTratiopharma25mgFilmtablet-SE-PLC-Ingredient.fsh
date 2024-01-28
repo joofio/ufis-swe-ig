@@ -1,5 +1,6 @@
 Instance: DicTratiopharma25mgFilmtablet-SE-PLC-ING
 InstanceOf: PPLIngredient
+Usage: #inline
 
 * status = #active
 * for[0] = Reference(DicTratiopharma25mgFilmtablet-SE-PLC-MPD)

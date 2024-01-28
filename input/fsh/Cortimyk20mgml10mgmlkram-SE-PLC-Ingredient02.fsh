@@ -1,5 +1,6 @@
 Instance: Cortimyk20mgml10mgmlkram-SE-PLC-ING02
 InstanceOf: PPLIngredient
+Usage: #inline
 
 * status = #active
 * for[0] = Reference(Cortimyk20mgml10mgmlkram-SE-PLC-MPD)

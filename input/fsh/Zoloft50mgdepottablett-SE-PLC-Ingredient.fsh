@@ -1,5 +1,6 @@
 Instance: Zoloft50mgdepottablett-SE-PLC-ING
 InstanceOf: PPLIngredient
+Usage: #inline
 
 * status = #active
 * for[0] = Reference(Zoloft50mgdepottablett-SE-PLC-MPD)

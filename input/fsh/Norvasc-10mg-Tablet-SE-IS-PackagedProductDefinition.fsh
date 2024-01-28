@@ -1,5 +1,6 @@
 Instance: Norvasc-10mg-Tablet-SE-IS-PPD
 InstanceOf: PPLPackagedProductDefinition
+Usage: #inline
 
 
 * containedItemQuantity = 14 http://spor.ema.europa.eu/v1/lists/200000000014#Tablet "200000002152"

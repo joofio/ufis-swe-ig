@@ -1,5 +1,6 @@
 Instance: Panodil60mgsuppositorium-SE-PLC-PPD
 InstanceOf: PPLPackagedProductDefinition
+Usage: #inline
 
 
 * containedItemQuantity = 10 http://spor.ema.europa.eu/v1/lists/200000000014#200000002149 "Suppository"

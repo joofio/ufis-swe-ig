@@ -1,5 +1,6 @@
 Instance: HermolepsinR-200mg-PRTablet-SE-AJ-ING
 InstanceOf: PPLIngredient
+Usage: #inline
 
 * status = #active
 * for[0] = Reference(HermolepsinR-200mg-PRTablet-SE-AJ-MPD)

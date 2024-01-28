@@ -1,5 +1,6 @@
 Instance: Smofkabiven-Emulsion-SE-IS-ING03
 InstanceOf: PPLIngredient
+Usage: #inline
 
 * status = #active
 * for[0] = Reference(Smofkabiven-Emulsion-SE-IS-MPD)

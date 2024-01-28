@@ -1,5 +1,6 @@
 Instance: SoluCortef100mgpulvervatskainj-SE-PLC-ING
 InstanceOf: PPLIngredient
+Usage: #inline
 
 * status = #active
 * for[0] = Reference(SoluCortef100mgpulvervatskainj-SE-PLC-MPD)

@@ -1,5 +1,6 @@
 Instance: Zinacef-750mg-Powder-SE-IS-MID
 InstanceOf: PPLManufacturedItemDefinition
+Usage: #inline
 
 * status = #active
 * manufacturedDoseForm = $200000000004#100000116186 "Powder for solution for injection/infusion"

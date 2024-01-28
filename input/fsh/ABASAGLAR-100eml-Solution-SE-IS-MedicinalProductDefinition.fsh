@@ -1,5 +1,6 @@
 Instance: ABASAGLAR-100eml-Solution-SE-IS-MPD
 InstanceOf: PPLMedicinalProductDefinition
+Usage: #inline
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#200000016493 "Solution for injection in cartridge"

@@ -1,5 +1,6 @@
 Instance: Alburex-50g-L-Solution-SE-AJ-MPD
 InstanceOf: PPLMedicinalProductDefinition
+Usage: #inline
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073870 "solution for infusion"

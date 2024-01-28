@@ -1,5 +1,6 @@
 Instance: Xylocain-2-Gel-SE-AJ-RA
 InstanceOf: PPLRegulatedAuthorization
+Usage: #inline
 
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "4114"

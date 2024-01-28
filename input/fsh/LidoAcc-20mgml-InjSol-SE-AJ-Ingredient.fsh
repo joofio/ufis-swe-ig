@@ -1,5 +1,6 @@
 Instance: LidoAcc-20mgml-InjSol-SE-AJ-ING
 InstanceOf: PPLIngredient
+Usage: #inline
 
 * status = #active
 * for[0] = Reference(LidoAcc-20mgml-InjSol-SE-AJ-MPD)

@@ -1,5 +1,6 @@
 Instance: VaxigripTetra-0.5ml-Suspension-SE-AJ-PPD03
 InstanceOf: PPLPackagedProductDefinition
+Usage: #inline
 
 
 * containedItemQuantity = 10 http://spor.ema.europa.eu/v1/lists/200000000014#200000002150 "syringe"

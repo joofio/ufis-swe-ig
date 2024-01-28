@@ -1,5 +1,6 @@
 Instance: Attentin-10mg-Tablet-SE-AJ-MPD
 InstanceOf: PPLMedicinalProductDefinition
+Usage: #inline
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"

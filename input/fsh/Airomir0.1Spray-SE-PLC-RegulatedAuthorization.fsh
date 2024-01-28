@@ -1,5 +1,6 @@
 Instance: Airomir0.1Spray-SE-PLC-RA
 InstanceOf: PPLRegulatedAuthorization
+Usage: #inline
 
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "12324"

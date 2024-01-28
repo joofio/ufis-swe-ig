@@ -1,5 +1,6 @@
 Instance: ITZSTADA-100mg-Cap-SE-IS-RA
 InstanceOf: PPLRegulatedAuthorization
+Usage: #inline
 
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "22401"

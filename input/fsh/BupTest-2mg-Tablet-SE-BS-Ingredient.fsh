@@ -1,5 +1,6 @@
 Instance: BupTest-2mg-Tablet-SE-BS-ING
 InstanceOf: PPLIngredient
+Usage: #inline
 
 * status = #active
 * for[0] = Reference(BupTest-2mg-Tablet-SE-BS-MPD)

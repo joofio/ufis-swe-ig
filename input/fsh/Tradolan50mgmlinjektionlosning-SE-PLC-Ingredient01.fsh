@@ -1,5 +1,6 @@
 Instance: Tradolan50mgmlinjektionlosning-SE-PLC-ING01
 InstanceOf: PPLIngredient
+Usage: #inline
 
 * status = #active
 * for[0] = Reference(Tradolan50mgmlinjektionlosning-SE-PLC-MPD)

@@ -1,5 +1,6 @@
 Instance: DiklofenakNET232mgggel-SE-PLC-ING
 InstanceOf: PPLIngredient
+Usage: #inline
 
 * status = #active
 * for[0] = Reference(DiklofenakNET232mgggel-SE-PLC-MPD)

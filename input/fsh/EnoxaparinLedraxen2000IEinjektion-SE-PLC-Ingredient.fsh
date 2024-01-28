@@ -1,5 +1,6 @@
 Instance: EnoxaparinLedraxen2000IEinjektion-SE-PLC-ING
 InstanceOf: PPLIngredient
+Usage: #inline
 
 * status = #active
 * for[0] = Reference(EnoxaparinLedraxen2000IEinjektion-SE-PLC-MPD)

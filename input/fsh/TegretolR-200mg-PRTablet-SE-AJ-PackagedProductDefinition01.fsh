@@ -1,5 +1,6 @@
 Instance: TegretolR-200mg-PRTablet-SE-AJ-PPD01
 InstanceOf: PPLPackagedProductDefinition
+Usage: #inline
 
 
 * containedItemQuantity = 200 http://spor.ema.europa.eu/v1/lists/200000000014#200000002152 "tablet"

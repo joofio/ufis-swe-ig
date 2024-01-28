@@ -1,5 +1,6 @@
 Instance: EnoxaparinBecat8000IEinjektion-SE-PLC-ING
 InstanceOf: PPLIngredient
+Usage: #inline
 
 * status = #active
 * for[0] = Reference(EnoxaparinBecat8000IEinjektion-SE-PLC-MPD)

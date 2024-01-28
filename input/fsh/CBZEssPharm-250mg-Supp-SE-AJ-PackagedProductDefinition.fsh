@@ -1,5 +1,6 @@
 Instance: CBZEssPharm-250mg-Supp-SE-AJ-PPD
 InstanceOf: PPLPackagedProductDefinition
+Usage: #inline
 
 
 * containedItemQuantity = 5 http://spor.ema.europa.eu/v1/lists/200000000014#200000002149 "Suppository"

@@ -1,5 +1,6 @@
 Instance: Sandimmun50mgmlkoncentrat-SE-PLC-ING
 InstanceOf: PPLIngredient
+Usage: #inline
 
 * status = #active
 * for[0] = Reference(Sandimmun50mgmlkoncentrat-SE-PLC-MPD)

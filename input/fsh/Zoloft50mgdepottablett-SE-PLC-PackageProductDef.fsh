@@ -1,5 +1,6 @@
 Instance: Zoloft50mgdepottablett-SE-PLC-PPD
 InstanceOf: PPLPackagedProductDefinition
+Usage: #inline
 
 
 * containedItemQuantity = 98 http://spor.ema.europa.eu/v1/lists/200000000014#200000002152 "Tablet"

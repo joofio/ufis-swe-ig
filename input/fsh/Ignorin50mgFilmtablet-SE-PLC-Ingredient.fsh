@@ -1,5 +1,6 @@
 Instance: Ignorin50mgFilmtablet-SE-PLC-ING
 InstanceOf: PPLIngredient
+Usage: #inline
 
 * status = #active
 * for[0] = Reference(Ignorin50mgFilmtablet-SE-PLC-MPD)

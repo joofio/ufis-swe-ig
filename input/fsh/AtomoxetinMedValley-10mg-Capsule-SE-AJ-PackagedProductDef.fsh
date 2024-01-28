@@ -1,5 +1,6 @@
 Instance: AtomoxetinMedValley-10mg-Capsule-SE-AJ-PPD
 InstanceOf: PPLPackagedProductDefinition
+Usage: #inline
 
 
 * containedItemQuantity = 28 http://spor.ema.europa.eu/v1/lists/200000000014#200000002113 "Capsule"

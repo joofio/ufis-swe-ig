@@ -1,5 +1,6 @@
 Instance: Ventoline2mgmllosningnebulisator-SE-PLC-ING
 InstanceOf: PPLIngredient
+Usage: #inline
 
 * status = #active
 * for[0] = Reference(Ventoline2mgmllosningnebulisator-SE-PLC-MPD)

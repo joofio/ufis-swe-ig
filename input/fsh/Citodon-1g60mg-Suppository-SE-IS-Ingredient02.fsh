@@ -1,5 +1,6 @@
 Instance: Citodon-1g60mg-Suppository-SE-IS-ING02
 InstanceOf: PPLIngredient
+Usage: #inline
 
 * status = #active
 * for[0] = Reference(Citodon-1g60mg-Suppository-SE-IS-MPD)

@@ -1,5 +1,6 @@
 Instance: Panodil60mgsuppositorium-SE-PLC-ING02
 InstanceOf: PPLIngredient
+Usage: #inline
 
 * status = #active
 * for[0] = Reference(Panodil60mgsuppositorium-SE-PLC-MPD)

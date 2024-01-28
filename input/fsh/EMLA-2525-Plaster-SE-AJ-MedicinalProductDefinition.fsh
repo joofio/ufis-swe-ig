@@ -1,5 +1,6 @@
 Instance: EMLA-2525-Plaster-SE-AJ-MPD
 InstanceOf: PPLMedicinalProductDefinition
+Usage: #inline
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073714 "Medicated plaster"

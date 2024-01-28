@@ -1,5 +1,6 @@
 Instance: DepoMedrolcumLido-4010-SE-AJ-MPD
 InstanceOf: PPLMedicinalProductDefinition
+Usage: #inline
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073864 "Suspension for injection"

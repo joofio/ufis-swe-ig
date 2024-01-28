@@ -1,5 +1,6 @@
 Instance: Tapin-2525-Plaster-SE-AJ-RA
 InstanceOf: PPLRegulatedAuthorization
+Usage: #inline
 
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "49407"

@@ -1,5 +1,6 @@
 Instance: IMAkrkadd-100mg-Tablet-SE-IS-MPD
 InstanceOf: PPLMedicinalProductDefinition
+Usage: #inline
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"

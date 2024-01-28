@@ -1,5 +1,6 @@
 Instance: MForion-50mcg-Suspension-SE-IS-PPD02
 InstanceOf: PPLPackagedProductDefinition
+Usage: #inline
 
 
 * containedItemQuantity = 3 http://spor.ema.europa.eu/v1/lists/200000000014#200000002111 "Bottle"

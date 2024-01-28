@@ -1,5 +1,6 @@
 Instance: IMAsandoz-400mg-Tablet-SE-IS-APD
 InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
 
 * status = #active
 * formOf = Reference(IMAsandoz-400mg-Tablet-SE-IS-MPD)

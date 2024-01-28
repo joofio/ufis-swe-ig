@@ -1,5 +1,6 @@
 Instance: MetforminSandoz-500mg-Tablet-SE-BS-ING
 InstanceOf: PPLIngredient
+Usage: #inline
 
 * status = #active
 * for[0] = Reference(MetforminSandoz-500mg-Tablet-SE-BS-MPD)

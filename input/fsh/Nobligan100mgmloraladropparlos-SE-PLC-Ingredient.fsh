@@ -1,5 +1,6 @@
 Instance: Nobligan100mgmloraladropparlos-SE-PLC-ING
 InstanceOf: PPLIngredient
+Usage: #inline
 
 * status = #active
 * for[0] = Reference(Nobligan100mgmloraladropparlos-SE-PLC-MPD)

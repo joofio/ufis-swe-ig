@@ -1,5 +1,6 @@
 Instance: MetforminActavis-850mg-Tablet-SE-BS-MID
 InstanceOf: PPLManufacturedItemDefinition
+Usage: #inline
 
 * status = #active
 * manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"

@@ -1,5 +1,6 @@
 Instance: Airomir0.1Spray-SE-PLC-ING
 InstanceOf: PPLIngredient
+Usage: #inline
 
 * status = #active
 * for[0] = Reference(Airomir0.1Spray-SE-PLC-MPD)

@@ -1,5 +1,6 @@
 Instance: Sporanox-10mgml-Solution-SE-IS-MPD
 InstanceOf: PPLMedicinalProductDefinition
+Usage: #inline
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073646 "Oral solution"

@@ -1,5 +1,6 @@
 Instance: Locoid01kutanlosning-SE-PLC-ING
 InstanceOf: PPLIngredient
+Usage: #inline
 
 * status = #active
 * for[0] = Reference(Locoid01kutanlosning-SE-PLC-MPD)

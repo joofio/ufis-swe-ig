@@ -1,5 +1,6 @@
 Instance: MorfinAbcur-10mgml-Solution-SE-BS-ING
 InstanceOf: PPLIngredient
+Usage: #inline
 
 * status = #active
 * for[0] = Reference(MorfinAbcur-10mgml-Solution-SE-BS-MPD)

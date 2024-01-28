@@ -1,5 +1,6 @@
 Instance: LidoMylan-10mgml-InjSol-SE-AJ-ING
 InstanceOf: PPLIngredient
+Usage: #inline
 
 * status = #active
 * for[0] = Reference(LidoMylan-10mgml-InjSol-SE-AJ-MPD)

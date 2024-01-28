@@ -1,5 +1,6 @@
 Instance: Softacort335mgpermlogondroppar-SE-PLC-PPD
 InstanceOf: PPLPackagedProductDefinition
+Usage: #inline
 
 
 * containedItemQuantity = 30 http://spor.ema.europa.eu/v1/lists/200000000014#200000002139 "Pipette"

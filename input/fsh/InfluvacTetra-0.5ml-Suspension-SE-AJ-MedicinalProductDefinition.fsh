@@ -1,5 +1,6 @@
 Instance: InfluvacTetra-0.5ml-Suspension-SE-AJ-MPD
 InstanceOf: PPLMedicinalProductDefinition
+Usage: #inline
 
 
 * combinedPharmaceuticalDoseForm = $200000000007#100000074063 "Suspension for injection in pre-filled syringe"

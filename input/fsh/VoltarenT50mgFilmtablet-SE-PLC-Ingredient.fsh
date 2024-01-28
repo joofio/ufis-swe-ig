@@ -1,5 +1,6 @@
 Instance: VoltarenT50mgFilmtablet-SE-PLC-ING
 InstanceOf: PPLIngredient
+Usage: #inline
 
 * status = #active
 * for[0] = Reference(VoltarenT50mgFilmtablet-SE-PLC-MPD)

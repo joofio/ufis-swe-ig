@@ -1,5 +1,6 @@
 Instance: Trombyl160mgtablett-SE-PLC-ING04
 InstanceOf: PPLIngredient
+Usage: #inline
 
 * status = #active
 * for[0] = Reference(Trombyl160mgtablett-SE-PLC-MPD)

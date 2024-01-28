@@ -1,5 +1,6 @@
 Instance: Stesolidpre-5mgml-Solution-SE-IS-MID
 InstanceOf: PPLManufacturedItemDefinition
+Usage: #inline
 
 * status = #active
 * manufacturedDoseForm = $200000000004#100000073829 "Rectal solution"

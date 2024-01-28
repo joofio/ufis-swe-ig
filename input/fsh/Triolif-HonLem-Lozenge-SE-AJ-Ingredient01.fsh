@@ -1,5 +1,6 @@
 Instance: Triolif-HonLem-Lozenge-SE-AJ-ING01
 InstanceOf: PPLIngredient
+Usage: #inline
 
 * status = #active
 * for[0] = Reference(Triolif-HonLem-Lozenge-SE-AJ-MPD)

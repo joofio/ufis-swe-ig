@@ -1,5 +1,6 @@
 Instance: Yaz-0023mg-tablet-SE-AJ-PPD
 InstanceOf: PPLPackagedProductDefinition
+Usage: #inline
 
 
 * containedItemQuantity = 84 http://spor.ema.europa.eu/v1/lists/200000000014#200000002152 "tablet"

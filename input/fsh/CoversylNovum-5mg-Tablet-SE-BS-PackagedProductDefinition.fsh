@@ -1,5 +1,6 @@
 Instance: CoversylNovum-5mg-Tablet-SE-BS-PPD
 InstanceOf: PPLPackagedProductDefinition
+Usage: #inline
 
 
 * containedItemQuantity = 30 http://spor.ema.europa.eu/v1/lists/200000000014#200000002152 "Tablet"

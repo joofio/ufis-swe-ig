@@ -1,5 +1,6 @@
 Instance: MetforminAristo-500mg-Tablet-SE-BS-PPD
 InstanceOf: PPLPackagedProductDefinition
+Usage: #inline
 
 
 * containedItemQuantity = 300 http://spor.ema.europa.eu/v1/lists/200000000014#200000002152 "Tablet"

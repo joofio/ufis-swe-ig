@@ -1,5 +1,6 @@
 Instance: NitroglycerinAbicurinfu-SE-PLC-ING
 InstanceOf: PPLIngredient
+Usage: #inline
 
 * status = #active
 * for[0] = Reference(NitroglycerinAbicurinfu-SE-PLC-MPD)

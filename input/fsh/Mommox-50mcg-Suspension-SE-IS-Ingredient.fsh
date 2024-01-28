@@ -1,5 +1,6 @@
 Instance: Mommox-50mcg-Suspension-SE-IS-ING
 InstanceOf: PPLIngredient
+Usage: #inline
 
 * status = #active
 * for[0] = Reference(Mommox-50mcg-Suspension-SE-IS-MPD)

@@ -1,5 +1,6 @@
 Instance: LidoMylan-10mgml-InjSol-SE-AJ-MPD
 InstanceOf: PPLMedicinalProductDefinition
+Usage: #inline
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solution for injection"

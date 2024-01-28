@@ -1,5 +1,6 @@
 Instance: SandimmunNeoral25mgkapselmjuk-SE-PLC-ING
 InstanceOf: PPLIngredient
+Usage: #inline
 
 * status = #active
 * for[0] = Reference(SandimmunNeoral25mgkapselmjuk-SE-PLC-MPD)

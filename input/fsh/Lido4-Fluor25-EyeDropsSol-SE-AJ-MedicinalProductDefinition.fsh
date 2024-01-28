@@ -1,5 +1,6 @@
 Instance: Lido4-Fluor25-EyeDropsSol-SE-AJ-MPD
 InstanceOf: PPLMedicinalProductDefinition
+Usage: #inline
 
 
 * combinedPharmaceuticalDoseForm = $200000000007#100000073997 "Eye drops, solution in single-dose container"

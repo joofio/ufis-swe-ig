@@ -1,5 +1,6 @@
 Instance: Citodon-500mg30mg-EffTablet-SE-IS-ING07
 InstanceOf: PPLIngredient
+Usage: #inline
 
 * status = #active
 * for[0] = Reference(Citodon-500mg30mg-EffTablet-SE-IS-MPD)

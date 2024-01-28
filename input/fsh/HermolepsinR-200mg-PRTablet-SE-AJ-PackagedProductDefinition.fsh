@@ -1,5 +1,6 @@
 Instance: HermolepsinR-200mg-PRTablet-SE-AJ-PPD
 InstanceOf: PPLPackagedProductDefinition
+Usage: #inline
 
 
 * containedItemQuantity = 100 http://spor.ema.europa.eu/v1/lists/200000000014#200000002152 "tablet"

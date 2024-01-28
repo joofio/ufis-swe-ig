@@ -1,5 +1,6 @@
 Instance: ABASAGLAR-100eml-Solution-SE-IS-PPD
 InstanceOf: PPLPackagedProductDefinition
+Usage: #inline
 
 
 * containedItemQuantity = 5 http://spor.ema.europa.eu/v1/lists/200000000014#200000002114 "Cartridge"

@@ -1,5 +1,6 @@
 Instance: Nobligan50mgkapselhard-SE-PLC-ING
 InstanceOf: PPLIngredient
+Usage: #inline
 
 * status = #active
 * for[0] = Reference(Nobligan50mgkapselhard-SE-PLC-MPD)

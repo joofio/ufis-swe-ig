@@ -1,5 +1,6 @@
 Instance: MorfinAlt-20mg-Tablet-SE-BS-ING
 InstanceOf: PPLIngredient
+Usage: #inline
 
 * status = #active
 * for[0] = Reference(MorfinAlt-20mg-Tablet-SE-BS-MPD)

@@ -1,5 +1,6 @@
 Instance: Norspan-40h-Transderm-SE-BS-ING
 InstanceOf: PPLIngredient
+Usage: #inline
 
 * status = #active
 * for[0] = Reference(Norspan-40h-Transderm-SE-BS-MPD)

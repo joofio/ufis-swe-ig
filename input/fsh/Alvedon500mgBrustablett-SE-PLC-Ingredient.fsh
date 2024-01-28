@@ -1,5 +1,6 @@
 Instance: Alvedon500mgBrustablett-SE-PLC-ING
 InstanceOf: PPLIngredient
+Usage: #inline
 
 * status = #active
 * for[0] = Reference(Alvedon500mgBrustablett-SE-PLC-MPD)

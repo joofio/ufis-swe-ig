@@ -1,5 +1,6 @@
 Instance: IMAkoanaa-100mg-Tablet-SE-IS-RA
 InstanceOf: PPLRegulatedAuthorization
+Usage: #inline
 
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "53084"

@@ -1,5 +1,6 @@
 Instance: MetforminAuro-500mg-Tablet-SE-BS-PPD-02
 InstanceOf: PPLPackagedProductDefinition
+Usage: #inline
 
 
 * containedItemQuantity = 400 http://spor.ema.europa.eu/v1/lists/200000000014#200000002152 "Tablet"

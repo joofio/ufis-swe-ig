@@ -1,5 +1,6 @@
 Instance: Mommox-50mcg-Suspension-SE-IS-RA
 InstanceOf: PPLRegulatedAuthorization
+Usage: #inline
 
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "44664"

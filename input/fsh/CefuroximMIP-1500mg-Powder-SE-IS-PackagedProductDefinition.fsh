@@ -1,5 +1,6 @@
 Instance: CefuroximMIP-1500mg-Powder-SE-IS-PPD
 InstanceOf: PPLPackagedProductDefinition
+Usage: #inline
 
 
 * containedItemQuantity = 10 http://spor.ema.europa.eu/v1/lists/200000000014#200000002158 "Vial"

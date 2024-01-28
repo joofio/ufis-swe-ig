@@ -1,5 +1,6 @@
 Instance: IMASTADA-600mg-Tablet-SE-IS-ING03
 InstanceOf: PPLIngredient
+Usage: #inline
 
 * status = #active
 * for[0] = Reference(IMASTADA-600mg-Tablet-SE-IS-MPD)

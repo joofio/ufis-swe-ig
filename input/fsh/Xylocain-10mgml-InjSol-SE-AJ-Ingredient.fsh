@@ -1,5 +1,6 @@
 Instance: Xylocain-10mgml-InjSol-SE-AJ-ING
 InstanceOf: PPLIngredient
+Usage: #inline
 
 * status = #active
 * for[0] = Reference(Xylocain-10mgml-InjSol-SE-AJ-MPD)

@@ -1,5 +1,6 @@
 Instance: Instillagel-209-Gel-SE-AJ-MID
 InstanceOf: PPLManufacturedItemDefinition
+Usage: #inline
 
 * status = #active
 * manufacturedDoseForm = $200000000004#100000073726 "Gel"

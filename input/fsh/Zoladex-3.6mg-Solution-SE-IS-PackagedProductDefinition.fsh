@@ -1,5 +1,6 @@
 Instance: Zoladex-3.6mg-Solution-SE-IS-PPD
 InstanceOf: PPLPackagedProductDefinition
+Usage: #inline
 
 
 * containedItemQuantity = 3.6 http://spor.ema.europa.eu/v1/lists/100000110633#100000110921 "milligram(s)/dose"

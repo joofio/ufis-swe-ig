@@ -1,5 +1,6 @@
 Instance: Suscard25mgbuckaltablett-SE-PLC-ING
 InstanceOf: PPLIngredient
+Usage: #inline
 
 * status = #active
 * for[0] = Reference(Suscard25mgbuckaltablett-SE-PLC-MPD)

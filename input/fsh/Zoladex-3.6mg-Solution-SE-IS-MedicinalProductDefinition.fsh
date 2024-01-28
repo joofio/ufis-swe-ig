@@ -1,5 +1,6 @@
 Instance: Zoladex-3.6mg-Solution-SE-IS-MPD
 InstanceOf: PPLMedicinalProductDefinition
+Usage: #inline
 
 
 * combinedPharmaceuticalDoseForm = $200000000007#100000125753 "Implant in pre-filled syringe"

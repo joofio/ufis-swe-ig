@@ -1,5 +1,6 @@
 Instance: Zeldox20mgmlpulvervatskainjek-SE-PLC-ING01
 InstanceOf: PPLIngredient
+Usage: #inline
 
 * status = #active
 * for[0] = Reference(Zeldox20mgmlpulvervatskainjek-SE-PLC-MPD)

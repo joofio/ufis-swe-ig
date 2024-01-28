@@ -1,5 +1,6 @@
 Instance: Espranor-8mg-Lyophilisate-SE-BS-MPD
 InstanceOf: PPLMedicinalProductDefinition
+Usage: #inline
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073682 "Oral lyophilisate"

@@ -1,5 +1,6 @@
 Instance: Xylocain-Dental-Adrenalin-SE-AJ-PPD01
 InstanceOf: PPLPackagedProductDefinition
+Usage: #inline
 
 
 * containedItemQuantity = 100 http://spor.ema.europa.eu/v1/lists/200000000014#200000002114 "cartridge"

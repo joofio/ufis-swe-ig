@@ -1,5 +1,6 @@
 Instance: MorfinSpecial-2mgml-Solution-SE-BS-RA
 InstanceOf: PPLRegulatedAuthorization
+Usage: #inline
 
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "10831"

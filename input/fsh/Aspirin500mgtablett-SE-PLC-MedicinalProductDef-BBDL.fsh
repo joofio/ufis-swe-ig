@@ -26,3 +26,5 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Ingredient/Aspirin500mgtablett-SE-PLC-ING"
+* entry[+].resource = LOC-100043821
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Organization/LOC-100043821"

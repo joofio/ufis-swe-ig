@@ -29,3 +29,5 @@ Usage: #example
 //DUMMY
 * entry[+].resource = DiklofenakApofri232mgggel-SE-PLC-APD
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/DiklofenakApofri232mgggel-SE-PLC-APD"
+* entry[+].resource = LOC-100006389
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Organization/LOC-100006389"

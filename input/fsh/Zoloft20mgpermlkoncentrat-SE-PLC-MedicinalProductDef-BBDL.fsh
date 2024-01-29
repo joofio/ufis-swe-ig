@@ -18,3 +18,5 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/ManufacturedItemDefinition/Zoloft20mgpermlkoncentrat-SE-PLC-MID"
+* entry[+].resource = LOC-100032008
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Organization/LOC-100032008"

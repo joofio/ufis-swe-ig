@@ -25,3 +25,5 @@ Usage: #example
 //DUMMY
 * entry[+].resource = Rectogesic4mggrektalsalva-SE-PLC-APD
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/Rectogesic4mggrektalsalva-SE-PLC-APD"
+* entry[+].resource = LOC-100017235
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Organization/LOC-100017235"

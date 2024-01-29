@@ -37,3 +37,5 @@ Usage: #example
 //DUMMY
 * entry[+].resource = Mydrane-InjSol-SE-AJ-APD
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/Mydrane-InjSol-SE-AJ-APD"
+* entry[+].resource = LOC-100005605
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Organization/LOC-100005605"

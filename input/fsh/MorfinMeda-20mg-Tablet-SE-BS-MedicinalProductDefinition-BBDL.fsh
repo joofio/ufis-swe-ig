@@ -29,3 +29,5 @@ Usage: #example
 //DUMMY
 * entry[+].resource = MorfinMeda-20mg-Tablet-SE-BS-APD
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/MorfinMeda-20mg-Tablet-SE-BS-APD"
+* entry[+].resource = LOC-100001591
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Organization/LOC-100001591"

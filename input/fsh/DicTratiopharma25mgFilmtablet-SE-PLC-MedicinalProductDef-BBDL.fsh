@@ -29,3 +29,5 @@ Usage: #example
 //DUMMY
 * entry[+].resource = DicTratiopharma25mgFilmtablet-SE-PLC-APD
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/DicTratiopharma25mgFilmtablet-SE-PLC-APD"
+* entry[+].resource = LOC-100006906
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Organization/LOC-100006906"

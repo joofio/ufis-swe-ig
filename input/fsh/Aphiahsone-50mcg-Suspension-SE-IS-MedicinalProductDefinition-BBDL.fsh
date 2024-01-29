@@ -29,3 +29,5 @@ Usage: #example
 //DUMMY
 * entry[+].resource = Aphiahsone-50mcg-Suspension-SE-IS-APD
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/Aphiahsone-50mcg-Suspension-SE-IS-APD"
+* entry[+].resource = LOC-100014685
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Organization/LOC-100014685"

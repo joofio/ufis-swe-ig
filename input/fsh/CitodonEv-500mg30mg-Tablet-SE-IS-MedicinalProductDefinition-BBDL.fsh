@@ -45,3 +45,5 @@ Usage: #example
 //DUMMY
 * entry[+].resource = CitodonEv-500mg30mg-Tablet-SE-IS-APD
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/CitodonEv-500mg30mg-Tablet-SE-IS-APD"
+* entry[+].resource = LOC-100016200
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Organization/LOC-100016200"

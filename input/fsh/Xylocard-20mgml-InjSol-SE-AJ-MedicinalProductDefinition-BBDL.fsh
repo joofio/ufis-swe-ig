@@ -25,3 +25,5 @@ Usage: #example
 //DUMMY
 * entry[+].resource = Xylocard-20mgml-InjSol-SE-AJ-APD
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/Xylocard-20mgml-InjSol-SE-AJ-APD"
+* entry[+].resource = LOC-100001575
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Organization/LOC-100001575"

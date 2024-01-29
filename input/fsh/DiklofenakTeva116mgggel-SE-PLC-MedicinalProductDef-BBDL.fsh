@@ -22,3 +22,5 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Ingredient/DiklofenakTeva116mgggel-SE-PLC-ING"
+* entry[+].resource = LOC-100005270
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Organization/LOC-100005270"

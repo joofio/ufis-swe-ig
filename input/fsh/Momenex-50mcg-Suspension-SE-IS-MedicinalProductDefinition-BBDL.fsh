@@ -29,3 +29,5 @@ Usage: #example
 //DUMMY
 * entry[+].resource = Momenex-50mcg-Suspension-SE-IS-APD
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/Momenex-50mcg-Suspension-SE-IS-APD"
+* entry[+].resource = LOC-100026054
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Organization/LOC-100026054"

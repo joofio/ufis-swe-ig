@@ -25,3 +25,5 @@ Usage: #example
 //DUMMY
 * entry[+].resource = Anafranil-25mg-Tablet-SE-IS-APD
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/Anafranil-25mg-Tablet-SE-IS-APD"
+* entry[+].resource = LOC-100030936
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Organization/LOC-100030936"

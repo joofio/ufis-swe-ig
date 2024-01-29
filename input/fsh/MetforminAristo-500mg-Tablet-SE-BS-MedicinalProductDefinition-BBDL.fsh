@@ -29,3 +29,5 @@ Usage: #example
 //DUMMY
 * entry[+].resource = MetforminAristo-500mg-Tablet-SE-BS-APD
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/MetforminAristo-500mg-Tablet-SE-BS-APD"
+* entry[+].resource = LOC-100005728
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Organization/LOC-100005728"

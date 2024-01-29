@@ -25,3 +25,5 @@ Usage: #example
 //DUMMY
 * entry[+].resource = DZPdesitin-5mg-Solution-SE-IS-APD
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/DZPdesitin-5mg-Solution-SE-IS-APD"
+* entry[+].resource = LOC-100004783
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Organization/LOC-100004783"

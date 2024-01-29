@@ -37,3 +37,5 @@ Usage: #example
 //DUMMY
 * entry[+].resource = Nasonex-50mcg-Suspension-SE-IS-APD
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/Nasonex-50mcg-Suspension-SE-IS-APD"
+* entry[+].resource = LOC-100005843
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Organization/LOC-100005843"

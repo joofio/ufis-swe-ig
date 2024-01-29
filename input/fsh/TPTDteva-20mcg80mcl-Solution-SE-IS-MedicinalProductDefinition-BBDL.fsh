@@ -25,3 +25,5 @@ Usage: #example
 //DUMMY
 * entry[+].resource = TPTDteva-20mcg80mcl-Solution-SE-IS-APD
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/TPTDteva-20mcg80mcl-Solution-SE-IS-APD"
+* entry[+].resource = LOC-100007927
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Organization/LOC-100007927"

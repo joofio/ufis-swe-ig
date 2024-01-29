@@ -25,3 +25,5 @@ Usage: #example
 //DUMMY
 * entry[+].resource = Sendolor-1mgml-InfSolution-SE-BS-APD
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/Sendolor-1mgml-InfSolution-SE-BS-APD"
+* entry[+].resource = LOC-100007043
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Organization/LOC-100007043"

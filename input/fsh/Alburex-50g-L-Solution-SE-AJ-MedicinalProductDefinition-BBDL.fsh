@@ -33,3 +33,5 @@ Usage: #example
 //DUMMY
 * entry[+].resource = Alburex-50g-L-Solution-SE-AJ-APD
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/Alburex-50g-L-Solution-SE-AJ-APD"
+* entry[+].resource = LOC-100004673
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Organization/LOC-100004673"

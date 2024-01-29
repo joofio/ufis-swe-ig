@@ -33,3 +33,5 @@ Usage: #example
 //DUMMY
 * entry[+].resource = Tapin-2525-Plaster-SE-AJ-APD
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/Tapin-2525-Plaster-SE-AJ-APD"
+* entry[+].resource = LOC-100005206
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Organization/LOC-100005206"

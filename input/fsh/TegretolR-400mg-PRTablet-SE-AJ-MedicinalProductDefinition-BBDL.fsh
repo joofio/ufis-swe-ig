@@ -29,3 +29,5 @@ Usage: #example
 //DUMMY
 * entry[+].resource = TegretolR-400mg-PRTablet-SE-AJ-APD
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/TegretolR-400mg-PRTablet-SE-AJ-APD"
+* entry[+].resource = LOC-100020269
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Organization/LOC-100020269"

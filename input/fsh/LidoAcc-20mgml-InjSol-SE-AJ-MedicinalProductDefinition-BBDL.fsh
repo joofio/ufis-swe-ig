@@ -25,3 +25,5 @@ Usage: #example
 //DUMMY
 * entry[+].resource = LidoAcc-20mgml-InjSol-SE-AJ-APD
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/LidoAcc-20mgml-InjSol-SE-AJ-APD"
+* entry[+].resource = LOC-100007148
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Organization/LOC-100007148"

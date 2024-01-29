@@ -33,3 +33,5 @@ Usage: #example
 //DUMMY
 * entry[+].resource = DepoMedrolcumLido-4010-SE-AJ-APD
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/DepoMedrolcumLido-4010-SE-AJ-APD"
+* entry[+].resource = LOC-100057908
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Organization/LOC-100057908"

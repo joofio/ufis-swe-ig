@@ -29,3 +29,5 @@ Usage: #example
 //DUMMY
 * entry[+].resource = BupropionSandoz-150mg-Tablet-SE-BS-APD
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/BupropionSandoz-150mg-Tablet-SE-BS-APD"
+* entry[+].resource = LOC-100005224
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Organization/LOC-100005224"

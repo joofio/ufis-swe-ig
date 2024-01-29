@@ -26,3 +26,5 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Ingredient/BupTest-5h-Transderm-SE-BS-ING01"
+* entry[+].resource = LOC-100001022
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Organization/LOC-100001022"

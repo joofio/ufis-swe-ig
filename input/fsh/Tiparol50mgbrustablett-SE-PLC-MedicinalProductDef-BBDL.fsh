@@ -61,3 +61,5 @@ Usage: #example
 //DUMMY
 * entry[+].resource = Tiparol50mgbrustablett-SE-PLC-APD
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/Tiparol50mgbrustablett-SE-PLC-APD"
+* entry[+].resource = LOC-100007939
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Organization/LOC-100007939"

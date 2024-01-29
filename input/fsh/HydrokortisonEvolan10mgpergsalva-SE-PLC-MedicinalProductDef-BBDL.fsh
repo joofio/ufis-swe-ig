@@ -41,3 +41,5 @@ Usage: #example
 //DUMMY
 * entry[+].resource = HydrokortisonEvolan10mgpergsalva-SE-PLC-APD
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/HydrokortisonEvolan10mgpergsalva-SE-PLC-APD"
+* entry[+].resource = LOC-100002766
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Organization/LOC-100002766"

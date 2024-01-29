@@ -74,3 +74,5 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Ingredient/Smofkabiven-Emulsion-SE-IS-ING10"
+* entry[+].resource = LOC-100061982
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Organization/LOC-100061982"

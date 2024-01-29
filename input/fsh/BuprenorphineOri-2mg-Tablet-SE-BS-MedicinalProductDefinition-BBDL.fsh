@@ -25,3 +25,5 @@ Usage: #example
 //DUMMY
 * entry[+].resource = BuprenorphineOri-2mg-Tablet-SE-BS-APD
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/BuprenorphineOri-2mg-Tablet-SE-BS-APD"
+* entry[+].resource = LOC-100005206
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Organization/LOC-100005206"

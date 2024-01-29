@@ -41,3 +41,5 @@ Usage: #example
 //DUMMY
 * entry[+].resource = Fragmin-5000IE-Solution-SE-IS-APD
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/Fragmin-5000IE-Solution-SE-IS-APD"
+* entry[+].resource = LOC-100006423
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Organization/LOC-100006423"

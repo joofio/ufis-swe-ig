@@ -1,6 +1,6 @@
 Instance: Dicuno50mgFilmtablet-SE-PLC-ING
 InstanceOf: PPLIngredient
-Usage: #inline
+Usage: #example
 
 * status = #active
 * for[0] = Reference(Dicuno50mgFilmtablet-SE-PLC-MPD)

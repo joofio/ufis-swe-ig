@@ -1,6 +1,6 @@
 Instance: HydrokortisonOrifarm20mgTablett-SE-PLC-RA
 InstanceOf: PPLRegulatedAuthorization
-Usage: #inline
+Usage: #example
 
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "54330"

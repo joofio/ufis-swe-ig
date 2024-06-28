@@ -1,6 +1,6 @@
 Instance: BuprenorSTADA-20h-Transderm-SE-BS-MID
 InstanceOf: PPLManufacturedItemDefinition
-Usage: #inline
+Usage: #example
 
 * status = #active
 * manufacturedDoseForm = $200000000004#100000073741 "Transdermal patch"

@@ -1,6 +1,6 @@
 Instance: Bamyl500mgtablett-SE-PLC-RA
 InstanceOf: PPLRegulatedAuthorization
-Usage: #inline
+Usage: #example
 
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "14792"

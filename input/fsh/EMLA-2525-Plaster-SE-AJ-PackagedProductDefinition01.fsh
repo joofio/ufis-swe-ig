@@ -1,6 +1,6 @@
 Instance: EMLA-2525-Plaster-SE-AJ-PPD01
 InstanceOf: PPLPackagedProductDefinition
-Usage: #inline
+Usage: #example
 
 
 * containedItemQuantity = 2 http://spor.ema.europa.eu/v1/lists/200000000014#200000002140 "Plaster"

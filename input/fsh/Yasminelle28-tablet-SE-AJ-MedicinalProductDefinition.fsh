@@ -1,6 +1,6 @@
 Instance: Yasminelle28-tablet-SE-AJ-MPD
 InstanceOf: PPLMedicinalProductDefinition
-Usage: #inline
+Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"

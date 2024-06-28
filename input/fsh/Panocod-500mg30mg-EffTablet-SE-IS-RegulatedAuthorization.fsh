@@ -1,6 +1,6 @@
 Instance: Panocod-500mg30mg-EffTablet-SE-IS-RA
 InstanceOf: PPLRegulatedAuthorization
-Usage: #inline
+Usage: #example
 
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "10728"

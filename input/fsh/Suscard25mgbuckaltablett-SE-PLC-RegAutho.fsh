@@ -1,6 +1,6 @@
 Instance: Suscard25mgbuckaltablett-SE-PLC-RA
 InstanceOf: PPLRegulatedAuthorization
-Usage: #inline
+Usage: #example
 
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "10409"

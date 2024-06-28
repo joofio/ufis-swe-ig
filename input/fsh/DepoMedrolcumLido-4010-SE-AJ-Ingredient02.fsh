@@ -1,6 +1,6 @@
 Instance: DepoMedrolcumLido-4010-SE-AJ-ING02
 InstanceOf: PPLIngredient
-Usage: #inline
+Usage: #example
 
 * status = #active
 * for[0] = Reference(DepoMedrolcumLido-4010-SE-AJ-MPD)

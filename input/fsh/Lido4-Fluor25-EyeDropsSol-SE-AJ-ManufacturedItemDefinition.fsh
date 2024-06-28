@@ -1,6 +1,6 @@
 Instance: Lido4-Fluor25-EyeDropsSol-SE-AJ-MID
 InstanceOf: PPLManufacturedItemDefinition
-Usage: #inline
+Usage: #example
 
 * status = #active
 * manufacturedDoseForm = $200000000004#100000073759 "Eye drops, solution"

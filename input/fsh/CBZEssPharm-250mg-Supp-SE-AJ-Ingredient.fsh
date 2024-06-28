@@ -1,6 +1,6 @@
 Instance: CBZEssPharm-250mg-Supp-SE-AJ-ING
 InstanceOf: PPLIngredient
-Usage: #inline
+Usage: #example
 
 * status = #active
 * for[0] = Reference(CBZEssPharm-250mg-Supp-SE-AJ-MPD)

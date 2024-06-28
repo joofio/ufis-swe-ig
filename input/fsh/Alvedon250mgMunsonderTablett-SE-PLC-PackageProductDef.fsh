@@ -1,6 +1,6 @@
 Instance: Alvedon250mgMunsonderTablett-SE-PLC-PPD
 InstanceOf: PPLPackagedProductDefinition
-Usage: #inline
+Usage: #example
 
 
 * containedItemQuantity = 12 http://spor.ema.europa.eu/v1/lists/200000000014#200000002152 "Tablet"

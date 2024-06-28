@@ -1,6 +1,6 @@
 Instance: Voxra-150mg-Tablet-SE-BS-PPD-02
 InstanceOf: PPLPackagedProductDefinition
-Usage: #inline
+Usage: #example
 
 
 * containedItemQuantity = 90 http://spor.ema.europa.eu/v1/lists/200000000014#200000002152 "Tablet"

@@ -1,6 +1,6 @@
 Instance: TPTDteva-2080-Solution-SE-IS-ING
 InstanceOf: PPLIngredient
-Usage: #inline
+Usage: #example
 
 * status = #active
 * for[0] = Reference(TPTDteva-2080-Solution-SE-IS-MPD)

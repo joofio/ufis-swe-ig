@@ -1,6 +1,6 @@
 Instance: EnoxaparinLedraxen2000IEinjektion-SE-PLC-MID
 InstanceOf: PPLManufacturedItemDefinition
-Usage: #inline
+Usage: #example
 
 * status = #active
 * manufacturedDoseForm = $200000000004#100000073863 "Solution for injection"

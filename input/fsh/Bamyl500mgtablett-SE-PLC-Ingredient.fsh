@@ -1,6 +1,6 @@
 Instance: Bamyl500mgtablett-SE-PLC-ING
 InstanceOf: PPLIngredient
-Usage: #inline
+Usage: #example
 
 * status = #active
 * for[0] = Reference(Bamyl500mgtablett-SE-PLC-MPD)

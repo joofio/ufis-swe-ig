@@ -1,6 +1,6 @@
 Instance: Smofkabiven-Emulsion-SE-IS-RA
 InstanceOf: PPLRegulatedAuthorization
-Usage: #inline
+Usage: #example
 
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "22810"

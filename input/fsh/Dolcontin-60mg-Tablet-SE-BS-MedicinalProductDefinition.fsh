@@ -1,6 +1,6 @@
 Instance: Dolcontin-60mg-Tablet-SE-BS-MPD
 InstanceOf: PPLMedicinalProductDefinition
-Usage: #inline
+Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004~200000000006~200000000007~200000000008#100000073683 "Prolonged-release tablet"

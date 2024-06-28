@@ -1,6 +1,6 @@
 Instance: PinexJordgubb250mggranulat-SE-PLC-ING
 InstanceOf: PPLIngredient
-Usage: #inline
+Usage: #example
 
 * status = #active
 * for[0] = Reference(PinexJordgubb250mggranulat-SE-PLC-MPD)

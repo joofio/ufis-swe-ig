@@ -1,6 +1,6 @@
 Instance: AtomoxetinGlenmark-10mg-Capsule-SE-AJ-MID
 InstanceOf: PPLManufacturedItemDefinition
-Usage: #inline
+Usage: #example
 
 * status = #active
 * manufacturedDoseForm = $200000000004#100000073375 "Capsule, hard"

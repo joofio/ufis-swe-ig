@@ -1,6 +1,6 @@
 Instance: Losec-10mg-Tablet-SE-BS-PPD-02
 InstanceOf: PPLPackagedProductDefinition
-Usage: #inline
+Usage: #example
 
 
 * containedItemQuantity.value = 100

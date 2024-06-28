@@ -1,6 +1,6 @@
 Instance: DiklofenakOrifarm50Enterotablett-SE-PLC-ING
 InstanceOf: PPLIngredient
-Usage: #inline
+Usage: #example
 
 * status = #active
 * for[0] = Reference(DiklofenakOrifarm50Enterotablett-SE-PLC-MPD)

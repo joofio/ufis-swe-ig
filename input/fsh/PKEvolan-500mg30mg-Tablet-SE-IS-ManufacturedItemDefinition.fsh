@@ -1,6 +1,6 @@
 Instance: PKEvolan-500mg30mg-Tablet-SE-IS-MID
 InstanceOf: PPLManufacturedItemDefinition
-Usage: #inline
+Usage: #example
 
 * status = #active
 * manufacturedDoseForm = $200000000004#100000073664 "Tablet"

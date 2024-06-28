@@ -1,6 +1,6 @@
 Instance: Ignorin50mgFilmtablet-SE-PLC-PPD03
 InstanceOf: PPLPackagedProductDefinition
-Usage: #inline
+Usage: #example
 
 
 * containedItemQuantity = 20 http://spor.ema.europa.eu/v1/lists/200000000014#200000002152 "Tablet"

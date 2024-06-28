@@ -1,6 +1,6 @@
 Instance: Dicuno50mgFilmtablet-SE-PLC-PPD02
 InstanceOf: PPLPackagedProductDefinition
-Usage: #inline
+Usage: #example
 
 
 * containedItemQuantity = 50 http://spor.ema.europa.eu/v1/lists/200000000014#200000002152 "Tablet"

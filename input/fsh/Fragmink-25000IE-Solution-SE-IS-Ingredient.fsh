@@ -1,6 +1,6 @@
 Instance: Fragmink-25000IE-Solution-SE-IS-ING
 InstanceOf: PPLIngredient
-Usage: #inline
+Usage: #example
 
 * status = #active
 * for[0] = Reference(Fragmink-25000IE-Solution-SE-IS-MPD)

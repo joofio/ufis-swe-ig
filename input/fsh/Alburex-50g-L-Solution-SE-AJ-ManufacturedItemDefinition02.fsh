@@ -1,6 +1,6 @@
 Instance: Alburex-50g-L-Solution-SE-AJ-MID02
 InstanceOf: PPLManufacturedItemDefinition
-Usage: #inline
+Usage: #example
 
 * status = #active
 * manufacturedDoseForm = $200000000004#100000073870 "Solution for infusion"

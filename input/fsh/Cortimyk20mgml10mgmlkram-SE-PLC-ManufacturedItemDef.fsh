@@ -1,6 +1,6 @@
 Instance: Cortimyk20mgml10mgmlkram-SE-PLC-MID
 InstanceOf: PPLManufacturedItemDefinition
-Usage: #inline
+Usage: #example
 
 * status = #active
 * manufacturedDoseForm = $200000000004#100000073712 "Cream"

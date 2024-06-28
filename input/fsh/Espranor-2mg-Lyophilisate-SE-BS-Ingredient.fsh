@@ -1,6 +1,6 @@
 Instance: Espranor-2mg-Lyophilisate-SE-BS-ING
 InstanceOf: PPLIngredient
-Usage: #inline
+Usage: #example
 
 * status = #active
 * for[0] = Reference(Espranor-2mg-Lyophilisate-SE-BS-MPD)

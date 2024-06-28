@@ -1,6 +1,6 @@
 Instance: DiclofenacOrifarm116mgggel-SE-PLC-ING
 InstanceOf: PPLIngredient
-Usage: #inline
+Usage: #example
 
 * status = #active
 * for[0] = Reference(DiclofenacOrifarm116mgggel-SE-PLC-MPD)

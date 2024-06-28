@@ -1,6 +1,6 @@
 Instance: BuprenorSTADA-20h-Transderm-SE-BS-PPD01
 InstanceOf: PPLPackagedProductDefinition
-Usage: #inline
+Usage: #example
 
 
 * containedItemQuantity = 12 http://spor.ema.europa.eu/v1/lists/200000000014#200000002134 "Patch"

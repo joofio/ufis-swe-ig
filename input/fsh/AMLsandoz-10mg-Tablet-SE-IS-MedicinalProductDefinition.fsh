@@ -1,6 +1,6 @@
 Instance: AMLsandoz-10mg-Tablet-SE-IS-MPD
 InstanceOf: PPLMedicinalProductDefinition
-Usage: #inline
+Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"

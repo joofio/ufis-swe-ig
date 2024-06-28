@@ -1,6 +1,6 @@
 Instance: hevicain5-SE-ManItem001
 InstanceOf: PPLManufacturedItemDefinition
-Usage: #inline
+Usage: #example
 
 * extension.url = "http://ema.europa.eu/fhir/extension/manufacturedItemDefinitionSubject"
  

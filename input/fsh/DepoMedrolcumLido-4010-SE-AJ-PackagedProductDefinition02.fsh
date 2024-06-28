@@ -1,6 +1,6 @@
 Instance: DepoMedrolcumLido-4010-SE-AJ-PPD02
 InstanceOf: PPLPackagedProductDefinition
-Usage: #inline
+Usage: #example
 
 
 * containedItemQuantity = 25 http://spor.ema.europa.eu/v1/lists/200000000014#200000002158 "vial"

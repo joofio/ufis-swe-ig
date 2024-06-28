@@ -1,6 +1,6 @@
 Instance: ISOsandoz-20mg-Capsule-SE-IS-MPD
 InstanceOf: PPLMedicinalProductDefinition
-Usage: #inline
+Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Capsule, soft"

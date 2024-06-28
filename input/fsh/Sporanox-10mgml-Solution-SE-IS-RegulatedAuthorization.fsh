@@ -1,6 +1,6 @@
 Instance: Sporanox-10mgml-Solution-SE-IS-RA
 InstanceOf: PPLRegulatedAuthorization
-Usage: #inline
+Usage: #example
 
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "13358"

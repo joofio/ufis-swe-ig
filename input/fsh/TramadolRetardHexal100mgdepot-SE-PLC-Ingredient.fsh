@@ -1,6 +1,6 @@
 Instance: TramadolRetardHexal100mgdepot-SE-PLC-ING
 InstanceOf: PPLIngredient
-Usage: #inline
+Usage: #example
 
 * status = #active
 * for[0] = Reference(TramadolRetardHexal100mgdepot-SE-PLC-MPD)

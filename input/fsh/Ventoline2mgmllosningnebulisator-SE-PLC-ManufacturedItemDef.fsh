@@ -1,6 +1,6 @@
 Instance: Ventoline2mgmllosningnebulisator-SE-PLC-MID
 InstanceOf: PPLManufacturedItemDefinition
-Usage: #inline
+Usage: #example
 
 * status = #active
 * manufacturedDoseForm = $200000000004#100000073835 "Nebuliser solution"

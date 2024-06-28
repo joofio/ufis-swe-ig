@@ -1,6 +1,6 @@
 Instance: Fragmink-10000IE-Solution-SE-IS-MID
 InstanceOf: PPLManufacturedItemDefinition
-Usage: #inline
+Usage: #example
 
 * status = #active
 * manufacturedDoseForm = $200000000004#100000073863 "Solution for injection"

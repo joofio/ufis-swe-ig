@@ -1,6 +1,6 @@
 Instance: Elvanse-50mg-Capsule-SE-AJ-ING
 InstanceOf: PPLIngredient
-Usage: #inline
+Usage: #example
 
 * status = #active
 * for[0] = Reference(Elvanse-50mg-Capsule-SE-AJ-MPD)

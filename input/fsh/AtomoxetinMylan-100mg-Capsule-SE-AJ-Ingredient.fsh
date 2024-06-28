@@ -1,6 +1,6 @@
 Instance: AtomoxetinMylan-100mg-Capsule-SE-AJ-ING
 InstanceOf: PPLIngredient
-Usage: #inline
+Usage: #example
 
 * status = #active
 * for[0] = Reference(AtomoxetinMylan-100mg-Capsule-SE-AJ-MPD)

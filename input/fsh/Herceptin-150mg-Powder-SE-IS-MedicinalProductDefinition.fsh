@@ -1,6 +1,6 @@
 Instance: Herceptin-150mg-Powder-SE-IS-MPD
 InstanceOf: PPLMedicinalProductDefinition
-Usage: #inline
+Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000074029 "Powder for concentrate for solution for infusion"

@@ -1,6 +1,6 @@
 Instance: Xylocain-100mgml-cutspray-SE-AJ-ING
 InstanceOf: PPLIngredient
-Usage: #inline
+Usage: #example
 
 * status = #active
 * for[0] = Reference(Xylocain-100mgml-cutspray-SE-AJ-MPD)

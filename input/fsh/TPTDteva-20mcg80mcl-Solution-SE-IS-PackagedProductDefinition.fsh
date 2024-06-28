@@ -1,6 +1,6 @@
 Instance: TPTDteva-20mcg80mcl-Solution-SE-IS-PPD
 InstanceOf: PPLPackagedProductDefinition
-Usage: #inline
+Usage: #example
 
 
 * containedItemQuantity = 28 http://spor.ema.europa.eu/v1/lists/200000000014#200000016427 "Dose"

@@ -1,6 +1,6 @@
 Instance: Yaz-0023mg-tablet-SE-AJ-ING01
 InstanceOf: PPLIngredient
-Usage: #inline
+Usage: #example
 
 * status = #active
 * for[0] = Reference(Yaz-0023mg-tablet-SE-AJ-MPD)

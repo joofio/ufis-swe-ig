@@ -1,6 +1,6 @@
 Instance: VaxigripTetra-0.5ml-Suspension-SE-AJ-ING04
 InstanceOf: PPLIngredient
-Usage: #inline
+Usage: #example
 
 * status = #active
 * for[0] = Reference(VaxigripTetra-0.5ml-Suspension-SE-AJ-MPD)

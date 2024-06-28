@@ -1,6 +1,6 @@
 Instance: Nitrolingual04mgdossublingualspray-SE-PLC-ING
 InstanceOf: PPLIngredient
-Usage: #inline
+Usage: #example
 
 * status = #active
 * for[0] = Reference(Nitrolingual04mgdossublingualspray-SE-PLC-MPD)

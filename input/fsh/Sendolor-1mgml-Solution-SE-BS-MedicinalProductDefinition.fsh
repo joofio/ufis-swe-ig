@@ -1,6 +1,6 @@
 Instance: Sendolor-1mgml-Solution-SE-BS-MPD
 InstanceOf: PPLMedicinalProductDefinition
-Usage: #inline
+Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004~200000000006~200000000007~200000000008#100000073870 "Solution for infusion"

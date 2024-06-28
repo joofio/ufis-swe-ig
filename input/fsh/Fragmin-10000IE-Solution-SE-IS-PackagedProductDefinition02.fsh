@@ -1,6 +1,6 @@
 Instance: Fragmin-10000IE-Solution-SE-IS-PPD02
 InstanceOf: PPLPackagedProductDefinition
-Usage: #inline
+Usage: #example
 
 
 * containedItemQuantity = 1 http://spor.ema.europa.eu/v1/lists/200000000014#200000002150 "Syringe"

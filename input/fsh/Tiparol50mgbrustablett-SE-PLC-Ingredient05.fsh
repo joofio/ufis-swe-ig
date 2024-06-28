@@ -1,6 +1,6 @@
 Instance: Tiparol50mgbrustablett-SE-PLC-ING05
 InstanceOf: PPLIngredient
-Usage: #inline
+Usage: #example
 
 * status = #active
 * for[0] = Reference(Tiparol50mgbrustablett-SE-PLC-MPD)

@@ -1,6 +1,6 @@
 Instance: ISOorifarm-20mg-Capsule-SE-IS-ING
 InstanceOf: PPLIngredient
-Usage: #inline
+Usage: #example
 
 * status = #active
 * for[0] = Reference(ISOorifarm-20mg-Capsule-SE-IS-MPD)

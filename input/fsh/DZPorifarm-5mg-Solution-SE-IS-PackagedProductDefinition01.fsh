@@ -1,6 +1,6 @@
 Instance: DZPorifarm-5mg-Solution-SE-IS-PPD01
 InstanceOf: PPLPackagedProductDefinition
-Usage: #inline
+Usage: #example
 
 
 * containedItemQuantity = 10 http://spor.ema.europa.eu/v1/lists/200000000014#200000002152 "Tablet"

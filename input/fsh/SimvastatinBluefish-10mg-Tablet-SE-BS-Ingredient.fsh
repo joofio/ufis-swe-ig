@@ -1,6 +1,6 @@
 Instance: SimvastatinBluefish-10mg-Tablet-SE-BS-ING
 InstanceOf: PPLIngredient
-Usage: #inline
+Usage: #example
 
 * status = #active
 * for[0] = Reference(SimvastatinBluefish-10mg-Tablet-SE-BS-MID)

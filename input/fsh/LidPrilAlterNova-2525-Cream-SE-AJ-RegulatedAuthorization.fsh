@@ -1,6 +1,6 @@
 Instance: LidPrilAlterNova-2525-Cream-SE-AJ-RA
 InstanceOf: PPLRegulatedAuthorization
-Usage: #inline
+Usage: #example
 
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "52733"

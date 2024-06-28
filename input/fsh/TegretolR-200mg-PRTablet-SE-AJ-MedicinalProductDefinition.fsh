@@ -1,6 +1,6 @@
 Instance: TegretolR-200mg-PRTablet-SE-AJ-MPD
 InstanceOf: PPLMedicinalProductDefinition
-Usage: #inline
+Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Prolonged-release tablet"

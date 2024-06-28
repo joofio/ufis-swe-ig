@@ -1,6 +1,6 @@
 Instance: Mommox-50mcg-Suspension-SE-IS-PPD03
 InstanceOf: PPLPackagedProductDefinition
-Usage: #inline
+Usage: #example
 
 
 * containedItemQuantity = 1 http://spor.ema.europa.eu/v1/lists/200000000014#200000002111 "Bottle"

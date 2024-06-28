@@ -1,6 +1,6 @@
 Instance: CefStragen-250mg-Powder-SE-IS-PPD
 InstanceOf: PPLPackagedProductDefinition
-Usage: #inline
+Usage: #example
 
 
 * containedItemQuantity = 10 http://spor.ema.europa.eu/v1/lists/200000000014#200000002158 "Vial"

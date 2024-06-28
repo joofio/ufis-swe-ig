@@ -1,6 +1,6 @@
 Instance: Nitrolingual04mgdossublingualspray-SE-PLC-MID
 InstanceOf: PPLManufacturedItemDefinition
-Usage: #inline
+Usage: #example
 
 * status = #active
 * manufacturedDoseForm = $200000000004#100000143499 "Sublingual spray, solution"

@@ -1,6 +1,6 @@
 Instance: CBZEssPharm-125mg-Supp-SE-AJ-RA
 InstanceOf: PPLRegulatedAuthorization
-Usage: #inline
+Usage: #example
 
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "11829"

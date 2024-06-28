@@ -1,6 +1,6 @@
 Instance: Tegretol-100mg-Tablet-SE-AJ-ING
 InstanceOf: PPLIngredient
-Usage: #inline
+Usage: #example
 
 * status = #active
 * for[0] = Reference(Tegretol-100mg-Tablet-SE-AJ-MPD)

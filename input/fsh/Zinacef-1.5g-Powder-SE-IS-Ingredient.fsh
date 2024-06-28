@@ -1,6 +1,6 @@
 Instance: Zinacef-1.5g-Powder-SE-IS-ING
 InstanceOf: PPLIngredient
-Usage: #inline
+Usage: #example
 
 * status = #active
 * for[0] = Reference(Zinacef-1.5g-Powder-SE-IS-MPD)

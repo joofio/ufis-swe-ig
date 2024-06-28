@@ -1,6 +1,6 @@
 Instance: AMLaccord-5mg-Tablet-SE-IS-PPD02
 InstanceOf: PPLPackagedProductDefinition
-Usage: #inline
+Usage: #example
 
 
 * containedItemQuantity = 14 http://spor.ema.europa.eu/v1/lists/200000000014#Tablet "200000002152"

@@ -1,6 +1,6 @@
 Instance: Softacort335mgpermlogondroppar-SE-PLC-ING
 InstanceOf: PPLIngredient
-Usage: #inline
+Usage: #example
 
 * status = #active
 * for[0] = Reference(Softacort335mgpermlogondroppar-SE-PLC-MPD)

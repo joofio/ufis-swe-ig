@@ -1,6 +1,6 @@
 Instance: Maxilene-40mg-cream-SE-AJ-ING
 InstanceOf: PPLIngredient
-Usage: #inline
+Usage: #example
 
 * status = #active
 * for[0] = Reference(Maxilene-40mg-cream-SE-AJ-MPD)

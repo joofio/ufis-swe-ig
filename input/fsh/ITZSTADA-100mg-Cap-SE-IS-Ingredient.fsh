@@ -1,6 +1,6 @@
 Instance: ITZSTADA-100mg-Cap-SE-IS-ING
 InstanceOf: PPLIngredient
-Usage: #inline
+Usage: #example
 
 * status = #active
 * for[0] = Reference(ITZSTADA-100mg-Cap-SE-IS-MPD)

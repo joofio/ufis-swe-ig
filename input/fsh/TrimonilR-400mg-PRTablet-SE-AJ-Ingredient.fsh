@@ -1,6 +1,6 @@
 Instance: TrimonilR-400mg-PRTablet-SE-AJ-ING
 InstanceOf: PPLIngredient
-Usage: #inline
+Usage: #example
 
 * status = #active
 * for[0] = Reference(TrimonilR-400mg-PRTablet-SE-AJ-MPD)

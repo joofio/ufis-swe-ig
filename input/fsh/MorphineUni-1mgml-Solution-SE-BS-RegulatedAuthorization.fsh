@@ -1,6 +1,6 @@
 Instance: MorphineUni-1mgml-Solution-SE-BS-RA
 InstanceOf: PPLRegulatedAuthorization
-Usage: #inline
+Usage: #example
 
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "56117"

@@ -1,6 +1,6 @@
 Instance: MorfinMeda-20mg-Tablet-SE-BS-RA
 InstanceOf: PPLRegulatedAuthorization
-Usage: #inline
+Usage: #example
 
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "13045"

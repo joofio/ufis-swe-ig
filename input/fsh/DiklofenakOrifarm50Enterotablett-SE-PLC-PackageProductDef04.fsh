@@ -1,6 +1,6 @@
 Instance: DiklofenakOrifarm50Enterotablett-SE-PLC-PPD04
 InstanceOf: PPLPackagedProductDefinition
-Usage: #inline
+Usage: #example
 
 
 * containedItemQuantity = 50 http://spor.ema.europa.eu/v1/lists/200000000014#200000002152 "Tablet"

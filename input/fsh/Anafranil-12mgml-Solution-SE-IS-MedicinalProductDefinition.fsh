@@ -1,6 +1,6 @@
 Instance: Anafranil-12mgml-Solution-SE-IS-MPD
 InstanceOf: PPLMedicinalProductDefinition
-Usage: #inline
+Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solution for injection"

@@ -1,6 +1,6 @@
 Instance: HydrokortisonOrifarm20mgTablett-SE-PLC-ING04
 InstanceOf: PPLIngredient
-Usage: #inline
+Usage: #example
 
 * status = #active
 * for[0] = Reference(HydrokortisonOrifarm20mgTablett-SE-PLC-MPD)

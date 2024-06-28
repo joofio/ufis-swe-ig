@@ -1,6 +1,6 @@
 Instance: HydrokortisonEvolan10mgpergsalva-SE-PLC-ING01
 InstanceOf: PPLIngredient
-Usage: #inline
+Usage: #example
 
 * status = #active
 * for[0] = Reference(HydrokortisonEvolan10mgpergsalva-SE-PLC-MPD)

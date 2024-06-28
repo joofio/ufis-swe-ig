@@ -1,6 +1,6 @@
 Instance: Xyloproct-RectalOintment-SE-AJ-MPD
 InstanceOf: PPLMedicinalProductDefinition
-Usage: #inline
+Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073828 "Rectal ointment"

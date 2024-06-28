@@ -1,6 +1,6 @@
 Instance: LOC-100000549
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100000549"
@@ -8,7 +8,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100006423
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100006423"
@@ -16,7 +16,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100001468
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100001468"
@@ -24,7 +24,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100020269
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100020269"
@@ -32,7 +32,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100001116
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100001116"
@@ -40,7 +40,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100011241
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100011241"
@@ -48,7 +48,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100030936
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100030936"
@@ -56,7 +56,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100005525
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100005525"
@@ -64,7 +64,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100002580
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100002580"
@@ -72,7 +72,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100009206
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100009206"
@@ -80,7 +80,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100004783
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100004783"
@@ -88,7 +88,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100005188
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100005188"
@@ -96,7 +96,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100061163
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100061163"
@@ -104,7 +104,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100001462
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100001462"
@@ -112,7 +112,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100002124
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100002124"
@@ -120,7 +120,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100001575
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100001575"
@@ -128,7 +128,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100001400
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100001400"
@@ -136,7 +136,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100061982
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100061982"
@@ -144,7 +144,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100005206
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100005206"
@@ -152,7 +152,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100001873
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100001873"
@@ -160,7 +160,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100006960
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100006960"
@@ -168,7 +168,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100038931
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100038931"
@@ -176,7 +176,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100016200
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100016200"
@@ -184,7 +184,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100002516
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100002516"
@@ -192,7 +192,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100049251
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100049251"
@@ -200,7 +200,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100000973
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100000973"
@@ -208,7 +208,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100007939
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100007939"
@@ -216,7 +216,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100014112
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100014112"
@@ -224,7 +224,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100010587
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100010587"
@@ -232,7 +232,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100006389
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100006389"
@@ -240,7 +240,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100000666
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100000666"
@@ -248,7 +248,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100001022
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100001022"
@@ -256,7 +256,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100010527
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100010527"
@@ -264,7 +264,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100000450
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100000450"
@@ -272,7 +272,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100001640
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100001640"
@@ -280,7 +280,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100003803
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100003803"
@@ -288,7 +288,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100001079
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100001079"
@@ -296,7 +296,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100032008
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100032008"
@@ -304,7 +304,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100001125
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100001125"
@@ -312,7 +312,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100001602
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100001602"
@@ -320,7 +320,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100005946
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100005946"
@@ -328,7 +328,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100007148
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100007148"
@@ -336,7 +336,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100004168
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100004168"
@@ -344,7 +344,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100044010
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100044010"
@@ -352,7 +352,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100014685
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100014685"
@@ -360,7 +360,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100006906
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100006906"
@@ -368,7 +368,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100001591
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100001591"
@@ -376,7 +376,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100007927
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100007927"
@@ -384,7 +384,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100000551
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100000551"
@@ -392,7 +392,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100006176
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100006176"
@@ -400,7 +400,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100001076
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100001076"
@@ -408,7 +408,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100026054
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100026054"
@@ -416,7 +416,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100010533
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100010533"
@@ -424,7 +424,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-123456789
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-123456789"
@@ -432,7 +432,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100001754
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100001754"
@@ -440,7 +440,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100005843
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100005843"
@@ -448,7 +448,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100025420
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100025420"
@@ -456,7 +456,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100016348
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100016348"
@@ -464,7 +464,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100006949
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100006949"
@@ -472,7 +472,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-XXXXXXXX
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-XXXXXXXX"
@@ -480,7 +480,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100016468
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100016468"
@@ -488,7 +488,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100011823
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100011823"
@@ -496,7 +496,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100001098
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100001098"
@@ -504,7 +504,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100043231
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100043231"
@@ -512,7 +512,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100000562
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100000562"
@@ -520,7 +520,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100000151
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100000151"
@@ -528,7 +528,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100005270
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100005270"
@@ -536,7 +536,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100001505
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100001505"
@@ -544,7 +544,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100007631
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100007631"
@@ -552,7 +552,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100002475
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100002475"
@@ -560,7 +560,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100002893
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100002893"
@@ -568,7 +568,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100054619
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100054619"
@@ -576,7 +576,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100017033
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100017033"
@@ -584,7 +584,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100003164
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100003164"
@@ -592,7 +592,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100003373
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100003373"
@@ -600,7 +600,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100005728
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100005728"
@@ -608,7 +608,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100068957
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100068957"
@@ -616,7 +616,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100001368
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100001368"
@@ -624,7 +624,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100022866
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100022866"
@@ -632,7 +632,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100019907
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100019907"
@@ -640,7 +640,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100004795
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100004795"
@@ -648,7 +648,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100000004
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100000004"
@@ -656,7 +656,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100009540
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100009540"
@@ -664,7 +664,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100004673
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100004673"
@@ -672,7 +672,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100005581
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100005581"
@@ -680,7 +680,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100002215
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100002215"
@@ -688,7 +688,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-XXXXXXXXX
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-XXXXXXXXX"
@@ -696,7 +696,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100007043
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100007043"
@@ -704,7 +704,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100043821
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100043821"
@@ -712,7 +712,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100010588
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100010588"
@@ -720,7 +720,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100001100
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100001100"
@@ -728,7 +728,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100007515
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100007515"
@@ -736,7 +736,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-ML192
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-ML192"
@@ -744,7 +744,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100005555
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100005555"
@@ -752,7 +752,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100001090
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100001090"
@@ -760,7 +760,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100017235
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100017235"
@@ -768,7 +768,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100005626
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100005626"
@@ -776,7 +776,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100009199
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100009199"
@@ -784,7 +784,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100005605
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100005605"
@@ -792,7 +792,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100053733
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100053733"
@@ -800,7 +800,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100005443
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100005443"
@@ -808,7 +808,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-ML6602
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-ML6602"
@@ -816,7 +816,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100003931
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100003931"
@@ -824,7 +824,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100005434
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100005434"
@@ -832,7 +832,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100018530
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100018530"
@@ -840,7 +840,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100002081
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100002081"
@@ -848,7 +848,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100008123
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100008123"
@@ -856,7 +856,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100057908
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100057908"
@@ -864,7 +864,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100002766
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100002766"
@@ -872,7 +872,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100001573
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100001573"
@@ -880,7 +880,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100011567
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100011567"
@@ -888,7 +888,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 Instance: LOC-100005224
 InstanceOf: PPLOrganization
-Usage: #inline
+Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "LOC-100005224"

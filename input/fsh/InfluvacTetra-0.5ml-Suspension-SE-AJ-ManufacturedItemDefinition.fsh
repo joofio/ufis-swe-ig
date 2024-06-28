@@ -1,6 +1,6 @@
 Instance: InfluvacTetra-0.5ml-Suspension-SE-AJ-MID
 InstanceOf: PPLManufacturedItemDefinition
-Usage: #inline
+Usage: #example
 
 * status = #active
 * manufacturedDoseForm = $200000000004#100000073864 "Suspension for injection"

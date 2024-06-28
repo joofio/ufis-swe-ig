@@ -1,6 +1,6 @@
 Instance: Citodon-500mg30mg-EffTablet-SE-IS-MPD
 InstanceOf: PPLMedicinalProductDefinition
-Usage: #inline
+Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073681 "Effervescent tablet"

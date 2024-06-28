@@ -1,6 +1,6 @@
 Instance: Klexane100000IEinjektion-SE-PLC-ING
 InstanceOf: PPLIngredient
-Usage: #inline
+Usage: #example
 
 * status = #active
 * for[0] = Reference(Klexane100000IEinjektion-SE-PLC-MPD)

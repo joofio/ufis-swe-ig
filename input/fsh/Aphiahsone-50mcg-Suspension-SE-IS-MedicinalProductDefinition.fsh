@@ -1,6 +1,6 @@
 Instance: Aphiahsone-50mcg-Suspension-SE-IS-MPD
 InstanceOf: PPLMedicinalProductDefinition
-Usage: #inline
+Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073809 "Nasal spray, suspension"

@@ -1,6 +1,6 @@
 Instance: LidPrilAlterNova-2525-Cream-SE-AJ-MPD
 InstanceOf: PPLMedicinalProductDefinition
-Usage: #inline
+Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Cream"

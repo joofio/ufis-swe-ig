@@ -1,6 +1,6 @@
 Instance: IMAgrindeks-100mg-Capsule-SE-IS-PPD02
 InstanceOf: PPLPackagedProductDefinition
-Usage: #inline
+Usage: #example
 
 
 * containedItemQuantity = 10 http://spor.ema.europa.eu/v1/lists/200000000014#200000002113 "Capsule"

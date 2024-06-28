@@ -1,6 +1,6 @@
 Instance: DiklofenakApofri232mgggel-SE-PLC-ING
 InstanceOf: PPLIngredient
-Usage: #inline
+Usage: #example
 
 * status = #active
 * for[0] = Reference(DiklofenakApofri232mgggel-SE-PLC-MPD)

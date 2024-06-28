@@ -1,6 +1,6 @@
 Instance: Smofkabiven-Emulsion-SE-IS-MID
 InstanceOf: PPLManufacturedItemDefinition
-Usage: #inline
+Usage: #example
 
 * status = #active
 * manufacturedDoseForm.coding[0] = $200000000006#100000075575 "Solution for infusion in administration system"

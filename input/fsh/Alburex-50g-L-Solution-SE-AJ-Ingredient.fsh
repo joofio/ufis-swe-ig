@@ -1,6 +1,6 @@
 Instance: Alburex-50g-L-Solution-SE-AJ-ING
 InstanceOf: PPLIngredient
-Usage: #inline
+Usage: #example
 
 * status = #active
 * for[0] = Reference(Alburex-50g-L-Solution-SE-AJ-MPD)

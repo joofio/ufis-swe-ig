@@ -1,6 +1,6 @@
 Instance: MorphineUni-1mgml-Solution-SE-BS-MID
 InstanceOf: PPLManufacturedItemDefinition
-Usage: #inline
+Usage: #example
 
 * status = #active
 * manufacturedDoseForm = $200000000004#100000073863 "Solution for injection"

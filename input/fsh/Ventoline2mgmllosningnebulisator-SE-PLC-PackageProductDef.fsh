@@ -1,6 +1,6 @@
 Instance: Ventoline2mgmllosningnebulisator-SE-PLC-PPD
 InstanceOf: PPLPackagedProductDefinition
-Usage: #inline
+Usage: #example
 
 
 * containedItemQuantity = 60 http://spor.ema.europa.eu/v1/lists/200000000014#200000002139 "Pipette"
